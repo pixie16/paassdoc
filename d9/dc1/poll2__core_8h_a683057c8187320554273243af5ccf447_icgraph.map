@@ -1,0 +1,6 @@
+<map id="yesno" name="yesno">
+<area shape="rect" id="node2" href="$d6/db0/class_poll.html#a6380e68b8ff0a5c61e1cd0e23dd6691d" title="Display run status information. " alt="" coords="123,5,249,32"/>
+<area shape="rect" id="node3" href="$d6/db0/class_poll.html#a7bc77d04169be53d1a3553e0a55932d6" title="Acquire raw traces from a pixie module. " alt="" coords="309,31,423,57"/>
+<area shape="rect" id="node4" href="$d6/db0/class_poll.html#af663df9384bf7c210165077aafc4dbc4" title="Poll::GetThreshWords" alt="" coords="111,107,261,133"/>
+<area shape="rect" id="node5" href="$d1/d50/poll2_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="341,107,391,133"/>
+</map>

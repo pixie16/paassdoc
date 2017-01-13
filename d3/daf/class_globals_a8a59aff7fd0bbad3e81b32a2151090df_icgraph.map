@@ -1,0 +1,41 @@
+<map id="Globals::clockInSeconds" name="Globals::clockInSeconds">
+<area shape="rect" id="node2" href="$d2/daa/class_anl1471_processor.html#ae0e82aa964d24549afd9d17f1a136fc2" title="Anl1471Processor::Process" alt="" coords="234,13,418,39"/>
+<area shape="rect" id="node4" href="$db/d92/class_beta4_hen3_processor.html#aec8154b59d510e76fb0831ee2118d6bb" title="Beta4Hen3Processor\l::Process" alt="" coords="515,92,661,133"/>
+<area shape="rect" id="node5" href="$d4/de4/class_beta_scint_processor.html#abcf10cc79083ab549abdca2e9209d37d" title="Main Processing for the class. " alt="" coords="257,115,395,156"/>
+<area shape="rect" id="node6" href="$de/da4/class_correlation_list.html#acd7538d2730b395bc6cc33296a9a9af1" title="CorrelationList::PrintDecayList" alt="" coords="489,253,687,279"/>
+<area shape="rect" id="node8" href="$df/d86/class_correlator.html#a24bd6e7418fd89b55da9d0d4e6f0ac42" title="Correlator::Correlate" alt="" coords="752,227,891,254"/>
+<area shape="rect" id="node12" href="$df/d86/class_correlator.html#a5365ba0cfee1d3ae3e11099fc90ce071" title="Correlates all positions. " alt="" coords="249,282,403,309"/>
+<area shape="rect" id="node13" href="$de/d91/class_detector_driver.html#aa75c588496641c8a0f66152235f93fd6" title="DetectorDriver::GetWallTime" alt="" coords="232,333,420,359"/>
+<area shape="rect" id="node15" href="$db/da8/class_dssd4_s_h_e_processor.html#a069993b16eb9c18b547a279e9f5d1b28" title="Dssd4SHEProcessor::\lPreProcess" alt="" coords="249,384,403,425"/>
+<area shape="rect" id="node16" href="$db/da8/class_dssd4_s_h_e_processor.html#a1ab9aeab8c52a1479718a58da74af3df" title="Dssd4SHEProcessor::\lProcess" alt="" coords="249,449,403,491"/>
+<area shape="rect" id="node17" href="$d4/d67/class_dssd_processor.html#a0e32fc233a84ef03dc994b83899e1388" title="DssdProcessor::Process" alt="" coords="243,515,409,542"/>
+<area shape="rect" id="node18" href="$d5/df2/class_ge4_hen3_processor.html#a98d4e5d0efd24adbdb6c8911e0d993f2" title="Ge4Hen3Processor::Process" alt="" coords="493,617,683,643"/>
+<area shape="rect" id="node19" href="$d2/d54/class_ge_processor.html#a8e6eb1cc39e1a48d223be9f4d69460c4" title="GeProcessor::PreProcess" alt="" coords="239,617,413,643"/>
+<area shape="rect" id="node20" href="$d2/d54/class_ge_processor.html#a60303a0ad9ccca416584cc54f027bbce" title="GeProcessor::Process" alt="" coords="249,667,403,694"/>
+<area shape="rect" id="node21" href="$d6/d4e/class_hen3_processor.html#a12510344f12aa28fb4de00c28569995f" title="Hen3Processor::Process" alt="" coords="243,718,409,745"/>
+<area shape="rect" id="node23" href="$df/df5/class_implant_ssd_processor.html#abf58bf472ce25c6003903cd66751d981" title="ImplantSsdProcessor\l::PlotType" alt="" coords="748,620,895,661"/>
+<area shape="rect" id="node24" href="$dd/df2/class_ion_chamber_processor.html#a6d1891dc55fb66434793c8594f3b7616" title="IonChamberProcessor\l::Process" alt="" coords="251,820,401,861"/>
+<area shape="rect" id="node26" href="$de/d81/class_i_s600_processor.html#a92f29e9c021fffb08f02bf48d12aff42" title="IS600Processor::Process" alt="" coords="241,886,411,913"/>
+<area shape="rect" id="node27" href="$da/d2f/class_logic_processor.html#a91ad87eb1649cebfa5a90de4943455ae" title="LogicProcessor::PreProcess" alt="" coords="232,937,420,963"/>
+<area shape="rect" id="node28" href="$df/d59/class_stats_data.html#a61e251c8ad81b48cae88662e62c95290" title="StatsData::GetRealTime" alt="" coords="244,987,408,1014"/>
+<area shape="rect" id="node33" href="$d2/d6d/class_tau_analyzer.html#a6b4e4896cd3fd60f5bf1db2190e8e0e7" title="TauAnalyzer::Analyze" alt="" coords="251,1038,401,1065"/>
+<area shape="rect" id="node35" href="$d9/ddc/class_template_exp_processor.html#a06fae87a5826408aec8db9fadf000dd3" title="Main processing of data of interest. " alt="" coords="247,1089,405,1131"/>
+<area shape="rect" id="node36" href="$d4/d48/class_utk_unpacker.html#ae5b939ec62e20df3004047ce4f3370f0" title="Process all events in the event list. " alt="" coords="220,1155,432,1182"/>
+<area shape="rect" id="node38" href="$d4/d48/class_utk_unpacker.html#ad82e3bffaf0c59a8ef4c7e98b57ce29b" title="Add an event to generic statistics output. " alt="" coords="245,1206,407,1233"/>
+<area shape="rect" id="node39" href="$d1/db0/class_vandle_at_leribss_processor.html#acf69bb1ce41507d732ba5f0f39ec795f" title="VandleAtLeribssProcessor\l::Process" alt="" coords="238,1257,414,1299"/>
+<area shape="rect" id="node3" href="$d2/daa/class_anl1471_processor.html#ab4da8a4750b54347de1cc2d9b710970f" title="Anl1471Processor::\l~Anl1471Processor" alt="" coords="520,5,656,47"/>
+<area shape="rect" id="node7" href="$df/d86/class_correlator.html#a48307431ca91b41319c6b68c6684634d" title="Correlator::~Correlator" alt="" coords="746,278,897,305"/>
+<area shape="rect" id="node9" href="$df/df5/class_implant_ssd_processor.html#aa058ca6ee5475b4bf6426b1c69ef9c79" title="ImplantSsdProcessor\l::Correlate" alt="" coords="947,363,1093,404"/>
+<area shape="rect" id="node10" href="$df/df5/class_implant_ssd_processor.html#a4633fc3b34a8e8915713dd8e1ba5666a" title="ImplantSsdProcessor\l::Process" alt="" coords="1141,363,1288,404"/>
+<area shape="rect" id="node11" href="$df/df5/class_implant_ssd_processor.html#a057e44029967a209fc626811e2ba4412" title="ImplantSsdProcessor\l::~ImplantSsdProcessor" alt="" coords="1336,363,1499,404"/>
+<area shape="rect" id="node14" href="$da/d3b/class_she_correlator.html#a919d59639a36e99b3dc6623d06014c9b" title="SheCorrelator::flush\l_chain" alt="" coords="519,325,657,367"/>
+<area shape="rect" id="node22" href="$d6/d4e/class_hen3_processor.html#a8ed35806e6801f6c8f1eb402525e2834" title="Hen3Processor::~Hen3Processor" alt="" coords="480,718,696,745"/>
+<area shape="rect" id="node25" href="$dd/df2/class_ion_chamber_processor.html#a04e1204b8f8efd09dac743a82b1d4312" title="IonChamberProcessor\l::~IonChamberProcessor" alt="" coords="505,820,671,861"/>
+<area shape="rect" id="node29" href="$df/d59/class_stats_data.html#a4303ccc0eaac5bb3836f6e8b3bb74d4f" title="StatsData::DoStatisticsBlock" alt="" coords="492,937,684,963"/>
+<area shape="rect" id="node32" href="$df/d59/class_stats_data.html#a72cbc9cdd095b14cf8e611efaeca6c4c" title="StatsData::~StatsData" alt="" coords="744,987,899,1014"/>
+<area shape="rect" id="node30" href="$d7/d9b/_read_buff_data_d_8cpp.html#a3e58aeec45982500035c9bd265176ae1" title="extract channel information from raw data " alt="" coords="765,886,877,913"/>
+<area shape="rect" id="node31" href="$de/dbc/_read_buff_data_f_8cpp.html#a99384f7bd7855b6a2bf58eb6b9065cab" title="extract channel information from raw data " alt="" coords="766,937,877,963"/>
+<area shape="rect" id="node34" href="$d2/d6d/class_tau_analyzer.html#acbec8c01df2ce44961345f0d390f76fa" title="TauAnalyzer::~TauAnalyzer" alt="" coords="496,1038,680,1065"/>
+<area shape="rect" id="node37" href="$d4/d48/class_utk_unpacker.html#a9bdcb58a08aa9b338085aa1a147214a5" title="Default constructor that does nothing in particular. " alt="" coords="498,1181,678,1207"/>
+<area shape="rect" id="node40" href="$d1/db0/class_vandle_at_leribss_processor.html#a196ab3e45f67f811bfd3756f99b86054" title="VandleAtLeribssProcessor\l::~VandleAtLeribssProcessor" alt="" coords="492,1257,684,1299"/>
+</map>

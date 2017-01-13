@@ -1,0 +1,7 @@
+<map id="StatsHandler::SetDumpInterval" name="StatsHandler::SetDumpInterval">
+<area shape="rect" id="node2" href="$d2/d58/class_stats_handler.html#a32f7e84315adff7ced7609444f35ef66" title="StatsHandler::GetDataRate" alt="" coords="513,9,693,36"/>
+<area shape="rect" id="node3" href="$d2/d58/class_stats_handler.html#ae97addec3c4a6aeb4e405fc4d940638e" title="StatsHandler::GetTotalDataRate" alt="" coords="256,34,465,61"/>
+<area shape="rect" id="node4" href="$d2/d58/class_stats_handler.html#aa03fc40af12554774f2407a0a56b5d33" title="StatsHandler::GetEventRate" alt="" coords="267,85,454,112"/>
+<area shape="rect" id="node5" href="$d2/d58/class_stats_handler.html#a10f966796de79c55bfa75c6e60bf25ce" title="Return the total run time. " alt="" coords="269,136,453,162"/>
+<area shape="rect" id="node6" href="$d2/d58/class_stats_handler.html#a7c4289a00263f4c9e9bae690cd9435f2" title="Set the ICR and OCR from the XIA module. " alt="" coords="271,186,450,213"/>
+</map>

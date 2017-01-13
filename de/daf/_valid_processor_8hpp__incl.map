@@ -1,0 +1,14 @@
+<map id="ValidProcessor.hpp" name="ValidProcessor.hpp">
+<area shape="rect" id="node3" href="$da/dd1/_event_processor_8hpp.html" title="Generic event processor. " alt="" coords="267,80,407,107"/>
+<area shape="rect" id="node8" href="$de/d87/_plots_8hpp.html" title="A container to request a block of plots and plot respective spectra through the plots register..." alt="" coords="305,379,382,405"/>
+<area shape="rect" id="node27" href="$d6/ded/_tree_correlator_8hpp.html" title="A class to handle complex correlations between various processors. " alt="" coords="678,155,807,181"/>
+<area shape="rect" id="node10" href="$d4/d9c/_globals_8hpp.html" title="constant parameters used in pixie16 analysis " alt="" coords="1133,453,1224,480"/>
+<area shape="rect" id="node25" href="$d3/d87/_his_file_8hpp.html" title="A class to output histograms in a format which HHIRF damm is able to read. " alt="" coords="314,453,400,480"/>
+<area shape="rect" id="node26" href="$da/d82/_plots_register_8hpp.html" title="PlotsRegister.hpp" alt="" coords="780,453,905,480"/>
+<area shape="rect" id="node18" href="$de/d24/_exceptions_8hpp.html" title="Class to handle errors occurring during the execution of the code. " alt="" coords="1902,603,2014,629"/>
+<area shape="rect" id="node20" href="$d0/db0/_messenger_8hpp.html" title="A class to handle messages and output them prettily. " alt="" coords="1522,528,1632,555"/>
+<area shape="rect" id="node23" href="$dd/d48/_trap_filter_parameters_8hpp.html" title="TrapFilterParameters.hpp" alt="" coords="1328,528,1498,555"/>
+<area shape="rect" id="node28" href="$d5/d2d/_places_8hpp.html" title="Defines the various places for the TreeCorrelator. " alt="" coords="950,304,1036,331"/>
+<area shape="rect" id="node31" href="$db/dc4/_place_builder_8hpp.html" title="Defines the various places for the TreeCorrelator. " alt="" coords="682,229,802,256"/>
+<area shape="rect" id="node30" href="$dd/d77/_event_data_8hpp.html" title="Structure holding event data. " alt="" coords="1112,379,1220,405"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="Globals::SanityCheck" name="Globals::SanityCheck">
+<area shape="rect" id="node2" href="$d3/daf/class_globals.html#ad6c9fda8d0018300ce2a7b7e481181c2" title="Globals::Globals" alt="" coords="201,1175,320,1202"/>
+<area shape="rect" id="node3" href="$d3/daf/class_globals.html#ae66fa0173342202c96b13d71a6522512" title="Globals::get" alt="" coords="368,1175,460,1202"/>
+<area shape="rect" id="node4" href="$d2/daa/class_anl1471_processor.html#ae0e82aa964d24549afd9d17f1a136fc2" title="Anl1471Processor::Process" alt="" coords="775,13,959,39"/>
+<area shape="rect" id="node6" href="$d6/d15/class_bar_detector.html#a35674ef5d54abcf2366797d18eed5d27" title="BarDetector::GetHasEvent" alt="" coords="525,150,703,177"/>
+<area shape="rect" id="node7" href="$de/d81/class_i_s600_processor.html#a92f29e9c021fffb08f02bf48d12aff42" title="IS600Processor::Process" alt="" coords="782,63,953,90"/>
+<area shape="rect" id="node8" href="$d1/db0/class_vandle_at_leribss_processor.html#acf69bb1ce41507d732ba5f0f39ec795f" title="VandleAtLeribssProcessor\l::Process" alt="" coords="779,311,955,352"/>
+<area shape="rect" id="node12" href="$d6/d15/class_bar_detector.html#ab0b8692f292231103a6dfed431eaf878" title="BarDetector::GetFlightPath" alt="" coords="525,201,703,227"/>
+<area shape="rect" id="node13" href="$db/d92/class_beta4_hen3_processor.html#aec8154b59d510e76fb0831ee2118d6bb" title="Beta4Hen3Processor\l::Process" alt="" coords="795,376,940,417"/>
+<area shape="rect" id="node14" href="$d4/de4/class_beta_scint_processor.html#abcf10cc79083ab549abdca2e9209d37d" title="Main Processing for the class. " alt="" coords="545,303,683,344"/>
+<area shape="rect" id="node15" href="$d5/d61/class_cfd_analyzer.html#a6e7938115abe097dd906e15d1f4abdff" title="CfdAnalyzer::Analyze" alt="" coords="540,419,688,446"/>
+<area shape="rect" id="node16" href="$de/da4/class_correlation_list.html#acd7538d2730b395bc6cc33296a9a9af1" title="CorrelationList::PrintDecayList" alt="" coords="768,521,967,547"/>
+<area shape="rect" id="node17" href="$df/d86/class_correlator.html#a24bd6e7418fd89b55da9d0d4e6f0ac42" title="Correlator::Correlate" alt="" coords="1015,546,1153,573"/>
+<area shape="rect" id="node18" href="$df/d86/class_correlator.html#a5365ba0cfee1d3ae3e11099fc90ce071" title="Correlates all positions. " alt="" coords="537,622,691,649"/>
+<area shape="rect" id="node19" href="$de/d91/class_detector_driver.html#aac6fa05787b262bb9ca406e36a58668a" title="DetectorDriver::Detector\lDriver" alt="" coords="533,673,695,715"/>
+<area shape="rect" id="node20" href="$de/d91/class_detector_driver.html#a8810acdc149879688b81ec333531a28e" title="DetectorDriver::DeclarePlots" alt="" coords="521,739,707,766"/>
+<area shape="rect" id="node21" href="$db/d6c/class_utk_scan_interface.html#a97f114b210931247250458851cead748" title="UtkScanInterface::Initialize" alt="" coords="778,765,957,791"/>
+<area shape="rect" id="node22" href="$de/d91/class_detector_driver.html#a2ae4e98c641d49183631eceb40dc19bb" title="Check threshold and calibrate each channel. Check the thresholds and calibrate the energy for each ch..." alt="" coords="517,841,711,867"/>
+<area shape="rect" id="node23" href="$de/d91/class_detector_driver.html#aa75c588496641c8a0f66152235f93fd6" title="DetectorDriver::GetWallTime" alt="" coords="520,521,708,547"/>
+<area shape="rect" id="node24" href="$dc/dbe/class_detector_library.html#ac23ea6a58bbe4c8f927b8f76f0970ce1" title="DetectorLibrary::LoadXml" alt="" coords="529,891,699,918"/>
+<area shape="rect" id="node25" href="$db/da8/class_dssd4_s_h_e_processor.html#a069993b16eb9c18b547a279e9f5d1b28" title="Dssd4SHEProcessor::\lPreProcess" alt="" coords="537,943,691,984"/>
+<area shape="rect" id="node26" href="$db/da8/class_dssd4_s_h_e_processor.html#a1ab9aeab8c52a1479718a58da74af3df" title="Dssd4SHEProcessor::\lProcess" alt="" coords="537,1008,691,1049"/>
+<area shape="rect" id="node27" href="$d4/d67/class_dssd_processor.html#a0e32fc233a84ef03dc994b83899e1388" title="DssdProcessor::Process" alt="" coords="531,1074,697,1101"/>
+<area shape="rect" id="node28" href="$d8/d35/class_fitting_analyzer.html#af91b1f98c6bca94fda4147db62e590c8" title="FittingAnalyzer::Analyze" alt="" coords="532,1125,696,1151"/>
+<area shape="rect" id="node29" href="$d5/df2/class_ge4_hen3_processor.html#a98d4e5d0efd24adbdb6c8911e0d993f2" title="Ge4Hen3Processor::Process" alt="" coords="772,1201,963,1227"/>
+<area shape="rect" id="node30" href="$d2/d54/class_ge_processor.html#a2d5dd26379e3838e228af64a5b4d523e" title="GeProcessor::GeProcessor" alt="" coords="523,1277,705,1303"/>
+<area shape="rect" id="node31" href="$d2/d54/class_ge_processor.html#a8e6eb1cc39e1a48d223be9f4d69460c4" title="GeProcessor::PreProcess" alt="" coords="527,1327,701,1354"/>
+<area shape="rect" id="node32" href="$d2/d54/class_ge_processor.html#a60303a0ad9ccca416584cc54f027bbce" title="GeProcessor::Process" alt="" coords="537,1175,691,1202"/>
+<area shape="rect" id="node33" href="$d6/d4e/class_hen3_processor.html#a12510344f12aa28fb4de00c28569995f" title="Hen3Processor::Process" alt="" coords="531,1378,697,1405"/>
+<area shape="rect" id="node34" href="$d7/d61/class_high_res_timing_data.html#a36e0cbbffdc4aa1fa9349c6fb9f94d28" title="HighResTimingData::\lCalcEnergy" alt="" coords="541,1429,687,1471"/>
+<area shape="rect" id="node35" href="$d7/d61/class_high_res_timing_data.html#a2769883910967c0648ba8c13a7f0dc1f" title="HighResTimingData::\lGetPhase" alt="" coords="541,1495,687,1536"/>
+<area shape="rect" id="node36" href="$df/df5/class_implant_ssd_processor.html#abf58bf472ce25c6003903cd66751d981" title="ImplantSsdProcessor\l::PlotType" alt="" coords="541,1560,687,1601"/>
+<area shape="rect" id="node37" href="$dd/df2/class_ion_chamber_processor.html#a6d1891dc55fb66434793c8594f3b7616" title="IonChamberProcessor\l::Process" alt="" coords="539,1625,689,1667"/>
+<area shape="rect" id="node38" href="$da/d2f/class_logic_processor.html#a91ad87eb1649cebfa5a90de4943455ae" title="LogicProcessor::PreProcess" alt="" coords="520,1691,708,1718"/>
+<area shape="rect" id="node39" href="$d0/d51/class_notebook.html#a1ca045e919168c2c40fe04962c7b6800" title="Default constructor. " alt="" coords="544,1742,684,1769"/>
+<area shape="rect" id="node40" href="$df/d59/class_stats_data.html#a61e251c8ad81b48cae88662e62c95290" title="StatsData::GetRealTime" alt="" coords="532,1793,696,1819"/>
+<area shape="rect" id="node41" href="$d2/d6d/class_tau_analyzer.html#a6b4e4896cd3fd60f5bf1db2190e8e0e7" title="TauAnalyzer::Analyze" alt="" coords="539,1843,689,1870"/>
+<area shape="rect" id="node42" href="$d9/ddc/class_template_exp_processor.html#a06fae87a5826408aec8db9fadf000dd3" title="Main processing of data of interest. " alt="" coords="535,1895,693,1936"/>
+<area shape="rect" id="node43" href="$dd/d02/class_timing_calibrator.html#af94e93cc51405328f992d3636e586a39" title="Reads in the calibrations in the XML config. " alt="" coords="517,1960,711,2001"/>
+<area shape="rect" id="node44" href="$d4/db0/class_trace_filter_analyzer.html#ae5ac6f06108d2fec746da7312f2fdd00" title="TraceFilterAnalyzer\l::DeclarePlots" alt="" coords="547,2025,681,2067"/>
+<area shape="rect" id="node45" href="$d4/db0/class_trace_filter_analyzer.html#ab32ab2844b97511e344f6e6f71b91d9d" title="TraceFilterAnalyzer\l::Analyze" alt="" coords="547,2091,681,2132"/>
+<area shape="rect" id="node46" href="$d3/d2c/class_tree_correlator.html#ab6016005579b56ba1e8df981ed8c3559" title="TreeCorrelator::buildTree" alt="" coords="531,2157,697,2183"/>
+<area shape="rect" id="node47" href="$d8/db5/class_two_chan_timing_processor.html#a86f456117fbdb045d79f3746736b76be" title="TwoChanTimingProcessor\l::TwoChanTimingProcessor" alt="" coords="523,2208,705,2249"/>
+<area shape="rect" id="node48" href="$d4/d48/class_utk_unpacker.html#ae5b939ec62e20df3004047ce4f3370f0" title="Process all events in the event list. " alt="" coords="508,2274,720,2301"/>
+<area shape="rect" id="node49" href="$d4/d48/class_utk_unpacker.html#ad82e3bffaf0c59a8ef4c7e98b57ce29b" title="Add an event to generic statistics output. " alt="" coords="533,2325,695,2351"/>
+<area shape="rect" id="node50" href="$da/d8c/class_waveform_analyzer.html#ad5d69130a33ded33122a463782b33ae1" title="WaveformAnalyzer::Analyze" alt="" coords="521,2375,707,2402"/>
+<area shape="rect" id="node5" href="$d2/daa/class_anl1471_processor.html#ab4da8a4750b54347de1cc2d9b710970f" title="Anl1471Processor::\l~Anl1471Processor" alt="" coords="1016,5,1152,47"/>
+<area shape="rect" id="node9" href="$db/d21/class_vandle_processor.html#a518daed7d7e2431a907b871b182681df" title="VandleProcessor::Analyze\lBarStarts" alt="" coords="779,245,955,287"/>
+<area shape="rect" id="node10" href="$db/d21/class_vandle_processor.html#a19fce3b4adc29d62a9b74b07308f1a84" title="VandleProcessor::Analyze\lStarts" alt="" coords="779,180,955,221"/>
+<area shape="rect" id="node11" href="$d0/d80/class_walk_vandle_beta_processor.html#a191e1076d68a81dde827459dd3374124" title="WalkVandleBetaProcessor\l::Process" alt="" coords="779,115,956,156"/>
+</map>

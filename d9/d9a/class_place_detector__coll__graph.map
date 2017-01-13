@@ -1,0 +1,6 @@
+<map id="PlaceDetector" name="PlaceDetector">
+<area shape="rect" id="node2" href="$dd/d21/class_place.html" title="A pure abstract class to define a &quot;place&quot; for correlator. " alt="" coords="800,49,855,75"/>
+<area shape="rect" id="node5" href="$d3/dbe/class_event_data.html" title="Simple structure holding basic parameters needed for correlation of events in the same place..." alt="" coords="339,13,421,39"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="181,13,261,39"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="5,5,132,47"/>
+</map>

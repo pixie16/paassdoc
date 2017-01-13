@@ -1,0 +1,6 @@
+<map id="Terminal::Close" name="Terminal::Close">
+<area shape="rect" id="node2" href="$dc/d46/class_terminal.html#add5a7d4dd45b68af9a0afb1cc845af2f" title="Terminal::~Terminal" alt="" coords="177,5,316,32"/>
+<area shape="rect" id="node3" href="$dc/d46/class_terminal.html#afef43bf766d6ea1e2b739d231c84f57d" title="Wait for the user to input a command. " alt="" coords="167,107,327,133"/>
+<area shape="rect" id="node4" href="$d0/dae/_c_terminal_test_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="406,56,457,83"/>
+<area shape="rect" id="node5" href="$d6/db0/class_poll.html#a7bc77d04169be53d1a3553e0a55932d6" title="Acquire raw traces from a pixie module. " alt="" coords="375,107,488,133"/>
+</map>

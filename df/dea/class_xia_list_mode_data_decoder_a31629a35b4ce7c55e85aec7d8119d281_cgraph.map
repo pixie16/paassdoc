@@ -1,0 +1,47 @@
+<map id="XiaListModeDataDecoder::~XiaListModeDataDecoder" name="XiaListModeDataDecoder::~XiaListModeDataDecoder">
+<area shape="rect" id="node2" href="$df/dea/class_xia_list_mode_data_decoder.html#a8aef1de2d68f3e04678c171650dbfc48" title="XiaListModeDataDecoder\l::DecodeBuffer" alt="" coords="484,201,653,242"/>
+<area shape="rect" id="node11" href="$df/dea/class_xia_list_mode_data_decoder.html#ace12df0b1007b11d76042f527784a8cf" title="XiaListModeDataDecoder\l::CalculateTimeInSamples" alt="" coords="239,589,413,630"/>
+<area shape="rect" id="node19" href="$df/dea/class_xia_list_mode_data_decoder.html#a88bb1df75e6fab4760e2de5e6776ebfa" title="XiaListModeDataDecoder\l::CalculateTimeInNs" alt="" coords="241,723,411,765"/>
+<area shape="rect" id="node20" href="$df/dea/class_xia_list_mode_data_decoder.html#aa6c0d7de33caf645342499f68ecce4a6" title="XiaListModeDataDecoder\l::DecodeWordZero" alt="" coords="241,1450,411,1491"/>
+<area shape="rect" id="node31" href="$df/dea/class_xia_list_mode_data_decoder.html#abdbdbd7e8fac0ef5926fdbb86ec94a17" title="XiaListModeDataDecoder\l::DecodeWordTwo" alt="" coords="241,949,411,990"/>
+<area shape="rect" id="node43" href="$df/dea/class_xia_list_mode_data_decoder.html#a5214eb69274437d636dcf9b3535cbba5" title="XiaListModeDataDecoder\l::DecodeWordThree" alt="" coords="484,353,653,394"/>
+<area shape="rect" id="node45" href="$df/dea/class_xia_list_mode_data_decoder.html#ae8d3d6b2b7a11208d336b4c68ebceb43" title="XiaListModeDataDecoder\l::DecodeTrace" alt="" coords="241,1658,411,1699"/>
+<area shape="rect" id="node3" href="$d2/ddd/class_xia_data.html#ab1d2117cb57edc28c5fbcc172e6f6226" title="Sets the lower 32 bits of the event time. " alt="" coords="739,309,922,336"/>
+<area shape="rect" id="node4" href="$d2/ddd/class_xia_data.html#a7e9399e5989f78ad5fbf2ffc3dbbf082" title="XiaData::GetCrateNumber" alt="" coords="744,5,917,32"/>
+<area shape="rect" id="node5" href="$d2/ddd/class_xia_data.html#a8a2da1945ec44cb4a6b41fe25077cde1" title="XiaData::GetSlotNumber" alt="" coords="748,56,913,83"/>
+<area shape="rect" id="node6" href="$d2/ddd/class_xia_data.html#a666be81f5c59ecd502e1f3cd09d5335a" title="XiaData::GetChannelNumber" alt="" coords="736,107,925,133"/>
+<area shape="rect" id="node7" href="$d2/ddd/class_xia_data.html#ac68b617d4dfc56484670219f8cb2ef3f" title="Sets the QDCs that were calculated on&#45;board. " alt="" coords="771,157,891,184"/>
+<area shape="rect" id="node8" href="$d2/ddd/class_xia_data.html#a0eaaf6adf888d7931cf54cee335a6f4d" title="XiaData::IsSaturated" alt="" coords="759,208,902,235"/>
+<area shape="rect" id="node9" href="$d2/ddd/class_xia_data.html#aaf91ca7a3d8cc1eb54ab6eca795ffefe" title="Sets the energy calculated on&#45;board. " alt="" coords="762,360,899,387"/>
+<area shape="rect" id="node10" href="$d2/ddd/class_xia_data.html#a45189c3a5409a4f6e1edddf46f78d402" title="Sets the calculated arrival time of the signal. " alt="" coords="768,259,893,285"/>
+<area shape="rect" id="node12" href="$d2/ddd/class_xia_data.html#a5a987b84e2c34ae84962b8dd9e454d19" title="XiaData::GetEventTimeLow" alt="" coords="477,469,660,496"/>
+<area shape="rect" id="node13" href="$d2/ddd/class_xia_data.html#a07fd190402d71ff4915059cde0d25e49" title="XiaData::GetEventTimeHigh" alt="" coords="475,520,662,547"/>
+<area shape="rect" id="node14" href="$d2/ddd/class_xia_data.html#ae76425edc6570411564fe604c10e9b0f" title="XiaData::GetCfdFractionalTime" alt="" coords="467,571,670,597"/>
+<area shape="rect" id="node15" href="$d2/ddd/class_xia_data.html#ae2dd394608c46048eae1e1bfacfc9614" title="XiaData::GetCfdForcedTriggerBit" alt="" coords="462,621,675,648"/>
+<area shape="rect" id="node16" href="$dc/d76/class_xia_list_mode_data_mask.html#a3c34a45410a95be7aacafc06c69271e3" title="XiaListModeDataMask\l::GetFrequency" alt="" coords="492,723,645,765"/>
+<area shape="rect" id="node17" href="$dc/d76/class_xia_list_mode_data_mask.html#a5ecaef55ca744edd26df0678f1a2eec7" title="XiaListModeDataMask\l::GetCfdSize" alt="" coords="754,781,907,822"/>
+<area shape="rect" id="node18" href="$d2/ddd/class_xia_data.html#a378fb1ee5d3e5ebf9105958b0366442f" title="XiaData::GetCfdTriggerSourceBit" alt="" coords="461,672,676,699"/>
+<area shape="rect" id="node21" href="$d2/ddd/class_xia_data.html#a9c7fd2f8302abcaa614202087c33c4e0" title="Sets the channel number. " alt="" coords="475,1457,663,1484"/>
+<area shape="rect" id="node22" href="$dc/d76/class_xia_list_mode_data_mask.html#a9b80002ff038c0ea2012a0e589157b5a" title="XiaListModeDataMask\l::GetChannelNumberMask" alt="" coords="481,1509,656,1550"/>
+<area shape="rect" id="node23" href="$d2/ddd/class_xia_data.html#ac962808325ff3dce7b47863d4f96624f" title="Sets the slot number. " alt="" coords="487,1575,651,1601"/>
+<area shape="rect" id="node24" href="$dc/d76/class_xia_list_mode_data_mask.html#a8898fdb5275d10fbacfb262bc9c33d1d" title="XiaListModeDataMask\l::GetSlotIdMask" alt="" coords="492,1626,645,1667"/>
+<area shape="rect" id="node25" href="$d2/ddd/class_xia_data.html#a8785811860905761ba919ae67487a394" title="Sets the crate number. " alt="" coords="483,1692,655,1719"/>
+<area shape="rect" id="node26" href="$dc/d76/class_xia_list_mode_data_mask.html#a3e66d0d3a0fb20f539e582d1cb5a294a" title="XiaListModeDataMask\l::GetCrateIdMask" alt="" coords="492,1743,645,1785"/>
+<area shape="rect" id="node27" href="$d2/ddd/class_xia_data.html#a8746972744c495061cd8261260f524f0" title="Sets if we had a pileup found on&#45;board. " alt="" coords="503,1209,635,1236"/>
+<area shape="rect" id="node28" href="$dc/d76/class_xia_list_mode_data_mask.html#a139f37a8e4646b5cec52f22e266142ec" title="XiaListModeDataMask\l::GetFinishCodeMask" alt="" coords="492,1261,645,1302"/>
+<area shape="rect" id="node29" href="$dc/d76/class_xia_list_mode_data_mask.html#a2cd2ca0af98955a8ffcfd8d7244f6b03" title="XiaListModeDataMask\l::GetHeaderLengthMask" alt="" coords="487,1326,650,1367"/>
+<area shape="rect" id="node30" href="$dc/d76/class_xia_list_mode_data_mask.html#ad3fe908d632e925492f1f4bd727332fe" title="XiaListModeDataMask\l::GetEventLengthMask" alt="" coords="491,1391,647,1433"/>
+<area shape="rect" id="node32" href="$d2/ddd/class_xia_data.html#a45331d8c7bdbf63d63ffea2ba63be992" title="Sets the upper 16 bits of the event time. " alt="" coords="476,1108,661,1135"/>
+<area shape="rect" id="node33" href="$dc/d76/class_xia_list_mode_data_mask.html#ac1cbfaa5e37bb9dc62ead5b544ad86d2" title="XiaListModeDataMask\l::GetEventTimeHighMask" alt="" coords="483,789,655,830"/>
+<area shape="rect" id="node34" href="$dc/d76/class_xia_list_mode_data_mask.html#af6eea2ad586c791a2fbe8d18a9fc552d" title="XiaListModeDataMask\l::GetCfdFractionalTimeMask" alt="" coords="736,1097,925,1138"/>
+<area shape="rect" id="node35" href="$dc/d76/class_xia_list_mode_data_mask.html#ab2e51ed5a0ffcafb4581bfebe58b1bcb" title="XiaListModeDataMask\l::GetCfdForcedTriggerBitMask" alt="" coords="731,911,930,953"/>
+<area shape="rect" id="node36" href="$dc/d76/class_xia_list_mode_data_mask.html#adeec5b29241b497fedd05882626c6d08" title="XiaListModeDataMask\l::GetCfdTriggerSourceMask" alt="" coords="739,1014,923,1055"/>
+<area shape="rect" id="node40" href="$d2/ddd/class_xia_data.html#a2fb79f7dfa42667662beb53077f65901" title="Sets the CFD fractional time calculated on&#45;board. " alt="" coords="467,855,670,881"/>
+<area shape="rect" id="node41" href="$d2/ddd/class_xia_data.html#a62f4ab8b5f3ad7f4777e0d71dd38161d" title="This value is set to true if the CFD was forced to trigger. " alt="" coords="463,905,675,932"/>
+<area shape="rect" id="node42" href="$d2/ddd/class_xia_data.html#a09b3bd46f276c9ed79103c91499c861c" title="Sets the CFD trigger source. " alt="" coords="462,956,675,983"/>
+<area shape="rect" id="node37" href="$dc/d76/class_xia_list_mode_data_mask.html#ab0118d5efae8f6911b203112eb548dcd" title="XiaListModeDataMask\l::GetEventEnergyMask" alt="" coords="751,478,910,519"/>
+<area shape="rect" id="node38" href="$dc/d76/class_xia_list_mode_data_mask.html#a9b54767efcce9cdfed8e2d5a3dcc0bb4" title="XiaListModeDataMask\l::GetTraceOutOfRangeFlagMask" alt="" coords="724,575,937,617"/>
+<area shape="rect" id="node39" href="$dc/d76/class_xia_list_mode_data_mask.html#a5f36abf771ab60b4d2d0f55a87c1ad81" title="XiaListModeDataMask\l::GetTraceLengthMask" alt="" coords="753,706,908,747"/>
+<area shape="rect" id="node44" href="$d2/ddd/class_xia_data.html#a09f704a1bd879daa22d13c4d7a3a6404" title="Sets the saturation flag. " alt="" coords="753,411,908,437"/>
+<area shape="rect" id="node46" href="$d2/ddd/class_xia_data.html#ae19966bed7b9afe8afd47a2c6bbb11bf" title="Sets the trace recorded on board. " alt="" coords="504,1809,633,1836"/>
+</map>

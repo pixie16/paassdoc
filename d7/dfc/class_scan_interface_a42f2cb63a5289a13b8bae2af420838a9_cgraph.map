@@ -1,0 +1,13 @@
+<map id="ScanInterface::open_input_file" name="ScanInterface::open_input_file">
+<area shape="rect" id="node2" href="$de/d60/_scan_interface_8cpp.html#a740f278fe984e02c3252ffc414a38e9f" title="Get the file extension from an input filename string. " alt="" coords="240,5,343,32"/>
+<area shape="rect" id="node3" href="$de/deb/class_p_l_d__header.html#a63a564bd08c4f1e3a718cdd37c36431d" title="Read a HEAD buffer from a pld format file. Return false if buffer has the wrong header and return tru..." alt="" coords="226,56,357,83"/>
+<area shape="rect" id="node4" href="$de/deb/class_p_l_d__header.html#a10294f5e88ffe1e5bfa0d47059ad73cc" title="PLD_header::GetMaxSpillSize" alt="" coords="192,107,391,133"/>
+<area shape="rect" id="node5" href="$de/deb/class_p_l_d__header.html#a54247339acb53bd4d88a3c480e423fa1" title="Get the total length of the buffer (in bytes) " alt="" coords="209,157,373,184"/>
+<area shape="rect" id="node6" href="$de/deb/class_p_l_d__header.html#a0159c60c3a9d0fc2af56c3016eeffe1a" title="PLD_header::GetFormat" alt="" coords="210,208,373,235"/>
+<area shape="rect" id="node7" href="$de/deb/class_p_l_d__header.html#af9efb8d000d2886f4c0b351d2b9aa670" title="PLD_header::GetStartDate" alt="" coords="203,259,380,285"/>
+<area shape="rect" id="node8" href="$de/deb/class_p_l_d__header.html#a09d8603f32591ac9469e945f1452c9d7" title="PLD_header::GetEndDate" alt="" coords="205,309,377,336"/>
+<area shape="rect" id="node9" href="$de/deb/class_p_l_d__header.html#a0b0b5743e402d2e1f362c685823c0e92" title="PLD_header::GetRunTitle" alt="" coords="206,360,377,387"/>
+<area shape="rect" id="node10" href="$de/deb/class_p_l_d__header.html#afe2179ddcf0b830e6e443610499cb885" title="PLD_header::GetRunNumber" alt="" coords="196,411,387,437"/>
+<area shape="rect" id="node11" href="$de/deb/class_p_l_d__header.html#aab0bdc679cc880708de1d2adf3549a67" title="PLD_header::GetRunTime" alt="" coords="204,461,379,488"/>
+<area shape="rect" id="node12" href="$de/deb/class_p_l_d__header.html#a72c5518a07df77d8730496acac8e4609" title="Print header information. " alt="" coords="227,512,355,539"/>
+</map>

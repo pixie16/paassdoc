@@ -1,0 +1,34 @@
+<map id="TraceFilterAnalyzer::~TraceFilterAnalyzer" name="TraceFilterAnalyzer::~TraceFilterAnalyzer">
+<area shape="rect" id="node2" href="$d4/db0/class_trace_filter_analyzer.html#ae5ac6f06108d2fec746da7312f2fdd00" title="TraceFilterAnalyzer\l::DeclarePlots" alt="" coords="204,555,339,597"/>
+<area shape="rect" id="node17" href="$d4/db0/class_trace_filter_analyzer.html#ab32ab2844b97511e344f6e6f71b91d9d" title="TraceFilterAnalyzer\l::Analyze" alt="" coords="204,302,339,343"/>
+<area shape="rect" id="node3" href="$d3/daf/class_globals.html#ae66fa0173342202c96b13d71a6522512" title="Globals::get" alt="" coords="438,512,530,539"/>
+<area shape="rect" id="node10" href="$d3/daf/class_globals.html#a04460f93e6a59e905ef9471df1a346f0" title="Globals::numTraces" alt="" coords="415,563,553,589"/>
+<area shape="rect" id="node11" href="$dd/db7/class_trace.html#a08e965969f482e70c6ced4de92750095" title="Declares a 1D histogram calls the C++ wrapper for DAMM. " alt="" coords="393,613,575,640"/>
+<area shape="rect" id="node14" href="$dd/db7/class_trace.html#a9d188b323debfa1fff96814329db6094" title="Declares a 2D histogram calls the C++ wrapper for DAMM. " alt="" coords="393,664,575,691"/>
+<area shape="rect" id="node4" href="$d3/daf/class_globals.html#ad6c9fda8d0018300ce2a7b7e481181c2" title="Globals::Globals" alt="" coords="662,512,781,539"/>
+<area shape="rect" id="node5" href="$d6/dc9/class_messenger.html#a24d0db0aece5830b3de62310f5753be8" title="Messenger::detail" alt="" coords="1327,487,1452,513"/>
+<area shape="rect" id="node6" href="$d3/daf/class_globals.html#a9dc8ebff5b3cb81999c90462abb4afca" title="Globals::WarnOfUnknownParameter" alt="" coords="861,563,1092,589"/>
+<area shape="rect" id="node8" href="$d3/daf/class_globals.html#a3bedee64cc799d6f373d15308f600c63" title="Globals::SanityCheck" alt="" coords="903,512,1051,539"/>
+<area shape="rect" id="node7" href="$d6/dc9/class_messenger.html#a130e83285254c9149629842ca2aa6f20" title="Messenger::warning" alt="" coords="1140,588,1279,615"/>
+<area shape="rect" id="node9" href="$d6/dc9/class_messenger.html#a40a7e53a9b6dc5ef161c2ffd5d6bbbfb" title="Messenger::done" alt="" coords="1148,537,1271,564"/>
+<area shape="rect" id="node12" href="$d7/d8b/class_plots.html#a126b1dfe1d671776ee1caddc7cc249b9" title="Declares a 1D histogram calls the C++ wrapper for DAMM. " alt="" coords="632,613,811,640"/>
+<area shape="rect" id="node13" href="$da/d57/_scanor_8hpp.html#ae9985183725e9354913756c7f86d355a" title="create a DAMM 1D histogram args are damm id, half&#45;words per channel, param length, hist length, low x&#45;range, high x&#45;range, and title " alt="" coords="948,613,1005,640"/>
+<area shape="rect" id="node15" href="$d7/d8b/class_plots.html#a59a2ffc3288d877c695346d82499e769" title="Declares a 2D histogram calls the C++ wrapper for DAMM. " alt="" coords="632,664,811,691"/>
+<area shape="rect" id="node16" href="$da/d57/_scanor_8hpp.html#a65d497b6686f1daba9896091bada3eb1" title="create a DAMM 2D histogram " alt="" coords="948,664,1005,691"/>
+<area shape="rect" id="node18" href="$d2/dbc/class_trace_analyzer.html#a0faa9d7b638021ece0ef4feb795f6ccb" title="TraceAnalyzer::Analyze" alt="" coords="403,5,565,32"/>
+<area shape="rect" id="node19" href="$d2/dbc/class_trace_analyzer.html#ae7ac212d764d0e394fcb323f68d23c66" title="TraceAnalyzer::EndAnalyze" alt="" coords="629,56,813,83"/>
+<area shape="rect" id="node20" href="$d3/daf/class_globals.html#ae3662e7b022e50952724d496f00f98de" title="Globals::trapFiltPars" alt="" coords="413,208,555,235"/>
+<area shape="rect" id="node21" href="$d3/daf/class_globals.html#a82f1241170d4a5a2890c3446d97e1c90" title="Globals::filterClockInSeconds" alt="" coords="387,259,581,285"/>
+<area shape="rect" id="node22" href="$d4/d8e/class_trace_filter.html#aed671029a46cbde882bc63fce70e82cb" title="TraceFilter::CalcFilters" alt="" coords="407,309,561,336"/>
+<area shape="rect" id="node23" href="$dd/db7/class_trace.html#a6658e5f00680c02e9bafece89e72a7f3" title="Trace::Plot" alt="" coords="678,411,765,437"/>
+<area shape="rect" id="node24" href="$dd/db7/class_trace.html#a7e5ffddd13bd93472e29a1855cd0b8a8" title="Trace::SetTriggerFilter" alt="" coords="408,461,560,488"/>
+<area shape="rect" id="node25" href="$dd/db7/class_trace.html#a2ec99ead8b41cdf6d4ab9123c56dd6e7" title="Trace::SetValue" alt="" coords="426,157,542,184"/>
+<area shape="rect" id="node27" href="$dd/db7/class_trace.html#a806c4cc002bcc3387ae7b33659787154" title="Trace::SetEnergySums" alt="" coords="405,56,563,83"/>
+<area shape="rect" id="node28" href="$dd/db7/class_trace.html#a69a095c664ead0786523b4591d2a4df9" title="Implementation of the plot command to interface with the DAMM routines. " alt="" coords="442,360,526,387"/>
+<area shape="rect" id="node26" href="$dd/db7/class_trace.html#a616e8bfc16d1af954d60eb6318215fe6" title="Trace::InsertValue" alt="" coords="657,157,786,184"/>
+<area shape="rect" id="node29" href="$d7/d8b/class_plots.html#a68849b82c8c7a5d57f972cbd8de83328" title="Plots into histogram defined by dammId. " alt="" coords="680,309,763,336"/>
+<area shape="rect" id="node32" href="$dd/db7/class_trace.html#ad8fad66ed7eff096ce5acf0e2f9ddac0" title="Trace::ScalePlot" alt="" coords="662,360,781,387"/>
+<area shape="rect" id="node33" href="$dd/db7/class_trace.html#a43400cfd594a54bae433e990f7a0f639" title="Trace::OffsetPlot" alt="" coords="660,259,783,285"/>
+<area shape="rect" id="node30" href="$da/d57/_scanor_8hpp.html#a31aca3d0ff704e08f8f8968288ae7895" title="Defines the DAMM function to call for 1D hists */. " alt="" coords="935,335,1018,361"/>
+<area shape="rect" id="node31" href="$da/d57/_scanor_8hpp.html#a8b0a662ebdb3f947ba8470bf89f11c3a" title="Defines the DAMM function to call for 2D hists */. " alt="" coords="943,284,1011,311"/>
+</map>

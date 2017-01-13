@@ -1,0 +1,26 @@
+<map id="MCA_ROOT::cerr_redirect::Print" name="MCA_ROOT::cerr_redirect::Print">
+<area shape="rect" id="node2" href="$dc/d85/class_m_c_a___r_o_o_t.html#af793158b400b3b6fd377c5e4fc1ff530" title="Default constructor. " alt="" coords="232,588,408,614"/>
+<area shape="rect" id="node3" href="$dc/d85/class_m_c_a___r_o_o_t.html#a2eb995cbd14ca173fcd5626395699033" title="Abstract method to open a storage file. " alt="" coords="691,529,845,556"/>
+<area shape="rect" id="node10" href="$dc/d85/class_m_c_a___r_o_o_t.html#a2b525e12723d18f5072632560c39ec78" title="Defaul destructor. " alt="" coords="228,430,412,457"/>
+<area shape="rect" id="node21" href="$dc/d85/class_m_c_a___r_o_o_t.html#a96072a89e5a20e909bf42946519d1e34" title="Abstract method describing how the MCA data is stored. " alt="" coords="239,689,401,716"/>
+<area shape="rect" id="node23" href="$dc/d85/class_m_c_a___r_o_o_t.html#a4edb4e9e9ac515bcf550b3f11d242f02" title="MCA_ROOT::GetHistogram" alt="" coords="460,638,643,665"/>
+<area shape="rect" id="node24" href="$dc/d85/class_m_c_a___r_o_o_t.html#a2168e9113460b23d3b0a5f9a4d6a7ce6" title="Flush the current memory to disk. " alt="" coords="253,740,387,766"/>
+<area shape="rect" id="node25" href="$dc/d85/class_m_c_a___r_o_o_t.html#a67bf9e4a7d023f1f2a2c1f4e07929d2c" title="MCA_ROOT::Reset" alt="" coords="251,790,389,817"/>
+<area shape="rect" id="node4" href="$da/d6a/namespace_display.html#ae1b6ae7834913dfdef71ad859e261c55" title="Display::LeaderPrint" alt="" coords="1179,137,1318,164"/>
+<area shape="rect" id="node5" href="$da/d6a/namespace_display.html#ad59fed09552cdea4f78fea07f06d7a4e" title="Display::StatusPrint" alt="" coords="1414,238,1553,265"/>
+<area shape="rect" id="node8" href="$d9/dc6/class_pixie_interface.html#a7f5ef8062e7ea784938521306dc25b20" title="PixieInterface::GetNumber\lCards" alt="" coords="915,456,1091,498"/>
+<area shape="rect" id="node9" href="$d9/dc6/class_pixie_interface.html#ad364201e04c3d6f3c34fbdd94ec819ce" title="PixieInterface::GetNumber\lChannels" alt="" coords="915,522,1091,563"/>
+<area shape="rect" id="node6" href="$da/d6a/namespace_display.html#a762315ce58efcb1203edfcb74158f59b" title="Display::ErrorStr" alt="" coords="1632,264,1751,290"/>
+<area shape="rect" id="node7" href="$da/d6a/namespace_display.html#a959223815cca12935461ff196af53168" title="Display::OkayStr" alt="" coords="1631,188,1752,214"/>
+<area shape="rect" id="node11" href="$d4/def/class_m_c_a.html#a9ec349ada510437c6a7b629aa8289987" title="Check if the histogram construction was successful. " alt="" coords="501,398,602,425"/>
+<area shape="rect" id="node12" href="$d4/def/class_m_c_a.html#ae638fbf7cf9c8dc94e1392095ada6686" title="Start the MCA running. " alt="" coords="727,264,809,290"/>
+<area shape="rect" id="node20" href="$d4/def/class_m_c_a.html#a43fc6de2e65a5b56a906c24a58478198" title="Update the MCA histograms. " alt="" coords="725,398,811,425"/>
+<area shape="rect" id="node13" href="$d9/dc6/class_pixie_interface.html#afd46659640c05572d21cb408673e0fb9" title="PixieInterface::StartHistogramRun" alt="" coords="893,86,1113,113"/>
+<area shape="rect" id="node15" href="$d4/def/class_m_c_a.html#a86ec2de5b49c9e24fc8c612ef42cff4a" title="Return the length of time the MCA has been running. " alt="" coords="937,188,1069,214"/>
+<area shape="rect" id="node16" href="$d9/dc6/class_pixie_interface.html#ac3107015236ddf3ecb0536a5da92fed9" title="PixieInterface::CheckRun\lStatus" alt="" coords="918,391,1089,432"/>
+<area shape="rect" id="node17" href="$d4/def/class_m_c_a.html#a782e532d393383d277b77c757e8367e1" title="Abstract method describing how the MCA data is stored. " alt="" coords="945,289,1062,316"/>
+<area shape="rect" id="node18" href="$d4/def/class_m_c_a.html#a2d6d957bea6f6d5678e5ccc65f6d2507" title="Flush the current memory to disk. " alt="" coords="958,340,1049,366"/>
+<area shape="rect" id="node19" href="$d9/dc6/class_pixie_interface.html#a835561dc9e2ac27d045dcf1cd043fc9f" title="PixieInterface::EndRun" alt="" coords="925,238,1081,265"/>
+<area shape="rect" id="node14" href="$d9/dc6/class_pixie_interface.html#a020c215db812631cc4f9bd977c1bfd87" title="PixieInterface::CheckError" alt="" coords="1161,86,1336,113"/>
+<area shape="rect" id="node22" href="$d9/dc6/class_pixie_interface.html#aaeb270efa120bd3053d80ffecaac2361" title="PixieInterface::ReadHistogram" alt="" coords="1384,514,1583,541"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Poll::broadcast_pac_data" name="Poll::broadcast_pac_data">
+<area shape="rect" id="node2" href="$d6/db0/class_poll.html#a2c19891ad6e9da2eacf7e208cec08db0" title="Broadcast a data spill onto the network. " alt="" coords="223,5,364,32"/>
+<area shape="rect" id="node3" href="$d6/db0/class_poll.html#a7bc77d04169be53d1a3553e0a55932d6" title="Acquire raw traces from a pixie module. " alt="" coords="412,5,525,32"/>
+</map>

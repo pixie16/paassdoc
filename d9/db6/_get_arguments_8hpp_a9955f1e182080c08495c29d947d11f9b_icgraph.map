@@ -1,0 +1,11 @@
+<map id="GetArgument" name="GetArgument">
+<area shape="rect" id="node2" href="$d2/daa/class_anl1471_processor.html#ab04dd55ac82867dee49f11e02e733ac2" title="Anl1471Processor::Anl1471\lProcessor" alt="" coords="169,5,351,47"/>
+<area shape="rect" id="node3" href="$d3/dfa/_get_arguments_8cpp.html#a6548defa977d908011f5192a59873366" title="Returns an argv style array that can be used to pass to getopt and other similar functions. " alt="" coords="207,71,313,98"/>
+<area shape="rect" id="node6" href="$de/d81/class_i_s600_processor.html#a6d81ec42cf9105860f1b228c33e94ee1" title="IS600Processor::IS600Processor" alt="" coords="152,122,368,149"/>
+<area shape="rect" id="node7" href="$d6/d96/class_valid_processor.html#acf61c680ef64ca7835e5d22de2c9ec32" title="ValidProcessor::OutputData" alt="" coords="168,173,352,199"/>
+<area shape="rect" id="node10" href="$d1/db0/class_vandle_at_leribss_processor.html#a0b0af1c267cfb4d0cea1fbc0677eb64d" title="VandleAtLeribssProcessor\l::VandleAtLeribssProcessor" alt="" coords="168,224,352,265"/>
+<area shape="rect" id="node4" href="$d8/dd1/scope_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="713,85,763,111"/>
+<area shape="rect" id="node5" href="$d1/dd5/utkscanor_8cpp.html#a8dbf7975e3e8cf9404086d6f85c6f308" title="Begins setups the interface between SCANOR and the C++ and the Unpacker. It also handles the processi..." alt="" coords="465,97,534,123"/>
+<area shape="rect" id="node8" href="$d6/d96/class_valid_processor.html#a6a1a17223b39cd75da0205019dcbe700" title="ValidProcessor::Process" alt="" coords="416,147,583,174"/>
+<area shape="rect" id="node9" href="$d6/d96/class_valid_processor.html#a78fd9a072129677181d1a44c49523949" title="ValidProcessor::~ValidProcessor" alt="" coords="631,161,845,187"/>
+</map>

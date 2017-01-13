@@ -1,0 +1,13 @@
+<map id="GeProcessor" name="GeProcessor">
+<area shape="rect" id="node2" href="$d6/d65/class_event_processor.html" title="Class to handle event processing. " alt="" coords="2316,229,2431,256"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="213,363,293,389"/>
+<area shape="rect" id="node7" href="$da/d8d/class_detector_summary.html" title="Summary of all channels of one detector type. " alt="" coords="1755,499,1881,525"/>
+<area shape="rect" id="node15" href="$d7/d8b/class_plots.html" title="Holds pointers to all Histograms. " alt="" coords="820,251,872,277"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="5,355,132,397"/>
+<area shape="rect" id="node9" href="$d5/d91/class_chan_event.html" title="A channel event. " alt="" coords="1233,463,1320,489"/>
+<area shape="rect" id="node10" href="$dd/db7/class_trace.html" title="Store the information for a trace. " alt="" coords="1087,417,1141,444"/>
+<area shape="rect" id="node11" title="STL class. " alt="" coords="772,510,920,551"/>
+<area shape="rect" id="node21" href="$d2/ddd/class_xia_data.html" title="A pixie16 channel event. " alt="" coords="1080,472,1148,499"/>
+<area shape="rect" id="node16" href="$d7/d6e/class_plots_register.html" title="Holds ranges and offsets of all plots. Singleton class. " alt="" coords="453,44,553,71"/>
+<area shape="rect" id="node25" href="$d5/de7/class_add_back_event.html" title="Simple structure&#45;like class to store info on addback reconstructed event. " alt="" coords="2024,571,2133,597"/>
+</map>

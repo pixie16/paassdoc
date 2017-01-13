@@ -1,0 +1,4 @@
+<map id="Filterer::ResetGraph" name="Filterer::ResetGraph">
+<area shape="rect" id="node2" href="$d3/d4d/class_filterer.html#a51d2513f90bb3f612d899a0fbf92bad8" title="Plot the current event. " alt="" coords="192,5,285,32"/>
+<area shape="rect" id="node3" href="$d3/d4d/class_filterer.html#af040e1a77b4e653efbc3484c426e108e" title="Process all events in the event list. " alt="" coords="333,5,511,32"/>
+</map>

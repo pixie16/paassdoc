@@ -1,0 +1,6 @@
+<map id="PositionProcessor::DeclarePlots" name="PositionProcessor::DeclarePlots">
+<area shape="rect" id="node2" href="$d7/d8b/class_plots.html#a59a2ffc3288d877c695346d82499e769" title="Declares a 2D histogram calls the C++ wrapper for DAMM. " alt="" coords="189,5,368,32"/>
+<area shape="rect" id="node4" href="$d7/d8b/class_plots.html#a126b1dfe1d671776ee1caddc7cc249b9" title="Declares a 1D histogram calls the C++ wrapper for DAMM. " alt="" coords="189,56,368,83"/>
+<area shape="rect" id="node3" href="$da/d57/_scanor_8hpp.html#a65d497b6686f1daba9896091bada3eb1" title="create a DAMM 2D histogram " alt="" coords="416,5,473,32"/>
+<area shape="rect" id="node5" href="$da/d57/_scanor_8hpp.html#ae9985183725e9354913756c7f86d355a" title="create a DAMM 1D histogram args are damm id, half&#45;words per channel, param length, hist length, low x&#45;range, high x&#45;range, and title " alt="" coords="416,56,473,83"/>
+</map>

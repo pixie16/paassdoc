@@ -1,0 +1,8 @@
+<map id="XiaData::GetId" name="XiaData::GetId">
+<area shape="rect" id="node2" href="$d4/d48/class_utk_unpacker.html#ad82e3bffaf0c59a8ef4c7e98b57ce29b" title="Add an event to generic statistics output. " alt="" coords="161,5,323,32"/>
+<area shape="rect" id="node4" href="$d2/ddd/class_xia_data.html#aa55717f1075138b14d12b100f1a5cd72" title="Equality operator that compares checks if we have the same channel (i.e. the ID and Time are identica..." alt="" coords="173,56,311,83"/>
+<area shape="rect" id="node6" href="$d2/ddd/class_xia_data.html#aae18ee188fa07f1f6f3429237b188fe2" title="A method that will compare the unique ID of two XiaData classes. " alt="" coords="173,107,311,133"/>
+<area shape="rect" id="node3" href="$d4/d48/class_utk_unpacker.html#a9bdcb58a08aa9b338085aa1a147214a5" title="Default constructor that does nothing in particular. " alt="" coords="371,5,551,32"/>
+<area shape="rect" id="node5" href="$d2/ddd/class_xia_data.html#ad3f9ba9b20f93f1fe6c958bba0aaf57f" title="The conjugate of the equality operator. " alt="" coords="393,56,528,83"/>
+<area shape="rect" id="node7" href="$da/de2/unittest-_xia_data_8cpp.html#ab7a7339d46ef526171977725566f6cbd" title="TEST" alt="" coords="433,107,489,133"/>
+</map>

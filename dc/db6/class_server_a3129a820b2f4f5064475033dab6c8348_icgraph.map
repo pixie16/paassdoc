@@ -1,0 +1,11 @@
+<map id="Server::Close" name="Server::Close">
+<area shape="rect" id="node2" href="$dd/d8b/listener_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="187,5,237,32"/>
+<area shape="rect" id="node3" href="$d6/db0/class_poll.html#ab16cd3eb72cac653541300cb6536e710" title="Close the sockets, any open files, and clean up. " alt="" coords="169,56,255,83"/>
+<area shape="rect" id="node7" href="$dc/db6/class_server.html#a4b3aa2579cb1c8cd1d069582c14d0fa6" title="Server::~Server" alt="" coords="155,107,269,133"/>
+<area shape="rect" id="node8" href="$dc/db6/class_server.html#a5de021f3be9993d7e050c58f64cd083a" title="Server::Get" alt="" coords="167,157,257,184"/>
+<area shape="rect" id="node9" href="$d3/d7a/class_client.html#a840e519ca781888cbd54181572ebe3a7" title="Client::~Client" alt="" coords="160,208,264,235"/>
+<area shape="rect" id="node10" href="$d3/d7a/class_client.html#a7af74af1015f21528f63d6d9274b4b99" title="Client::Get" alt="" coords="170,259,254,285"/>
+<area shape="rect" id="node4" href="$d1/d50/poll2_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="349,5,399,32"/>
+<area shape="rect" id="node5" href="$d6/db0/class_poll.html#ab99bf5ecc1992b6023e19fbb6b321f7a" title="Destructor. " alt="" coords="333,56,415,83"/>
+<area shape="rect" id="node6" href="$d6/db0/class_poll.html#a7bc77d04169be53d1a3553e0a55932d6" title="Acquire raw traces from a pixie module. " alt="" coords="317,107,431,133"/>
+</map>

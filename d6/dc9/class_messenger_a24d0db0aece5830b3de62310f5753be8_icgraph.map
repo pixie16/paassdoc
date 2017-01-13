@@ -1,0 +1,51 @@
+<map id="Messenger::detail" name="Messenger::detail">
+<area shape="rect" id="node2" href="$de/d91/class_detector_driver.html#a594450e52165ddad3727bf07d8900e65" title="DetectorDriver::LoadProcessors" alt="" coords="420,776,627,802"/>
+<area shape="rect" id="node7" href="$dc/dbe/class_detector_library.html#ac23ea6a58bbe4c8f927b8f76f0970ce1" title="DetectorLibrary::LoadXml" alt="" coords="1231,101,1400,128"/>
+<area shape="rect" id="node9" href="$dc/dbe/class_detector_library.html#aba2abe6bab5438a3007c9a745d442fb0" title="DetectorLibrary::PrintUsed\lDetectors" alt="" coords="182,271,357,312"/>
+<area shape="rect" id="node13" href="$d6/d65/class_event_processor.html#aebda4c898e4e7fb6115d17366802a16d" title="EventProcessor::Init" alt="" coords="975,1282,1116,1309"/>
+<area shape="rect" id="node15" href="$d3/dab/class_lite_position_processor.html#a21187f3e55bb450c2dbcbc61e8b7cfd3" title="LitePositionProcessor\l::Init" alt="" coords="1241,1334,1390,1375"/>
+<area shape="rect" id="node18" href="$d0/d8c/class_ge_calib_processor.html#a14f1541f72f75f1c64872e3ce557060d" title="GeCalibProcessor::Declare\lPlots" alt="" coords="695,507,873,548"/>
+<area shape="rect" id="node19" href="$d2/d54/class_ge_processor.html#a2d5dd26379e3838e228af64a5b4d523e" title="GeProcessor::GeProcessor" alt="" coords="1224,1130,1407,1157"/>
+<area shape="rect" id="node20" href="$d2/d54/class_ge_processor.html#a34a3e914ec6735a70ee2898fcd726747" title="GeProcessor::DeclarePlots" alt="" coords="694,456,874,482"/>
+<area shape="rect" id="node22" href="$d3/daf/class_globals.html#ad6c9fda8d0018300ce2a7b7e481181c2" title="Globals::Globals" alt="" coords="725,953,843,980"/>
+<area shape="rect" id="node28" href="$d0/d51/class_notebook.html#a1ca045e919168c2c40fe04962c7b6800" title="Default constructor. " alt="" coords="1245,1181,1385,1208"/>
+<area shape="rect" id="node34" href="$d3/daf/class_globals.html#a3bedee64cc799d6f373d15308f600c63" title="Globals::SanityCheck" alt="" coords="449,1029,597,1056"/>
+<area shape="rect" id="node35" href="$d6/dc9/class_messenger.html#a130e83285254c9149629842ca2aa6f20" title="Messenger::warning" alt="" coords="200,852,339,878"/>
+<area shape="rect" id="node37" href="$d6/dc9/class_messenger.html#a1b47ad62ebac8fdafd2d7a2d8ee7b642" title="Messenger::start" alt="" coords="463,368,583,394"/>
+<area shape="rect" id="node40" href="$d6/dc9/class_messenger.html#a770167e668ce59153a05f61a30b548b0" title="Messenger::run_message" alt="" coords="183,674,355,701"/>
+<area shape="rect" id="node42" href="$d7/d1a/class_place_builder.html#a4694bb682a75b78d63eb1610cb53e846" title="PlaceBuilder::create" alt="" coords="200,1384,339,1410"/>
+<area shape="rect" id="node43" href="$d7/d6e/class_plots_register.html#aadca1638e9299073c4d77f9a7e182a7f" title="PlotsRegister::Add" alt="" coords="204,1434,335,1461"/>
+<area shape="rect" id="node45" href="$dc/d32/class_raw_event.html#a0405b96da430f69eb01fc8a7668420cc" title="Get a pointer to a specific detector summary. " alt="" coords="701,1080,867,1106"/>
+<area shape="rect" id="node47" href="$df/d59/class_stats_data.html#af1845e54a5aae1653fc7bf0803fceccf" title="StatsData::StatsData" alt="" coords="196,1485,343,1512"/>
+<area shape="rect" id="node48" href="$d3/d2c/class_tree_correlator.html#a45d6a037fc0b44771cb89492cb6e1023" title="TreeCorrelator::addChild" alt="" coords="188,1536,351,1562"/>
+<area shape="rect" id="node49" href="$d3/d2c/class_tree_correlator.html#ab37566c3af5521659b90f38de3674176" title="TreeCorrelator::createPlace" alt="" coords="179,101,360,128"/>
+<area shape="rect" id="node3" href="$de/d91/class_detector_driver.html#aac6fa05787b262bb9ca406e36a58668a" title="DetectorDriver::Detector\lDriver" alt="" coords="1234,730,1397,771"/>
+<area shape="rect" id="node5" href="$de/d91/class_detector_driver.html#ac59589819db9e526e9abecb6328cc0e4" title="Declares a 2D histogram calls the C++ wrapper for DAMM. " alt="" coords="929,304,1161,330"/>
+<area shape="rect" id="node4" href="$de/d91/class_detector_driver.html#a5714ef715175fa1c2b1f6b361e1ddd99" title="DetectorDriver::GetProcessors" alt="" coords="1469,737,1669,764"/>
+<area shape="rect" id="node6" href="$de/d91/class_detector_driver.html#a8810acdc149879688b81ec333531a28e" title="DetectorDriver::DeclarePlots" alt="" coords="1222,613,1409,640"/>
+<area shape="rect" id="node8" href="$dc/dbe/class_detector_library.html#a139f2413cf7d9890e32d87a0968b0fa2" title="Default Constructor. " alt="" coords="1486,144,1653,186"/>
+<area shape="rect" id="node10" href="$dc/dbe/class_detector_library.html#a86adb8dc4734c9f47e9d6dd649dd61a8" title="DetectorLibrary::GetModules" alt="" coords="429,278,617,305"/>
+<area shape="rect" id="node11" href="$d4/d48/class_utk_unpacker.html#afc492eee693ad62bea4c8bd9fb2eb659" title="Initializes the DetectorLibrary and DetectorDriver. " alt="" coords="691,152,877,178"/>
+<area shape="rect" id="node12" href="$d4/d48/class_utk_unpacker.html#a9bdcb58a08aa9b338085aa1a147214a5" title="Default constructor that does nothing in particular. " alt="" coords="1479,562,1659,589"/>
+<area shape="rect" id="node14" href="$d6/d65/class_event_processor.html#a0cffd98323d96a9ac048c72401e08197" title="EventProcessor::DidProcess" alt="" coords="1220,1232,1411,1258"/>
+<area shape="rect" id="node17" href="$d3/df3/class_position_processor.html#a4c7bb0b65dbf1115f6a10f0f9b0da0a0" title="Reads in QDC parameters from an input file. " alt="" coords="1238,1282,1393,1309"/>
+<area shape="rect" id="node16" href="$d3/dab/class_lite_position_processor.html#a602ce3c9355626b96649b08690d391ef" title="LitePositionProcessor\l::~LitePositionProcessor" alt="" coords="1487,1334,1652,1375"/>
+<area shape="rect" id="node21" href="$d5/df2/class_ge4_hen3_processor.html#a918c80547f182063df5070f2616457ef" title="Ge4Hen3Processor::Declare\lPlots" alt="" coords="952,456,1139,498"/>
+<area shape="rect" id="node23" href="$d3/daf/class_globals.html#ae66fa0173342202c96b13d71a6522512" title="Globals::get" alt="" coords="999,877,1091,904"/>
+<area shape="rect" id="node24" href="$de/d91/class_detector_driver.html#a2ae4e98c641d49183631eceb40dc19bb" title="Check threshold and calibrate each channel. Check the thresholds and calibrate the energy for each ch..." alt="" coords="1218,1080,1413,1106"/>
+<area shape="rect" id="node25" href="$db/da8/class_dssd4_s_h_e_processor.html#a069993b16eb9c18b547a279e9f5d1b28" title="Dssd4SHEProcessor::\lPreProcess" alt="" coords="1239,795,1392,836"/>
+<area shape="rect" id="node26" href="$de/d81/class_i_s600_processor.html#a92f29e9c021fffb08f02bf48d12aff42" title="IS600Processor::Process" alt="" coords="1230,962,1401,989"/>
+<area shape="rect" id="node27" href="$da/d2f/class_logic_processor.html#a91ad87eb1649cebfa5a90de4943455ae" title="LogicProcessor::PreProcess" alt="" coords="1221,861,1409,888"/>
+<area shape="rect" id="node30" href="$d9/ddc/class_template_exp_processor.html#a06fae87a5826408aec8db9fadf000dd3" title="Main processing of data of interest. " alt="" coords="1236,1014,1395,1055"/>
+<area shape="rect" id="node31" href="$dd/d02/class_timing_calibrator.html#af94e93cc51405328f992d3636e586a39" title="Reads in the calibrations in the XML config. " alt="" coords="1219,664,1412,706"/>
+<area shape="rect" id="node32" href="$d3/d2c/class_tree_correlator.html#ab6016005579b56ba1e8df981ed8c3559" title="TreeCorrelator::buildTree" alt="" coords="1233,202,1398,229"/>
+<area shape="rect" id="node33" href="$d4/d48/class_utk_unpacker.html#ae5b939ec62e20df3004047ce4f3370f0" title="Process all events in the event list. " alt="" coords="1209,912,1421,938"/>
+<area shape="rect" id="node29" href="$d0/d51/class_notebook.html#afed0d7a9c4df3ded88f0446972fb1b3b" title="Notebook::get" alt="" coords="1518,1181,1621,1208"/>
+<area shape="rect" id="node36" href="$d3/daf/class_globals.html#a9dc8ebff5b3cb81999c90462abb4afca" title="Globals::WarnOfUnknownParameter" alt="" coords="408,928,639,954"/>
+<area shape="rect" id="node38" href="$de/d91/class_detector_driver.html#ad6e1f2f1c6cd0e96b7a1eeeae806d486" title="DetectorDriver::ReadCalXml" alt="" coords="691,253,877,280"/>
+<area shape="rect" id="node39" href="$de/d91/class_detector_driver.html#a42bde0c6e38229294699852d1d04ba54" title="DetectorDriver::ReadWalkXml" alt="" coords="687,304,881,330"/>
+<area shape="rect" id="node41" href="$d4/d48/class_utk_unpacker.html#a7818e84947a59d4176278a15ce122651" title="Prints information about time spent processing to the screen. " alt="" coords="947,560,1144,602"/>
+<area shape="rect" id="node44" href="$d7/d8b/class_plots.html#af795c1ebfbd506a4201c37b99781e5ad" title="Plots::Plots" alt="" coords="478,1434,569,1461"/>
+<area shape="rect" id="node46" href="$dc/d32/class_raw_event.html#a45a31e974697ce05044bb794780751bc" title="RawEvent::AddChan" alt="" coords="974,978,1117,1005"/>
+<area shape="rect" id="node50" href="$d1/d49/class_walker.html#a134d79294b86c411442f8bb4dc13c075" title="Walker::parsePlace" alt="" coords="456,101,591,128"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Server::Get" name="Server::Get">
+<area shape="rect" id="node2" href="$dc/db6/class_server.html#a2c64c41dce5c09acd055f828cff0eb10" title="Initialize the serv object and open a specified port. Returns false if the socket fails to open or th..." alt="" coords="175,5,261,32"/>
+<area shape="rect" id="node3" href="$dc/db6/class_server.html#a0dee8e3863d0bb70c72f3a0a52e2dc8b" title="Server::RecvMessage" alt="" coords="143,56,293,83"/>
+<area shape="rect" id="node4" href="$dc/db6/class_server.html#a4287186ae68788a79b6400345961085e" title="Server::SendMessage" alt="" coords="143,107,293,133"/>
+<area shape="rect" id="node5" href="$dc/db6/class_server.html#ab1fcb52d21cb4ba23543bbd52d539309" title="Server::Select" alt="" coords="165,157,271,184"/>
+<area shape="rect" id="node6" href="$dc/db6/class_server.html#a3129a820b2f4f5064475033dab6c8348" title="Close the socket. " alt="" coords="167,208,269,235"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="StatsHandler::CanSend" name="StatsHandler::CanSend">
+<area shape="rect" id="node2" href="$d2/d58/class_stats_handler.html#a409f63879ca1c7b9d12184d07703b9c8" title="Clear the stats. " alt="" coords="214,49,349,76"/>
+<area shape="rect" id="node3" href="$d2/d58/class_stats_handler.html#afb61bd932e6d4350a9e6fa36526deb52" title="StatsHandler::ClearRates" alt="" coords="419,5,588,32"/>
+<area shape="rect" id="node4" href="$d2/d58/class_stats_handler.html#a01df5186e4927be0fed832c48dd746d0" title="StatsHandler::ClearTotals" alt="" coords="418,68,589,95"/>
+<area shape="rect" id="node5" href="$d2/d58/class_stats_handler.html#af5047dce80fd4f2c91863a485fa9fcb0" title="StatsHandler::Dump" alt="" coords="212,151,351,177"/>
+<area shape="rect" id="node6" href="$d2/d58/class_stats_handler.html#ae97addec3c4a6aeb4e405fc4d940638e" title="StatsHandler::GetTotalDataRate" alt="" coords="399,125,608,152"/>
+<area shape="rect" id="node8" href="$d3/d7a/class_client.html#a1bbb757d713ad68ebbef801cde60f438" title="Client::SendMessage" alt="" coords="430,176,577,203"/>
+<area shape="rect" id="node7" href="$d2/d58/class_stats_handler.html#a32f7e84315adff7ced7609444f35ef66" title="StatsHandler::GetDataRate" alt="" coords="656,125,836,152"/>
+</map>

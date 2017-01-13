@@ -1,0 +1,51 @@
+<map id="ImplantSsdProcessor::~ImplantSsdProcessor" name="ImplantSsdProcessor::~ImplantSsdProcessor">
+<area shape="rect" id="node2" href="$df/df5/class_implant_ssd_processor.html#a0be1ce2d426608abbbdb8b3c68a505c1" title="ImplantSsdProcessor\l::DeclarePlots" alt="" coords="216,74,363,115"/>
+<area shape="rect" id="node8" href="$df/df5/class_implant_ssd_processor.html#a4633fc3b34a8e8915713dd8e1ba5666a" title="ImplantSsdProcessor\l::Process" alt="" coords="216,763,363,805"/>
+<area shape="rect" id="node3" href="$d6/d65/class_event_processor.html#a37b6d5ad90cc6e55c8021682a355764a" title="Declares a 2D histogram calls the C++ wrapper for DAMM. " alt="" coords="411,107,653,133"/>
+<area shape="rect" id="node4" href="$d7/d8b/class_plots.html#a59a2ffc3288d877c695346d82499e769" title="Declares a 2D histogram calls the C++ wrapper for DAMM. " alt="" coords="722,81,901,108"/>
+<area shape="rect" id="node6" href="$d6/d65/class_event_processor.html#aac0d7f24194df48f204ebb9c9b75e19d" title="Declares a 1D histogram calls the C++ wrapper for DAMM. " alt="" coords="411,5,653,32"/>
+<area shape="rect" id="node5" href="$da/d57/_scanor_8hpp.html#a65d497b6686f1daba9896091bada3eb1" title="create a DAMM 2D histogram " alt="" coords="1035,81,1093,108"/>
+<area shape="rect" id="node7" href="$d7/d8b/class_plots.html#a126b1dfe1d671776ee1caddc7cc249b9" title="Declares a 1D histogram calls the C++ wrapper for DAMM. " alt="" coords="722,5,901,32"/>
+<area shape="rect" id="node9" href="$d6/d65/class_event_processor.html#ae2d41a947da0cb509fd0ca85f6caa0fc" title="EventProcessor::Process" alt="" coords="447,644,617,671"/>
+<area shape="rect" id="node10" href="$d6/d65/class_event_processor.html#a301eb8d69b3ceeeb4e69ce84a685f5a1" title="EventProcessor::EndProcess" alt="" coords="714,517,909,544"/>
+<area shape="rect" id="node11" href="$de/d91/class_detector_driver.html#a374a759674faebb18f7a2b4fa06c7a70" title="DetectorDriver::get" alt="" coords="467,745,597,772"/>
+<area shape="rect" id="node12" href="$da/d8d/class_detector_summary.html#aa47649071e73eac71e19e9864fc4a652" title="DetectorSummary::GetMult" alt="" coords="441,796,623,823"/>
+<area shape="rect" id="node13" href="$de/d91/class_detector_driver.html#a5714ef715175fa1c2b1f6b361e1ddd99" title="DetectorDriver::GetProcessors" alt="" coords="432,948,632,975"/>
+<area shape="rect" id="node19" href="$da/d8d/class_detector_summary.html#ab004b668f9a69706d4a7f7a87a676260" title="DetectorSummary::GetMaxEvent" alt="" coords="425,897,639,924"/>
+<area shape="rect" id="node20" href="$d5/d91/class_chan_event.html#a56a480fad4a8c6728e783db0cf659c9f" title="ChanEvent::GetChanID" alt="" coords="732,1151,891,1177"/>
+<area shape="rect" id="node25" href="$d7/de7/class_identifier.html#af01e5062be749992956d81ff35325de0" title="Identifier::GetLocation" alt="" coords="457,1049,607,1076"/>
+<area shape="rect" id="node26" href="$d5/d91/class_chan_event.html#a0476de1862fe32feafc5c6008e2e04a6" title="ChanEvent::IsSaturated" alt="" coords="451,1303,613,1329"/>
+<area shape="rect" id="node31" href="$d5/d91/class_chan_event.html#a0869d757db1936ae509ae36b00ee7b94" title="ChanEvent::GetCalEnergy" alt="" coords="445,1100,619,1127"/>
+<area shape="rect" id="node32" href="$d5/d91/class_chan_event.html#ad3af219effd863063c3d2f264af5783a" title="ChanEvent::GetTrace" alt="" coords="458,1151,606,1177"/>
+<area shape="rect" id="node33" href="$dd/db7/class_trace.html#afe0671b4a324a28520b1a62364c81072" title="Trace::HasValue" alt="" coords="473,1201,591,1228"/>
+<area shape="rect" id="node34" href="$dd/db7/class_trace.html#a3575dde1f951a53f52a3d03482b7eaa3" title="Trace::GetValue" alt="" coords="473,1252,591,1279"/>
+<area shape="rect" id="node35" href="$d5/d91/class_chan_event.html#a68ebc74f549f23b897431c9ae5448875" title="ChanEvent::GetTime" alt="" coords="460,1404,604,1431"/>
+<area shape="rect" id="node37" href="$da/d2f/class_logic_processor.html#a75552a997dac8841cbb784b031bb2e7c" title="LogicProcessor::StartCount" alt="" coords="441,1353,623,1380"/>
+<area shape="rect" id="node38" href="$da/d2f/class_logic_processor.html#a6ea7b52ba3cff9cebb6c967ef70db524" title="LogicProcessor::LogicStatus" alt="" coords="717,741,906,768"/>
+<area shape="rect" id="node39" href="$da/d2f/class_logic_processor.html#a7beb770b2f0282c5a151d53a87615c5c" title="LogicProcessor::TimeOff" alt="" coords="449,695,615,721"/>
+<area shape="rect" id="node40" href="$da/d8d/class_detector_summary.html#adcb2a931cbd22a6e5f0604fd27886c29" title="DetectorSummary::GetList" alt="" coords="443,208,621,235"/>
+<area shape="rect" id="node41" href="$d6/d65/class_event_processor.html#ad5201bb392726e409ba2a6ac44e764d8" title="Implementation of the plot command to interface with the DAMM routines. " alt="" coords="460,157,604,184"/>
+<area shape="rect" id="node43" href="$df/df5/class_implant_ssd_processor.html#a77a2573e5e8cc36ada9a5277bb4ae06b" title="ImplantSsdProcessor\l::SetType" alt="" coords="459,325,605,366"/>
+<area shape="rect" id="node44" href="$df/df5/class_implant_ssd_processor.html#aa058ca6ee5475b4bf6426b1c69ef9c79" title="ImplantSsdProcessor\l::Correlate" alt="" coords="459,259,605,301"/>
+<area shape="rect" id="node47" href="$db/d61/class_calibrator.html#ab6ed770b7450e7b6081ff7749420da20" title="Calibrator::GetCalEnergy" alt="" coords="449,441,615,468"/>
+<area shape="rect" id="node48" href="$df/d86/class_correlator.html#acfe7546a52ab5a8b653c3aa29f8da417" title="Correlator::Flag" alt="" coords="477,492,587,519"/>
+<area shape="rect" id="node49" href="$dd/db7/class_trace.html#a6658e5f00680c02e9bafece89e72a7f3" title="Trace::Plot" alt="" coords="489,543,575,569"/>
+<area shape="rect" id="node50" href="$d5/d91/class_chan_event.html#a66ac70929ec696e92b2af14a027c8b93" title="ChanEvent::GetEnergy" alt="" coords="454,593,610,620"/>
+<area shape="rect" id="node14" href="$de/d91/class_detector_driver.html#ac58cdd84f2946302c98da7699fb432da" title="DetectorDriver::GetProcessor" alt="" coords="715,839,908,865"/>
+<area shape="rect" id="node15" href="$de/d91/class_detector_driver.html#aab49b0b78dae8d66014b7c2d193b1792" title="DetectorDriver::GetUsedDetectors" alt="" coords="701,889,921,916"/>
+<area shape="rect" id="node16" href="$de/d91/class_detector_driver.html#ac74cc085032fae77184ac8a773afa74a" title="DetectorDriver::~Detector\lDriver" alt="" coords="726,941,897,982"/>
+<area shape="rect" id="node17" href="$de/d91/class_detector_driver.html#aac6fa05787b262bb9ca406e36a58668a" title="DetectorDriver::Detector\lDriver" alt="" coords="730,1006,893,1047"/>
+<area shape="rect" id="node18" href="$de/d91/class_detector_driver.html#ae4914261379164fe397b7d2726ec38dd" title="Equality constructor. " alt="" coords="727,1072,895,1099"/>
+<area shape="rect" id="node21" href="$dc/dbe/class_detector_library.html#a6ab3ff825daa8b607865086741bc9b2c" title="DetectorLibrary::get" alt="" coords="996,1252,1132,1279"/>
+<area shape="rect" id="node22" href="$dc/dbe/class_detector_library.html#ac55ae5398583a68ac2eb448b926f365f" title="DetectorLibrary::at" alt="" coords="999,1100,1129,1127"/>
+<area shape="rect" id="node23" href="$d2/ddd/class_xia_data.html#a041f6911911ef2a34f20b0df1698d508" title="XiaData::GetModuleNumber" alt="" coords="972,1151,1156,1177"/>
+<area shape="rect" id="node24" href="$d2/ddd/class_xia_data.html#a666be81f5c59ecd502e1f3cd09d5335a" title="XiaData::GetChannelNumber" alt="" coords="969,1201,1159,1228"/>
+<area shape="rect" id="node27" href="$d2/ddd/class_xia_data.html#a0eaaf6adf888d7931cf54cee335a6f4d" title="XiaData::IsSaturated" alt="" coords="740,1353,883,1380"/>
+<area shape="rect" id="node28" href="$d5/d91/class_chan_event.html#a9ba5c68ccf5e5847277aea7811aa79b8" title="ChanEvent::GetID" alt="" coords="747,1252,875,1279"/>
+<area shape="rect" id="node29" href="$d5/d91/class_chan_event.html#ad85e356633325ff1c6d0a6342593c4b5" title="ChanEvent::GetQdcValue" alt="" coords="725,1201,897,1228"/>
+<area shape="rect" id="node30" href="$d5/d91/class_chan_event.html#a70751f8d280112b4a84065430c388dfb" title="[Zero Channel] " alt="" coords="741,1303,881,1329"/>
+<area shape="rect" id="node36" href="$d2/ddd/class_xia_data.html#a36f4c2263068268968b790786d4b61da" title="Method that will return the time for the channel. The actual time is a 48&#45;bit number. We multiply 2^32 by the eventTimeHigh_ so that we account for the missing upper 16 bits of the number. The cfdTime_ contains all of the fractional time information, and so we divide by 2^16 here. &#160;Verify that this method works properly for all of the different module types and firmwares. It doesn&#39;t and this value simply needs to be set explicitly by the Decoder. " alt="" coords="748,1404,875,1431"/>
+<area shape="rect" id="node42" href="$d7/d8b/class_plots.html#a68849b82c8c7a5d57f972cbd8de83328" title="Plots into histogram defined by dammId. " alt="" coords="770,157,853,184"/>
+<area shape="rect" id="node45" href="$df/d86/class_correlator.html#aa7fb605cbe3261b5beae1e1ed7f9fa54" title="Correlator::CorrelateAllY" alt="" coords="730,292,893,319"/>
+<area shape="rect" id="node46" href="$df/d86/class_correlator.html#a24bd6e7418fd89b55da9d0d4e6f0ac42" title="Correlator::Correlate" alt="" coords="742,241,881,268"/>
+</map>

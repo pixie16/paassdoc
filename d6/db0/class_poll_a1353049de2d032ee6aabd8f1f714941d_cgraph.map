@@ -1,0 +1,29 @@
+<map id="Poll::Initialize" name="Poll::Initialize">
+<area shape="rect" id="node2" href="$dd/dcd/class_poll_output_file.html#a30a3e2771d2b82f5f7b2635037584178" title="Toggle debug mode. " alt="" coords="154,31,355,57"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_pixie_interface.html#a39be2bf3b422678b8cc4346fcbbffd2b" title="PixieInterface::GetSlots" alt="" coords="174,107,335,133"/>
+<area shape="rect" id="node8" href="$d9/dc6/class_pixie_interface.html#af8e3e7ef5e36b64b204eaae46f4d11a0" title="PixieInterface::Init" alt="" coords="191,477,319,504"/>
+<area shape="rect" id="node13" href="$d6/db0/class_poll.html#acedb6a91e309779b78213f0de688212d" title="Prints the information about each module. " alt="" coords="183,579,326,605"/>
+<area shape="rect" id="node14" href="$d9/dc6/class_pixie_interface.html#a7f5ef8062e7ea784938521306dc25b20" title="PixieInterface::GetNumber\lCards" alt="" coords="421,681,597,722"/>
+<area shape="rect" id="node16" href="$d9/dc6/class_pixie_interface.html#ae470f4ea2b5e2955599a2e05a4d30e25" title="PixieInterface::Boot" alt="" coords="186,335,323,361"/>
+<area shape="rect" id="node20" href="$d6/db0/class_poll.html#a8022b216f73f4f52a02ea89ad1b8851e" title="Set IN_SYNCH and SYNCH_WAIT parameters on all modules. " alt="" coords="191,528,318,555"/>
+<area shape="rect" id="node21" href="$d3/d7a/class_client.html#af3ae3362b6d1a2208a996be5d9d9179e" title="Client::Init" alt="" coords="214,680,295,707"/>
+<area shape="rect" id="node22" href="$dc/db6/class_server.html#a2c64c41dce5c09acd055f828cff0eb10" title="Initialize the serv object and open a specified port. Returns false if the socket fails to open or th..." alt="" coords="211,731,298,757"/>
+<area shape="rect" id="node23" href="$d2/d58/class_stats_handler.html#a5893029be44d424c334f3bb0dbd5e7d9" title="Set the amount of time between scalers dumps in seconds. " alt="" coords="153,823,356,849"/>
+<area shape="rect" id="node3" href="$d4/d57/class_buffer_type.html#a965e66fde54356d4ebdc77042439be90" title="BufferType::SetDebugMode" alt="" coords="417,5,600,32"/>
+<area shape="rect" id="node4" href="$d4/d57/class_buffer_type.html#a13bdce94ebfef9dc1ae90fca6cd66616" title="Return true if the first word of the current buffer is equal to this buffer type. ..." alt="" coords="669,5,834,32"/>
+<area shape="rect" id="node6" href="$da/d6a/namespace_display.html#a762315ce58efcb1203edfcb74158f59b" title="Display::ErrorStr" alt="" coords="891,208,1009,235"/>
+<area shape="rect" id="node7" href="$da/d6a/namespace_display.html#a20a513965bcf1147a5e50247c7bfcd5a" title="Display::InfoStr" alt="" coords="453,107,565,133"/>
+<area shape="rect" id="node9" href="$da/d6a/namespace_display.html#ae1b6ae7834913dfdef71ad859e261c55" title="Display::LeaderPrint" alt="" coords="439,477,578,504"/>
+<area shape="rect" id="node10" href="$d9/dc6/class_pixie_interface.html#a020c215db812631cc4f9bd977c1bfd87" title="PixieInterface::CheckError" alt="" coords="421,360,596,387"/>
+<area shape="rect" id="node11" href="$da/d6a/namespace_display.html#ad59fed09552cdea4f78fea07f06d7a4e" title="Display::StatusPrint" alt="" coords="682,360,821,387"/>
+<area shape="rect" id="node12" href="$da/d6a/namespace_display.html#a959223815cca12935461ff196af53168" title="Display::OkayStr" alt="" coords="889,360,1011,387"/>
+<area shape="rect" id="node15" href="$d9/dc6/class_pixie_interface.html#af1cd46957b5aaa70004b1bb0c44d312e" title="PixieInterface::GetModuleInfo" alt="" coords="411,579,606,605"/>
+<area shape="rect" id="node17" href="$d9/dc6/class_pixie_interface.html#ae4d4aa8172a2a68c38040c767e1d2579" title="PixieInterface::ReadSglModPar" alt="" coords="407,259,611,285"/>
+<area shape="rect" id="node18" href="$da/d6a/namespace_display.html#a0ca7c8835e858cf0b1e0cce72a41ab9c" title="Display::WarningStr" alt="" coords="683,208,820,235"/>
+<area shape="rect" id="node19" href="$d9/dc6/class_pixie_interface.html#a3804dfd96274f4938bdba15cf9e6fe09" title="PixieInterface::WriteSgl\lModPar" alt="" coords="429,411,588,453"/>
+<area shape="rect" id="node24" href="$d2/d58/class_stats_handler.html#a32f7e84315adff7ced7609444f35ef66" title="StatsHandler::GetDataRate" alt="" coords="661,823,841,849"/>
+<area shape="rect" id="node25" href="$d2/d58/class_stats_handler.html#ae97addec3c4a6aeb4e405fc4d940638e" title="StatsHandler::GetTotalDataRate" alt="" coords="404,848,613,875"/>
+<area shape="rect" id="node26" href="$d2/d58/class_stats_handler.html#aa03fc40af12554774f2407a0a56b5d33" title="StatsHandler::GetEventRate" alt="" coords="415,899,602,925"/>
+<area shape="rect" id="node27" href="$d2/d58/class_stats_handler.html#a10f966796de79c55bfa75c6e60bf25ce" title="Return the total run time. " alt="" coords="417,949,601,976"/>
+<area shape="rect" id="node28" href="$d2/d58/class_stats_handler.html#a7c4289a00263f4c9e9bae690cd9435f2" title="Set the ICR and OCR from the XIA module. " alt="" coords="419,747,598,773"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="Identifier::HasTag" name="Identifier::HasTag">
+<area shape="rect" id="node2" href="$de/d91/class_detector_driver.html#a2ae4e98c641d49183631eceb40dc19bb" title="Check threshold and calibrate each channel. Check the thresholds and calibrate the energy for each ch..." alt="" coords="179,127,373,153"/>
+<area shape="rect" id="node10" href="$dc/dbe/class_detector_library.html#afd332c91bd4ce491094d58ee597b2933" title="DetectorLibrary::Set" alt="" coords="207,232,345,259"/>
+<area shape="rect" id="node3" href="$de/d91/class_detector_driver.html#a19c152206c95dfbc2a98ffd1d002165e" title="Control of the event processing. " alt="" coords="421,64,616,91"/>
+<area shape="rect" id="node4" href="$de/d91/class_detector_driver.html#a3a556ab94a878e057dea8a081d0df55a" title="Plots into histogram defined by dammId. " alt="" coords="680,107,815,133"/>
+<area shape="rect" id="node7" href="$d4/d48/class_utk_unpacker.html#ae5b939ec62e20df3004047ce4f3370f0" title="Process all events in the event list. " alt="" coords="879,5,1091,32"/>
+<area shape="rect" id="node5" href="$de/d91/class_detector_driver.html#a7f2a28ba2a756e034e38630a5e258309" title="DetectorDriver::PlotRaw" alt="" coords="904,157,1065,184"/>
+<area shape="rect" id="node6" href="$de/d91/class_detector_driver.html#ad966b8fe4330bb0cf117422b9bd08f40" title="DetectorDriver::PlotCal" alt="" coords="907,56,1062,83"/>
+<area shape="rect" id="node9" href="$d4/d48/class_utk_unpacker.html#ad82e3bffaf0c59a8ef4c7e98b57ce29b" title="Add an event to generic statistics output. " alt="" coords="904,107,1065,133"/>
+<area shape="rect" id="node8" href="$d4/d48/class_utk_unpacker.html#a9bdcb58a08aa9b338085aa1a147214a5" title="Default constructor that does nothing in particular. " alt="" coords="1139,56,1319,83"/>
+<area shape="rect" id="node11" href="$dc/dbe/class_detector_library.html#ac23ea6a58bbe4c8f927b8f76f0970ce1" title="DetectorLibrary::LoadXml" alt="" coords="434,207,603,233"/>
+<area shape="rect" id="node13" href="$dc/dbe/class_detector_library.html#a0878b532124b501773c05cc4926340c4" title="DetectorLibrary::Set" alt="" coords="449,257,588,284"/>
+<area shape="rect" id="node14" href="$dc/dbe/class_detector_library.html#a86adb8dc4734c9f47e9d6dd649dd61a8" title="DetectorLibrary::GetModules" alt="" coords="425,308,613,335"/>
+<area shape="rect" id="node12" href="$dc/dbe/class_detector_library.html#a139f2413cf7d9890e32d87a0968b0fa2" title="Default Constructor. " alt="" coords="664,209,831,250"/>
+</map>

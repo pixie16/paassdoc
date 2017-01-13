@@ -1,0 +1,30 @@
+<map id="TemplateExpProcessor.cpp" name="TemplateExpProcessor.cpp">
+<area shape="rect" id="node5" href="$d3/d6f/_damm_plot_ids_8hpp.html" title="Lists Offsets and Ranges for various Processors. " alt="" coords="3075,603,3202,629"/>
+<area shape="rect" id="node6" href="$dd/dfe/_detector_driver_8hpp.html" title="Main Driver for event processing. " alt="" coords="1524,155,1655,181"/>
+<area shape="rect" id="node17" href="$d0/d24/_raw_event_8hpp.html" title="Header file for the rawevent. " alt="" coords="2220,379,2327,405"/>
+<area shape="rect" id="node36" href="$d5/d18/_ge_processor_8hpp.html" title="Processor for germanium detectors. " alt="" coords="2292,229,2415,256"/>
+<area shape="rect" id="node44" href="$d9/dbf/_template_processor_8hpp.html" title="A Template class to be used to build others. " alt="" coords="977,80,1137,107"/>
+<area shape="rect" id="node45" href="$df/d0b/_template_exp_processor_8hpp.html" title="Example class for experiment specific setups. " alt="" coords="242,229,425,256"/>
+<area shape="rect" id="node46" href="$df/d79/_timing_map_builder_8hpp.html" title="Class to build timing maps. " alt="" coords="2603,80,2754,107"/>
+<area shape="rect" id="node11" href="$df/dbb/_calibrator_8hpp.html" title="Class to handle energy calibrations for the channels. " alt="" coords="1678,603,1781,629"/>
+<area shape="rect" id="node15" href="$df/dcf/_chan_event_8hpp.html" title="A Class to define what a channel event is. " alt="" coords="2733,229,2843,256"/>
+<area shape="rect" id="node18" href="$d4/d9c/_globals_8hpp.html" title="constant parameters used in pixie16 analysis " alt="" coords="2156,677,2247,704"/>
+<area shape="rect" id="node25" href="$d0/db0/_messenger_8hpp.html" title="A class to handle messages and output them prettily. " alt="" coords="1317,752,1427,779"/>
+<area shape="rect" id="node31" href="$de/d87/_plots_8hpp.html" title="A container to request a block of plots and plot respective spectra through the plots register..." alt="" coords="1373,603,1451,629"/>
+<area shape="rect" id="node35" href="$da/d18/_walk_corrector_8hpp.html" title="A Class to handle walk corrections for channels. " alt="" coords="2009,603,2138,629"/>
+<area shape="rect" id="node13" href="$d8/d6a/_identifier_8hpp.html" title="Defines identifying information for channels. " alt="" coords="1827,677,1925,704"/>
+<area shape="rect" id="node16" href="$d6/d3a/_detector_library_8hpp.html" title="This is an extension of the vector of the identifiers that was previously used. " alt="" coords="2181,304,2315,331"/>
+<area shape="rect" id="node30" href="$df/d04/_trace_8hpp.html" title="A simple class to store the traces. " alt="" coords="2845,528,2925,555"/>
+<area shape="rect" id="node34" href="$d3/d2b/_xia_data_8hpp.html" title="XiaData.hpp" alt="" coords="3477,453,3571,480"/>
+<area shape="rect" id="node29" href="$de/d02/_detector_summary_8hpp.html" title="The class that generates the summary of the detectors in the analysis. " alt="" coords="2923,453,3075,480"/>
+<area shape="rect" id="node23" href="$de/d24/_exceptions_8hpp.html" title="Class to handle errors occurring during the execution of the code. " alt="" coords="257,827,369,853"/>
+<area shape="rect" id="node27" href="$dd/d48/_trap_filter_parameters_8hpp.html" title="TrapFilterParameters.hpp" alt="" coords="2019,752,2189,779"/>
+<area shape="rect" id="node33" href="$da/d82/_plots_register_8hpp.html" title="PlotsRegister.hpp" alt="" coords="2773,677,2899,704"/>
+<area shape="rect" id="node32" href="$d3/d87/_his_file_8hpp.html" title="A class to output histograms in a format which HHIRF damm is able to read. " alt="" coords="1158,677,1245,704"/>
+<area shape="rect" id="node37" href="$da/dd1/_event_processor_8hpp.html" title="Generic event processor. " alt="" coords="335,304,475,331"/>
+<area shape="rect" id="node39" href="$d6/ded/_tree_correlator_8hpp.html" title="A class to handle complex correlations between various processors. " alt="" coords="645,379,774,405"/>
+<area shape="rect" id="node40" href="$d5/d2d/_places_8hpp.html" title="Defines the various places for the TreeCorrelator. " alt="" coords="911,528,998,555"/>
+<area shape="rect" id="node43" href="$db/dc4/_place_builder_8hpp.html" title="Defines the various places for the TreeCorrelator. " alt="" coords="797,453,917,480"/>
+<area shape="rect" id="node42" href="$dd/d77/_event_data_8hpp.html" title="Structure holding event data. " alt="" coords="987,603,1095,629"/>
+<area shape="rect" id="node47" href="$df/d14/_high_res_timing_data_8hpp.html" title="Class to hold all of the information for high resolution timing. " alt="" coords="2597,155,2760,181"/>
+</map>

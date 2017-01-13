@@ -1,0 +1,5 @@
+<map id="PlaceBuilder::createPlaceThresholdOR" name="PlaceBuilder::createPlaceThresholdOR">
+<area shape="rect" id="node2" href="$df/dcb/namespacestrings.html#affd78cceba4623b0c23a4fcfb6ab7bb0" title="strings::to_bool" alt="" coords="233,5,343,32"/>
+<area shape="rect" id="node3" href="$df/dcb/namespacestrings.html#a8560096a46f7e8520f8af53b92edcad7" title="strings::to_int" alt="" coords="237,56,339,83"/>
+<area shape="rect" id="node4" href="$df/dcb/namespacestrings.html#a831a54d951176b3e8fc4be664218ac70" title="strings::to_double" alt="" coords="225,107,351,133"/>
+</map>

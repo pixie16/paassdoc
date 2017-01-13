@@ -1,0 +1,48 @@
+<map id="Display::WarningStr" name="Display::WarningStr">
+<area shape="rect" id="node2" href="$d9/dc6/class_pixie_interface.html#a48914508b045dc634d63c0ae3d761dfd" title="PixieInterface::ReadConfigurationFile" alt="" coords="191,5,428,32"/>
+<area shape="rect" id="node4" href="$d9/dc6/class_pixie_interface.html#ae470f4ea2b5e2955599a2e05a4d30e25" title="PixieInterface::Boot" alt="" coords="513,411,651,437"/>
+<area shape="rect" id="node7" href="$d1/d50/poll2_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1038,132,1089,159"/>
+<area shape="rect" id="node8" href="$d6/db0/class_poll.html#a7bc77d04169be53d1a3553e0a55932d6" title="Acquire raw traces from a pixie module. " alt="" coords="1007,335,1120,361"/>
+<area shape="rect" id="node9" href="$d9/dc6/class_pixie_interface.html#a2663b889c6b8c53f3cb07cde02d8948f" title="PixieInterface::WriteSgl\lModPar" alt="" coords="230,770,389,811"/>
+<area shape="rect" id="node10" href="$d9/dc6/class_pixie_interface.html#ae4d4aa8172a2a68c38040c767e1d2579" title="PixieInterface::ReadSglModPar" alt="" coords="207,553,411,580"/>
+<area shape="rect" id="node14" href="$d9/dc6/class_pixie_interface.html#a575e2b7a3012ac62e5123e3da5718f4b" title="PixieInterface::WriteSgl\lChanPar" alt="" coords="230,835,389,877"/>
+<area shape="rect" id="node15" href="$d9/dc6/class_pixie_interface.html#ab9aa18adad4d33916a225e1ad2d7d177" title="PixieInterface::ReadSglChanPar" alt="" coords="205,924,414,951"/>
+<area shape="rect" id="node31" href="$d9/dc6/class_pixie_interface.html#aeeb829ac5910cc009fbd47972d691739" title="PixieInterface::TogglePolarity" alt="" coords="736,1507,929,1533"/>
+<area shape="rect" id="node36" href="$d9/dc6/class_pixie_interface.html#af839298280e158a844381ff6fef356d5" title="PixieInterface::GetStatistics" alt="" coords="216,668,403,695"/>
+<area shape="rect" id="node38" href="$d9/dc6/class_pixie_interface.html#a56378c03d8fd7e559063a6519241d538" title="PixieInterface::CheckRun\lStatus" alt="" coords="224,1117,395,1158"/>
+<area shape="rect" id="node39" href="$d9/dc6/class_pixie_interface.html#abf080b5081f1df5c0e144b7206ce38ad" title="PixieInterface::EndRun" alt="" coords="231,1183,387,1209"/>
+<area shape="rect" id="node40" href="$d6/db0/class_poll.html#aac12ff2558aaa59ce34854162ad917b0" title="Default constructor. " alt="" coords="272,1233,347,1260"/>
+<area shape="rect" id="node41" href="$d6/db0/class_poll.html#a4f280e910a51c786a7b8e390921fa106" title="Close the current output file, if one is open. " alt="" coords="237,208,382,235"/>
+<area shape="rect" id="node46" href="$d6/db0/class_poll.html#abdd920d14ae9c7a1b00bb9869e964f79" title="Broadcast a data spill onto the network in the classic pacman format. " alt="" coords="225,719,394,745"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_pixie_interface.html#a0c452e4ca18faa9f9efc4e2f6a5d5e6e" title="PixieInterface::PixieInterface" alt="" coords="487,5,677,32"/>
+<area shape="rect" id="node5" href="$d9/d36/adjust__offsets_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="807,360,858,387"/>
+<area shape="rect" id="node6" href="$d6/db0/class_poll.html#a1353049de2d032ee6aabd8f1f714941d" title="Initialize the poll object. " alt="" coords="783,309,883,336"/>
+<area shape="rect" id="node11" href="$d9/dc6/class_pixie_interface.html#a97513eceba0847c10a1359462e5062e7" title="PixieInterface::PrintSgl\lModPar" alt="" coords="504,513,660,554"/>
+<area shape="rect" id="node13" href="$d1/df5/class_parameter_module_dumper.html#a7b9855802478d7f8be1fc7108b80ac35" title="ParameterModuleDumper\l::operator()" alt="" coords="497,578,667,619"/>
+<area shape="rect" id="node12" href="$d4/d6d/class_parameter_module_reader.html#ac210bba342dc586a7eb1e3ae974099de" title="ParameterModuleReader\l::operator()" alt="" coords="750,513,915,554"/>
+<area shape="rect" id="node16" href="$db/d9f/param_scan_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="A program. " alt="" coords="807,680,858,707"/>
+<area shape="rect" id="node17" href="$d9/dc6/class_pixie_interface.html#aed6aa4fe372ef3e1e658915fb7cd3885" title="PixieInterface::PrintSgl\lChanPar" alt="" coords="504,989,660,1030"/>
+<area shape="rect" id="node18" href="$d0/d6f/class_bit_flipper.html#ab50f1ee20e65a21b00b7cf905e16b294" title="BitFlipper::operator()" alt="" coords="763,731,903,757"/>
+<area shape="rect" id="node32" href="$d9/dc6/class_pixie_interface.html#a448ef741698cfdc9e48dc47bd4639070" title="PixieInterface::ToggleChannelBit" alt="" coords="476,1055,688,1081"/>
+<area shape="rect" id="node35" href="$d5/dac/class_parameter_channel_dumper.html#abaca99afb5e123d2996a085af7f43218" title="ParameterChannelDumper\l::operator()" alt="" coords="495,858,669,899"/>
+<area shape="rect" id="node19" href="$d9/dfc/class_parameter_channel_reader.html#a1e0d0b7665a5dfd154d3f25e55e69d3b" title="ParameterChannelReader\l::operator()" alt="" coords="747,934,918,975"/>
+<area shape="rect" id="node20" href="$dc/d5b/class_offset_adjuster.html#ae50267b0040dcaee357035469c93d13e" title="OffsetAdjuster::operator()" alt="" coords="748,1000,917,1027"/>
+<area shape="rect" id="node21" href="$d3/d42/class_hybrid_setter.html#a07b28f916c96faede61aff1bddd033d7" title="HybridSetter::operator()" alt="" coords="754,1051,911,1077"/>
+<area shape="rect" id="node22" href="$de/d44/class_catcher_setter.html#a820ee6f97299901120144b76280733e2" title="CatcherSetter::operator()" alt="" coords="750,1101,915,1128"/>
+<area shape="rect" id="node23" href="$d6/dea/class_rejection_setter.html#a9eae57ed216131a3019cf8ba2b58f78f" title="RejectionSetter::operator()" alt="" coords="745,1152,920,1179"/>
+<area shape="rect" id="node24" href="$d5/dd7/class_standard_setter.html#ab88aeb735edac44d25880f7129a3cf98" title="StandardSetter::operator()" alt="" coords="747,1203,919,1229"/>
+<area shape="rect" id="node25" href="$d2/dbc/class_catcher_toggler.html#a7743016f7de84bd601de5867cbb87766" title="CatcherToggler::operator()" alt="" coords="746,1253,919,1280"/>
+<area shape="rect" id="node26" href="$d2/dc4/class_gain_toggler.html#a76d007d56b6b5c7aff8198b75247d7b4" title="GainToggler::operator()" alt="" coords="986,1017,1141,1044"/>
+<area shape="rect" id="node27" href="$d2/dee/class_good_toggler.html#a9d0e33e2af3d0430c65f155e5c9004a5" title="GoodToggler::operator()" alt="" coords="984,1355,1143,1381"/>
+<area shape="rect" id="node28" href="$d2/d12/class_pileup_toggler.html#a4a474b11899af53a645f8eb4a6ebb157" title="PileupToggler::operator()" alt="" coords="751,832,915,859"/>
+<area shape="rect" id="node29" href="$d3/dc6/class_polarity_toggler.html#a6705a25308576912ce1c8d5b0fa73d58" title="PolarityToggler::operator()" alt="" coords="977,1481,1149,1508"/>
+<area shape="rect" id="node30" href="$d9/d11/class_trace_toggler.html#a92b3af3424ebf4f404beb862eeed53b3" title="TraceToggler::operator()" alt="" coords="752,883,913,909"/>
+<area shape="rect" id="node33" href="$d9/dc6/class_pixie_interface.html#ae66119213d67fc56d52553b4617e9621" title="PixieInterface::ToggleGain" alt="" coords="745,1355,921,1381"/>
+<area shape="rect" id="node34" href="$d9/dc6/class_pixie_interface.html#ad3fd214177f74ad393e0892d4e57e67e" title="PixieInterface::ToggleGood" alt="" coords="743,1405,923,1432"/>
+<area shape="rect" id="node37" href="$d2/ddc/class_stats_reader.html#a28b09c5ca806f7cb68d5f2eaeda7ab16" title="StatsReader::operator()" alt="" coords="503,695,661,721"/>
+<area shape="rect" id="node42" href="$d6/db0/class_poll.html#ab16cd3eb72cac653541300cb6536e710" title="Close the sockets, any open files, and clean up. " alt="" coords="790,107,875,133"/>
+<area shape="rect" id="node44" href="$d6/db0/class_poll.html#adee13ef275973679b5524868be3cdc9c" title="Opens a new file if no file is currently open. " alt="" coords="511,208,653,235"/>
+<area shape="rect" id="node45" href="$d6/db0/class_poll.html#aa11d7496ff1d7eb58f6833822236bcac" title="Write a data spill to disk. " alt="" coords="777,259,888,285"/>
+<area shape="rect" id="node43" href="$d6/db0/class_poll.html#ab99bf5ecc1992b6023e19fbb6b321f7a" title="Destructor. " alt="" coords="1022,81,1105,108"/>
+<area shape="rect" id="node47" href="$d6/db0/class_poll.html#a2c19891ad6e9da2eacf7e208cec08db0" title="Broadcast a data spill onto the network. " alt="" coords="511,745,653,772"/>
+</map>

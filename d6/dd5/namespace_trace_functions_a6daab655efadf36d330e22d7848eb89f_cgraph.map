@@ -1,0 +1,3 @@
+<map id="TraceFunctions::CalculateQdc" name="TraceFunctions::CalculateQdc">
+<area shape="rect" id="node2" href="$d4/d06/namespace_statistics.html#a4aabbd7b3dd2f7463c51f1a74f0efe33" title="Do a quick and simple integration of the provided data using the trapezoidal rule. We will not be subtracting the baseline or anything like that to keep things general. " alt="" coords="252,5,435,32"/>
+</map>

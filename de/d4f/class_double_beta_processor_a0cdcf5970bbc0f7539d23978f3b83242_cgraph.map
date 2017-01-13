@@ -1,0 +1,20 @@
+<map id="DoubleBetaProcessor::~DoubleBetaProcessor" name="DoubleBetaProcessor::~DoubleBetaProcessor">
+<area shape="rect" id="node2" href="$de/d4f/class_double_beta_processor.html#a0b75e14f81a11f8a00b64e54e277ed3e" title="DoubleBetaProcessor\l::DeclarePlots" alt="" coords="217,67,365,109"/>
+<area shape="rect" id="node6" href="$de/d4f/class_double_beta_processor.html#af0db739a0cd9d8f4e231b8cc99ed31ab" title="DoubleBetaProcessor\l::PreProcess" alt="" coords="217,201,365,242"/>
+<area shape="rect" id="node17" href="$de/d4f/class_double_beta_processor.html#a3d424e3629e7dc57dd932fc3981c7782" title="DoubleBetaProcessor\l::Process" alt="" coords="217,403,365,445"/>
+<area shape="rect" id="node3" href="$d6/d65/class_event_processor.html#a37b6d5ad90cc6e55c8021682a355764a" title="Declares a 2D histogram calls the C++ wrapper for DAMM. " alt="" coords="413,5,656,32"/>
+<area shape="rect" id="node4" href="$d7/d8b/class_plots.html#a59a2ffc3288d877c695346d82499e769" title="Declares a 2D histogram calls the C++ wrapper for DAMM. " alt="" coords="712,5,891,32"/>
+<area shape="rect" id="node5" href="$da/d57/_scanor_8hpp.html#a65d497b6686f1daba9896091bada3eb1" title="create a DAMM 2D histogram " alt="" coords="959,5,1017,32"/>
+<area shape="rect" id="node7" href="$d6/d65/class_event_processor.html#a472c9d8c540b273ad1ca9a7f380344b6" title="EventProcessor::PreProcess" alt="" coords="439,56,630,83"/>
+<area shape="rect" id="node8" href="$de/d12/class_bar_builder.html#a6122a4c2a7b4ba9527af65aa932194c3" title="BarBuilder::BuildBars" alt="" coords="728,132,875,159"/>
+<area shape="rect" id="node9" href="$de/d12/class_bar_builder.html#a24d6d3da427c1f05f8500a8cab799250" title="BarBuilder::GetLrtBarMap" alt="" coords="449,157,620,184"/>
+<area shape="rect" id="node10" href="$de/d12/class_bar_builder.html#a4ab3d31816f265edd0a08d960fbba501" title="BarBuilder::GetBarMap" alt="" coords="457,208,613,235"/>
+<area shape="rect" id="node11" href="$d3/d2c/class_tree_correlator.html#a4f70fdbb0d6dead4212d8e926ce1755f" title="TreeCorrelator::get" alt="" coords="469,259,600,285"/>
+<area shape="rect" id="node12" href="$d3/d2c/class_tree_correlator.html#aadf6cf8c8bedbbde03fb678667c7cb01" title="TreeCorrelator::place" alt="" coords="463,309,606,336"/>
+<area shape="rect" id="node13" href="$d6/d65/class_event_processor.html#ad5201bb392726e409ba2a6ac44e764d8" title="Implementation of the plot command to interface with the DAMM routines. " alt="" coords="463,360,607,387"/>
+<area shape="rect" id="node14" href="$d7/d8b/class_plots.html#a68849b82c8c7a5d57f972cbd8de83328" title="Plots into histogram defined by dammId. " alt="" coords="760,360,843,387"/>
+<area shape="rect" id="node15" href="$da/d57/_scanor_8hpp.html#a31aca3d0ff704e08f8f8968288ae7895" title="Defines the DAMM function to call for 1D hists */. " alt="" coords="947,335,1029,361"/>
+<area shape="rect" id="node16" href="$da/d57/_scanor_8hpp.html#a8b0a662ebdb3f947ba8470bf89f11c3a" title="Defines the DAMM function to call for 2D hists */. " alt="" coords="954,385,1022,412"/>
+<area shape="rect" id="node18" href="$d6/d65/class_event_processor.html#ae2d41a947da0cb509fd0ca85f6caa0fc" title="EventProcessor::Process" alt="" coords="449,411,620,437"/>
+<area shape="rect" id="node19" href="$d6/d65/class_event_processor.html#a301eb8d69b3ceeeb4e69ce84a685f5a1" title="EventProcessor::EndProcess" alt="" coords="704,436,899,463"/>
+</map>

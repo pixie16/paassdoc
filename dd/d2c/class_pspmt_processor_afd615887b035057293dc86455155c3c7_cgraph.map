@@ -1,0 +1,21 @@
+<map id="PspmtProcessor::PreProcess" name="PspmtProcessor::PreProcess">
+<area shape="rect" id="node2" href="$d6/d65/class_event_processor.html#a472c9d8c540b273ad1ca9a7f380344b6" title="EventProcessor::PreProcess" alt="" coords="250,5,441,32"/>
+<area shape="rect" id="node3" href="$db/d62/struct_pspmt_processor_1_1_pspmt_data.html#a1ddc3dc36d59c81db4deaf9cbb45d936" title="Clears the data from the processor. " alt="" coords="249,57,441,98"/>
+<area shape="rect" id="node4" href="$d5/d91/class_chan_event.html#a56a480fad4a8c6728e783db0cf659c9f" title="ChanEvent::GetChanID" alt="" coords="266,123,425,149"/>
+<area shape="rect" id="node10" href="$d7/de7/class_identifier.html#a90c3d515f53963da8154baada6bf1173" title="Identifier::GetSubtype" alt="" coords="271,173,420,200"/>
+<area shape="rect" id="node11" href="$d7/de7/class_identifier.html#af01e5062be749992956d81ff35325de0" title="Identifier::GetLocation" alt="" coords="270,224,421,251"/>
+<area shape="rect" id="node12" href="$d5/d91/class_chan_event.html#a0869d757db1936ae509ae36b00ee7b94" title="ChanEvent::GetCalEnergy" alt="" coords="258,275,433,301"/>
+<area shape="rect" id="node13" href="$d5/d91/class_chan_event.html#ad3af219effd863063c3d2f264af5783a" title="ChanEvent::GetTrace" alt="" coords="271,325,419,352"/>
+<area shape="rect" id="node14" href="$dd/db7/class_trace.html#afe0671b4a324a28520b1a62364c81072" title="Trace::HasValue" alt="" coords="286,376,405,403"/>
+<area shape="rect" id="node15" href="$dd/db7/class_trace.html#a3575dde1f951a53f52a3d03482b7eaa3" title="Trace::GetValue" alt="" coords="287,427,404,453"/>
+<area shape="rect" id="node16" href="$d6/d65/class_event_processor.html#ad5201bb392726e409ba2a6ac44e764d8" title="Implementation of the plot command to interface with the DAMM routines. " alt="" coords="273,477,417,504"/>
+<area shape="rect" id="node20" href="$d6/d65/class_event_processor.html#a301eb8d69b3ceeeb4e69ce84a685f5a1" title="EventProcessor::EndProcess" alt="" coords="248,528,443,555"/>
+<area shape="rect" id="node5" href="$dc/dbe/class_detector_library.html#a6ab3ff825daa8b607865086741bc9b2c" title="DetectorLibrary::get" alt="" coords="517,47,653,73"/>
+<area shape="rect" id="node6" href="$dc/dbe/class_detector_library.html#ac55ae5398583a68ac2eb448b926f365f" title="DetectorLibrary::at" alt="" coords="521,97,650,124"/>
+<area shape="rect" id="node8" href="$d2/ddd/class_xia_data.html#a041f6911911ef2a34f20b0df1698d508" title="XiaData::GetModuleNumber" alt="" coords="493,148,677,175"/>
+<area shape="rect" id="node9" href="$d2/ddd/class_xia_data.html#a666be81f5c59ecd502e1f3cd09d5335a" title="XiaData::GetChannelNumber" alt="" coords="491,199,680,225"/>
+<area shape="rect" id="node7" href="$dc/dbe/class_detector_library.html#a5b3be3cc7ba7a65f0dc5d446661c7bf7" title="DetectorLibrary::GetIndex" alt="" coords="728,97,899,124"/>
+<area shape="rect" id="node17" href="$d7/d8b/class_plots.html#a68849b82c8c7a5d57f972cbd8de83328" title="Plots into histogram defined by dammId. " alt="" coords="544,477,627,504"/>
+<area shape="rect" id="node18" href="$da/d57/_scanor_8hpp.html#a31aca3d0ff704e08f8f8968288ae7895" title="Defines the DAMM function to call for 1D hists */. " alt="" coords="772,452,855,479"/>
+<area shape="rect" id="node19" href="$da/d57/_scanor_8hpp.html#a8b0a662ebdb3f947ba8470bf89f11c3a" title="Defines the DAMM function to call for 2D hists */. " alt="" coords="779,503,847,529"/>
+</map>

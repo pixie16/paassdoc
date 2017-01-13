@@ -1,0 +1,7 @@
+<map id="scopeUnpacker::ProcessRawEvent" name="scopeUnpacker::ProcessRawEvent">
+<area shape="rect" id="node2" href="$d2/ddd/class_xia_data.html#a6c7eaea35ca73b6ea13b63f665031346" title="XiaData::GetTrace" alt="" coords="281,5,412,32"/>
+<area shape="rect" id="node3" href="$d2/ddd/class_xia_data.html#a041f6911911ef2a34f20b0df1698d508" title="XiaData::GetModuleNumber" alt="" coords="255,56,439,83"/>
+<area shape="rect" id="node4" href="$d2/ddd/class_xia_data.html#a666be81f5c59ecd502e1f3cd09d5335a" title="XiaData::GetChannelNumber" alt="" coords="252,107,441,133"/>
+<area shape="rect" id="node5" href="$d7/dfc/class_scan_interface.html#a60f627ef24dd2da74aff381ba0851b66" title="ScanInterface::AddEvent" alt="" coords="263,157,431,184"/>
+<area shape="rect" id="node6" href="$d7/dfc/class_scan_interface.html#a561d81cb294005c32ba93243874748ae" title="ScanInterface::ProcessEvents" alt="" coords="247,208,447,235"/>
+</map>
