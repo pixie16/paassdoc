@@ -82,25 +82,25 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"d1/d97/class_trap_filter_parameters.html#aa1b5f76747d230c7572ea2b1ecc76ba8",
-"d2/d6d/class_tau_analyzer.html#a28344c9802780e8a2a1c09c6c6ef0d11",
-"d3/d2c/class_tree_correlator.html#a7b01d09f5c1dbe3ba61671ae30a76f22",
-"d3/dab/class_lite_position_processor.html#a41e329779cb70710078ab066afd4f953",
-"d4/d85/class_m_t_rand.html#a10c3437be98225f5b0beee1ed8c033c8a133070000b798889cd75535ea0d5bb71",
+"d1/d97/class_trap_filter_parameters.html#a43bca9e5f5cd7f618fb1da34818300f8",
+"d2/d61/_liquid_scint_processor_8cpp.html#ab2308679d54addf06efef90b934c9a62",
+"d3/d2c/class_tree_correlator.html#a22da8d2ef065c467726880aec17299e1",
+"d3/d90/_random_pool_8cpp_source.html",
+"d4/d7b/unittest-_helper_functions_8cpp_source.html",
 "d5/d18/_ge_processor_8hpp.html#a516aa85aacb20030b201b1951e875478",
 "d5/de1/classscope_scanner.html#af67f7295f6645bf65cf2361dc89cf961",
 "d6/db0/class_poll.html#aef5d921492b8b9c4aaf5d9de8cc653ac",
-"d7/d76/class_his_drr.html#a31aba7cd68290141daa0dbe07ef020e9",
-"d8/d00/struct_event_info.html#ae7fb2296ea24da23612245f763dbfad4",
-"d9/d6d/dettype.html#mcp",
-"d9/dea/_traditional_cfd_8hpp.html",
-"db/d21/class_vandle_processor.html#a408e5cbe5f5f5c249c59d00b68946b2f",
-"dc/d46/class_terminal.html#a01522f5c8ac2669debd2a5c6b05dd3b6",
-"dc/dbe/class_detector_library.html#adf26ccc594be43e337643a27137ef0ae",
-"dd/dcb/class_mcp_processor.html#a7ab6b5b5576ed79f42311c5a3e005d6d",
-"de/d91/class_detector_driver.html#ac58cdd84f2946302c98da7699fb432da",
-"df/d91/_unit_test_sample_data_8hpp.html#a7b8690f970b08876e7c57f3572e7106e",
-"namespacemembers.html"
+"d7/d6e/class_plots_register.html#aebb9a131a681335fb927c5fadb600a9d",
+"d8/d00/struct_event_info.html#aa7f3189976487cb1de2d376b7aa513b4",
+"d9/d6d/dettype.html#ge",
+"d9/de0/class_trace_grabber.html#a95448839727a4d5a3a015993264af159",
+"db/d15/class_random_pool.html#ac8dd14eae73e6acacee2fd686713ae61",
+"dc/d32/class_raw_event.html#a769b5dc03dbed711c761beeed0570522",
+"dc/dbe/class_detector_library.html#a654780e8253c6f494fc65e7123b02e34",
+"dd/db7/class_trace.html#a6745016f5b33899c8c29f051b536aa99",
+"de/d81/class_i_s600_processor.html#aa39546cf36beaa55f7ea0d80e71db2f4",
+"df/d90/map__to__config_8py.html#a66e45031efc6eda94621dfb3b10ff854",
+"globals_func_b.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

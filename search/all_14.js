@@ -40,7 +40,7 @@ var searchData=
   ['use_5fint',['use_int',['../d7/d2e/class_his_data.html#a523a5d9d479b804cf7a928c9b5894711',1,'HisData::use_int()'],['../de/d56/structdrr__entry.html#af6508c82b502ec8b8269bdb5bff23f8e',1,'drr_entry::use_int()']]],
   ['usedsubtypes',['usedSubtypes',['../dc/dbe/class_detector_library.html#ae208ccf3ea776f041511210254c0b825',1,'DetectorLibrary']]],
   ['usedtypes',['usedTypes',['../dc/dbe/class_detector_library.html#aff11c07be535ff7a28995bb942806a79',1,'DetectorLibrary']]],
-  ['useroot',['useRoot',['../d3/d7b/class_m_c_a__args.html#a9f1b880ddca57aafeee568cb5f6241f0',1,'MCA_args::useRoot()'],['../d3/d7b/class_m_c_a__args.html#a1dde4d837e62bce1e24de16dabf4bf65',1,'MCA_args::UseRoot()']]],
+  ['useroot',['UseRoot',['../d3/d7b/class_m_c_a__args.html#a1dde4d837e62bce1e24de16dabf4bf65',1,'MCA_args::UseRoot()'],['../d3/d7b/class_m_c_a__args.html#a9f1b880ddca57aafeee568cb5f6241f0',1,'MCA_args::useRoot()']]],
   ['useropts',['userOpts',['../d7/dfc/class_scan_interface.html#af306cd9d53aae6a4f34c3db2b9e984fd',1,'ScanInterface']]],
   ['usertime',['userTime',['../d2/dbc/class_trace_analyzer.html#a35588370c8940fb1ba1f9aa9c81fb76f',1,'TraceAnalyzer::userTime()'],['../d6/d65/class_event_processor.html#a622ba72e2947d2eee3d574409cf813d9',1,'EventProcessor::userTime()']]],
   ['usgetdtime',['usGetDTime',['../db/d2a/_utility_8h.html#af5e8f085d1400b751f9f447ada5c7633',1,'usGetDTime(void):&#160;Utility.cpp'],['../d1/d38/_utility_8cpp.html#ab6fa749bc026ed168abe92e287e43184',1,'usGetDTime():&#160;Utility.cpp']]],

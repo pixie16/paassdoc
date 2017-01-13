@@ -223,6 +223,7 @@ var searchData=
   ['cursx',['cursX',['../dc/d46/class_terminal.html#ab6ac6beaf8e5a9d378ad206fa57a37f6',1,'Terminal']]],
   ['cursy',['cursY',['../dc/d46/class_terminal.html#afb0e6eb1e6224447b4ee4fa089a17b5c',1,'Terminal']]],
   ['cutoffenergy',['cutoffEnergy',['../d4/d67/class_dssd_processor.html#a11f1b8cf23364dc06218ed029d791634',1,'DssdProcessor::cutoffEnergy()'],['../df/df5/class_implant_ssd_processor.html#abb829244167b8597df7520abd09e95dd',1,'ImplantSsdProcessor::cutoffEnergy()']]],
+  ['cyc',['cyc',['../dc/dd2/struct_vandle_root.html#ac368c03c19d4b5e709cc9ed42f957a00',1,'VandleRoot']]],
   ['cycle_5fgate1_5fmax_5f',['cycle_gate1_max_',['../d2/d54/class_ge_processor.html#a16d47e9bd555c17eac26991b78ba64a2',1,'GeProcessor']]],
   ['cycle_5fgate1_5fmin_5f',['cycle_gate1_min_',['../d2/d54/class_ge_processor.html#a375a521497a26f1e0e6a4a16b2ca78c4',1,'GeProcessor']]],
   ['cycle_5fgate2_5fmax_5f',['cycle_gate2_max_',['../d2/d54/class_ge_processor.html#a2e7fd4870c97e0c8c0a349f693284515',1,'GeProcessor']]],

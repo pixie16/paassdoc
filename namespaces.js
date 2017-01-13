@@ -1,6 +1,5 @@
 var namespaces =
 [
-    [ "dammids", "dd/d61/namespacedammids.html", "dd/d61/namespacedammids" ],
     [ "dammIds", "d0/dfd/namespacedamm_ids.html", "d0/dfd/namespacedamm_ids" ],
     [ "DataProcessing", "d5/ddb/namespace_data_processing.html", null ],
     [ "Display", "da/d6a/namespace_display.html", null ],

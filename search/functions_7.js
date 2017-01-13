@@ -136,7 +136,7 @@ var searchData=
   ['gethisfilesize',['GetHisFilesize',['../d9/dad/class_his_file.html#a4bfa42449af5bf38611fb6b278c0c61b',1,'HisFile']]],
   ['gethisid',['GetHisID',['../d9/dad/class_his_file.html#adc0bb42a9daace99651f235a08a26015',1,'HisFile']]],
   ['gethislist',['getHisList',['../d7/d76/class_his_drr.html#a1b3cb48f41e307ddacb4ce50443c1b08',1,'HisDrr']]],
-  ['gethistogram',['getHistogram',['../d7/d76/class_his_drr.html#a31aba7cd68290141daa0dbe07ef020e9',1,'HisDrr::getHistogram()'],['../dc/d85/class_m_c_a___r_o_o_t.html#a4edb4e9e9ac515bcf550b3f11d242f02',1,'MCA_ROOT::GetHistogram()'],['../d9/dad/class_his_file.html#a0e07412eaea5055ba8724780f3266544',1,'HisFile::GetHistogram()']]],
+  ['gethistogram',['GetHistogram',['../dc/d85/class_m_c_a___r_o_o_t.html#a4edb4e9e9ac515bcf550b3f11d242f02',1,'MCA_ROOT::GetHistogram()'],['../d9/dad/class_his_file.html#a0e07412eaea5055ba8724780f3266544',1,'HisFile::GetHistogram()'],['../d7/d76/class_his_drr.html#a31aba7cd68290141daa0dbe07ef020e9',1,'HisDrr::getHistogram()']]],
   ['gethistogrambyid',['GetHistogramByID',['../d9/dad/class_his_file.html#afd7a0c5c134715c620aec8f653f0cbe1',1,'HisFile']]],
   ['gethistograminfo',['getHistogramInfo',['../d7/d76/class_his_drr.html#ae7d9521219e34d1bc6799efcf592e423',1,'HisDrr']]],
   ['getid',['GetId',['../d2/ddd/class_xia_data.html#a2b017a78b2f9f70a0ec1ebbcb23c9e3c',1,'XiaData::GetId()'],['../d5/d91/class_chan_event.html#a9ba5c68ccf5e5847277aea7811aa79b8',1,'ChanEvent::GetID()']]],

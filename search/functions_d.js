@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['obtainhisname',['ObtainHisName',['../d9/ddc/class_template_exp_processor.html#a23f8057eab2c04c062b08a1d9804ac3c',1,'TemplateExpProcessor']]],
   ['offsetplot',['OffsetPlot',['../dd/db7/class_trace.html#a43400cfd594a54bae433e990f7a0f639',1,'Trace::OffsetPlot(int id, double offset)'],['../dd/db7/class_trace.html#a7be4eb4b476320df0b954515889b6362',1,'Trace::OffsetPlot(int id, int row, double offset)']]],
   ['okaystr',['OkayStr',['../da/d6a/namespace_display.html#a959223815cca12935461ff196af53168',1,'Display']]],
   ['open',['Open',['../d9/d7d/class_output_his_file.html#ac25ecb22f5784818aacbec761609910c',1,'OutputHisFile::Open(std::string fname_prefix)'],['../d9/d7d/class_output_his_file.html#ac25ecb22f5784818aacbec761609910c',1,'OutputHisFile::Open(std::string fname_prefix)']]],

@@ -69,7 +69,7 @@ var searchData=
   ['logicprocessor',['LogicProcessor',['../da/d2f/class_logic_processor.html',1,'LogicProcessor'],['../da/d2f/class_logic_processor.html#add3f706d9500e2fde4245bd4acd1c7cb',1,'LogicProcessor::LogicProcessor()'],['../da/d2f/class_logic_processor.html#aa46a13ef07a4980f7a0f9513059853c7',1,'LogicProcessor::LogicProcessor(int offset, int range, bool doubleStop=false, bool doubleStart=false)']]],
   ['logicprocessor_2ecpp',['LogicProcessor.cpp',['../d8/d5f/_logic_processor_8cpp.html',1,'']]],
   ['logicprocessor_2ehpp',['LogicProcessor.hpp',['../dc/d7e/_logic_processor_8hpp.html',1,'']]],
-  ['logicstatus',['logicStatus',['../da/d2f/class_logic_processor.html#a667696fc31f8b540cf063e39de33c324',1,'LogicProcessor::logicStatus()'],['../da/d2f/class_logic_processor.html#a6ea7b52ba3cff9cebb6c967ef70db524',1,'LogicProcessor::LogicStatus(size_t loc) const']]],
+  ['logicstatus',['LogicStatus',['../da/d2f/class_logic_processor.html#a6ea7b52ba3cff9cebb6c967ef70db524',1,'LogicProcessor::LogicStatus(size_t loc) const'],['../da/d2f/class_logic_processor.html#a667696fc31f8b540cf063e39de33c324',1,'LogicProcessor::logicStatus()']]],
   ['longopts',['longOpts',['../d7/dfc/class_scan_interface.html#a5ad442fda5a5ad7dfd60bbf1c3ab3b1c',1,'ScanInterface']]],
   ['looplength',['loopLength',['../d9/de0/class_trace_grabber.html#a6a1b9830bc4252a1bdb0e45fa6914dd7',1,'TraceGrabber']]],
   ['low_5flimit_5f',['low_limit_',['../d0/dd5/class_place_threshold.html#a5d5d7bdcb6dc127d4be38f98054ab448',1,'PlaceThreshold']]],

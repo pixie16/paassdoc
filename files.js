@@ -83,10 +83,6 @@ var files =
     [ "DssdProcessor.hpp", "d6/d2c/_dssd_processor_8hpp.html", [
       [ "DssdProcessor", "d4/d67/class_dssd_processor.html", "d4/d67/class_dssd_processor" ]
     ] ],
-    [ "E11006Processor.cpp", "da/d4d/_e11006_processor_8cpp.html", "da/d4d/_e11006_processor_8cpp" ],
-    [ "E11006Processor.hpp", "d8/db5/_e11006_processor_8hpp.html", [
-      [ "E11006Processor", "d8/d84/class_e11006_processor.html", "d8/d84/class_e11006_processor" ]
-    ] ],
     [ "EventData.hpp", "dd/d77/_event_data_8hpp.html", [
       [ "EventData", "d3/dbe/class_event_data.html", "d3/dbe/class_event_data" ]
     ] ],
@@ -463,9 +459,9 @@ var files =
     [ "ValidProcessor.hpp", "d0/d0f/_valid_processor_8hpp.html", [
       [ "ValidProcessor", "d6/d96/class_valid_processor.html", "d6/d96/class_valid_processor" ]
     ] ],
-    [ "VandleAtLeribssProcessor.cpp", "df/d54/_vandle_at_leribss_processor_8cpp.html", null ],
-    [ "VandleAtLeribssProcessor.hpp", "d1/d1c/_vandle_at_leribss_processor_8hpp.html", [
-      [ "VandleAtLeribssProcessor", "d1/db0/class_vandle_at_leribss_processor.html", "d1/db0/class_vandle_at_leribss_processor" ]
+    [ "VandleOrnl2012Processor.cpp", "dd/dc0/_vandle_ornl2012_processor_8cpp.html", "dd/dc0/_vandle_ornl2012_processor_8cpp" ],
+    [ "VandleOrnl2012Processor.hpp", "d7/de9/_vandle_ornl2012_processor_8hpp.html", [
+      [ "VandleOrnl2012Processor", "d1/dd7/class_vandle_ornl2012_processor.html", "d1/dd7/class_vandle_ornl2012_processor" ]
     ] ],
     [ "VandleProcessor.cpp", "d8/d7f/_vandle_processor_8cpp.html", "d8/d7f/_vandle_processor_8cpp" ],
     [ "VandleProcessor.hpp", "d0/de2/_vandle_processor_8hpp.html", [
@@ -481,7 +477,7 @@ var files =
     ] ],
     [ "WalkCorrector.cpp", "dc/df9/_walk_corrector_8cpp.html", null ],
     [ "WalkCorrector.hpp", "da/d18/_walk_corrector_8hpp.html", "da/d18/_walk_corrector_8hpp" ],
-    [ "WalkVandleBetaProcessor.cpp", "da/d74/_walk_vandle_beta_processor_8cpp.html", null ],
+    [ "WalkVandleBetaProcessor.cpp", "da/d74/_walk_vandle_beta_processor_8cpp.html", "da/d74/_walk_vandle_beta_processor_8cpp" ],
     [ "WalkVandleBetaProcessor.hpp", "dd/dc1/_walk_vandle_beta_processor_8hpp.html", [
       [ "WalkVandleBetaProcessor", "d0/d80/class_walk_vandle_beta_processor.html", "d0/d80/class_walk_vandle_beta_processor" ]
     ] ],

@@ -1,6 +1,7 @@
 var searchData=
 [
   ['gaintoggler',['GainToggler',['../d2/dc4/class_gain_toggler.html',1,'']]],
+  ['gammaroot',['GammaRoot',['../d0/dc6/struct_gamma_root.html',1,'']]],
   ['ge4hen3processor',['Ge4Hen3Processor',['../d5/df2/class_ge4_hen3_processor.html',1,'']]],
   ['gecalibprocessor',['GeCalibProcessor',['../d0/d8c/class_ge_calib_processor.html',1,'']]],
   ['generalexception',['GeneralException',['../d1/d01/class_general_exception.html',1,'']]],

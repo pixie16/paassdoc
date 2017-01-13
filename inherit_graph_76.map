@@ -1,10 +1,8 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d2/dbc/class_trace_analyzer.html" title="Abstract class that all trace analyzers are derived from. " alt="" coords="5,157,112,184"/>
-<area shape="rect" id="node2" href="$d5/d61/class_cfd_analyzer.html" title="Class to analyze traces using a digital CFD. " alt="" coords="181,5,274,32"/>
-<area shape="rect" id="node3" href="$d8/d35/class_fitting_analyzer.html" title="Analyzer that handles the fitting of traces for High Resolution Timing. " alt="" coords="173,56,282,83"/>
-<area shape="rect" id="node4" href="$d2/d6d/class_tau_analyzer.html" title="Class to analyze Tau from a trace. " alt="" coords="180,107,275,133"/>
-<area shape="rect" id="node5" href="$d8/d3d/class_trace_extractor.html" title="A class to extract traces from events. " alt="" coords="173,157,281,184"/>
-<area shape="rect" id="node6" href="$d4/db0/class_trace_filter_analyzer.html" title="A class to perform trapezoidal filters on the traces. " alt="" coords="160,208,295,235"/>
-<area shape="rect" id="node7" href="$d1/d61/class_waa_analyzer.html" title="Extracts sub&#45;sampling time from trace using weighted average algorithm. " alt="" coords="178,259,277,285"/>
-<area shape="rect" id="node8" href="$da/d8c/class_waveform_analyzer.html" title="Class to waveform analysis. " alt="" coords="161,309,293,336"/>
+<area shape="rect" id="node1" href="$dd/d06/class_timing_driver.html" title="An abstract class that will be used to handle timing. " alt="" coords="5,107,100,133"/>
+<area shape="rect" id="node2" href="$dc/d06/class_gsl_fitter.html" title="GslFitter" alt="" coords="165,5,237,32"/>
+<area shape="rect" id="node3" href="$de/d2b/class_polynomial_cfd.html" title="PolynomialCfd" alt="" coords="148,56,255,83"/>
+<area shape="rect" id="node4" href="$d1/dac/class_root_fitter.html" title="RootFitter" alt="" coords="162,107,241,133"/>
+<area shape="rect" id="node5" href="$d4/d35/class_traditional_cfd.html" title="TraditionalCfd" alt="" coords="150,157,253,184"/>
+<area shape="rect" id="node6" href="$db/d57/class_xia_cfd.html" title="XiaCfd" alt="" coords="171,208,232,235"/>
 </map>

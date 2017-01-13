@@ -51,6 +51,7 @@ var searchData=
   ['mode_5f',['mode_',['../d0/d51/class_notebook.html#a12eb6cd31565abb3f3e3bb6ce4ac22fa',1,'Notebook']]],
   ['model',['model',['../d9/d1c/struct_calibration_params.html#a9becc3c8310afb84cf100b435f220134',1,'CalibrationParams::model()'],['../d6/dac/struct_correction_params.html#acacf86c922e2f686e70192a14a5035d9',1,'CorrectionParams::model()']]],
   ['module',['module',['../d4/d2e/namespacemap__to__config.html#aefefbd77f42d011978d077b9c847f4a5',1,'map_to_config']]],
+  ['move',['move',['../dd/dc8/struct_tape_info.html#ab3c91005e06d487f3499a49a83b21c74',1,'TapeInfo']]],
   ['move_5fstart_5fbin',['MOVE_START_BIN',['../d6/d54/namespacedamm_ids_1_1logic.html#ade3c81d2d0a591aa2ae16ec4f0b2fcad',1,'dammIds::logic']]],
   ['move_5fstop_5fbin',['MOVE_STOP_BIN',['../d6/d54/namespacedamm_ids_1_1logic.html#a9baa0505e92877869436273c73c81614',1,'dammIds::logic']]],
   ['msgheader',['msgHeader',['../d7/dfc/class_scan_interface.html#a553d26a64c544f970fa481a09d45ec34',1,'ScanInterface']]],

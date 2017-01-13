@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['e11006processor',['E11006Processor',['../d8/d84/class_e11006_processor.html#a25e760ad50b05028ef50fb53ab87d992',1,'E11006Processor']]],
   ['enablebaselineupdate',['EnableBaselineUpdate',['../d9/de0/class_trace_grabber.html#a1b9950fa7676f2e67f0de8f92646ef0b',1,'TraceGrabber']]],
   ['enablebidirectionaltrigger',['EnableBidirectionalTrigger',['../d9/de0/class_trace_grabber.html#a1609574c962a4198908075cf5e2fca9c',1,'TraceGrabber']]],
   ['enabletabcomplete',['EnableTabComplete',['../dc/d46/class_terminal.html#ae3c21b5bf2a4a2aebf18b6ad7067fb66',1,'Terminal']]],

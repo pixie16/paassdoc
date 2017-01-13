@@ -16,7 +16,7 @@ var searchData=
   ['hassmall_5f',['hasSmall_',['../db/d21/class_vandle_processor.html#a953ec1f2a4b04a936c14c0d886acd245',1,'VandleProcessor']]],
   ['hastof',['hasTof',['../d8/d00/struct_event_info.html#aa7f3189976487cb1de2d376b7aa513b4',1,'EventInfo']]],
   ['hasveto',['hasVeto',['../d8/d00/struct_event_info.html#af865ff7a218e328e3704c6ec25cc376a',1,'EventInfo']]],
-  ['headbuff',['headBuff',['../dd/dcd/class_poll_output_file.html#ab63d14b0cf9349f5a9d03d77ecaae6c0',1,'PollOutputFile::headBuff()'],['../d7/dfc/class_scan_interface.html#ad777de2b04bcd23995d7f6a05d12c6d3',1,'ScanInterface::headbuff()']]],
+  ['headbuff',['headbuff',['../d7/dfc/class_scan_interface.html#ad777de2b04bcd23995d7f6a05d12c6d3',1,'ScanInterface::headbuff()'],['../dd/dcd/class_poll_output_file.html#ab63d14b0cf9349f5a9d03d77ecaae6c0',1,'PollOutputFile::headBuff()']]],
   ['header',['header',['../da/dbc/uniondrr_block.html#aacb99549aba5aa4a9706f0369a2f8d14',1,'drrBlock::header()'],['../dc/d67/namespaceunittest__encoded__data_1_1_r30474__250.html#ad39e59cc2b80a21f7367fbe52670c311',1,'unittest_encoded_data::R30474_250::header()']]],
   ['header_5fn_5fcfd',['header_N_Cfd',['../dc/d67/namespaceunittest__encoded__data_1_1_r30474__250.html#a09c5a26b350a7b2139625897a0922e32',1,'unittest_encoded_data::R30474_250']]],
   ['header_5fn_5fqdc',['header_N_qdc',['../dc/d67/namespaceunittest__encoded__data_1_1_r30474__250.html#aae644d97bfe99cd68668659e596d9c8d',1,'unittest_encoded_data::R30474_250']]],
@@ -51,5 +51,6 @@ var searchData=
   ['hists_5fprocessed',['hists_processed',['../d9/dad/class_his_file.html#a6cffa73edaed25380021ba6d2103d6f4',1,'HisFile']]],
   ['homedir',['homeDir',['../d7/dfc/class_scan_interface.html#a28993397f3e282e2d1590b9caa6fe5fa',1,'ScanInterface']]],
   ['hp',['hp',['../d3/d7a/class_client.html#a2637c6141bb2a047dd8020efd55eb3c8',1,'Client']]],
+  ['hpge',['HPGE',['../dc/dd2/struct_vandle_root.html#ad097019c1f907443b9927602eeb15003',1,'VandleRoot']]],
   ['hrtbars_5f',['hrtBars_',['../de/d12/class_bar_builder.html#a380ab4f47ea4602e6118e785cc5e59cd',1,'BarBuilder']]]
 ];

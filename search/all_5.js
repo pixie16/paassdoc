@@ -2,9 +2,6 @@ var searchData=
 [
   ['event_20processing_20_2d_20detectordriver',['Event Processing - DetectorDriver',['../d5/d31/_detector_driver.html',1,'']]],
   ['e',['E',['../d7/df8/struct_dssd4_s_h_e_processor_1_1_strip_event.html#a9f971f2a380c6f42e2091fb3f0866cf5',1,'Dssd4SHEProcessor::StripEvent']]],
-  ['e11006processor',['E11006Processor',['../d8/d84/class_e11006_processor.html',1,'E11006Processor'],['../d8/d84/class_e11006_processor.html#a25e760ad50b05028ef50fb53ab87d992',1,'E11006Processor::E11006Processor()']]],
-  ['e11006processor_2ecpp',['E11006Processor.cpp',['../da/d4d/_e11006_processor_8cpp.html',1,'']]],
-  ['e11006processor_2ehpp',['E11006Processor.hpp',['../d8/db5/_e11006_processor_8hpp.html',1,'']]],
   ['e_5f',['e_',['../d4/d8e/class_trace_filter.html#a33218dd0fa4cb03c7e12fc49ca340dae',1,'TraceFilter']]],
   ['early_5ftrig',['EARLY_TRIG',['../d4/d8e/class_trace_filter.html#a33089f731cbaac440d9aceec291a6256aa6fbdf745efd617eaaaf6f7705610c1c',1,'TraceFilter']]],
   ['econditions',['EConditions',['../df/d86/class_correlator.html#a9520b711db5a9b2b4d04afef26600782',1,'Correlator']]],

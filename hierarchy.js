@@ -35,6 +35,7 @@ var hierarchy =
     [ "EventData", "d3/dbe/class_event_data.html", null ],
     [ "EventInfo", "d8/d00/struct_event_info.html", null ],
     [ "EventProcessor", "d6/d65/class_event_processor.html", [
+      [ "Anl1471Processor", "d2/daa/class_anl1471_processor.html", null ],
       [ "BetaProcessor", "d8/da8/class_beta_processor.html", null ],
       [ "BetaScintProcessor", "d4/de4/class_beta_scint_processor.html", [
         [ "Beta4Hen3Processor", "db/d92/class_beta4_hen3_processor.html", null ]
@@ -42,7 +43,6 @@ var hierarchy =
       [ "DoubleBetaProcessor", "de/d4f/class_double_beta_processor.html", null ],
       [ "Dssd4SHEProcessor", "db/da8/class_dssd4_s_h_e_processor.html", null ],
       [ "DssdProcessor", "d4/d67/class_dssd_processor.html", null ],
-      [ "E11006Processor", "d8/d84/class_e11006_processor.html", null ],
       [ "GeProcessor", "d2/d54/class_ge_processor.html", [
         [ "Ge4Hen3Processor", "d5/df2/class_ge4_hen3_processor.html", null ],
         [ "GeCalibProcessor", "d0/d8c/class_ge_calib_processor.html", null ]
@@ -70,10 +70,9 @@ var hierarchy =
       [ "TemplateProcessor", "da/dfe/class_template_processor.html", null ],
       [ "TwoChanTimingProcessor", "d8/db5/class_two_chan_timing_processor.html", null ],
       [ "ValidProcessor", "d6/d96/class_valid_processor.html", null ],
+      [ "VandleOrnl2012Processor", "d1/dd7/class_vandle_ornl2012_processor.html", null ],
       [ "VandleProcessor", "db/d21/class_vandle_processor.html", [
-        [ "Anl1471Processor", "d2/daa/class_anl1471_processor.html", null ],
         [ "CrosstalkProcessor", "de/d3c/class_crosstalk_processor.html", null ],
-        [ "VandleAtLeribssProcessor", "d1/db0/class_vandle_at_leribss_processor.html", null ],
         [ "WalkVandleBetaProcessor", "d0/d80/class_walk_vandle_beta_processor.html", null ]
       ] ]
     ] ],
@@ -90,6 +89,7 @@ var hierarchy =
     [ "fileInformation", "d1/db0/classfile_information.html", null ],
     [ "fill_queue", "df/d5f/structfill__queue.html", null ],
     [ "GslFitter::FitData", "d1/d80/struct_gsl_fitter_1_1_fit_data.html", null ],
+    [ "GammaRoot", "d0/dc6/struct_gamma_root.html", null ],
     [ "GenError", "d6/dfc/class_gen_error.html", [
       [ "ArrayError", "d2/d4c/class_array_error.html", null ],
       [ "IOError", "db/dcb/class_i_o_error.html", null ]
@@ -153,6 +153,7 @@ var hierarchy =
     [ "StatsData", "df/d59/class_stats_data.html", null ],
     [ "StatsHandler", "d2/d58/class_stats_handler.html", null ],
     [ "Dssd4SHEProcessor::StripEvent", "d7/df8/struct_dssd4_s_h_e_processor_1_1_strip_event.html", null ],
+    [ "TapeInfo", "dd/dc8/struct_tape_info.html", null ],
     [ "Terminal", "dc/d46/class_terminal.html", null ],
     [ "TimingCalibration", "d2/d44/class_timing_calibration.html", null ],
     [ "TimingCalibrator", "dd/d02/class_timing_calibrator.html", null ],
@@ -227,6 +228,7 @@ var hierarchy =
       [ "skeletonUnpacker", "dd/d1e/classskeleton_unpacker.html", null ],
       [ "UtkUnpacker", "d4/d48/class_utk_unpacker.html", null ]
     ] ],
+    [ "VandleRoot", "dc/dd2/struct_vandle_root.html", null ],
     [ "VandleTimingFunction", "de/d80/class_vandle_timing_function.html", null ],
     [ "std::vector< T >", null, [
       [ "CorrelationList", "de/da4/class_correlation_list.html", null ],
