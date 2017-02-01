@@ -112,7 +112,6 @@ var hierarchy =
     [ "MCA_args", "d3/d7b/class_m_c_a__args.html", null ],
     [ "McpProcessor::McpData", "d8/d24/struct_mcp_processor_1_1_mcp_data.html", null ],
     [ "Messenger", "d6/dc9/class_messenger.html", null ],
-    [ "MTRand", "d4/d85/class_m_t_rand.html", null ],
     [ "Notebook", "d0/d51/class_notebook.html", null ],
     [ "optionExt", "d4/d23/classoption_ext.html", null ],
     [ "parameter", "d5/d4e/classparameter.html", null ],

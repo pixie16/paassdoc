@@ -1,0 +1,32 @@
+<map id="Utkscan" name="Utkscan">
+<area shape="rect" id="node2" href="dir_2a3befa557f2da910fe74df4819c30fd.html" title="analyzers" alt="" coords="134,63,213,111"/>
+<area shape="rect" id="node3" href="dir_ed6333db93325f1d3551032ba465846b.html" title="core" alt="" coords="160,159,232,207"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000014_000008.html" title="23" alt="" coords="178,131,192,146"/>
+<area shape="rect" id="node10" href="dir_bde32bf976401edbce144c1ca78437b0.html" title="Resources" alt="" coords="459,543,543,591"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000014_000035.html" title="2" alt="" coords="523,521,531,536"/>
+<area shape="rect" id="node11" href="dir_5d7c6f6db18e60e39633f445f8be697c.html" title="Resources" alt="" coords="386,159,470,207"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000014_000032.html" title="5" alt="" coords="367,148,375,162"/>
+<area shape="rect" id="edge18-headlabel" href="dir_000008_000014.html" title="9" alt="" coords="180,123,188,138"/>
+<area shape="rect" id="node4" href="dir_97fe889f84233f55a9b3530294ee521f.html" title="experiment" alt="" coords="222,255,309,303"/>
+<area shape="rect" id="edge15-headlabel" href="dir_000008_000005.html" title="2" alt="" coords="231,227,239,242"/>
+<area shape="rect" id="node5" href="dir_c35eb389713cfc3e8022eb9da95d5d8c.html" title="processors" alt="" coords="195,351,282,399"/>
+<area shape="rect" id="edge17-headlabel" href="dir_000008_000011.html" title="18" alt="" coords="209,323,224,338"/>
+<area shape="rect" id="node7" href="dir_b3d746ee3f73c27582c04e786d179c55.html" title="Scanor" alt="" coords="341,351,413,399"/>
+<area shape="rect" id="edge13-headlabel" href="dir_000008_000029.html" title="2" alt="" coords="369,323,377,338"/>
+<area shape="rect" id="node8" href="dir_d1f3dbe10f157d97e145494b8a91d73e.html" title="ScanLibraries" alt="" coords="344,447,445,495"/>
+<area shape="rect" id="edge14-headlabel" href="dir_000008_000017.html" title="4" alt="" coords="425,428,433,442"/>
+<area shape="rect" id="node9" href="dir_c6310732a22f63c0c2fc5595561e68f1.html" title="Core" alt="" coords="203,543,275,591"/>
+<area shape="rect" id="edge16-headlabel" href="dir_000008_000020.html" title="3" alt="" coords="222,515,230,530"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000005_000008.html" title="48" alt="" coords="219,219,233,234"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000005_000011.html" title="26" alt="" coords="251,328,266,342"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000005_000029.html" title="1" alt="" coords="337,325,345,340"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000011_000008.html" title="106" alt="" coords="190,219,212,233"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000011_000020.html" title="1" alt="" coords="243,517,251,532"/>
+<area shape="rect" id="node6" href="dir_b16081b0346237589e41fa9391b66a98.html" title="share" alt="" coords="37,63,109,111"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000029_000017.html" title="1" alt="" coords="391,419,399,434"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000017_000020.html" title="3" alt="" coords="291,535,299,549"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000017_000035.html" title="9" alt="" coords="463,517,471,531"/>
+<area shape="rect" id="edge12-headlabel" href="dir_000032_000035.html" title="6" alt="" coords="498,516,506,531"/>
+<area shape="rect" id="clust2" href="dir_f13c84c46700b552851dcb8286bbe188.html" alt="" coords="27,52,320,409"/>
+<area shape="rect" id="clust1" href="dir_19b17cb436010079e3d017a29cb7858f.html" title="Analysis" alt="" coords="16,16,331,420"/>
+</map>

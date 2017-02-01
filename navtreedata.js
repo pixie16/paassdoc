@@ -60,8 +60,7 @@ var NAVTREE =
         [ "Variables", "functions_vars.html", "functions_vars" ],
         [ "Typedefs", "functions_type.html", null ],
         [ "Enumerations", "functions_enum.html", null ],
-        [ "Enumerator", "functions_eval.html", null ],
-        [ "Related Functions", "functions_rela.html", null ]
+        [ "Enumerator", "functions_eval.html", null ]
       ] ]
     ] ],
     [ "Files", null, [
@@ -84,23 +83,23 @@ var NAVTREEINDEX =
 "annotated.html",
 "d1/d97/class_trap_filter_parameters.html#a43bca9e5f5cd7f618fb1da34818300f8",
 "d2/d61/_liquid_scint_processor_8cpp.html#ab2308679d54addf06efef90b934c9a62",
-"d3/d2c/class_tree_correlator.html#a22da8d2ef065c467726880aec17299e1",
-"d3/d90/_random_pool_8cpp_source.html",
-"d4/d7b/unittest-_helper_functions_8cpp_source.html",
-"d5/d18/_ge_processor_8hpp.html#a516aa85aacb20030b201b1951e875478",
-"d5/de1/classscope_scanner.html#af67f7295f6645bf65cf2361dc89cf961",
-"d6/db0/class_poll.html#aef5d921492b8b9c4aaf5d9de8cc653ac",
-"d7/d6e/class_plots_register.html#aebb9a131a681335fb927c5fadb600a9d",
-"d8/d00/struct_event_info.html#aa7f3189976487cb1de2d376b7aa513b4",
-"d9/d6d/dettype.html#ge",
-"d9/de0/class_trace_grabber.html#a95448839727a4d5a3a015993264af159",
-"db/d15/class_random_pool.html#ac8dd14eae73e6acacee2fd686713ae61",
-"dc/d32/class_raw_event.html#a769b5dc03dbed711c761beeed0570522",
-"dc/dbe/class_detector_library.html#a654780e8253c6f494fc65e7123b02e34",
-"dd/db7/class_trace.html#a6745016f5b33899c8c29f051b536aa99",
-"de/d81/class_i_s600_processor.html#aa39546cf36beaa55f7ea0d80e71db2f4",
-"df/d90/map__to__config_8py.html#a66e45031efc6eda94621dfb3b10ff854",
-"globals_func_b.html"
+"d3/d2b/_xia_data_8hpp.html",
+"d3/d8f/_xia_list_mode_data_encoder_8hpp.html",
+"d4/d7b/unittest-_helper_functions_8cpp.html#a6ba7b40d59535e663f475d6855b9b9e9",
+"d5/d18/_ge_processor_8hpp.html#ac2fe9ec64483602620b3463521cfa4f2",
+"d6/d15/class_bar_detector.html#a1a1ea9e91c15894d411d1ebe0b08bb03",
+"d6/dc9/class_messenger.html#a6e49006efdfa500349b30bdc492ba2ab",
+"d7/d8b/class_plots.html#a2cfcb7bc77f4f0be60ae290696a45406",
+"d8/d1f/_c_terminal_8h.html#aa4b44378712bbe93456cf7c9194ebde7",
+"d9/d7d/class_output_his_file.html#a32990505a02cb17dca544e2ef909a017",
+"da/d18/_walk_corrector_8hpp.html#a0abc7fc62a6de162ab1b8e025eb1b5ada1bd8c9ae37f76b772eab0a5c91e26fb5",
+"db/d2a/_utility_8h.html#aa255d5a4c37811e54b3403f96fbd3599",
+"dc/d46/class_terminal.html#a8335c2e8edcd36b065b47c58a18b503d",
+"dc/dd2/struct_vandle_root.html#acbd01072ad98c996446d38d5bbac9939",
+"dd/dcb/class_mcp_processor.html#a18ba07973598112e7c9a514e75f939f4",
+"de/d91/class_detector_driver.html#aa75c588496641c8a0f66152235f93fd6",
+"df/d91/_unit_test_sample_data_8hpp.html#a6b9f28707034130b4bc0b4cd2da7160a",
+"namespacemembers.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

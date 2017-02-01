@@ -1,0 +1,18 @@
+<map id="Acquisition" name="Acquisition">
+<area shape="rect" id="node2" href="dir_02ca47b57a818ac962843d1234b7dfd0.html" title="Interface" alt="" coords="53,219,126,267"/>
+<area shape="rect" id="node7" href="dir_c6310732a22f63c0c2fc5595561e68f1.html" title="Core" alt="" coords="153,315,225,363"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000040_000020.html" title="4" alt="" coords="153,288,161,303"/>
+<area shape="rect" id="node3" href="dir_cc874e13c482ea3fa3abdbcf18971e28.html" title="MCA" alt="" coords="79,123,151,171"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000024_000040.html" title="3" alt="" coords="105,195,113,210"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000024_000020.html" title="3" alt="" coords="177,287,185,302"/>
+<area shape="rect" id="node4" href="dir_8ebe6f98d148d122799a4dde4399e4f1.html" title="Poll" alt="" coords="221,27,293,75"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000038_000040.html" title="3" alt="" coords="131,205,139,219"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000038_000024.html" title="2" alt="" coords="166,112,174,127"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000038_000020.html" title="9" alt="" coords="225,297,233,312"/>
+<area shape="rect" id="node5" href="dir_70e945224ab7a3283c677d7d13865aaf.html" title="PxiDump" alt="" coords="123,27,197,75"/>
+<area shape="rect" id="node6" href="dir_302e069687969a6a4afb101526291797.html" title="Setup" alt="" coords="27,27,99,75"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000001_000040.html" title="29" alt="" coords="75,191,89,206"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000001_000024.html" title="1" alt="" coords="96,95,104,109"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000001_000020.html" title="2" alt="" coords="198,290,206,305"/>
+<area shape="rect" id="clust1" href="dir_ea7d0e3cb3c62471e4b70ef6dd735ffc.html" alt="" coords="16,16,416,277"/>
+</map>

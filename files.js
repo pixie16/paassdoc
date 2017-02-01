@@ -206,7 +206,6 @@ var files =
       [ "McpProcessor", "dd/dcb/class_mcp_processor.html", "dd/dcb/class_mcp_processor" ],
       [ "McpData", "d8/d24/struct_mcp_processor_1_1_mcp_data.html", "d8/d24/struct_mcp_processor_1_1_mcp_data" ]
     ] ],
-    [ "MersenneTwister.hpp", "d9/d84/_mersenne_twister_8hpp.html", "d9/d84/_mersenne_twister_8hpp" ],
     [ "Messenger.cpp", "d4/ddf/_messenger_8cpp.html", null ],
     [ "Messenger.hpp", "d0/db0/_messenger_8hpp.html", [
       [ "Messenger", "d6/dc9/class_messenger.html", "d6/dc9/class_messenger" ]
@@ -390,8 +389,8 @@ var files =
     [ "toggle_pileup.cpp", "d2/d00/toggle__pileup_8cpp.html", "d2/d00/toggle__pileup_8cpp" ],
     [ "toggle_polarity.cpp", "df/d1b/toggle__polarity_8cpp.html", "df/d1b/toggle__polarity_8cpp" ],
     [ "toggle_trace.cpp", "d4/dc9/toggle__trace_8cpp.html", "d4/dc9/toggle__trace_8cpp" ],
-    [ "Scan/utkscan/core/source/Trace.cpp", "dc/dcd/_scan_2utkscan_2core_2source_2_trace_8cpp.html", null ],
-    [ "Setup/source/Trace.cpp", "d8/dc4/_setup_2source_2_trace_8cpp.html", "d8/dc4/_setup_2source_2_trace_8cpp" ],
+    [ "Acquisition/Setup/source/trace.cpp", "df/d2f/_acquisition_2_setup_2source_2trace_8cpp.html", "df/d2f/_acquisition_2_setup_2source_2trace_8cpp" ],
+    [ "Analysis/Utkscan/core/source/trace.cpp", "d3/d91/_analysis_2_utkscan_2core_2source_2trace_8cpp.html", null ],
     [ "Trace.hpp", "df/d04/_trace_8hpp.html", [
       [ "Trace", "dd/db7/class_trace.html", "dd/db7/class_trace" ]
     ] ],

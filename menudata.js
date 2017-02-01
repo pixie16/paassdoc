@@ -64,7 +64,16 @@ var menudata={children:[
 {text:'v',url:'namespacemembers_vars_v.html#index_v'}]},
 {text:'Typedefs',url:'namespacemembers_type.html'},
 {text:'Enumerations',url:'namespacemembers_enum.html'},
-{text:'Enumerator',url:'namespacemembers_eval.html'}]}]},
+{text:'Enumerator',url:'namespacemembers_eval.html',children:[
+{text:'b',url:'namespacemembers_eval.html#index_b'},
+{text:'g',url:'namespacemembers_eval.html#index_g'},
+{text:'h',url:'namespacemembers_eval.html#index_h'},
+{text:'i',url:'namespacemembers_eval.html#index_i'},
+{text:'p',url:'namespacemembers_eval.html#index_p'},
+{text:'r',url:'namespacemembers_eval.html#index_r'},
+{text:'s',url:'namespacemembers_eval.html#index_s'},
+{text:'u',url:'namespacemembers_eval.html#index_u'},
+{text:'x',url:'namespacemembers_eval.html#index_x'}]}]}]},
 {text:'Data Structures',url:'annotated.html',children:[
 {text:'Data Structures',url:'annotated.html'},
 {text:'Data Structure Index',url:'classes.html'},
@@ -161,13 +170,11 @@ var menudata={children:[
 {text:'g',url:'functions_eval.html#index_g'},
 {text:'i',url:'functions_eval.html#index_i'},
 {text:'l',url:'functions_eval.html#index_l'},
-{text:'m',url:'functions_eval.html#index_m'},
 {text:'n',url:'functions_eval.html#index_n'},
 {text:'p',url:'functions_eval.html#index_p'},
 {text:'s',url:'functions_eval.html#index_s'},
 {text:'u',url:'functions_eval.html#index_u'},
-{text:'v',url:'functions_eval.html#index_v'}]},
-{text:'Related Functions',url:'functions_rela.html'}]}]},
+{text:'v',url:'functions_eval.html#index_v'}]}]}]},
 {text:'Files',url:'files.html',children:[
 {text:'File List',url:'files.html'},
 {text:'Globals',url:'globals.html',children:[

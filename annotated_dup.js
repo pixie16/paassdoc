@@ -89,7 +89,6 @@ var annotated_dup =
     [ "MCA_ROOT", "dc/d85/class_m_c_a___r_o_o_t.html", "dc/d85/class_m_c_a___r_o_o_t" ],
     [ "McpProcessor", "dd/dcb/class_mcp_processor.html", "dd/dcb/class_mcp_processor" ],
     [ "Messenger", "d6/dc9/class_messenger.html", "d6/dc9/class_messenger" ],
-    [ "MTRand", "d4/d85/class_m_t_rand.html", "d4/d85/class_m_t_rand" ],
     [ "NeutronProcessor", "da/d0f/class_neutron_processor.html", "da/d0f/class_neutron_processor" ],
     [ "NeutronScintProcessor", "d9/dfc/class_neutron_scint_processor.html", "d9/dfc/class_neutron_scint_processor" ],
     [ "Notebook", "d0/d51/class_notebook.html", "d0/d51/class_notebook" ],

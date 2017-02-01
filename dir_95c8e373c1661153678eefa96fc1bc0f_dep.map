@@ -1,0 +1,12 @@
+<map id="source" name="source">
+<area shape="rect" id="node1" href="dir_95c8e373c1661153678eefa96fc1bc0f.html" title="source" alt="" coords="57,52,129,100"/>
+<area shape="rect" id="node2" href="dir_5dff47409855d9e162af1d73d7044210.html" title="include" alt="" coords="57,148,129,196"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000018_000019.html" title="12" alt="" coords="94,122,109,137"/>
+<area shape="rect" id="node3" href="dir_c6310732a22f63c0c2fc5595561e68f1.html" title="Core" alt="" coords="5,244,77,292"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000018_000020.html" title="2" alt="" coords="41,218,49,233"/>
+<area shape="rect" id="node4" href="dir_bde32bf976401edbce144c1ca78437b0.html" title="Resources" alt="" coords="113,244,197,292"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000018_000035.html" title="2" alt="" coords="159,218,167,233"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000019_000020.html" title="1" alt="" coords="67,224,75,239"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000019_000035.html" title="1" alt="" coords="132,216,140,231"/>
+<area shape="rect" id="clust1" href="dir_d1f3dbe10f157d97e145494b8a91d73e.html" title="ScanLibraries" alt="" coords="43,16,144,111"/>
+</map>
