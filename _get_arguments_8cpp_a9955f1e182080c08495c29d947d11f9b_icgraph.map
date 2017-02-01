@@ -1,0 +1,8 @@
+<map id="GetArgument" name="GetArgument">
+<area shape="rect" id="node2" href="$_get_arguments_8cpp.html#a6548defa977d908011f5192a59873366" title="Returns an argv style array that can be used to pass to getopt and other similar functions. " alt="" coords="191,21,297,48"/>
+<area shape="rect" id="node5" href="$class_valid_processor.html#acf61c680ef64ca7835e5d22de2c9ec32" title="ValidProcessor::OutputData" alt="" coords="152,72,336,98"/>
+<area shape="rect" id="node3" href="$scope_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="681,9,731,36"/>
+<area shape="rect" id="node4" href="$utkscanor_8cpp.html#a8dbf7975e3e8cf9404086d6f85c6f308" title="Begins setups the interface between SCANOR and the C++ and the Unpacker. It also handles the processi..." alt="" coords="433,21,502,48"/>
+<area shape="rect" id="node6" href="$class_valid_processor.html#a6a1a17223b39cd75da0205019dcbe700" title="ValidProcessor::Process" alt="" coords="384,72,551,98"/>
+<area shape="rect" id="node7" href="$class_valid_processor.html#a78fd9a072129677181d1a44c49523949" title="ValidProcessor::~ValidProcessor" alt="" coords="599,85,813,112"/>
+</map>

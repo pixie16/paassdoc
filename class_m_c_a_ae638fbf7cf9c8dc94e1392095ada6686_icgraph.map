@@ -1,0 +1,11 @@
+<map id="MCA::Run" name="MCA::Run">
+<area shape="rect" id="node2" href="$class_m_c_a.html#a9ec349ada510437c6a7b629aa8289987" title="Check if the histogram construction was successful. " alt="" coords="136,56,237,83"/>
+<area shape="rect" id="node3" href="$_m_c_a__exec_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="352,5,403,32"/>
+<area shape="rect" id="node4" href="$class_m_c_a___r_o_o_t.html#a2b525e12723d18f5072632560c39ec78" title="Defaul destructor. " alt="" coords="285,56,469,83"/>
+<area shape="rect" id="node8" href="$class_m_c_a__args.html#a23bf88ff490adb631bbafef3c4bc18e0" title="MCA_args::Initialize" alt="" coords="308,111,447,137"/>
+<area shape="rect" id="node5" href="$class_m_c_a___r_o_o_t_1_1cerr__redirect.html#a824ff8d72f4ec2b98b485594c8608a10" title="MCA_ROOT::cerr_redirect\l::Print" alt="" coords="517,45,692,86"/>
+<area shape="rect" id="node6" href="$class_m_c_a___r_o_o_t.html#a2eb995cbd14ca173fcd5626395699033" title="Abstract method to open a storage file. " alt="" coords="740,52,895,79"/>
+<area shape="rect" id="node7" href="$class_m_c_a___r_o_o_t.html#af793158b400b3b6fd377c5e4fc1ff530" title="Default constructor. " alt="" coords="943,77,1119,104"/>
+<area shape="rect" id="node9" href="$class_poll.html#a7bc77d04169be53d1a3553e0a55932d6" title="Acquire raw traces from a pixie module. " alt="" coords="761,157,874,184"/>
+<area shape="rect" id="node10" href="$class_m_c_a__args.html#a5308bd7d0b4afde97322e8c0cde07dc9" title="MCA_args::SetBasename" alt="" coords="518,161,691,188"/>
+</map>

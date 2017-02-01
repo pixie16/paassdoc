@@ -1,8 +1,8 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$dd/d06/class_timing_driver.html" title="An abstract class that will be used to handle timing. " alt="" coords="5,107,100,133"/>
-<area shape="rect" id="node2" href="$dc/d06/class_gsl_fitter.html" title="GslFitter" alt="" coords="165,5,237,32"/>
-<area shape="rect" id="node3" href="$de/d2b/class_polynomial_cfd.html" title="PolynomialCfd" alt="" coords="148,56,255,83"/>
-<area shape="rect" id="node4" href="$d1/dac/class_root_fitter.html" title="RootFitter" alt="" coords="162,107,241,133"/>
-<area shape="rect" id="node5" href="$d4/d35/class_traditional_cfd.html" title="TraditionalCfd" alt="" coords="150,157,253,184"/>
-<area shape="rect" id="node6" href="$db/d57/class_xia_cfd.html" title="XiaCfd" alt="" coords="171,208,232,235"/>
+<area shape="rect" id="node1" href="$class_timing_driver.html" title="An abstract class that will be used to handle timing. " alt="" coords="5,107,100,133"/>
+<area shape="rect" id="node2" href="$class_gsl_fitter.html" title="GslFitter" alt="" coords="165,5,237,32"/>
+<area shape="rect" id="node3" href="$class_polynomial_cfd.html" title="PolynomialCfd" alt="" coords="148,56,255,83"/>
+<area shape="rect" id="node4" href="$class_root_fitter.html" title="RootFitter" alt="" coords="162,107,241,133"/>
+<area shape="rect" id="node5" href="$class_traditional_cfd.html" title="TraditionalCfd" alt="" coords="150,157,253,184"/>
+<area shape="rect" id="node6" href="$class_xia_cfd.html" title="XiaCfd" alt="" coords="171,208,232,235"/>
 </map>

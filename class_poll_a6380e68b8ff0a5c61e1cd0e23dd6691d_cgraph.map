@@ -1,0 +1,5 @@
+<map id="Poll::show_status" name="Poll::show_status">
+<area shape="rect" id="node2" href="$poll2__core_8h.html#a683057c8187320554273243af5ccf447" title="Return a string containing &quot;yes&quot; for value_==true and &quot;no&quot; for value_==false. " alt="" coords="227,5,285,32"/>
+<area shape="rect" id="node3" href="$class_poll_output_file.html#a272261d64518ff684d1ffd2b625fb47e" title="Return true if an output file is open and writable and false otherwise. " alt="" coords="179,56,333,83"/>
+<area shape="rect" id="node4" href="$class_buffer_type.html#a36e4f7879ba14261a055ed8d651dc387" title="Returns only false if not overloaded. " alt="" coords="381,56,505,83"/>
+</map>

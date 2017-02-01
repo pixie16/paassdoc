@@ -1,0 +1,17 @@
+<map id="DetectorDriver.hpp" name="DetectorDriver.hpp">
+<area shape="rect" id="node2" href="$_utk_unpacker_8hpp.html" title="UtkUnpacker.hpp" alt="" coords="153,80,276,107"/>
+<area shape="rect" id="node4" href="$_utk_scan_interface_8cpp.html" title="UtkScanInterface.cpp" alt="" coords="270,155,418,181"/>
+<area shape="rect" id="node6" href="$_correlator_8cpp.html" title="Correlates events. " alt="" coords="366,80,469,107"/>
+<area shape="rect" id="node7" href="$_detector_driver_8cpp.html" title="Main driver for event processing. " alt="" coords="493,80,624,107"/>
+<area shape="rect" id="node8" href="$utkscanor_8cpp.html" title="utkscanor.cpp" alt="" coords="648,80,752,107"/>
+<area shape="rect" id="node9" href="$_anl1471_processor_8cpp.html" title="A class to process data from ANL1471 experiment using VANDLE. " alt="" coords="777,80,930,107"/>
+<area shape="rect" id="node10" href="$_i_s600_processor_8cpp.html" title="A class to process data from ISOLDE 599 and 600 experiments using VANDLE. " alt="" coords="954,80,1094,107"/>
+<area shape="rect" id="node11" href="$_she_correlator_8cpp.html" title="SheCorrelator.cpp" alt="" coords="1118,80,1245,107"/>
+<area shape="rect" id="node12" href="$_template_exp_processor_8cpp.html" title="Example class for experiment specific setups. " alt="" coords="1269,80,1451,107"/>
+<area shape="rect" id="node13" href="$_vandle_ornl2012_processor_8cpp.html" title="A class to process data from the LeRIBSS 2012 campaign. " alt="" coords="1475,80,1674,107"/>
+<area shape="rect" id="node14" href="$_implant_ssd_processor_8cpp.html" title="Handles ssd:implant detectors. " alt="" coords="1698,80,1870,107"/>
+<area shape="rect" id="node15" href="$_valid_processor_8cpp.html" title="Used to output the timestamps from the MoNA daq clock. " alt="" coords="1894,80,2029,107"/>
+<area shape="rect" id="node16" href="$_vandle_processor_8cpp.html" title="Processes information for VANDLE. " alt="" coords="2053,80,2200,107"/>
+<area shape="rect" id="node3" href="$utkscan_8cpp.html" title="utkscan.cpp" alt="" coords="5,155,99,181"/>
+<area shape="rect" id="node5" href="$_utk_unpacker_8cpp.html" title="A child of the Unpacker class that is used to replace some of the functionality of the PixieStd..." alt="" coords="123,155,245,181"/>
+</map>

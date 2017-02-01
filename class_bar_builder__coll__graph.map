@@ -1,0 +1,12 @@
+<map id="BarBuilder" name="BarBuilder">
+<area shape="rect" id="node4" href="$class_chan_event.html" title="A channel event. " alt="" coords="1232,119,1319,145"/>
+<area shape="rect" id="node22" href="$class_high_res_timing_data.html" title="HighResTimingData" alt="" coords="1424,148,1561,175"/>
+<area shape="rect" id="node5" href="$class_trace.html" title="Store the information for a trace. " alt="" coords="1085,144,1140,171"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="771,27,919,69"/>
+<area shape="rect" id="node18" href="$class_xia_data.html" title="A pixie16 channel event. " alt="" coords="1079,53,1147,80"/>
+<area shape="rect" id="node12" href="$class_plots.html" title="Holds pointers to all Histograms. " alt="" coords="819,325,871,352"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="213,245,293,272"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="5,238,132,279"/>
+<area shape="rect" id="node13" href="$class_plots_register.html" title="Holds ranges and offsets of all plots. Singleton class. " alt="" coords="453,511,553,537"/>
+<area shape="rect" id="node21" href="$class_bar_detector.html" title="A class to handle detectors that have two readouts viewing the same volume. " alt="" coords="1787,176,1877,203"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="DetectorDriver::DeclareHistogram2D" name="DetectorDriver::DeclareHistogram2D">
+<area shape="rect" id="node2" href="$class_plots.html#a59a2ffc3288d877c695346d82499e769" title="Declares a 2D histogram calls the C++ wrapper for DAMM. " alt="" coords="299,56,478,83"/>
+<area shape="rect" id="node4" href="$class_detector_driver.html#a594450e52165ddad3727bf07d8900e65" title="DetectorDriver::LoadProcessors" alt="" coords="285,157,492,184"/>
+<area shape="rect" id="node9" href="$class_detector_driver.html#ad6e1f2f1c6cd0e96b7a1eeeae806d486" title="DetectorDriver::ReadCalXml" alt="" coords="296,309,481,336"/>
+<area shape="rect" id="node15" href="$class_detector_driver.html#a42bde0c6e38229294699852d1d04ba54" title="DetectorDriver::ReadWalkXml" alt="" coords="291,259,486,285"/>
+<area shape="rect" id="node3" href="$_scanor_8hpp.html#a65d497b6686f1daba9896091bada3eb1" title="create a DAMM 2D histogram " alt="" coords="603,5,660,32"/>
+<area shape="rect" id="node5" href="$class_detector_library.html#a6ab3ff825daa8b607865086741bc9b2c" title="DetectorLibrary::get" alt="" coords="563,208,699,235"/>
+<area shape="rect" id="node6" href="$class_messenger.html#a24d0db0aece5830b3de62310f5753be8" title="Messenger::detail" alt="" coords="991,233,1116,260"/>
+<area shape="rect" id="node7" href="$class_messenger.html#a130e83285254c9149629842ca2aa6f20" title="Messenger::warning" alt="" coords="787,208,926,235"/>
+<area shape="rect" id="node8" href="$namespacestrings.html#a9bdb2686dd6d86c7879f87868e3e6026" title="strings::tokenize" alt="" coords="572,107,691,133"/>
+<area shape="rect" id="node10" href="$class_messenger.html#a1b47ad62ebac8fdafd2d7a2d8ee7b642" title="Messenger::start" alt="" coords="571,309,691,336"/>
+<area shape="rect" id="node12" href="$class_detector_library.html#ac55ae5398583a68ac2eb448b926f365f" title="DetectorLibrary::at" alt="" coords="567,360,696,387"/>
+<area shape="rect" id="node14" href="$class_calibrator.html#ac116c0872d67b7d810e376ad4858fa03" title="Calibrator::AddChannel" alt="" coords="554,411,709,437"/>
+<area shape="rect" id="node11" href="$class_messenger.html#a770167e668ce59153a05f61a30b548b0" title="Messenger::run_message" alt="" coords="771,259,943,285"/>
+<area shape="rect" id="node13" href="$class_detector_library.html#a5b3be3cc7ba7a65f0dc5d446661c7bf7" title="DetectorLibrary::GetIndex" alt="" coords="771,360,942,387"/>
+<area shape="rect" id="node16" href="$class_walk_corrector.html#ac4755f87f2fe9094e125fe8604a9a175" title="WalkCorrector::AddChannel" alt="" coords="540,259,723,285"/>
+</map>

@@ -1,6 +1,0 @@
-<map id="TraceFilterAnalyzer" name="TraceFilterAnalyzer">
-<area shape="rect" id="node2" href="$d2/dbc/class_trace_analyzer.html" title="Abstract class that all trace analyzers are derived from. " alt="" coords="15,185,122,212"/>
-<area shape="rect" id="node3" title="STL class. " alt="" coords="29,96,109,123"/>
-<area shape="rect" id="node4" title="STL class. " alt="" coords="5,5,132,47"/>
-<area shape="rect" id="node5" href="$d1/d97/class_trap_filter_parameters.html" title="Simple class that holds trapezoidal filter parameters. " alt="" coords="146,185,290,212"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="MTRand::twist" name="MTRand::twist">
-<area shape="rect" id="node2" href="$d4/d85/class_m_t_rand.html#a41b6713f75a771c5ec8e71ef6832a5fa" title="MTRand::mixBits" alt="" coords="160,31,283,57"/>
-<area shape="rect" id="node5" href="$d4/d85/class_m_t_rand.html#a6e2f7d8bae68dc63f6bcbb954cf4fb29" title="MTRand::loBit" alt="" coords="169,81,274,108"/>
-<area shape="rect" id="node6" href="$d4/d85/class_m_t_rand.html#a486885d03f38c844315d002e6312fa23" title="MTRand::hash" alt="" coords="168,132,275,159"/>
-<area shape="rect" id="node3" href="$d4/d85/class_m_t_rand.html#a900c4700226add7e7eb0c2efd9f24ced" title="MTRand::hiBit" alt="" coords="334,5,439,32"/>
-<area shape="rect" id="node4" href="$d4/d85/class_m_t_rand.html#a1930fa7c242d35be28bb99b18a84a93d" title="MTRand::loBits" alt="" coords="331,56,443,83"/>
-</map>

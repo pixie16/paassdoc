@@ -1,0 +1,5 @@
+<map id="BarBuilder::SetChannelList" name="BarBuilder::SetChannelList">
+<area shape="rect" id="node2" href="$class_bar_builder.html#a4704cf3f380927f262b42b319cc893ac" title="BarBuilder::CalcBarNumber" alt="" coords="232,5,413,32"/>
+<area shape="rect" id="node3" href="$class_bar_builder.html#acf83ecf7bfe424cc02e8090995c95956" title="BarBuilder::ClearMaps" alt="" coords="247,56,399,83"/>
+<area shape="rect" id="node4" href="$class_bar_builder.html#aaa6fa37f47abbac711398f7018b28ce2" title="BarBuilder::FillMaps" alt="" coords="253,107,392,133"/>
+</map>

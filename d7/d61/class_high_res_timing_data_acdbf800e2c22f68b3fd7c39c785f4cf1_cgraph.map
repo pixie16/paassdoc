@@ -1,4 +1,0 @@
-<map id="HighResTimingData::GetFilterTime" name="HighResTimingData::GetFilterTime">
-<area shape="rect" id="node2" href="$d5/d91/class_chan_event.html#a68ebc74f549f23b897431c9ae5448875" title="ChanEvent::GetTime" alt="" coords="199,13,343,39"/>
-<area shape="rect" id="node3" href="$d2/ddd/class_xia_data.html#a36f4c2263068268968b790786d4b61da" title="Method that will return the time for the channel. The actual time is a 48&#45;bit number. We multiply 2^32 by the eventTimeHigh_ so that we account for the missing upper 16 bits of the number. The cfdTime_ contains all of the fractional time information, and so we divide by 2^16 here. &#160;Verify that this method works properly for all of the different module types and firmwares. It doesn&#39;t and this value simply needs to be set explicitly by the Decoder. " alt="" coords="391,13,517,39"/>
-</map>

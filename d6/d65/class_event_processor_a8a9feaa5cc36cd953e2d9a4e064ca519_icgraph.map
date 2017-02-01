@@ -1,7 +1,0 @@
-<map id="EventProcessor::HasEvent" name="EventProcessor::HasEvent">
-<area shape="rect" id="node2" href="$d6/d65/class_event_processor.html#a0cffd98323d96a9ac048c72401e08197" title="EventProcessor::DidProcess" alt="" coords="233,5,424,32"/>
-<area shape="rect" id="node3" href="$d9/dee/struct_ion_chamber_processor_1_1_data.html#ab4a3d154dd4159cc3d5a4e55122b66a9" title="IonChamberProcessor\l::Data::Clear" alt="" coords="253,81,404,122"/>
-<area shape="rect" id="node6" href="$dd/dcb/class_mcp_processor.html#a6b5d260bc4c805176a415f78a73c29aa" title="McpProcessor::Process" alt="" coords="247,147,410,173"/>
-<area shape="rect" id="node4" href="$dd/df2/class_ion_chamber_processor.html#a6d1891dc55fb66434793c8594f3b7616" title="IonChamberProcessor\l::Process" alt="" coords="472,81,623,122"/>
-<area shape="rect" id="node5" href="$dd/df2/class_ion_chamber_processor.html#a04e1204b8f8efd09dac743a82b1d4312" title="IonChamberProcessor\l::~IonChamberProcessor" alt="" coords="671,81,837,122"/>
-</map>

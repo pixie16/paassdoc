@@ -1,0 +1,8 @@
+<map id="GetCore" name="GetCore">
+<area shape="rect" id="node2" href="$class_scan_interface.html#af21536e28bf23e9a0945d1869c6621b9" title="Setup user options and initialize all required objects. " alt="" coords="150,5,295,32"/>
+<area shape="rect" id="node5" href="$class_scan_interface.html#a8a7fccc581d0de3ed5660e3a152a0a77" title="ScanInterface::Notify" alt="" coords="150,56,295,83"/>
+<area shape="rect" id="node6" href="$classscope_scanner.html#aa8e5ec0334702a52fb1f7e3fd0e89620" title="scopeScanner::InitRootOutput" alt="" coords="124,107,321,133"/>
+<area shape="rect" id="node7" href="$classskeleton_scanner.html#a745b12feeaf9fc2cb1a0860d9bd03046" title="skeletonScanner::InitRoot\lOutput" alt="" coords="137,158,309,199"/>
+<area shape="rect" id="node3" href="$scope_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="487,5,537,32"/>
+<area shape="rect" id="node4" href="$utkscanor_8cpp.html#a8dbf7975e3e8cf9404086d6f85c6f308" title="Begins setups the interface between SCANOR and the C++ and the Unpacker. It also handles the processi..." alt="" coords="369,31,439,57"/>
+</map>

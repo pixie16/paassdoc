@@ -1,9 +1,0 @@
-<map id="poll2_socket.h" name="poll2_socket.h">
-<area shape="rect" id="node2" href="$db/ddf/hribf__buffers_8cpp.html" title="Handles poll2 output data files. " alt="" coords="5,80,124,107"/>
-<area shape="rect" id="node3" href="$d7/deb/poll2__socket_8cpp.html" title="Provides network connectivity for poll2. " alt="" coords="149,80,269,107"/>
-<area shape="rect" id="node4" href="$dd/d8b/listener_8cpp.html" title="Receives and decodes packets broadcast by poll2. " alt="" coords="293,80,383,107"/>
-<area shape="rect" id="node5" href="$d4/de7/monitor_8cpp.html" title="Receives and decodes rate packets from StatsHandler. " alt="" coords="407,80,498,107"/>
-<area shape="rect" id="node6" href="$d0/dd4/poll2__core_8cpp.html" title="Controls the poll2 command interpreter and data acquisition system. " alt="" coords="522,80,629,107"/>
-<area shape="rect" id="node7" href="$dd/d76/poll2__stats_8cpp.html" title="poll2_stats.cpp" alt="" coords="653,80,764,107"/>
-<area shape="rect" id="node8" href="$de/d60/_scan_interface_8cpp.html" title="A class to handle reading from various UTK/ORNL pixie16 data formats. " alt="" coords="789,80,917,107"/>
-</map>

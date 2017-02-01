@@ -1,0 +1,15 @@
+<map id="WalkVandleBetaProcessor" name="WalkVandleBetaProcessor">
+<area shape="rect" id="node2" href="$class_vandle_processor.html" title="Class to process VANDLE related events. " alt="" coords="2723,353,2844,380"/>
+<area shape="rect" id="node3" href="$class_event_processor.html" title="Class to handle event processing. " alt="" coords="2452,524,2567,551"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="213,456,293,483"/>
+<area shape="rect" id="node8" href="$class_detector_summary.html" title="Summary of all channels of one detector type. " alt="" coords="1760,383,1887,409"/>
+<area shape="rect" id="node16" href="$class_plots.html" title="Holds pointers to all Histograms. " alt="" coords="820,336,872,363"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="5,449,132,490"/>
+<area shape="rect" id="node10" href="$class_chan_event.html" title="A channel event. " alt="" coords="1233,249,1320,276"/>
+<area shape="rect" id="node24" href="$class_high_res_timing_data.html" title="HighResTimingData" alt="" coords="1755,255,1892,281"/>
+<area shape="rect" id="node11" href="$class_trace.html" title="Store the information for a trace. " alt="" coords="1087,188,1141,215"/>
+<area shape="rect" id="node12" title="STL class. " alt="" coords="772,22,920,63"/>
+<area shape="rect" id="node22" href="$class_xia_data.html" title="A pixie16 channel event. " alt="" coords="1080,68,1148,95"/>
+<area shape="rect" id="node17" href="$class_plots_register.html" title="Holds ranges and offsets of all plots. Singleton class. " alt="" coords="453,189,553,216"/>
+<area shape="rect" id="node26" href="$class_bar_detector.html" title="A class to handle detectors that have two readouts viewing the same volume. " alt="" coords="2044,319,2135,345"/>
+</map>

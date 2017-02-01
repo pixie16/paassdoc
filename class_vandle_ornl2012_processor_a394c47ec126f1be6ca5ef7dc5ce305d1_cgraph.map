@@ -1,0 +1,51 @@
+<map id="VandleOrnl2012Processor::~VandleOrnl2012Processor" name="VandleOrnl2012Processor::~VandleOrnl2012Processor">
+<area shape="rect" id="node2" href="$class_vandle_ornl2012_processor.html#ad6ff4a3b677161d896be261a3b565bf8" title="VandleOrnl2012Processor\l::DeclarePlots" alt="" coords="243,731,416,773"/>
+<area shape="rect" id="node3" href="$class_vandle_ornl2012_processor.html#a05b7477fad0d6614e01ca86cb9cff0bf" title="VandleOrnl2012Processor\l::Process" alt="" coords="243,797,416,838"/>
+<area shape="rect" id="node4" href="$class_event_processor.html#ae2d41a947da0cb509fd0ca85f6caa0fc" title="EventProcessor::Process" alt="" coords="475,64,645,91"/>
+<area shape="rect" id="node5" href="$class_event_processor.html#a301eb8d69b3ceeeb4e69ce84a685f5a1" title="EventProcessor::EndProcess" alt="" coords="711,39,905,65"/>
+<area shape="rect" id="node6" href="$class_raw_event.html#a0405b96da430f69eb01fc8a7668420cc" title="Get a pointer to a specific detector summary. " alt="" coords="1404,191,1571,217"/>
+<area shape="rect" id="node8" href="$class_detector_summary.html#adcb2a931cbd22a6e5f0604fd27886c29" title="DetectorSummary::GetList" alt="" coords="471,317,649,344"/>
+<area shape="rect" id="node9" href="$class_detector_driver.html#a374a759674faebb18f7a2b4fa06c7a70" title="DetectorDriver::get" alt="" coords="495,368,625,395"/>
+<area shape="rect" id="node10" href="$class_bar_detector.html#a35674ef5d54abcf2366797d18eed5d27" title="BarDetector::GetHasEvent" alt="" coords="471,419,649,445"/>
+<area shape="rect" id="node12" href="$class_globals.html#ae66fa0173342202c96b13d71a6522512" title="Globals::get" alt="" coords="1236,469,1328,496"/>
+<area shape="rect" id="node17" href="$class_bar_detector.html#a7aaa590d04fd517a93084a4833737e4d" title="BarDetector::GetCalibration" alt="" coords="969,621,1151,648"/>
+<area shape="rect" id="node23" href="$class_high_res_timing_data.html#abe4cc90812b2fffda29ec8229b37103c" title="HighResTimingData::\lGetIsValid" alt="" coords="987,1219,1133,1261"/>
+<area shape="rect" id="node26" href="$class_high_res_timing_data.html#a46df49a426bd6d9142a430ef74c92046" title="HighResTimingData::\lGetFilterEnergy" alt="" coords="487,673,633,714"/>
+<area shape="rect" id="node28" href="$class_timing_calibration.html#a5489127e48d3a01839ef8bfbacb1bb4c" title="TimingCalibration::\lGetTofOffset" alt="" coords="495,738,625,779"/>
+<area shape="rect" id="node29" href="$class_bar_detector.html#a4952dcf06771339fc19e2aefa99b0403" title="BarDetector::GetCorTimeAve" alt="" coords="464,905,656,932"/>
+<area shape="rect" id="node30" href="$class_high_res_timing_data.html#a2886e6e96843c5611de7eb51883959f2" title="HighResTimingData::\lGetCorrectedTime" alt="" coords="735,898,881,939"/>
+<area shape="rect" id="node39" href="$class_bar_detector.html#ab0b8692f292231103a6dfed431eaf878" title="BarDetector::GetFlightPath" alt="" coords="471,571,649,597"/>
+<area shape="rect" id="node40" href="$class_timing_calibration.html#a7ee437e24a740b45641826f18ab6dac1" title="TimingCalibration::\lGetZ0" alt="" coords="495,957,625,998"/>
+<area shape="rect" id="node41" href="$class_plots.html#a6b095176cd32993332f38b74db6f76c1" title="Plots::BananaTest" alt="" coords="495,1023,625,1049"/>
+<area shape="rect" id="node43" href="$class_bar_detector.html#a3f98751ad3df4c9b3246a22f235c4b98" title="BarDetector::GetQdc" alt="" coords="736,1073,880,1100"/>
+<area shape="rect" id="node44" href="$class_event_processor.html#ad5201bb392726e409ba2a6ac44e764d8" title="Implementation of the plot command to interface with the DAMM routines. " alt="" coords="488,1124,632,1151"/>
+<area shape="rect" id="node46" href="$class_tree_correlator.html#a4f70fdbb0d6dead4212d8e926ce1755f" title="TreeCorrelator::get" alt="" coords="495,1175,625,1201"/>
+<area shape="rect" id="node47" href="$class_tree_correlator.html#aadf6cf8c8bedbbde03fb678667c7cb01" title="TreeCorrelator::place" alt="" coords="489,1225,631,1252"/>
+<area shape="rect" id="node48" href="$class_place.html#a25854d42e71e507da8c1a1805e663850" title="Place::last" alt="" coords="518,1276,602,1303"/>
+<area shape="rect" id="node49" href="$class_globals.html#a8a59aff7fd0bbad3e81b32a2151090df" title="Globals::clockInSeconds" alt="" coords="477,1327,643,1353"/>
+<area shape="rect" id="node50" href="$class_bar_detector.html#a86c2f3668c02766ecb502c8457038193" title="BarDetector::GetTimeAverage" alt="" coords="709,824,907,851"/>
+<area shape="rect" id="node7" href="$class_messenger.html#a24d0db0aece5830b3de62310f5753be8" title="Messenger::detail" alt="" coords="1619,292,1744,319"/>
+<area shape="rect" id="node11" href="$class_bar_detector.html#a735faf1d8e5a6e1f96929f5627466cfc" title="BarDetector::GetType" alt="" coords="733,520,883,547"/>
+<area shape="rect" id="node14" href="$class_globals.html#ae7fac76e35bed640cf43e7d62f74e431" title="Globals::smallLengthTime" alt="" coords="721,368,895,395"/>
+<area shape="rect" id="node15" href="$class_bar_detector.html#a76ea690c2824c9f05cc2a99ee4011a73" title="BarDetector::GetTimeDifference" alt="" coords="704,672,912,699"/>
+<area shape="rect" id="node19" href="$class_bar_detector.html#a660b8ab372d5420467bbca50c85f0083" title="BarDetector::GetRightSide" alt="" coords="720,419,896,445"/>
+<area shape="rect" id="node20" href="$class_bar_detector.html#a3946f36fe27481df6bad5c9258c84faa" title="BarDetector::GetLeftSide" alt="" coords="724,165,892,192"/>
+<area shape="rect" id="node21" href="$class_globals.html#a3b503b4919a686d3a284f42b3f1b0e6b" title="Globals::bigLengthTime" alt="" coords="729,216,887,243"/>
+<area shape="rect" id="node22" href="$class_globals.html#aef6b130c6c7d93fca6c7c73ad7bd5880" title="Globals::mediumLengthTime" alt="" coords="714,267,902,293"/>
+<area shape="rect" id="node13" href="$class_globals.html#ad6c9fda8d0018300ce2a7b7e481181c2" title="Globals::Globals" alt="" coords="1428,317,1547,344"/>
+<area shape="rect" id="node16" href="$class_high_res_timing_data.html#a0d792eaada47a38a231fd62cc107a5d0" title="HighResTimingData::\lGetHighResTime" alt="" coords="987,673,1133,714"/>
+<area shape="rect" id="node18" href="$class_timing_calibrator.html#aef9d53667925c12fee1462de03a5c063" title="TimingCalibrator::get" alt="" coords="1211,621,1353,648"/>
+<area shape="rect" id="node24" href="$class_chan_event.html#ad3af219effd863063c3d2f264af5783a" title="ChanEvent::GetTrace" alt="" coords="1208,1092,1356,1119"/>
+<area shape="rect" id="node25" href="$class_trace.html#a3575dde1f951a53f52a3d03482b7eaa3" title="Trace::GetValue" alt="" coords="1223,1037,1341,1064"/>
+<area shape="rect" id="node27" href="$class_chan_event.html#a66ac70929ec696e92b2af14a027c8b93" title="ChanEvent::GetEnergy" alt="" coords="730,773,886,800"/>
+<area shape="rect" id="node31" href="$class_chan_event.html#aaed14924c03f417ff42ffd35f5e77f09" title="ChanEvent::GetCorrectedTime" alt="" coords="960,907,1160,933"/>
+<area shape="rect" id="node32" href="$class_high_res_timing_data.html#a30b0cb4eca69a1d78e217494d0735508" title="HighResTimingData::\lGetAveBaseline" alt="" coords="987,1089,1133,1130"/>
+<area shape="rect" id="node33" href="$class_high_res_timing_data.html#a4fd50d3ec1fe2fffe91dc08f48aeccc2" title="HighResTimingData::\lGetStdDevBaseline" alt="" coords="987,958,1133,999"/>
+<area shape="rect" id="node34" href="$class_high_res_timing_data.html#a2769883910967c0648ba8c13a7f0dc1f" title="HighResTimingData::\lGetPhase" alt="" coords="987,790,1133,831"/>
+<area shape="rect" id="node35" href="$class_high_res_timing_data.html#ab62e5122538f49ded74f45636de20409" title="HighResTimingData::\lGetSignalToNoiseRatio" alt="" coords="981,1023,1139,1065"/>
+<area shape="rect" id="node36" href="$class_high_res_timing_data.html#a6e6051cc317a8d5fccb6b4f4ca1c7012" title="HighResTimingData::\lGetTraceQdc" alt="" coords="987,1154,1133,1195"/>
+<area shape="rect" id="node37" href="$class_chan_event.html#a56a480fad4a8c6728e783db0cf659c9f" title="ChanEvent::GetChanID" alt="" coords="981,739,1139,765"/>
+<area shape="rect" id="node38" href="$class_identifier.html#af01e5062be749992956d81ff35325de0" title="Identifier::GetLocation" alt="" coords="985,856,1135,883"/>
+<area shape="rect" id="node42" href="$_scanor_8hpp.html#a16d225107d7cfd124f3d73b3d0039c2a" title="Do banana gating using ban files args are the Banana number in the ban file the x&#45;value to test..." alt="" coords="771,1023,845,1049"/>
+<area shape="rect" id="node45" href="$class_plots.html#a68849b82c8c7a5d57f972cbd8de83328" title="Plots into histogram defined by dammId. " alt="" coords="767,1124,849,1151"/>
+</map>

@@ -1,9 +1,0 @@
-<map id="HighResTimingData::CalcEnergy" name="HighResTimingData::CalcEnergy">
-<area shape="rect" id="node2" href="$d3/daf/class_globals.html#ae66fa0173342202c96b13d71a6522512" title="Globals::get" alt="" coords="199,33,291,60"/>
-<area shape="rect" id="node3" href="$d3/daf/class_globals.html#ad6c9fda8d0018300ce2a7b7e481181c2" title="Globals::Globals" alt="" coords="339,33,457,60"/>
-<area shape="rect" id="node4" href="$d6/dc9/class_messenger.html#a24d0db0aece5830b3de62310f5753be8" title="Messenger::detail" alt="" coords="971,33,1096,60"/>
-<area shape="rect" id="node5" href="$d3/daf/class_globals.html#a9dc8ebff5b3cb81999c90462abb4afca" title="Globals::WarnOfUnknownParameter" alt="" coords="505,33,736,60"/>
-<area shape="rect" id="node7" href="$d3/daf/class_globals.html#a3bedee64cc799d6f373d15308f600c63" title="Globals::SanityCheck" alt="" coords="547,84,695,111"/>
-<area shape="rect" id="node6" href="$d6/dc9/class_messenger.html#a130e83285254c9149629842ca2aa6f20" title="Messenger::warning" alt="" coords="784,33,923,60"/>
-<area shape="rect" id="node8" href="$d6/dc9/class_messenger.html#a40a7e53a9b6dc5ef161c2ffd5d6bbbfb" title="Messenger::done" alt="" coords="792,135,915,161"/>
-</map>

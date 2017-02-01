@@ -1,9 +1,0 @@
-<map id="PolarityToggler::operator()" name="PolarityToggler::operator()">
-<area shape="rect" id="node2" href="$d9/dc6/class_pixie_interface.html#aeeb829ac5910cc009fbd47972d691739" title="PixieInterface::TogglePolarity" alt="" coords="225,147,419,174"/>
-<area shape="rect" id="node8" href="$d9/dc6/class_pixie_interface.html#aed6aa4fe372ef3e1e658915fb7cd3885" title="PixieInterface::PrintSgl\lChanPar" alt="" coords="244,220,400,261"/>
-<area shape="rect" id="node3" href="$d9/dc6/class_pixie_interface.html#a448ef741698cfdc9e48dc47bd4639070" title="PixieInterface::ToggleChannelBit" alt="" coords="467,173,679,199"/>
-<area shape="rect" id="node4" href="$d9/dc6/class_pixie_interface.html#ab9aa18adad4d33916a225e1ad2d7d177" title="PixieInterface::ReadSglChanPar" alt="" coords="727,214,936,241"/>
-<area shape="rect" id="node5" href="$da/d6a/namespace_display.html#a0ca7c8835e858cf0b1e0cce72a41ab9c" title="Display::WarningStr" alt="" coords="984,155,1121,182"/>
-<area shape="rect" id="node6" href="$d9/dc6/class_pixie_interface.html#a31af18177f95b6c8e23ad32e7e3bdae7" title="PixieInterface::WriteSgl\lChanPar" alt="" coords="752,131,911,172"/>
-<area shape="rect" id="node7" href="$d9/dc6/class_pixie_interface.html#ad5ae287070deac6d92a11fbd9843f0e3" title="PixieInterface::ToggleTrace\lCapture" alt="" coords="481,5,664,47"/>
-</map>

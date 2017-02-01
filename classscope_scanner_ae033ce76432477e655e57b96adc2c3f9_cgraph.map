@@ -1,0 +1,8 @@
+<map id="scopeScanner::Plot" name="scopeScanner::Plot">
+<area shape="rect" id="node2" href="$classscope_scanner.html#aca8772748732cf9399f098b9d8db9b92" title="scopeScanner::ResetGraph" alt="" coords="189,5,372,32"/>
+<area shape="rect" id="node3" href="$class_root_scanner.html#a2eecd236a29466cdd11af40beb62509d" title="RootScanner::ResetZoom" alt="" coords="647,107,819,133"/>
+<area shape="rect" id="node4" href="$class_root_scanner.html#a417aadc75e2bc1d91379e67bd5d57284" title="RootScanner::UpdateZoom" alt="" coords="420,107,599,133"/>
+<area shape="rect" id="node5" href="$class_xia_data.html#a6c7eaea35ca73b6ea13b63f665031346" title="XiaData::GetTrace" alt="" coords="215,157,346,184"/>
+<area shape="rect" id="node6" href="$class_root_scanner.html#a2d701982772ca70bcb1e1ee89f18a128" title="RootScanner::GetCanvas" alt="" coords="195,208,366,235"/>
+<area shape="rect" id="node7" href="$class_root_scanner.html#acaa507e5e53b1d55a58dc2eb8d3cffe1" title="RootScanner::IdleTask" alt="" coords="432,208,587,235"/>
+</map>

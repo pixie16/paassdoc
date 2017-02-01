@@ -1,0 +1,6 @@
+<map id="TEST" name="TEST">
+<area shape="rect" id="node2" href="$class_xia_data.html#ab71743ec3376d1919f48ba6e37c13aa6" title="Clear all variables and set them to some default values. " alt="" coords="150,5,257,32"/>
+<area shape="rect" id="node3" href="$class_xia_data.html#a9c7fd2f8302abcaa614202087c33c4e0" title="Sets the channel number. " alt="" coords="109,56,297,83"/>
+<area shape="rect" id="node4" href="$class_xia_data.html#ac962808325ff3dce7b47863d4f96624f" title="Sets the slot number. " alt="" coords="121,107,285,133"/>
+<area shape="rect" id="node5" href="$class_xia_data.html#a8785811860905761ba919ae67487a394" title="Sets the crate number. " alt="" coords="117,157,289,184"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="DIR_buffer::SetRunNumber" name="DIR_buffer::SetRunNumber">
+<area shape="rect" id="node2" href="$class_buffer_type.html#a36e4f7879ba14261a055ed8d651dc387" title="Returns only false if not overloaded. " alt="" coords="235,5,359,32"/>
+<area shape="rect" id="node3" href="$class_buffer_type.html#a782e1d708936a5bfc1ad94b9558fcc2c" title="Returns only false if not overloaded. " alt="" coords="235,56,359,83"/>
+<area shape="rect" id="node4" href="$class_buffer_type.html#a2e13cabd2c5d3a208b0a97f096e1aaef" title="Does nothing if not overloaded. " alt="" coords="233,107,361,133"/>
+</map>

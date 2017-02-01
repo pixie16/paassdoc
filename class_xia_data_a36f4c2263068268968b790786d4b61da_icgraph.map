@@ -1,0 +1,43 @@
+<map id="XiaData::GetTime" name="XiaData::GetTime">
+<area shape="rect" id="node2" href="$class_chan_event.html#a68ebc74f549f23b897431c9ae5448875" title="ChanEvent::GetTime" alt="" coords="197,384,341,411"/>
+<area shape="rect" id="node11" href="$class_utk_unpacker.html#ad82e3bffaf0c59a8ef4c7e98b57ce29b" title="Add an event to generic statistics output. " alt="" coords="1211,5,1372,32"/>
+<area shape="rect" id="node25" href="$class_chan_event.html#a9b4dd85b795c98892a8068b83e15d4ca" title="ChanEvent::GetEventTime" alt="" coords="180,603,359,629"/>
+<area shape="rect" id="node26" href="$class_chan_event.html#a9200052974a9b7cace7ff19dd6631175" title="ChanEvent::GetTrigTime" alt="" coords="186,209,353,236"/>
+<area shape="rect" id="node27" href="$unittest-_xia_list_mode_data_decoder_8cpp.html#a5dcb5a646f8b14ed9eb1fb70e145ccf4" title="TEST_FIXTURE" alt="" coords="210,653,329,680"/>
+<area shape="rect" id="node28" href="$class_unpacker.html#af3b767d00a571f8ee416df9a89625cc0" title="Unpacker::BuildRawEvent" alt="" coords="183,780,356,807"/>
+<area shape="rect" id="node36" href="$class_xia_data.html#aa55717f1075138b14d12b100f1a5cd72" title="Equality operator that compares checks if we have the same channel (i.e. the ID and Time are identica..." alt="" coords="200,831,339,857"/>
+<area shape="rect" id="node38" href="$class_xia_data.html#a6ab20bfcef1d9be0285a36f97296f6b2" title="The less than operator that compares if the time of the current class is less than the time of the co..." alt="" coords="204,881,335,908"/>
+<area shape="rect" id="node40" href="$class_xia_data.html#ab474bcbc4813df18a20e015c76df8db7" title="A method that will compare the times of two XiaData classes this method can be used in conjunction wi..." alt="" coords="191,704,348,731"/>
+<area shape="rect" id="node3" href="$_chan_event_8cpp.html#ae9005810dc7f0fb5c788248f31dd8f62" title="CompareTime" alt="" coords="453,523,555,549"/>
+<area shape="rect" id="node4" href="$class_detector_driver.html#a2ae4e98c641d49183631eceb40dc19bb" title="Check threshold and calibrate each channel. Check the thresholds and calibrate the energy for each ch..." alt="" coords="407,56,601,83"/>
+<area shape="rect" id="node12" href="$class_dssd4_s_h_e_processor.html#a069993b16eb9c18b547a279e9f5d1b28" title="Dssd4SHEProcessor::\lPreProcess" alt="" coords="427,574,581,615"/>
+<area shape="rect" id="node13" href="$class_dssd_processor.html#a0e32fc233a84ef03dc994b83899e1388" title="DssdProcessor::Process" alt="" coords="421,640,587,667"/>
+<area shape="rect" id="node14" href="$class_hen3_processor.html#a12510344f12aa28fb4de00c28569995f" title="Hen3Processor::Process" alt="" coords="421,107,587,133"/>
+<area shape="rect" id="node16" href="$class_high_res_timing_data.html#acdbf800e2c22f68b3fd7c39c785f4cf1" title="HighResTimingData::\lGetFilterTime" alt="" coords="431,158,577,199"/>
+<area shape="rect" id="node17" href="$class_implant_ssd_processor.html#a4633fc3b34a8e8915713dd8e1ba5666a" title="ImplantSsdProcessor\l::Process" alt="" coords="431,223,577,265"/>
+<area shape="rect" id="node19" href="$class_lite_position_processor.html#a8296a0ae33f3f5c54535b4942f25f5ec" title="LitePositionProcessor\l::FindMatchingEdge" alt="" coords="429,289,579,330"/>
+<area shape="rect" id="node20" href="$class_logic_processor.html#a91ad87eb1649cebfa5a90de4943455ae" title="LogicProcessor::PreProcess" alt="" coords="410,355,598,381"/>
+<area shape="rect" id="node21" href="$class_position_processor.html#af8aa9ca44a8151360e8952d7e4740c9c" title="PositionProcessor::\lFindMatchingEdge" alt="" coords="436,406,572,447"/>
+<area shape="rect" id="node23" href="$class_ssd_processor.html#a6d61b7d3f47ff3d3155c2d382c62918e" title="SsdProcessor::Process" alt="" coords="424,472,584,499"/>
+<area shape="rect" id="node5" href="$class_detector_driver.html#a19c152206c95dfbc2a98ffd1d002165e" title="Control of the event processing. " alt="" coords="660,119,855,145"/>
+<area shape="rect" id="node6" href="$class_detector_driver.html#a3a556ab94a878e057dea8a081d0df55a" title="Plots into histogram defined by dammId. " alt="" coords="957,56,1092,83"/>
+<area shape="rect" id="node9" href="$class_utk_unpacker.html#ae5b939ec62e20df3004047ce4f3370f0" title="Process all events in the event list. " alt="" coords="1185,157,1397,184"/>
+<area shape="rect" id="node7" href="$class_detector_driver.html#a7f2a28ba2a756e034e38630a5e258309" title="DetectorDriver::PlotRaw" alt="" coords="1211,56,1372,83"/>
+<area shape="rect" id="node8" href="$class_detector_driver.html#ad966b8fe4330bb0cf117422b9bd08f40" title="DetectorDriver::PlotCal" alt="" coords="1214,107,1369,133"/>
+<area shape="rect" id="node10" href="$class_utk_unpacker.html#a9bdcb58a08aa9b338085aa1a147214a5" title="Default constructor that does nothing in particular. " alt="" coords="1447,81,1627,108"/>
+<area shape="rect" id="node15" href="$class_hen3_processor.html#a8ed35806e6801f6c8f1eb402525e2834" title="Hen3Processor::~Hen3Processor" alt="" coords="649,169,865,196"/>
+<area shape="rect" id="node18" href="$class_implant_ssd_processor.html#a057e44029967a209fc626811e2ba4412" title="ImplantSsdProcessor\l::~ImplantSsdProcessor" alt="" coords="676,223,839,265"/>
+<area shape="rect" id="node22" href="$class_position_processor.html#a45a6ef172d9253956769b1ccd15a6e4a" title="Process the QDC data involved in top/bottom side for a strip. " alt="" coords="689,406,825,447"/>
+<area shape="rect" id="node24" href="$class_ssd_processor.html#a595ebfa5ae241ee357b48c4686511b9f" title="SsdProcessor::DeclarePlots" alt="" coords="664,472,851,499"/>
+<area shape="rect" id="node29" href="$class_unpacker.html#a0924b471bf4cb54b70118b314c39b70b" title="Unpacker::ReadSpill" alt="" coords="687,741,827,768"/>
+<area shape="rect" id="node30" href="$class_scanor_interface.html#ae4507711417daa37e55f278b9c486a54" title="inserts a delimiter in between individual module data and at end of buffer. Data is then passed to hi..." alt="" coords="913,767,1136,793"/>
+<area shape="rect" id="node35" href="$class_unpacker.html#a7e2b69e2542bc959d88c8cb0914ae1fa" title="Set the address of the scan interface used for file operations. " alt="" coords="947,716,1103,743"/>
+<area shape="rect" id="node31" href="$class_scanor_interface.html#abc2883ce3cd0783d422bbd8251a7e644" title="ScanorInterface::Hissub" alt="" coords="1210,741,1373,768"/>
+<area shape="rect" id="node34" href="$class_scanor_interface.html#a0d14caf29f24f3e7255d144bb15d6bee" title="ScanorInterface::ScanorInterface" alt="" coords="1184,792,1399,819"/>
+<area shape="rect" id="node32" href="$_scanor_8cpp.html#a4c73088139b20f913c3f554cfaa1c6a5" title="interface between scan and C++ " alt="" coords="1503,771,1570,797"/>
+<area shape="rect" id="node33" href="$class_scanor_interface.html#afedd786e14ed9ad6d8567581439b7192" title="ScanorInterface::~Scanor\lInterface" alt="" coords="1451,705,1622,746"/>
+<area shape="rect" id="node37" href="$class_xia_data.html#ad3f9ba9b20f93f1fe6c958bba0aaf57f" title="The conjugate of the equality operator. " alt="" coords="437,843,571,869"/>
+<area shape="rect" id="node39" href="$class_xia_data.html#a727566f8f3293c5213501b92146afb90" title="The conjugate of the less than operator. " alt="" coords="439,893,569,920"/>
+<area shape="rect" id="node41" href="$unittest-_xia_data_8cpp.html#a3cc9d081f6d83b7bead7174bad9b6acc" title="This will test that the Time for the rhs is greater than the lhs. " alt="" coords="476,741,532,768"/>
+<area shape="rect" id="node42" href="$class_unpacker.html#a1271192c8b5d7fcee860a8b7974bf300" title="The time of the last xia event in the raw event. " alt="" coords="435,691,573,717"/>
+</map>

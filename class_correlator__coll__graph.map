@@ -1,0 +1,9 @@
+<map id="Correlator" name="Correlator">
+<area shape="rect" id="node2" href="$class_correlation_list.html" title="The list of correlations. " alt="" coords="731,21,836,48"/>
+<area shape="rect" id="node3" title="STL class. " alt="" coords="429,7,593,33"/>
+<area shape="rect" id="node5" href="$struct_event_info.html" title="Structure to contain the event info. " alt="" coords="744,117,823,144"/>
+<area shape="rect" id="node6" href="$class_plots.html" title="Holds pointers to all Histograms. " alt="" coords="757,175,809,201"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="213,128,293,155"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="5,121,132,162"/>
+<area shape="rect" id="node10" href="$class_plots_register.html" title="Holds ranges and offsets of all plots. Singleton class. " alt="" coords="461,291,561,317"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="StatsHandler::ClearRates" name="StatsHandler::ClearRates">
+<area shape="rect" id="node2" href="$class_poll.html#a7bc77d04169be53d1a3553e0a55932d6" title="Acquire raw traces from a pixie module. " alt="" coords="983,93,1096,120"/>
+<area shape="rect" id="node3" href="$class_stats_handler.html#a409f63879ca1c7b9d12184d07703b9c8" title="Clear the stats. " alt="" coords="223,119,357,145"/>
+<area shape="rect" id="node11" href="$class_stats_handler.html#a0466ff1c67ea95a94b1fc7c752d6d35c" title="StatsHandler::CanSend" alt="" coords="416,195,575,221"/>
+<area shape="rect" id="node4" href="$class_poll.html#a4f280e910a51c786a7b8e390921fa106" title="Close the current output file, if one is open. " alt="" coords="423,144,568,171"/>
+<area shape="rect" id="node8" href="$class_poll.html#adee13ef275973679b5524868be3cdc9c" title="Opens a new file if no file is currently open. " alt="" coords="633,43,776,69"/>
+<area shape="rect" id="node10" href="$class_stats_handler.html#a261efd633092243b4c7be51cd0f3a4bd" title="StatsHandler::StatsHandler" alt="" coords="405,93,585,120"/>
+<area shape="rect" id="node5" href="$class_poll.html#ab16cd3eb72cac653541300cb6536e710" title="Close the sockets, any open files, and clean up. " alt="" coords="662,220,747,247"/>
+<area shape="rect" id="node9" href="$class_poll.html#aa11d7496ff1d7eb58f6833822236bcac" title="Write a data spill to disk. " alt="" coords="824,93,935,120"/>
+<area shape="rect" id="node6" href="$poll2_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="854,195,905,221"/>
+<area shape="rect" id="node7" href="$class_poll.html#ab99bf5ecc1992b6023e19fbb6b321f7a" title="Destructor. " alt="" coords="838,245,921,272"/>
+</map>

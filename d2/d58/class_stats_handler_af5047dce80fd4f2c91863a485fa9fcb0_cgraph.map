@@ -1,5 +1,0 @@
-<map id="StatsHandler::Dump" name="StatsHandler::Dump">
-<area shape="rect" id="node2" href="$d2/d58/class_stats_handler.html#ae97addec3c4a6aeb4e405fc4d940638e" title="StatsHandler::GetTotalDataRate" alt="" coords="192,5,401,32"/>
-<area shape="rect" id="node4" href="$d3/d7a/class_client.html#a1bbb757d713ad68ebbef801cde60f438" title="Client::SendMessage" alt="" coords="223,56,370,83"/>
-<area shape="rect" id="node3" href="$d2/d58/class_stats_handler.html#a32f7e84315adff7ced7609444f35ef66" title="StatsHandler::GetDataRate" alt="" coords="449,5,629,32"/>
-</map>

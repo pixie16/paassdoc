@@ -1,0 +1,14 @@
+<map id="TemplateExpProcessor.hpp" name="TemplateExpProcessor.hpp">
+<area shape="rect" id="node3" href="$_event_processor_8hpp.html" title="Generic event processor. " alt="" coords="1662,80,1802,107"/>
+<area shape="rect" id="node8" href="$_plots_8hpp.html" title="A container to request a block of plots and plot respective spectra through the plots register..." alt="" coords="1820,379,1897,405"/>
+<area shape="rect" id="node27" href="$_tree_correlator_8hpp.html" title="A class to handle complex correlations between various processors. " alt="" coords="295,155,425,181"/>
+<area shape="rect" id="node9" href="$_globals_8hpp.html" title="constant parameters used in pixie16 analysis " alt="" coords="1061,453,1152,480"/>
+<area shape="rect" id="node25" href="$_his_file_8hpp.html" title="A class to output histograms in a format which HHIRF damm is able to read. " alt="" coords="1873,453,1959,480"/>
+<area shape="rect" id="node26" href="$_plots_register_8hpp.html" title="PlotsRegister.hpp" alt="" coords="1723,453,1848,480"/>
+<area shape="rect" id="node18" href="$_exceptions_8hpp.html" title="Class to handle errors occurring during the execution of the code. " alt="" coords="160,603,272,629"/>
+<area shape="rect" id="node20" href="$_messenger_8hpp.html" title="A class to handle messages and output them prettily. " alt="" coords="887,528,998,555"/>
+<area shape="rect" id="node23" href="$_trap_filter_parameters_8hpp.html" title="TrapFilterParameters.hpp" alt="" coords="1022,528,1191,555"/>
+<area shape="rect" id="node28" href="$_places_8hpp.html" title="Defines the various places for the TreeCorrelator. " alt="" coords="1205,304,1291,331"/>
+<area shape="rect" id="node31" href="$_place_builder_8hpp.html" title="Defines the various places for the TreeCorrelator. " alt="" coords="721,229,841,256"/>
+<area shape="rect" id="node30" href="$_event_data_8hpp.html" title="Structure holding event data. " alt="" coords="961,379,1069,405"/>
+</map>

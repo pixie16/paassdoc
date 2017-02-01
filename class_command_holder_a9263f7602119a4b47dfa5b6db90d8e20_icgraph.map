@@ -1,0 +1,5 @@
+<map id="CommandHolder::Capture" name="CommandHolder::Capture">
+<area shape="rect" id="node2" href="$class_terminal.html#afef43bf766d6ea1e2b739d231c84f57d" title="Wait for the user to input a command. " alt="" coords="224,31,384,57"/>
+<area shape="rect" id="node3" href="$_c_terminal_test_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="463,5,514,32"/>
+<area shape="rect" id="node4" href="$class_poll.html#a7bc77d04169be53d1a3553e0a55932d6" title="Acquire raw traces from a pixie module. " alt="" coords="432,56,545,83"/>
+</map>

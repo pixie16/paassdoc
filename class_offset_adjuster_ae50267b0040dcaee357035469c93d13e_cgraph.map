@@ -1,0 +1,12 @@
+<map id="OffsetAdjuster::operator()" name="OffsetAdjuster::operator()">
+<area shape="rect" id="node2" href="$class_pixie_interface.html#ad93aa1daeb7b92efe2dbea5f24934ae7" title="PixieInterface::AdjustOffsets" alt="" coords="223,31,413,57"/>
+<area shape="rect" id="node8" href="$class_pixie_interface.html#ad364201e04c3d6f3c34fbdd94ec819ce" title="PixieInterface::GetNumber\lChannels" alt="" coords="230,82,406,123"/>
+<area shape="rect" id="node9" href="$class_pixie_interface.html#aed6aa4fe372ef3e1e658915fb7cd3885" title="PixieInterface::PrintSgl\lChanPar" alt="" coords="240,147,396,189"/>
+<area shape="rect" id="node3" href="$namespace_display.html#ae1b6ae7834913dfdef71ad859e261c55" title="Display::LeaderPrint" alt="" coords="497,5,635,32"/>
+<area shape="rect" id="node4" href="$class_pixie_interface.html#a020c215db812631cc4f9bd977c1bfd87" title="PixieInterface::CheckError" alt="" coords="479,56,653,83"/>
+<area shape="rect" id="node5" href="$namespace_display.html#ad59fed09552cdea4f78fea07f06d7a4e" title="Display::StatusPrint" alt="" coords="719,56,857,83"/>
+<area shape="rect" id="node6" href="$namespace_display.html#a762315ce58efcb1203edfcb74158f59b" title="Display::ErrorStr" alt="" coords="907,31,1025,57"/>
+<area shape="rect" id="node7" href="$namespace_display.html#a959223815cca12935461ff196af53168" title="Display::OkayStr" alt="" coords="905,81,1027,108"/>
+<area shape="rect" id="node10" href="$class_pixie_interface.html#ab9aa18adad4d33916a225e1ad2d7d177" title="PixieInterface::ReadSglChanPar" alt="" coords="461,155,671,181"/>
+<area shape="rect" id="node11" href="$namespace_display.html#a0ca7c8835e858cf0b1e0cce72a41ab9c" title="Display::WarningStr" alt="" coords="719,155,857,181"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Trace.hpp" name="Trace.hpp">
+<area shape="rect" id="node7" href="$_damm_plot_ids_8hpp.html" title="Lists Offsets and Ranges for various Processors. " alt="" coords="1333,80,1460,107"/>
+<area shape="rect" id="node8" href="$_globals_8hpp.html" title="constant parameters used in pixie16 analysis " alt="" coords="656,155,747,181"/>
+<area shape="rect" id="node22" href="$_plots_8hpp.html" title="A container to request a block of plots and plot respective spectra through the plots register..." alt="" coords="1231,80,1308,107"/>
+<area shape="rect" id="node25" href="$_plots_register_8hpp.html" title="PlotsRegister.hpp" alt="" coords="1523,155,1648,181"/>
+<area shape="rect" id="node15" href="$_exceptions_8hpp.html" title="Class to handle errors occurring during the execution of the code. " alt="" coords="119,304,231,331"/>
+<area shape="rect" id="node17" href="$_messenger_8hpp.html" title="A class to handle messages and output them prettily. " alt="" coords="306,229,417,256"/>
+<area shape="rect" id="node20" href="$_trap_filter_parameters_8hpp.html" title="TrapFilterParameters.hpp" alt="" coords="782,229,952,256"/>
+<area shape="rect" id="node24" href="$_his_file_8hpp.html" title="A class to output histograms in a format which HHIRF damm is able to read. " alt="" coords="1278,155,1365,181"/>
+</map>

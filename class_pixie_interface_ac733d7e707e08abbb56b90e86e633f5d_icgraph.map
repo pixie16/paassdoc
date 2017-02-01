@@ -1,0 +1,7 @@
+<map id="PixieInterface::GetTraceLength" name="PixieInterface::GetTraceLength">
+<area shape="rect" id="node2" href="$class_trace_grabber.html#a074b8791f8781a50ffafdce1608c7da2" title="TraceGrabber::StoreData" alt="" coords="217,5,384,32"/>
+<area shape="rect" id="node3" href="$class_trace_grabber.html#a6527914fde838914439895a7c30892a7" title="TraceGrabber::operator()" alt="" coords="219,56,383,83"/>
+<area shape="rect" id="node5" href="$get__traces_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="275,107,326,133"/>
+<area shape="rect" id="node6" href="$class_poll.html#a7bc77d04169be53d1a3553e0a55932d6" title="Acquire raw traces from a pixie module. " alt="" coords="244,157,357,184"/>
+<area shape="rect" id="node4" href="$_acquisition_2_setup_2source_2trace_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="432,56,483,83"/>
+</map>

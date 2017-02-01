@@ -1,0 +1,7 @@
+<map id="TreeCorrelator" name="TreeCorrelator">
+<area shape="rect" id="node2" href="$class_place_builder.html" title="Create place, alter or add existing place to the tree. " alt="" coords="986,15,1081,41"/>
+<area shape="rect" id="node4" href="$class_place.html" title="A pure abstract class to define a &quot;place&quot; for correlator. " alt="" coords="800,133,855,160"/>
+<area shape="rect" id="node7" href="$class_event_data.html" title="Simple structure holding basic parameters needed for correlation of events in the same place..." alt="" coords="339,107,421,133"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="181,80,261,107"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="5,73,132,114"/>
+</map>

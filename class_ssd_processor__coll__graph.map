@@ -1,0 +1,12 @@
+<map id="SsdProcessor" name="SsdProcessor">
+<area shape="rect" id="node2" href="$class_event_processor.html" title="Class to handle event processing. " alt="" coords="2300,129,2415,156"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="213,179,293,205"/>
+<area shape="rect" id="node7" href="$class_detector_summary.html" title="Summary of all channels of one detector type. " alt="" coords="1755,307,1881,333"/>
+<area shape="rect" id="node15" href="$class_plots.html" title="Holds pointers to all Histograms. " alt="" coords="820,289,872,316"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="5,171,132,213"/>
+<area shape="rect" id="node9" href="$class_chan_event.html" title="A channel event. " alt="" coords="1233,456,1320,483"/>
+<area shape="rect" id="node10" href="$class_trace.html" title="Store the information for a trace. " alt="" coords="1087,460,1141,487"/>
+<area shape="rect" id="node11" title="STL class. " alt="" coords="772,602,920,643"/>
+<area shape="rect" id="node21" href="$class_xia_data.html" title="A pixie16 channel event. " alt="" coords="1080,565,1148,592"/>
+<area shape="rect" id="node16" href="$class_plots_register.html" title="Holds ranges and offsets of all plots. Singleton class. " alt="" coords="453,496,553,523"/>
+</map>

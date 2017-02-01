@@ -1,0 +1,5 @@
+<map id="BarDetector::GetQdcPosition" name="BarDetector::GetQdcPosition">
+<area shape="rect" id="node2" href="$class_high_res_timing_data.html#a6e6051cc317a8d5fccb6b4f4ca1c7012" title="HighResTimingData::\lGetTraceQdc" alt="" coords="244,23,389,65"/>
+<area shape="rect" id="node3" href="$class_chan_event.html#ad3af219effd863063c3d2f264af5783a" title="ChanEvent::GetTrace" alt="" coords="437,5,585,32"/>
+<area shape="rect" id="node4" href="$class_trace.html#a3575dde1f951a53f52a3d03482b7eaa3" title="Trace::GetValue" alt="" coords="453,56,570,83"/>
+</map>

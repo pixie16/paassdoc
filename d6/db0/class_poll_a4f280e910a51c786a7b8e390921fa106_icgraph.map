@@ -1,8 +1,0 @@
-<map id="Poll::CloseOutputFile" name="Poll::CloseOutputFile">
-<area shape="rect" id="node2" href="$d6/db0/class_poll.html#ab16cd3eb72cac653541300cb6536e710" title="Close the sockets, any open files, and clean up. " alt="" coords="227,81,313,108"/>
-<area shape="rect" id="node5" href="$d6/db0/class_poll.html#a7bc77d04169be53d1a3553e0a55932d6" title="Acquire raw traces from a pixie module. " alt="" coords="548,183,661,209"/>
-<area shape="rect" id="node6" href="$d6/db0/class_poll.html#adee13ef275973679b5524868be3cdc9c" title="Opens a new file if no file is currently open. " alt="" coords="199,208,341,235"/>
-<area shape="rect" id="node7" href="$d6/db0/class_poll.html#aa11d7496ff1d7eb58f6833822236bcac" title="Write a data spill to disk. " alt="" coords="389,259,500,285"/>
-<area shape="rect" id="node3" href="$d1/d50/poll2_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="419,5,470,32"/>
-<area shape="rect" id="node4" href="$d6/db0/class_poll.html#ab99bf5ecc1992b6023e19fbb6b321f7a" title="Destructor. " alt="" coords="403,56,486,83"/>
-</map>

@@ -1,0 +1,6 @@
+<map id="DetectorLibrary::push_back" name="DetectorLibrary::push_back">
+<area shape="rect" id="node2" href="$class_detector_library.html#a0f89d9ec480801352dfe8226c2fe3746" title="DetectorLibrary::MakeKey" alt="" coords="235,5,408,32"/>
+<area shape="rect" id="node3" href="$class_identifier.html#a85625ad5702aa3b5ae35e5610cc3084d" title="Identifier::GetType" alt="" coords="256,56,387,83"/>
+<area shape="rect" id="node4" href="$class_identifier.html#a90c3d515f53963da8154baada6bf1173" title="Identifier::GetSubtype" alt="" coords="247,107,396,133"/>
+<area shape="rect" id="node5" href="$class_identifier.html#af01e5062be749992956d81ff35325de0" title="Identifier::GetLocation" alt="" coords="246,157,397,184"/>
+</map>

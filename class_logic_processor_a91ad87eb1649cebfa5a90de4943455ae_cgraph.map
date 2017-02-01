@@ -1,0 +1,36 @@
+<map id="LogicProcessor::PreProcess" name="LogicProcessor::PreProcess">
+<area shape="rect" id="node2" href="$class_event_processor.html#a472c9d8c540b273ad1ca9a7f380344b6" title="EventProcessor::PreProcess" alt="" coords="241,5,432,32"/>
+<area shape="rect" id="node3" href="$class_globals.html#ae66fa0173342202c96b13d71a6522512" title="Globals::get" alt="" coords="291,195,383,221"/>
+<area shape="rect" id="node7" href="$class_messenger.html#a130e83285254c9149629842ca2aa6f20" title="Messenger::warning" alt="" coords="1013,259,1151,285"/>
+<area shape="rect" id="node10" href="$class_globals.html#a8a59aff7fd0bbad3e81b32a2151090df" title="Globals::clockInSeconds" alt="" coords="253,309,420,336"/>
+<area shape="rect" id="node11" href="$class_chan_event.html#a56a480fad4a8c6728e783db0cf659c9f" title="ChanEvent::GetChanID" alt="" coords="257,360,416,387"/>
+<area shape="rect" id="node17" href="$class_identifier.html#a01a31ba615f4155619b9e1ccab40faab" title="Identifier::GetPlaceName" alt="" coords="253,411,421,437"/>
+<area shape="rect" id="node18" href="$class_identifier.html#a90c3d515f53963da8154baada6bf1173" title="Identifier::GetSubtype" alt="" coords="262,461,411,488"/>
+<area shape="rect" id="node19" href="$class_identifier.html#af01e5062be749992956d81ff35325de0" title="Identifier::GetLocation" alt="" coords="261,512,412,539"/>
+<area shape="rect" id="node20" href="$class_chan_event.html#a68ebc74f549f23b897431c9ae5448875" title="ChanEvent::GetTime" alt="" coords="265,563,409,589"/>
+<area shape="rect" id="node22" href="$class_event_processor.html#ad5201bb392726e409ba2a6ac44e764d8" title="Implementation of the plot command to interface with the DAMM routines. " alt="" coords="265,613,409,640"/>
+<area shape="rect" id="node26" href="$class_tree_correlator.html#a4f70fdbb0d6dead4212d8e926ce1755f" title="TreeCorrelator::get" alt="" coords="271,664,402,691"/>
+<area shape="rect" id="node27" href="$class_tree_correlator.html#aadf6cf8c8bedbbde03fb678667c7cb01" title="TreeCorrelator::place" alt="" coords="265,715,408,741"/>
+<area shape="rect" id="node28" href="$class_place.html#a35fe71557a36049fc1fadb48a7020d53" title="Place::secondlast" alt="" coords="273,765,400,792"/>
+<area shape="rect" id="node29" href="$class_place.html#a96fef01c13e97a21482ab8672c9b654a" title="Place::activate" alt="" coords="282,867,391,893"/>
+<area shape="rect" id="node32" href="$class_place.html#a97dd1180376df399f95f8cc39024bb63" title="Place::deactivate" alt="" coords="275,816,398,843"/>
+<area shape="rect" id="node33" href="$class_place.html#a25854d42e71e507da8c1a1805e663850" title="Place::last" alt="" coords="295,917,379,944"/>
+<area shape="rect" id="node34" href="$class_place.html#ab5208f2c86d717be2e217f5439318da0" title="Place::status" alt="" coords="287,968,386,995"/>
+<area shape="rect" id="node35" href="$class_messenger.html#a770167e668ce59153a05f61a30b548b0" title="Messenger::run_message" alt="" coords="996,56,1168,83"/>
+<area shape="rect" id="node4" href="$class_globals.html#ad6c9fda8d0018300ce2a7b7e481181c2" title="Globals::Globals" alt="" coords="515,169,634,196"/>
+<area shape="rect" id="node5" href="$class_messenger.html#a24d0db0aece5830b3de62310f5753be8" title="Messenger::detail" alt="" coords="1216,157,1341,184"/>
+<area shape="rect" id="node6" href="$class_globals.html#a9dc8ebff5b3cb81999c90462abb4afca" title="Globals::WarnOfUnknownParameter" alt="" coords="717,208,948,235"/>
+<area shape="rect" id="node8" href="$class_globals.html#a3bedee64cc799d6f373d15308f600c63" title="Globals::SanityCheck" alt="" coords="759,157,907,184"/>
+<area shape="rect" id="node9" href="$class_messenger.html#a40a7e53a9b6dc5ef161c2ffd5d6bbbfb" title="Messenger::done" alt="" coords="1021,157,1143,184"/>
+<area shape="rect" id="node12" href="$class_detector_library.html#a6ab3ff825daa8b607865086741bc9b2c" title="DetectorLibrary::get" alt="" coords="507,360,643,387"/>
+<area shape="rect" id="node13" href="$class_detector_library.html#ac55ae5398583a68ac2eb448b926f365f" title="DetectorLibrary::at" alt="" coords="510,411,639,437"/>
+<area shape="rect" id="node15" href="$class_xia_data.html#a041f6911911ef2a34f20b0df1698d508" title="XiaData::GetModuleNumber" alt="" coords="483,461,667,488"/>
+<area shape="rect" id="node16" href="$class_xia_data.html#a666be81f5c59ecd502e1f3cd09d5335a" title="XiaData::GetChannelNumber" alt="" coords="480,309,669,336"/>
+<area shape="rect" id="node14" href="$class_detector_library.html#a5b3be3cc7ba7a65f0dc5d446661c7bf7" title="DetectorLibrary::GetIndex" alt="" coords="747,411,918,437"/>
+<area shape="rect" id="node21" href="$class_xia_data.html#a36f4c2263068268968b790786d4b61da" title="Method that will return the time for the channel. The actual time is a 48&#45;bit number. We multiply 2^32 by the eventTimeHigh_ so that we account for the missing upper 16 bits of the number. The cfdTime_ contains all of the fractional time information, and so we divide by 2^16 here. &#160;Verify that this method works properly for all of the different module types and firmwares. It doesn&#39;t and this value simply needs to be set explicitly by the Decoder. " alt="" coords="511,563,638,589"/>
+<area shape="rect" id="node23" href="$class_plots.html#a68849b82c8c7a5d57f972cbd8de83328" title="Plots into histogram defined by dammId. " alt="" coords="533,613,616,640"/>
+<area shape="rect" id="node24" href="$_scanor_8hpp.html#a31aca3d0ff704e08f8f8968288ae7895" title="Defines the DAMM function to call for 1D hists */. " alt="" coords="791,588,874,615"/>
+<area shape="rect" id="node25" href="$_scanor_8hpp.html#a8b0a662ebdb3f947ba8470bf89f11c3a" title="Defines the DAMM function to call for 2D hists */. " alt="" coords="799,639,867,665"/>
+<area shape="rect" id="node30" href="$class_place.html#a46ca9e450b872465c3de5a72e3bbcda8" title="Place::add_info_" alt="" coords="515,816,634,843"/>
+<area shape="rect" id="node31" href="$class_place.html#a1e53541fda9d0ad92d00cfc58a51a465" title="Place::report_" alt="" coords="523,867,626,893"/>
+</map>

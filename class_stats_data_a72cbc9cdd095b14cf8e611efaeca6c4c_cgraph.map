@@ -1,0 +1,15 @@
+<map id="StatsData::~StatsData" name="StatsData::~StatsData">
+<area shape="rect" id="node2" href="$class_stats_data.html#a4303ccc0eaac5bb3836f6e8b3bb74d4f" title="StatsData::DoStatisticsBlock" alt="" coords="208,33,400,60"/>
+<area shape="rect" id="node3" href="$class_stats_data.html#a61e251c8ad81b48cae88662e62c95290" title="StatsData::GetRealTime" alt="" coords="448,59,612,85"/>
+<area shape="rect" id="node12" href="$class_stats_data.html#a69b6f34659cb1ca2aac43d698cff4b27" title="StatsData::GetCurrTime" alt="" coords="223,135,385,161"/>
+<area shape="rect" id="node13" href="$class_stats_data.html#a573129646d8830d814ec7bb2ccd38602" title="StatsData::GetDiffPeaks" alt="" coords="221,185,387,212"/>
+<area shape="rect" id="node14" href="$class_stats_data.html#adaeac98f7c10c2a11b6d589456646fb5" title="StatsData::GetDiffTime" alt="" coords="225,236,383,263"/>
+<area shape="rect" id="node4" href="$class_globals.html#ae66fa0173342202c96b13d71a6522512" title="Globals::get" alt="" coords="697,33,789,60"/>
+<area shape="rect" id="node11" href="$class_globals.html#a8a59aff7fd0bbad3e81b32a2151090df" title="Globals::clockInSeconds" alt="" coords="660,84,827,111"/>
+<area shape="rect" id="node5" href="$class_globals.html#ad6c9fda8d0018300ce2a7b7e481181c2" title="Globals::Globals" alt="" coords="875,33,993,60"/>
+<area shape="rect" id="node6" href="$class_messenger.html#a24d0db0aece5830b3de62310f5753be8" title="Messenger::detail" alt="" coords="1507,33,1632,60"/>
+<area shape="rect" id="node7" href="$class_globals.html#a9dc8ebff5b3cb81999c90462abb4afca" title="Globals::WarnOfUnknownParameter" alt="" coords="1041,33,1272,60"/>
+<area shape="rect" id="node9" href="$class_globals.html#a3bedee64cc799d6f373d15308f600c63" title="Globals::SanityCheck" alt="" coords="1083,84,1231,111"/>
+<area shape="rect" id="node8" href="$class_messenger.html#a130e83285254c9149629842ca2aa6f20" title="Messenger::warning" alt="" coords="1320,33,1459,60"/>
+<area shape="rect" id="node10" href="$class_messenger.html#a40a7e53a9b6dc5ef161c2ffd5d6bbbfb" title="Messenger::done" alt="" coords="1328,135,1451,161"/>
+</map>

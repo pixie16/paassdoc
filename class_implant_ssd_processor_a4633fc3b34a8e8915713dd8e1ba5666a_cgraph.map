@@ -1,0 +1,51 @@
+<map id="ImplantSsdProcessor::Process" name="ImplantSsdProcessor::Process">
+<area shape="rect" id="node2" href="$class_event_processor.html#ae2d41a947da0cb509fd0ca85f6caa0fc" title="EventProcessor::Process" alt="" coords="222,83,393,109"/>
+<area shape="rect" id="node3" href="$class_event_processor.html#a301eb8d69b3ceeeb4e69ce84a685f5a1" title="EventProcessor::EndProcess" alt="" coords="475,16,670,43"/>
+<area shape="rect" id="node4" href="$class_detector_driver.html#a374a759674faebb18f7a2b4fa06c7a70" title="DetectorDriver::get" alt="" coords="242,169,373,196"/>
+<area shape="rect" id="node5" href="$class_detector_summary.html#aa47649071e73eac71e19e9864fc4a652" title="DetectorSummary::GetMult" alt="" coords="217,220,398,247"/>
+<area shape="rect" id="node6" href="$class_detector_driver.html#a5714ef715175fa1c2b1f6b361e1ddd99" title="DetectorDriver::GetProcessors" alt="" coords="207,271,407,297"/>
+<area shape="rect" id="node17" href="$class_detector_summary.html#ab004b668f9a69706d4a7f7a87a676260" title="DetectorSummary::GetMaxEvent" alt="" coords="200,721,415,748"/>
+<area shape="rect" id="node18" href="$class_chan_event.html#a56a480fad4a8c6728e783db0cf659c9f" title="ChanEvent::GetChanID" alt="" coords="493,620,652,647"/>
+<area shape="rect" id="node22" href="$class_identifier.html#af01e5062be749992956d81ff35325de0" title="Identifier::GetLocation" alt="" coords="232,772,383,799"/>
+<area shape="rect" id="node23" href="$class_chan_event.html#a0476de1862fe32feafc5c6008e2e04a6" title="ChanEvent::IsSaturated" alt="" coords="227,671,388,697"/>
+<area shape="rect" id="node28" href="$class_chan_event.html#a0869d757db1936ae509ae36b00ee7b94" title="ChanEvent::GetCalEnergy" alt="" coords="220,823,395,849"/>
+<area shape="rect" id="node29" href="$class_chan_event.html#ad3af219effd863063c3d2f264af5783a" title="ChanEvent::GetTrace" alt="" coords="233,873,381,900"/>
+<area shape="rect" id="node30" href="$class_trace.html#afe0671b4a324a28520b1a62364c81072" title="Trace::HasValue" alt="" coords="248,924,367,951"/>
+<area shape="rect" id="node31" href="$class_trace.html#a3575dde1f951a53f52a3d03482b7eaa3" title="Trace::GetValue" alt="" coords="249,975,366,1001"/>
+<area shape="rect" id="node32" href="$class_chan_event.html#a68ebc74f549f23b897431c9ae5448875" title="ChanEvent::GetTime" alt="" coords="235,1025,379,1052"/>
+<area shape="rect" id="node34" href="$class_logic_processor.html#a75552a997dac8841cbb784b031bb2e7c" title="LogicProcessor::StartCount" alt="" coords="216,1076,399,1103"/>
+<area shape="rect" id="node35" href="$class_logic_processor.html#a6ea7b52ba3cff9cebb6c967ef70db524" title="LogicProcessor::LogicStatus" alt="" coords="478,1152,667,1179"/>
+<area shape="rect" id="node36" href="$class_logic_processor.html#a7beb770b2f0282c5a151d53a87615c5c" title="LogicProcessor::TimeOff" alt="" coords="224,1177,391,1204"/>
+<area shape="rect" id="node37" href="$class_detector_summary.html#adcb2a931cbd22a6e5f0604fd27886c29" title="DetectorSummary::GetList" alt="" coords="219,1228,396,1255"/>
+<area shape="rect" id="node38" href="$class_event_processor.html#ad5201bb392726e409ba2a6ac44e764d8" title="Implementation of the plot command to interface with the DAMM routines. " alt="" coords="762,439,906,465"/>
+<area shape="rect" id="node40" href="$class_implant_ssd_processor.html#a77a2573e5e8cc36ada9a5277bb4ae06b" title="ImplantSsdProcessor\l::SetType" alt="" coords="234,1279,381,1321"/>
+<area shape="rect" id="node41" href="$class_implant_ssd_processor.html#aa058ca6ee5475b4bf6426b1c69ef9c79" title="ImplantSsdProcessor\l::Correlate" alt="" coords="234,461,381,502"/>
+<area shape="rect" id="node46" href="$class_calibrator.html#ab6ed770b7450e7b6081ff7749420da20" title="Calibrator::GetCalEnergy" alt="" coords="224,1345,391,1372"/>
+<area shape="rect" id="node47" href="$class_correlator.html#acfe7546a52ab5a8b653c3aa29f8da417" title="Correlator::Flag" alt="" coords="252,1396,363,1423"/>
+<area shape="rect" id="node48" href="$class_trace.html#a6658e5f00680c02e9bafece89e72a7f3" title="Trace::Plot" alt="" coords="264,1447,351,1473"/>
+<area shape="rect" id="node49" href="$class_chan_event.html#a66ac70929ec696e92b2af14a027c8b93" title="ChanEvent::GetEnergy" alt="" coords="229,1497,385,1524"/>
+<area shape="rect" id="node7" href="$class_detector_driver.html#ac58cdd84f2946302c98da7699fb432da" title="DetectorDriver::GetProcessor" alt="" coords="476,67,669,93"/>
+<area shape="rect" id="node8" href="$class_detector_driver.html#aab49b0b78dae8d66014b7c2d193b1792" title="DetectorDriver::GetUsedDetectors" alt="" coords="463,117,683,144"/>
+<area shape="rect" id="node9" href="$class_detector_driver.html#ac74cc085032fae77184ac8a773afa74a" title="DetectorDriver::~Detector\lDriver" alt="" coords="487,169,658,210"/>
+<area shape="rect" id="node10" href="$class_detector_driver.html#aac6fa05787b262bb9ca406e36a58668a" title="DetectorDriver::Detector\lDriver" alt="" coords="491,234,654,275"/>
+<area shape="rect" id="node16" href="$class_detector_driver.html#ae4914261379164fe397b7d2726ec38dd" title="Equality constructor. " alt="" coords="489,300,657,327"/>
+<area shape="rect" id="node11" href="$class_globals.html#ae66fa0173342202c96b13d71a6522512" title="Globals::get" alt="" coords="788,351,880,377"/>
+<area shape="rect" id="node12" href="$class_globals.html#a57e3815504e9906deb398ba454058c8a" title="Globals::configfile" alt="" coords="771,193,897,220"/>
+<area shape="rect" id="node13" href="$class_messenger.html#a1b47ad62ebac8fdafd2d7a2d8ee7b642" title="Messenger::start" alt="" coords="774,244,894,271"/>
+<area shape="rect" id="node14" href="$class_detector_driver.html#a594450e52165ddad3727bf07d8900e65" title="DetectorDriver::LoadProcessors" alt="" coords="731,296,937,323"/>
+<area shape="rect" id="node15" href="$class_detector_library.html#a6ab3ff825daa8b607865086741bc9b2c" title="DetectorLibrary::get" alt="" coords="985,519,1121,545"/>
+<area shape="rect" id="node19" href="$class_detector_library.html#ac55ae5398583a68ac2eb448b926f365f" title="DetectorLibrary::at" alt="" coords="769,569,899,596"/>
+<area shape="rect" id="node20" href="$class_xia_data.html#a041f6911911ef2a34f20b0df1698d508" title="XiaData::GetModuleNumber" alt="" coords="742,620,926,647"/>
+<area shape="rect" id="node21" href="$class_xia_data.html#a666be81f5c59ecd502e1f3cd09d5335a" title="XiaData::GetChannelNumber" alt="" coords="739,671,929,697"/>
+<area shape="rect" id="node24" href="$class_xia_data.html#a0eaaf6adf888d7931cf54cee335a6f4d" title="XiaData::IsSaturated" alt="" coords="501,721,644,748"/>
+<area shape="rect" id="node25" href="$class_chan_event.html#a9ba5c68ccf5e5847277aea7811aa79b8" title="ChanEvent::GetID" alt="" coords="509,671,637,697"/>
+<area shape="rect" id="node26" href="$class_chan_event.html#ad85e356633325ff1c6d0a6342593c4b5" title="ChanEvent::GetQdcValue" alt="" coords="487,772,659,799"/>
+<area shape="rect" id="node27" href="$class_chan_event.html#a70751f8d280112b4a84065430c388dfb" title="[Zero Channel] " alt="" coords="503,823,643,849"/>
+<area shape="rect" id="node33" href="$class_xia_data.html#a36f4c2263068268968b790786d4b61da" title="Method that will return the time for the channel. The actual time is a 48&#45;bit number. We multiply 2^32 by the eventTimeHigh_ so that we account for the missing upper 16 bits of the number. The cfdTime_ contains all of the fractional time information, and so we divide by 2^16 here. &#160;Verify that this method works properly for all of the different module types and firmwares. It doesn&#39;t and this value simply needs to be set explicitly by the Decoder. " alt="" coords="509,1025,636,1052"/>
+<area shape="rect" id="node39" href="$class_plots.html#a68849b82c8c7a5d57f972cbd8de83328" title="Plots into histogram defined by dammId. " alt="" coords="1012,439,1095,465"/>
+<area shape="rect" id="node42" href="$class_correlator.html#aa7fb605cbe3261b5beae1e1ed7f9fa54" title="Correlator::CorrelateAllY" alt="" coords="491,468,654,495"/>
+<area shape="rect" id="node43" href="$class_correlator.html#a24bd6e7418fd89b55da9d0d4e6f0ac42" title="Correlator::Correlate" alt="" coords="503,351,642,377"/>
+<area shape="rect" id="node44" href="$class_implant_ssd_processor.html#abf58bf472ce25c6003903cd66751d981" title="ImplantSsdProcessor\l::PlotType" alt="" coords="499,402,646,443"/>
+<area shape="rect" id="node45" href="$class_correlator.html#a775b01a6d93e69ae650a5d6a41cf790c" title="Correlator::GetCondition" alt="" coords="492,519,653,545"/>
+<area shape="rect" id="node50" href="$class_xia_data.html#a67eb5cc1c45c9d656c84932242c29586" title="XiaData::GetEnergy" alt="" coords="503,1497,642,1524"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Dssd4SHEProcessor::pickEventType" name="Dssd4SHEProcessor::pickEventType">
+<area shape="rect" id="node2" href="$class_she_event.html#a30a353a2abedcc4e66284df58dfc14f4" title="SheEvent::get_beam" alt="" coords="208,5,352,32"/>
+<area shape="rect" id="node3" href="$class_she_event.html#acbc9a96d100a486d78d174c72bb7b38d" title="SheEvent::get_mwpc" alt="" coords="207,56,353,83"/>
+<area shape="rect" id="node4" href="$class_she_event.html#a2f0fb7159058038788a1bc9ddef7198f" title="SheEvent::get_veto" alt="" coords="211,107,349,133"/>
+</map>

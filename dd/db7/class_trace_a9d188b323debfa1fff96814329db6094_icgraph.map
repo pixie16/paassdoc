@@ -1,9 +1,0 @@
-<map id="Trace::DeclareHistogram2D" name="Trace::DeclareHistogram2D">
-<area shape="rect" id="node2" href="$d8/d35/class_fitting_analyzer.html#a6590c576fa9045fbfd4afd4b4b92d317" title="FittingAnalyzer::Declare\lPlots" alt="" coords="251,5,412,47"/>
-<area shape="rect" id="node3" href="$d8/d3d/class_trace_extractor.html#a67a7ee6e93deea26d1d16e3b243ac65c" title="TraceExtractor::DeclarePlots" alt="" coords="236,71,427,98"/>
-<area shape="rect" id="node5" href="$d4/db0/class_trace_filter_analyzer.html#ae5ac6f06108d2fec746da7312f2fdd00" title="TraceFilterAnalyzer\l::DeclarePlots" alt="" coords="264,123,399,164"/>
-<area shape="rect" id="node7" href="$d1/d61/class_waa_analyzer.html#a65869f452ac9e14569bee55ecaaaf177" title="WaaAnalyzer::DeclarePlots" alt="" coords="241,189,422,215"/>
-<area shape="rect" id="node4" href="$d8/d3d/class_trace_extractor.html#af0c10d38d76e8b3695bd5e92748a6907" title="TraceExtractor::~TraceExtractor" alt="" coords="475,71,685,98"/>
-<area shape="rect" id="node6" href="$d4/db0/class_trace_filter_analyzer.html#aaadf927cff2a0fe2ded1929ce14ea3d6" title="TraceFilterAnalyzer\l::~TraceFilterAnalyzer" alt="" coords="505,123,655,164"/>
-<area shape="rect" id="node8" href="$d1/d61/class_waa_analyzer.html#acf4c091fd816f6cac524499091094079" title="WaaAnalyzer::~WaaAnalyzer" alt="" coords="484,189,676,215"/>
-</map>

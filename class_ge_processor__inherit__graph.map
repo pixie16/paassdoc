@@ -1,0 +1,5 @@
+<map id="GeProcessor" name="GeProcessor">
+<area shape="rect" id="node3" href="$class_ge4_hen3_processor.html" title="Class to handle Ge clovers for 3Hen experiments. " alt="" coords="5,155,140,181"/>
+<area shape="rect" id="node4" href="$class_ge_calib_processor.html" title="A class to handle the calibrations for the Ge Processor. " alt="" coords="164,155,291,181"/>
+<area shape="rect" id="node2" href="$class_event_processor.html" title="Class to handle event processing. " alt="" coords="93,5,207,32"/>
+</map>

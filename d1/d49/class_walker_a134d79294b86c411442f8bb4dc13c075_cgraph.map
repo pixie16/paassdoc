@@ -1,9 +1,0 @@
-<map id="Walker::parsePlace" name="Walker::parsePlace">
-<area shape="rect" id="node2" href="$d3/d2c/class_tree_correlator.html#a4f70fdbb0d6dead4212d8e926ce1755f" title="TreeCorrelator::get" alt="" coords="213,5,344,32"/>
-<area shape="rect" id="node3" href="$d3/d2c/class_tree_correlator.html#ab37566c3af5521659b90f38de3674176" title="TreeCorrelator::createPlace" alt="" coords="188,56,369,83"/>
-<area shape="rect" id="node4" href="$df/dcb/namespacestrings.html#affd78cceba4623b0c23a4fcfb6ab7bb0" title="strings::to_bool" alt="" coords="425,5,535,32"/>
-<area shape="rect" id="node5" href="$d6/dc9/class_messenger.html#a24d0db0aece5830b3de62310f5753be8" title="Messenger::detail" alt="" coords="417,56,543,83"/>
-<area shape="rect" id="node6" href="$dd/d21/class_place.html#a96fef01c13e97a21482ab8672c9b654a" title="Place::activate" alt="" coords="425,107,535,133"/>
-<area shape="rect" id="node7" href="$dd/d21/class_place.html#a46ca9e450b872465c3de5a72e3bbcda8" title="Place::add_info_" alt="" coords="591,81,709,108"/>
-<area shape="rect" id="node8" href="$dd/d21/class_place.html#a1e53541fda9d0ad92d00cfc58a51a465" title="Place::report_" alt="" coords="599,132,701,159"/>
-</map>

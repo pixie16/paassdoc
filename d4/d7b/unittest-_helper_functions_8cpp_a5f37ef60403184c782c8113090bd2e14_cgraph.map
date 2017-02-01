@@ -1,5 +1,0 @@
-<map id="TEST" name="TEST">
-<area shape="rect" id="node2" href="$d6/dd5/namespace_trace_functions.html#a4e6a98c2348a06c85f67b17940bee370" title="Compute the trace baseline and its standard deviation. This function takes a data range in the event ..." alt="" coords="109,27,284,69"/>
-<area shape="rect" id="node3" href="$d4/d06/namespace_statistics.html#a55bb7fafb2b9fe34fdbf0737e24824bb" title="Statistics::CalculateAverage" alt="" coords="334,5,521,32"/>
-<area shape="rect" id="node4" href="$d4/d06/namespace_statistics.html#ad9bea951fe502b219d59b68e667c37cd" title="Statistics::CalculateStandard\lDeviation" alt="" coords="332,57,523,98"/>
-</map>

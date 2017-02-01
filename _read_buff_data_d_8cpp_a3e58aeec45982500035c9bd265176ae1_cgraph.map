@@ -1,0 +1,18 @@
+<map id="ReadBuffDataD" name="ReadBuffDataD">
+<area shape="rect" id="node2" href="$class_stats_data.html#a4303ccc0eaac5bb3836f6e8b3bb74d4f" title="StatsData::DoStatisticsBlock" alt="" coords="165,59,357,85"/>
+<area shape="rect" id="node12" href="$class_detector_library.html#a6ab3ff825daa8b607865086741bc9b2c" title="DetectorLibrary::get" alt="" coords="193,109,329,136"/>
+<area shape="rect" id="node13" href="$class_detector_library.html#aaa7f47ab95c0a133d52c948f3bef4b18" title="DetectorLibrary::GetPhysical\lModules" alt="" coords="167,161,356,202"/>
+<area shape="rect" id="node14" href="$class_detector_library.html#ac55ae5398583a68ac2eb448b926f365f" title="DetectorLibrary::at" alt="" coords="197,227,326,253"/>
+<area shape="rect" id="node16" href="$class_trace.html#a2ec99ead8b41cdf6d4ab9123c56dd6e7" title="Trace::SetValue" alt="" coords="203,277,319,304"/>
+<area shape="rect" id="node3" href="$class_stats_data.html#a61e251c8ad81b48cae88662e62c95290" title="StatsData::GetRealTime" alt="" coords="409,59,573,85"/>
+<area shape="rect" id="node4" href="$class_globals.html#ae66fa0173342202c96b13d71a6522512" title="Globals::get" alt="" coords="661,33,753,60"/>
+<area shape="rect" id="node11" href="$class_globals.html#a8a59aff7fd0bbad3e81b32a2151090df" title="Globals::clockInSeconds" alt="" coords="624,84,791,111"/>
+<area shape="rect" id="node5" href="$class_globals.html#ad6c9fda8d0018300ce2a7b7e481181c2" title="Globals::Globals" alt="" coords="839,33,957,60"/>
+<area shape="rect" id="node6" href="$class_messenger.html#a24d0db0aece5830b3de62310f5753be8" title="Messenger::detail" alt="" coords="1471,33,1596,60"/>
+<area shape="rect" id="node7" href="$class_globals.html#a9dc8ebff5b3cb81999c90462abb4afca" title="Globals::WarnOfUnknownParameter" alt="" coords="1005,33,1236,60"/>
+<area shape="rect" id="node9" href="$class_globals.html#a3bedee64cc799d6f373d15308f600c63" title="Globals::SanityCheck" alt="" coords="1047,84,1195,111"/>
+<area shape="rect" id="node8" href="$class_messenger.html#a130e83285254c9149629842ca2aa6f20" title="Messenger::warning" alt="" coords="1284,33,1423,60"/>
+<area shape="rect" id="node10" href="$class_messenger.html#a40a7e53a9b6dc5ef161c2ffd5d6bbbfb" title="Messenger::done" alt="" coords="1292,135,1415,161"/>
+<area shape="rect" id="node15" href="$class_detector_library.html#a5b3be3cc7ba7a65f0dc5d446661c7bf7" title="DetectorLibrary::GetIndex" alt="" coords="405,227,576,253"/>
+<area shape="rect" id="node17" href="$class_trace.html#a616e8bfc16d1af954d60eb6318215fe6" title="Trace::InsertValue" alt="" coords="426,277,555,304"/>
+</map>

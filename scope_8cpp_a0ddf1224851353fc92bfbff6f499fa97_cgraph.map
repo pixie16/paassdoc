@@ -1,0 +1,51 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$class_scan_interface.html#a288c9eb8a2de78a40ba10cc7d7612a1e" title="Set the header string used to prefix output messages. " alt="" coords="348,14,563,41"/>
+<area shape="rect" id="node3" href="$class_scan_interface.html#af21536e28bf23e9a0945d1869c6621b9" title="Setup user options and initialize all required objects. " alt="" coords="383,65,528,91"/>
+<area shape="rect" id="node7" href="$class_scan_interface.html#a77b6166db2cc17ca956235ba7447616e" title="Run the program. " alt="" coords="123,369,281,395"/>
+<area shape="rect" id="node14" href="$class_scan_interface.html#ab1729015d477d835de9bd5de45802daa" title="Shutdown cleanly. " alt="" coords="383,470,527,497"/>
+<area shape="rect" id="node15" href="$_scanor_8hpp.html#a8dbf7975e3e8cf9404086d6f85c6f308" title="Do some startup stuff. " alt="" coords="167,166,237,193"/>
+<area shape="rect" id="node16" href="$_get_arguments_8hpp.html#a88dff3268908bdd2b1c6edfc91d65f7c" title="GetNumberArguments" alt="" coords="380,115,531,142"/>
+<area shape="rect" id="node18" href="$_get_arguments_8hpp.html#a6548defa977d908011f5192a59873366" title="Returns an argv style array that can be used to pass to getopt and other similar functions. " alt="" coords="402,217,509,243"/>
+<area shape="rect" id="node22" href="$class_scanor_interface.html#a115408b9cb23e2152edcc81f8b236113" title="ScanorInterface::get" alt="" coords="385,267,525,294"/>
+<area shape="rect" id="node24" href="$class_scanor_interface.html#ae1ebe57e22035c0f457bdd8564b74b66" title="ScanorInterface::SetUnpacker" alt="" coords="357,318,554,345"/>
+<area shape="rect" id="node26" href="$classscope_scanner.html#a83b122b519670a1338e0efcc9c27b741" title="Default constructor. " alt="" coords="104,521,300,547"/>
+<area shape="rect" id="node29" href="$classscope_scanner.html#a45d8384fce3b597e493b81e52ce922ad" title="scopeScanner::GetCore" alt="" coords="121,571,283,598"/>
+<area shape="rect" id="node30" href="$utkscanor_8cpp.html#a09d29445a46de775722e95fcbe9eb20b" title="Defines the main interface with the SCANOR library, the program essentially starts here..." alt="" coords="169,673,235,699"/>
+<area shape="rect" id="node31" href="$_scanor_8hpp.html#a28962c49a5b0425dafa7d1e517177706" title="DAMM initialization call. " alt="" coords="417,622,493,649"/>
+<area shape="rect" id="node36" href="$_scanor_8hpp.html#ae9985183725e9354913756c7f86d355a" title="create a DAMM 1D histogram args are damm id, half&#45;words per channel, param length, hist length, low x&#45;range, high x&#45;range, and title " alt="" coords="1185,1046,1242,1073"/>
+<area shape="rect" id="node49" href="$_scanor_8hpp.html#a5a0670e6ea02c181c558f1766ba91c9c" title="DAMM declaration wrap&#45;up call. " alt="" coords="426,774,485,801"/>
+<area shape="rect" id="node50" href="$_scanor_8hpp.html#ae3c5fd76d5f5264e28ad6fca64e90de5" title="Catch the exit call from scanor and clean up c++ objects CRT. " alt="" coords="165,470,239,497"/>
+<area shape="rect" id="node4" href="$poll2_8cpp.html#acde22a43ac28efba4335d0e482e97a06" title="help" alt="" coords="703,14,750,41"/>
+<area shape="rect" id="node5" href="$filterer_8hpp.html#a2e10dc2aa90535daf6935a2929c57e86" title="Return a pointer to a new Filterer object. " alt="" coords="691,65,762,91"/>
+<area shape="rect" id="node6" href="$class_filterer.html#a7eb8fc24a70d9c23594d57aea60db6ab" title="Filterer::Filterer" alt="" coords="939,65,1049,91"/>
+<area shape="rect" id="node8" href="$_scan_interface_8cpp.html#ac7ac27704dc3a2665eea2f51e12253d4" title="start_run_control" alt="" coords="396,369,515,395"/>
+<area shape="rect" id="node11" href="$_scan_interface_8cpp.html#ac7c80654c86b236bc88ceb5de8694369" title="start_cmd_control" alt="" coords="392,419,519,446"/>
+<area shape="rect" id="node9" href="$class_scan_interface.html#a749b46ea2b9eef6afc5dde98d7fcd660" title="Main scan control method. " alt="" coords="639,343,814,370"/>
+<area shape="rect" id="node10" href="$class_buffer_type.html#a965e66fde54356d4ebdc77042439be90" title="BufferType::SetDebugMode" alt="" coords="903,343,1085,370"/>
+<area shape="rect" id="node12" href="$class_scan_interface.html#a4caa62c86e7a1da73bc471f83b12b783" title="Main command interpreter method. " alt="" coords="637,394,816,421"/>
+<area shape="rect" id="node13" href="$_c_terminal_8h.html#afc35d80c26575c50ba2f6b2a547f316e" title="Split a string about some delimiter. " alt="" coords="960,394,1028,421"/>
+<area shape="rect" id="node25" href="$class_utk_scan_interface.html#a0f08fc67ceffe8d2cb103e548fff3a12" title="UtkScanInterface::GetCore" alt="" coords="366,166,545,193"/>
+<area shape="rect" id="node17" href="$_get_arguments_8hpp.html#a0f99c822de9ec5d1a688eb28ede101ae" title="Define the fortran function to get the argc. " alt="" coords="923,141,1065,167"/>
+<area shape="rect" id="node19" href="$_get_arguments_8cpp.html#a88dff3268908bdd2b1c6edfc91d65f7c" title="GetNumberArguments" alt="" coords="651,166,802,193"/>
+<area shape="rect" id="node20" href="$_get_arguments_8cpp.html#a9955f1e182080c08495c29d947d11f9b" title="C++ Wrapper to get a particular argument from the command line. " alt="" coords="677,217,776,243"/>
+<area shape="rect" id="node21" href="$_get_arguments_8hpp.html#af90e73b79110dd58bfbe0d995eeadc72" title="Define the fortran function to get the arguments. " alt="" coords="917,217,1071,243"/>
+<area shape="rect" id="node23" href="$class_scanor_interface.html#a25ac62825ff707f9fa0ca7d84efa1555" title="Default Constructor. " alt="" coords="619,267,834,294"/>
+<area shape="rect" id="node27" href="$classscope_scanner.html#ab512096c0d77ca6957eec61e6cd61c04" title="scopeScanner::SetupFunc" alt="" coords="367,521,543,547"/>
+<area shape="rect" id="node28" href="$scope_8cpp.html#a70d27757842ae5e1e073edc1985b4843" title="PaulauskasFitFunc" alt="" coords="659,445,794,471"/>
+<area shape="rect" id="node32" href="$class_detector_driver.html#a374a759674faebb18f7a2b4fa06c7a70" title="DetectorDriver::get" alt="" coords="390,673,521,699"/>
+<area shape="rect" id="node33" href="$class_detector_driver.html#a8810acdc149879688b81ec333531a28e" title="DetectorDriver::DeclarePlots" alt="" coords="362,723,549,750"/>
+<area shape="rect" id="node34" href="$class_detector_driver.html#a745e3089d76a4fa437e44a7e82b9424e" title="DetectorDriver::DeclareHistogram1D" alt="" coords="611,1021,843,1047"/>
+<area shape="rect" id="node37" href="$class_detector_driver.html#ac59589819db9e526e9abecb6328cc0e4" title="Declares a 2D histogram calls the C++ wrapper for DAMM. " alt="" coords="611,585,843,611"/>
+<area shape="rect" id="node40" href="$class_detector_library.html#a6ab3ff825daa8b607865086741bc9b2c" title="DetectorLibrary::get" alt="" coords="1145,534,1281,561"/>
+<area shape="rect" id="node42" href="$class_detector_library.html#ac55ae5398583a68ac2eb448b926f365f" title="DetectorLibrary::at" alt="" coords="1149,661,1278,687"/>
+<area shape="rect" id="node43" href="$class_globals.html#ae66fa0173342202c96b13d71a6522512" title="Globals::get" alt="" coords="681,686,773,713"/>
+<area shape="rect" id="node44" href="$class_detector_library.html#adf26ccc594be43e337643a27137ef0ae" title="DetectorLibrary::HasValue" alt="" coords="639,737,814,763"/>
+<area shape="rect" id="node45" href="$class_detector_library.html#afcffb2df6b40e54bb1fb63519da25050" title="DetectorLibrary::ModuleFrom\lIndex" alt="" coords="631,788,822,829"/>
+<area shape="rect" id="node46" href="$class_detector_library.html#a86cd389e53c69dbae436e907bf113f3c" title="DetectorLibrary::Channel\lFromIndex" alt="" coords="644,853,809,895"/>
+<area shape="rect" id="node47" href="$class_globals.html#ad2189820fef4cf6e56980431388a8dd1" title="Globals::revision" alt="" coords="667,919,786,946"/>
+<area shape="rect" id="node48" href="$namespace_display.html#a762315ce58efcb1203edfcb74158f59b" title="Display::ErrorStr" alt="" coords="667,970,786,997"/>
+<area shape="rect" id="node35" href="$class_plots.html#a126b1dfe1d671776ee1caddc7cc249b9" title="Declares a 1D histogram calls the C++ wrapper for DAMM. " alt="" coords="905,1021,1083,1047"/>
+<area shape="rect" id="node38" href="$class_plots.html#a59a2ffc3288d877c695346d82499e769" title="Declares a 2D histogram calls the C++ wrapper for DAMM. " alt="" coords="905,585,1083,611"/>
+<area shape="rect" id="node39" href="$class_detector_driver.html#a594450e52165ddad3727bf07d8900e65" title="DetectorDriver::LoadProcessors" alt="" coords="891,534,1097,561"/>
+<area shape="rect" id="node41" href="$class_detector_driver.html#ad6e1f2f1c6cd0e96b7a1eeeae806d486" title="DetectorDriver::ReadCalXml" alt="" coords="901,635,1087,662"/>
+</map>

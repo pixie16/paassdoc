@@ -1,0 +1,4 @@
+<map id="start_cmd_control" name="start_cmd_control">
+<area shape="rect" id="node2" href="$class_scan_interface.html#a4caa62c86e7a1da73bc471f83b12b783" title="Main command interpreter method. " alt="" coords="180,5,359,32"/>
+<area shape="rect" id="node3" href="$_c_terminal_8h.html#afc35d80c26575c50ba2f6b2a547f316e" title="Split a string about some delimiter. " alt="" coords="407,5,475,32"/>
+</map>

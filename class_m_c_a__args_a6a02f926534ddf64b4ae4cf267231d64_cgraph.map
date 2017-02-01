@@ -1,0 +1,8 @@
+<map id="MCA_args::Step" name="MCA_args::Step">
+<area shape="rect" id="node2" href="$class_m_c_a.html#a43fc6de2e65a5b56a906c24a58478198" title="Update the MCA histograms. " alt="" coords="172,143,259,170"/>
+<area shape="rect" id="node3" href="$class_pixie_interface.html#ac3107015236ddf3ecb0536a5da92fed9" title="PixieInterface::CheckRun\lStatus" alt="" coords="309,5,480,47"/>
+<area shape="rect" id="node4" href="$class_pixie_interface.html#a7f5ef8062e7ea784938521306dc25b20" title="PixieInterface::GetNumber\lCards" alt="" coords="307,71,483,112"/>
+<area shape="rect" id="node5" href="$class_pixie_interface.html#ad364201e04c3d6f3c34fbdd94ec819ce" title="PixieInterface::GetNumber\lChannels" alt="" coords="307,136,483,177"/>
+<area shape="rect" id="node6" href="$class_m_c_a.html#a782e532d393383d277b77c757e8367e1" title="Abstract method describing how the MCA data is stored. " alt="" coords="336,202,453,229"/>
+<area shape="rect" id="node7" href="$class_m_c_a.html#a2d6d957bea6f6d5678e5ccc65f6d2507" title="Flush the current memory to disk. " alt="" coords="349,253,440,279"/>
+</map>

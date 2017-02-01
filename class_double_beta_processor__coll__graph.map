@@ -1,0 +1,14 @@
+<map id="DoubleBetaProcessor" name="DoubleBetaProcessor">
+<area shape="rect" id="node2" href="$class_event_processor.html" title="Class to handle event processing. " alt="" coords="2444,261,2559,288"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="213,349,293,376"/>
+<area shape="rect" id="node7" href="$class_detector_summary.html" title="Summary of all channels of one detector type. " alt="" coords="1755,433,1881,460"/>
+<area shape="rect" id="node15" href="$class_plots.html" title="Holds pointers to all Histograms. " alt="" coords="820,263,872,289"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="5,342,132,383"/>
+<area shape="rect" id="node9" href="$class_chan_event.html" title="A channel event. " alt="" coords="1233,485,1320,512"/>
+<area shape="rect" id="node25" href="$class_high_res_timing_data.html" title="HighResTimingData" alt="" coords="1492,572,1629,599"/>
+<area shape="rect" id="node10" href="$class_trace.html" title="Store the information for a trace. " alt="" coords="1087,481,1141,508"/>
+<area shape="rect" id="node11" title="STL class. " alt="" coords="772,602,920,643"/>
+<area shape="rect" id="node21" href="$class_xia_data.html" title="A pixie16 channel event. " alt="" coords="1080,589,1148,616"/>
+<area shape="rect" id="node16" href="$class_plots_register.html" title="Holds ranges and offsets of all plots. Singleton class. " alt="" coords="453,44,553,71"/>
+<area shape="rect" id="node24" href="$class_bar_detector.html" title="A class to handle detectors that have two readouts viewing the same volume. " alt="" coords="1773,583,1863,609"/>
+</map>

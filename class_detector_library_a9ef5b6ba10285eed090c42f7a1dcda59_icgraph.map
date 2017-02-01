@@ -1,0 +1,7 @@
+<map id="DetectorLibrary::GetNextLocation" name="DetectorLibrary::GetNextLocation">
+<area shape="rect" id="node2" href="$class_detector_library.html#ac23ea6a58bbe4c8f927b8f76f0970ce1" title="DetectorLibrary::LoadXml" alt="" coords="220,15,389,42"/>
+<area shape="rect" id="node4" href="$class_lite_position_processor.html#a21187f3e55bb450c2dbcbc61e8b7cfd3" title="LitePositionProcessor\l::Init" alt="" coords="230,69,379,111"/>
+<area shape="rect" id="node6" href="$class_position_processor.html#a4c7bb0b65dbf1115f6a10f0f9b0da0a0" title="Reads in QDC parameters from an input file. " alt="" coords="227,135,382,162"/>
+<area shape="rect" id="node3" href="$class_detector_library.html#a139f2413cf7d9890e32d87a0968b0fa2" title="Default Constructor. " alt="" coords="437,5,604,47"/>
+<area shape="rect" id="node5" href="$class_lite_position_processor.html#a602ce3c9355626b96649b08690d391ef" title="LitePositionProcessor\l::~LitePositionProcessor" alt="" coords="438,71,603,112"/>
+</map>

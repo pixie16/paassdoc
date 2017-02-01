@@ -1,7 +1,0 @@
-<map id="scopeScanner::ExtraCommands" name="scopeScanner::ExtraCommands">
-<area shape="rect" id="node2" href="$d5/de1/classscope_scanner.html#a401ab05eb059c7727f11ed566b28007d" title="scopeScanner::ClearEvents" alt="" coords="264,5,448,32"/>
-<area shape="rect" id="node3" href="$df/d33/class_root_scanner.html#a2d701982772ca70bcb1e1ee89f18a128" title="RootScanner::GetCanvas" alt="" coords="271,56,441,83"/>
-<area shape="rect" id="node4" href="$df/d33/class_root_scanner.html#acaa507e5e53b1d55a58dc2eb8d3cffe1" title="RootScanner::IdleTask" alt="" coords="508,5,663,32"/>
-<area shape="rect" id="node5" href="$df/d33/class_root_scanner.html#a417aadc75e2bc1d91379e67bd5d57284" title="RootScanner::UpdateZoom" alt="" coords="496,56,675,83"/>
-<area shape="rect" id="node6" href="$df/d33/class_root_scanner.html#a2eecd236a29466cdd11af40beb62509d" title="RootScanner::ResetZoom" alt="" coords="723,81,895,108"/>
-</map>

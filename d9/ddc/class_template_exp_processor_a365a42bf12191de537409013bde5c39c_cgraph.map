@@ -1,5 +1,0 @@
-<map id="TemplateExpProcessor::TemplateExpProcessor" name="TemplateExpProcessor::TemplateExpProcessor">
-<area shape="rect" id="node2" href="$d9/ddc/class_template_exp_processor.html#a283f8a9e52e6834ab85833bf191ac423" title="Associates this Experiment Processor with template and ge detector types. " alt="" coords="220,5,379,47"/>
-<area shape="rect" id="node3" href="$d9/ddc/class_template_exp_processor.html#a23f8057eab2c04c062b08a1d9804ac3c" title="Obtains the name of the histogram file passed via command line. " alt="" coords="220,71,379,112"/>
-<area shape="rect" id="node4" href="$d9/ddc/class_template_exp_processor.html#a23af04115512392351843e3ce84d9bbc" title="Sets up the name of the output ascii data file. " alt="" coords="220,136,379,177"/>
-</map>

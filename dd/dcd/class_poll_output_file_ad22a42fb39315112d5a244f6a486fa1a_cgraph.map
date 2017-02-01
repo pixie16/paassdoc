@@ -1,6 +1,0 @@
-<map id="PollOutputFile::CloseFile" name="PollOutputFile::CloseFile">
-<area shape="rect" id="node2" href="$de/deb/class_p_l_d__header.html#a8797010333b9dc131c06bf468597dcff" title="Set the date and time of when the file is closed. " alt="" coords="220,5,420,32"/>
-<area shape="rect" id="node4" href="$de/deb/class_p_l_d__header.html#aa3016fac774d1ebd9e9b1b1c2e6440b6" title="PLD_header::SetMaxSpillSize" alt="" coords="221,56,419,83"/>
-<area shape="rect" id="node5" href="$de/deb/class_p_l_d__header.html#a595eebacfb5a1425fb19bca570fd2d64" title="Write a pld style header to a file. " alt="" coords="255,107,385,133"/>
-<area shape="rect" id="node3" href="$db/ddf/hribf__buffers_8cpp.html#a3497158c3af249fa3e1fe9c2c582dcf5" title="End of spill vsn. The scan code searches for these words. " alt="" coords="468,5,576,32"/>
-</map>

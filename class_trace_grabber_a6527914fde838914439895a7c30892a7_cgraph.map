@@ -1,0 +1,6 @@
+<map id="TraceGrabber::operator()" name="TraceGrabber::operator()">
+<area shape="rect" id="node2" href="$class_pixie_interface.html#adb12c185e4b6c9af56917c4ea075255b" title="PixieInterface::AcquireTraces" alt="" coords="217,5,412,32"/>
+<area shape="rect" id="node4" href="$class_pixie_interface.html#ac733d7e707e08abbb56b90e86e633f5d" title="PixieInterface::GetTrace\lLength" alt="" coords="233,57,397,98"/>
+<area shape="rect" id="node5" href="$class_pixie_interface.html#a09f8cdd93aa9d18d89a6b558badcee13" title="PixieInterface::ReadSglChan\lTrace" alt="" coords="220,122,409,163"/>
+<area shape="rect" id="node3" href="$namespace_display.html#a762315ce58efcb1203edfcb74158f59b" title="Display::ErrorStr" alt="" coords="460,68,579,95"/>
+</map>

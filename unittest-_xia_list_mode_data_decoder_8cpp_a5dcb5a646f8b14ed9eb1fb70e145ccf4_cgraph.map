@@ -1,0 +1,8 @@
+<map id="TEST_FIXTURE" name="TEST_FIXTURE">
+<area shape="rect" id="node2" href="$class_xia_data.html#a8a2da1945ec44cb4a6b41fe25077cde1" title="XiaData::GetSlotNumber" alt="" coords="184,5,349,32"/>
+<area shape="rect" id="node3" href="$class_xia_data.html#a666be81f5c59ecd502e1f3cd09d5335a" title="XiaData::GetChannelNumber" alt="" coords="172,56,361,83"/>
+<area shape="rect" id="node4" href="$class_xia_data.html#a67eb5cc1c45c9d656c84932242c29586" title="XiaData::GetEnergy" alt="" coords="197,107,336,133"/>
+<area shape="rect" id="node5" href="$class_xia_data.html#a07fd190402d71ff4915059cde0d25e49" title="XiaData::GetEventTimeHigh" alt="" coords="173,157,360,184"/>
+<area shape="rect" id="node6" href="$class_xia_data.html#a5a987b84e2c34ae84962b8dd9e454d19" title="XiaData::GetEventTimeLow" alt="" coords="175,208,358,235"/>
+<area shape="rect" id="node7" href="$class_xia_data.html#a36f4c2263068268968b790786d4b61da" title="Method that will return the time for the channel. The actual time is a 48&#45;bit number. We multiply 2^32 by the eventTimeHigh_ so that we account for the missing upper 16 bits of the number. The cfdTime_ contains all of the fractional time information, and so we divide by 2^16 here. &#160;Verify that this method works properly for all of the different module types and firmwares. It doesn&#39;t and this value simply needs to be set explicitly by the Decoder. " alt="" coords="203,259,330,285"/>
+</map>

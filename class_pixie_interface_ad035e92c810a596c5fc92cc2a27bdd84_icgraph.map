@@ -1,0 +1,5 @@
+<map id="PixieInterface::ReadFIFOWords" name="PixieInterface::ReadFIFOWords">
+<area shape="rect" id="node2" href="$class_pixie_interface.html#a56378c03d8fd7e559063a6519241d538" title="PixieInterface::CheckRun\lStatus" alt="" coords="281,5,452,47"/>
+<area shape="rect" id="node3" href="$class_pixie_interface.html#a78ca1f0d92be311414e2615480a85eff" title="PixieInterface::GetStatisticsData" alt="" coords="260,71,473,98"/>
+<area shape="rect" id="node4" href="$class_poll.html#a7bc77d04169be53d1a3553e0a55932d6" title="Acquire raw traces from a pixie module. " alt="" coords="310,122,423,149"/>
+</map>

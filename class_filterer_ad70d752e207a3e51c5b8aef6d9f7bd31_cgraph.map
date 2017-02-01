@@ -1,0 +1,6 @@
+<map id="Filterer::PrintStatus" name="Filterer::PrintStatus">
+<area shape="rect" id="node2" href="$class_filterer.html#ab2c9cb022fd8e4ec475b005a07e16724" title="Filterer::CommandControl" alt="" coords="188,5,359,32"/>
+<area shape="rect" id="node3" href="$class_filterer.html#a524cf9ea1ce2adf48fc028c4bbb119c5" title="Scan has stopped data acquisition. " alt="" coords="193,56,354,83"/>
+<area shape="rect" id="node4" href="$class_filterer.html#a2c637ed4eaa878ce9615511816a117b7" title="Scan has started data acquisition. " alt="" coords="192,107,355,133"/>
+<area shape="rect" id="node5" href="$class_filterer.html#adf2615e69c4fa8d54a623b67f6613a9d" title="Perform tasks when waiting for a spill. " alt="" coords="213,157,333,184"/>
+</map>

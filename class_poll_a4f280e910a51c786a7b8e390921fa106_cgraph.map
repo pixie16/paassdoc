@@ -1,0 +1,20 @@
+<map id="Poll::CloseOutputFile" name="Poll::CloseOutputFile">
+<area shape="rect" id="node2" href="$namespace_display.html#ae1b6ae7834913dfdef71ad859e261c55" title="Display::LeaderPrint" alt="" coords="237,5,375,32"/>
+<area shape="rect" id="node3" href="$class_poll_output_file.html#a272261d64518ff684d1ffd2b625fb47e" title="Return true if an output file is open and writable and false otherwise. " alt="" coords="229,56,383,83"/>
+<area shape="rect" id="node5" href="$namespace_display.html#a0ca7c8835e858cf0b1e0cce72a41ab9c" title="Display::WarningStr" alt="" coords="237,107,375,133"/>
+<area shape="rect" id="node6" href="$class_stats_handler.html#a409f63879ca1c7b9d12184d07703b9c8" title="Clear the stats. " alt="" coords="239,157,373,184"/>
+<area shape="rect" id="node9" href="$class_stats_handler.html#af5047dce80fd4f2c91863a485fa9fcb0" title="StatsHandler::Dump" alt="" coords="237,208,375,235"/>
+<area shape="rect" id="node12" href="$class_client.html#a1bbb757d713ad68ebbef801cde60f438" title="Client::SendMessage" alt="" coords="493,259,639,285"/>
+<area shape="rect" id="node13" href="$class_poll_output_file.html#ad22a42fb39315112d5a244f6a486fa1a" title="Write the footer and close the file. " alt="" coords="223,309,389,336"/>
+<area shape="rect" id="node18" href="$namespace_display.html#a959223815cca12935461ff196af53168" title="Display::OkayStr" alt="" coords="245,360,367,387"/>
+<area shape="rect" id="node19" href="$class_poll_output_file.html#a5db8cb63824aa309241f59c2abbe617c" title="Return the filename of the next output file. " alt="" coords="199,411,413,437"/>
+<area shape="rect" id="node4" href="$class_buffer_type.html#a36e4f7879ba14261a055ed8d651dc387" title="Returns only false if not overloaded. " alt="" coords="504,56,628,83"/>
+<area shape="rect" id="node7" href="$class_stats_handler.html#afb61bd932e6d4350a9e6fa36526deb52" title="StatsHandler::ClearRates" alt="" coords="481,107,651,133"/>
+<area shape="rect" id="node8" href="$class_stats_handler.html#a01df5186e4927be0fed832c48dd746d0" title="StatsHandler::ClearTotals" alt="" coords="481,157,651,184"/>
+<area shape="rect" id="node10" href="$class_stats_handler.html#ae97addec3c4a6aeb4e405fc4d940638e" title="StatsHandler::GetTotalDataRate" alt="" coords="461,208,671,235"/>
+<area shape="rect" id="node11" href="$class_stats_handler.html#a32f7e84315adff7ced7609444f35ef66" title="StatsHandler::GetDataRate" alt="" coords="719,208,899,235"/>
+<area shape="rect" id="node14" href="$class_p_l_d__header.html#a8797010333b9dc131c06bf468597dcff" title="Set the date and time of when the file is closed. " alt="" coords="466,309,666,336"/>
+<area shape="rect" id="node16" href="$class_p_l_d__header.html#aa3016fac774d1ebd9e9b1b1c2e6440b6" title="PLD_header::SetMaxSpillSize" alt="" coords="467,360,665,387"/>
+<area shape="rect" id="node17" href="$class_p_l_d__header.html#a595eebacfb5a1425fb19bca570fd2d64" title="Write a pld style header to a file. " alt="" coords="501,411,631,437"/>
+<area shape="rect" id="node15" href="$hribf__buffers_8cpp.html#a3497158c3af249fa3e1fe9c2c582dcf5" title="End of spill vsn. The scan code searches for these words. " alt="" coords="755,309,863,336"/>
+</map>

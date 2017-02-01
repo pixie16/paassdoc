@@ -1,0 +1,14 @@
+<map id="Dssd4SHEProcessor" name="Dssd4SHEProcessor">
+<area shape="rect" id="node2" href="$class_event_processor.html" title="Class to handle event processing. " alt="" coords="2337,515,2452,541"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="213,360,293,387"/>
+<area shape="rect" id="node7" href="$class_detector_summary.html" title="Summary of all channels of one detector type. " alt="" coords="1755,481,1881,508"/>
+<area shape="rect" id="node15" href="$class_plots.html" title="Holds pointers to all Histograms. " alt="" coords="820,201,872,228"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="5,353,132,394"/>
+<area shape="rect" id="node9" href="$class_chan_event.html" title="A channel event. " alt="" coords="1233,417,1320,444"/>
+<area shape="rect" id="node10" href="$class_trace.html" title="Store the information for a trace. " alt="" coords="1087,349,1141,376"/>
+<area shape="rect" id="node11" title="STL class. " alt="" coords="772,457,920,498"/>
+<area shape="rect" id="node21" href="$class_xia_data.html" title="A pixie16 channel event. " alt="" coords="1080,424,1148,451"/>
+<area shape="rect" id="node16" href="$class_plots_register.html" title="Holds ranges and offsets of all plots. Singleton class. " alt="" coords="453,44,553,71"/>
+<area shape="rect" id="node23" href="$class_she_correlator.html" title="Class to handle correlations for super heavy event experiments. " alt="" coords="2344,668,2445,695"/>
+<area shape="rect" id="node25" href="$class_she_event.html" title="A class to define information for a super&#45;heavy element event. " alt="" coords="1779,684,1857,711"/>
+</map>

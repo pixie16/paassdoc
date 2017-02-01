@@ -1,8 +1,0 @@
-<map id="Terminal::~Terminal" name="Terminal::~Terminal">
-<area shape="rect" id="node2" href="$dc/d46/class_terminal.html#a908cdfa64167279ed565d43b45470c3d" title="Dump all text in the stream to the output screen. " alt="" coords="195,5,303,32"/>
-<area shape="rect" id="node5" href="$dc/d46/class_terminal.html#a3040f79ff155d9084507e2404dd3a056" title="Close the window and restore control to the terminal. " alt="" coords="192,56,305,83"/>
-<area shape="rect" id="node3" href="$dc/d46/class_terminal.html#ac5568eb9dee6317534da0cc87688a2d8" title="Force a character string to the output screen. " alt="" coords="406,5,511,32"/>
-<area shape="rect" id="node4" href="$dc/d46/class_terminal.html#a9e674b8f0c4974752a2c72da2e51281e" title="Refresh the terminal. " alt="" coords="612,5,739,32"/>
-<area shape="rect" id="node6" href="$dc/d46/class_terminal.html#ac4bc120aa4401e57bd39edf799d8118c" title="Save previous commands to a file. " alt="" coords="353,56,564,83"/>
-<area shape="rect" id="node7" href="$da/d93/_c_terminal_8cpp.html#a0343ae20e674525cf386f2cba4447015" title="unset_signal_handlers" alt="" coords="383,107,534,133"/>
-</map>

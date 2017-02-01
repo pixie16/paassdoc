@@ -1,7 +1,0 @@
-<map id="set_char_array" name="set_char_array">
-<area shape="rect" id="node2" href="$de/d56/structdrr__entry.html#a68302706fd810ee17506ccf3312f9c15" title="Constructor for 1d histogram. " alt="" coords="173,5,305,32"/>
-<area shape="rect" id="node3" href="$d9/d7d/class_output_his_file.html#a695930f71182ee99801f2fd76a05fa42" title="OutputHisFile::Finalize" alt="" coords="161,56,316,83"/>
-<area shape="rect" id="node4" href="$d9/d7d/class_output_his_file.html#a8e5872a99fec75f5cf03e13eb4f89afb" title="Set the number of fills to wait between file Flushes. " alt="" coords="364,31,551,57"/>
-<area shape="rect" id="node5" href="$db/d6c/class_utk_scan_interface.html#a97f114b210931247250458851cead748" title="UtkScanInterface::Initialize" alt="" coords="368,81,547,108"/>
-<area shape="rect" id="node6" href="$db/d6c/class_utk_scan_interface.html#a864411dbd5dd3cad2d9bd491d7034aa4" title="UtkScanInterface::ExtraArguments" alt="" coords="599,81,824,108"/>
-</map>

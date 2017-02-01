@@ -1,0 +1,6 @@
+<map id="GslFitter.hpp" name="GslFitter.hpp">
+<area shape="rect" id="node2" href="$_gsl1_fitter_8cpp.html" title="Implementation of the GSL fitting routine for GSL v2+. " alt="" coords="5,80,109,107"/>
+<area shape="rect" id="node3" href="$_gsl2_fitter_8cpp.html" title="Implementation of the GSL fitting routine for GSL v2+. " alt="" coords="133,80,237,107"/>
+<area shape="rect" id="node4" href="$unittest-_gsl_fitter_8cpp.html" title="A small code to test the functionality of the FitDriver. " alt="" coords="261,80,405,107"/>
+<area shape="rect" id="node5" href="$_fitting_analyzer_8cpp.html" title="Uses a chi^2 minimization to fit waveforms. " alt="" coords="430,80,565,107"/>
+</map>

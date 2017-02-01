@@ -1,6 +1,0 @@
-<map id="ChanEvent::GetID" name="ChanEvent::GetID">
-<area shape="rect" id="node2" href="$dc/dbe/class_detector_library.html#a6ab3ff825daa8b607865086741bc9b2c" title="DetectorLibrary::get" alt="" coords="208,5,344,32"/>
-<area shape="rect" id="node3" href="$dc/dbe/class_detector_library.html#a5b3be3cc7ba7a65f0dc5d446661c7bf7" title="DetectorLibrary::GetIndex" alt="" coords="191,56,361,83"/>
-<area shape="rect" id="node4" href="$d2/ddd/class_xia_data.html#a041f6911911ef2a34f20b0df1698d508" title="XiaData::GetModuleNumber" alt="" coords="184,107,368,133"/>
-<area shape="rect" id="node5" href="$d2/ddd/class_xia_data.html#a666be81f5c59ecd502e1f3cd09d5335a" title="XiaData::GetChannelNumber" alt="" coords="181,157,371,184"/>
-</map>

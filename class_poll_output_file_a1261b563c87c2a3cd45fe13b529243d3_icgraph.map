@@ -1,0 +1,4 @@
+<map id="PollOutputFile::Write" name="PollOutputFile::Write">
+<area shape="rect" id="node2" href="$class_poll.html#aa11d7496ff1d7eb58f6833822236bcac" title="Write a data spill to disk. " alt="" coords="196,5,307,32"/>
+<area shape="rect" id="node3" href="$class_poll.html#a7bc77d04169be53d1a3553e0a55932d6" title="Acquire raw traces from a pixie module. " alt="" coords="355,5,468,32"/>
+</map>

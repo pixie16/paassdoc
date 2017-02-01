@@ -1,0 +1,9 @@
+<map id="PollOutputFile::CloseFile" name="PollOutputFile::CloseFile">
+<area shape="rect" id="node2" href="$class_poll.html#a4f280e910a51c786a7b8e390921fa106" title="Close the current output file, if one is open. " alt="" coords="220,183,365,209"/>
+<area shape="rect" id="node3" href="$class_poll.html#ab16cd3eb72cac653541300cb6536e710" title="Close the sockets, any open files, and clean up. " alt="" coords="442,81,527,108"/>
+<area shape="rect" id="node6" href="$class_poll.html#a7bc77d04169be53d1a3553e0a55932d6" title="Acquire raw traces from a pixie module. " alt="" coords="763,183,876,209"/>
+<area shape="rect" id="node7" href="$class_poll.html#adee13ef275973679b5524868be3cdc9c" title="Opens a new file if no file is currently open. " alt="" coords="413,208,556,235"/>
+<area shape="rect" id="node8" href="$class_poll.html#aa11d7496ff1d7eb58f6833822236bcac" title="Write a data spill to disk. " alt="" coords="604,259,715,285"/>
+<area shape="rect" id="node4" href="$poll2_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="634,5,685,32"/>
+<area shape="rect" id="node5" href="$class_poll.html#ab99bf5ecc1992b6023e19fbb6b321f7a" title="Destructor. " alt="" coords="618,56,701,83"/>
+</map>

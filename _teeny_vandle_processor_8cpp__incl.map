@@ -1,0 +1,24 @@
+<map id="TeenyVandleProcessor.cpp" name="TeenyVandleProcessor.cpp">
+<area shape="rect" id="node2" href="$_damm_plot_ids_8hpp.html" title="Lists Offsets and Ranges for various Processors. " alt="" coords="1799,453,1926,480"/>
+<area shape="rect" id="node3" href="$_globals_8hpp.html" title="constant parameters used in pixie16 analysis " alt="" coords="992,528,1083,555"/>
+<area shape="rect" id="node22" href="$_raw_event_8hpp.html" title="Header file for the rawevent. " alt="" coords="2012,155,2119,181"/>
+<area shape="rect" id="node33" href="$_teeny_vandle_processor_8hpp.html" title="A Template class to be used to build others. " alt="" coords="1183,80,1366,107"/>
+<area shape="rect" id="node14" href="$_exceptions_8hpp.html" title="Class to handle errors occurring during the execution of the code. " alt="" coords="97,677,209,704"/>
+<area shape="rect" id="node16" href="$_messenger_8hpp.html" title="A class to handle messages and output them prettily. " alt="" coords="1097,603,1207,629"/>
+<area shape="rect" id="node20" href="$_trap_filter_parameters_8hpp.html" title="TrapFilterParameters.hpp" alt="" coords="534,603,703,629"/>
+<area shape="rect" id="node24" href="$_detector_summary_8hpp.html" title="The class that generates the summary of the detectors in the analysis. " alt="" coords="1989,229,2141,256"/>
+<area shape="rect" id="node25" href="$_chan_event_8hpp.html" title="A Class to define what a channel event is. " alt="" coords="1730,304,1841,331"/>
+<area shape="rect" id="node27" href="$_identifier_8hpp.html" title="Defines identifying information for channels. " alt="" coords="1901,528,1998,555"/>
+<area shape="rect" id="node28" href="$_trace_8hpp.html" title="A simple class to store the traces. " alt="" coords="2103,379,2183,405"/>
+<area shape="rect" id="node26" href="$_detector_library_8hpp.html" title="This is an extension of the vector of the identifiers that was previously used. " alt="" coords="2458,453,2593,480"/>
+<area shape="rect" id="node32" href="$_xia_data_8hpp.html" title="XiaData.hpp" alt="" coords="1697,379,1791,405"/>
+<area shape="rect" id="node29" href="$_plots_8hpp.html" title="A container to request a block of plots and plot respective spectra through the plots register..." alt="" coords="2356,453,2433,480"/>
+<area shape="rect" id="node31" href="$_plots_register_8hpp.html" title="PlotsRegister.hpp" alt="" coords="2073,528,2199,555"/>
+<area shape="rect" id="node30" href="$_his_file_8hpp.html" title="A class to output histograms in a format which HHIRF damm is able to read. " alt="" coords="2426,528,2513,555"/>
+<area shape="rect" id="node34" href="$_event_processor_8hpp.html" title="Generic event processor. " alt="" coords="1205,155,1345,181"/>
+<area shape="rect" id="node41" href="$_high_res_timing_data_8hpp.html" title="Class to hold all of the information for high resolution timing. " alt="" coords="1041,229,1204,256"/>
+<area shape="rect" id="node36" href="$_tree_correlator_8hpp.html" title="A class to handle complex correlations between various processors. " alt="" coords="871,229,1001,256"/>
+<area shape="rect" id="node37" href="$_places_8hpp.html" title="Defines the various places for the TreeCorrelator. " alt="" coords="893,379,979,405"/>
+<area shape="rect" id="node40" href="$_place_builder_8hpp.html" title="Defines the various places for the TreeCorrelator. " alt="" coords="727,304,847,331"/>
+<area shape="rect" id="node39" href="$_event_data_8hpp.html" title="Structure holding event data. " alt="" coords="773,453,881,480"/>
+</map>

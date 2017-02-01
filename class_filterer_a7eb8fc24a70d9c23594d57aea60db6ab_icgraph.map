@@ -1,0 +1,10 @@
+<map id="Filterer::Filterer" name="Filterer::Filterer">
+<area shape="rect" id="node2" href="$filterer_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="174,31,225,57"/>
+<area shape="rect" id="node3" href="$filterer_8hpp.html#a2e10dc2aa90535daf6935a2929c57e86" title="Return a pointer to a new Filterer object. " alt="" coords="164,81,235,108"/>
+<area shape="rect" id="node4" href="$class_scan_interface.html#af21536e28bf23e9a0945d1869c6621b9" title="Setup user options and initialize all required objects. " alt="" coords="309,5,454,32"/>
+<area shape="rect" id="node7" href="$class_scan_interface.html#a8a7fccc581d0de3ed5660e3a152a0a77" title="ScanInterface::Notify" alt="" coords="309,56,454,83"/>
+<area shape="rect" id="node8" href="$classscope_scanner.html#aa8e5ec0334702a52fb1f7e3fd0e89620" title="scopeScanner::InitRootOutput" alt="" coords="283,107,480,133"/>
+<area shape="rect" id="node9" href="$classskeleton_scanner.html#a745b12feeaf9fc2cb1a0860d9bd03046" title="skeletonScanner::InitRoot\lOutput" alt="" coords="295,158,467,199"/>
+<area shape="rect" id="node5" href="$scope_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="645,5,696,32"/>
+<area shape="rect" id="node6" href="$utkscanor_8cpp.html#a8dbf7975e3e8cf9404086d6f85c6f308" title="Begins setups the interface between SCANOR and the C++ and the Unpacker. It also handles the processi..." alt="" coords="528,31,597,57"/>
+</map>

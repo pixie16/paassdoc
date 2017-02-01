@@ -1,9 +1,0 @@
-<map id="BarBuilder.hpp" name="BarBuilder.hpp">
-<area shape="rect" id="node2" href="$d8/dde/_bar_builder_8cpp.html" title="A class that builds bar type detectors. " alt="" coords="5,80,112,107"/>
-<area shape="rect" id="node3" href="$d6/df5/_anl1471_processor_8cpp.html" title="Processes information for VANDLE. " alt="" coords="137,80,290,107"/>
-<area shape="rect" id="node4" href="$d4/dbf/_i_s600_processor_8cpp.html" title="A class to process data from ISOLDE 599 and 600 experiments using VANDLE. " alt="" coords="314,80,454,107"/>
-<area shape="rect" id="node5" href="$df/d54/_vandle_at_leribss_processor_8cpp.html" title="Processes information for VANDLE. " alt="" coords="478,80,679,107"/>
-<area shape="rect" id="node6" href="$da/d74/_walk_vandle_beta_processor_8cpp.html" title="A class to determine the walk between Vandle and the LeRIBSS betas. " alt="" coords="704,80,907,107"/>
-<area shape="rect" id="node7" href="$d6/d1f/_double_beta_processor_8cpp.html" title="A DoubleBeta processor class that can be used to analyze double beta detectors. " alt="" coords="931,80,1104,107"/>
-<area shape="rect" id="node8" href="$d8/d7f/_vandle_processor_8cpp.html" title="Processes information for VANDLE. " alt="" coords="1128,80,1275,107"/>
-</map>

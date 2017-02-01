@@ -1,6 +1,0 @@
-<map id="CfdAnalyzer" name="CfdAnalyzer">
-<area shape="rect" id="node2" href="$d2/dbc/class_trace_analyzer.html" title="Abstract class that all trace analyzers are derived from. " alt="" coords="23,185,130,212"/>
-<area shape="rect" id="node3" title="STL class. " alt="" coords="29,96,109,123"/>
-<area shape="rect" id="node4" title="STL class. " alt="" coords="5,5,132,47"/>
-<area shape="rect" id="node5" href="$dd/d06/class_timing_driver.html" title="An abstract class that will be used to handle timing. " alt="" coords="157,185,252,212"/>
-</map>

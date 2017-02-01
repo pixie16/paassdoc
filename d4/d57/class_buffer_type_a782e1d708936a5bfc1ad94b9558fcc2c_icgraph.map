@@ -1,6 +1,0 @@
-<map id="BufferType::Read" name="BufferType::Read">
-<area shape="rect" id="node2" href="$de/deb/class_p_l_d__header.html#abb25a8ddc6693e160ff12a61ba583f59" title="PLD_header::SetRunTime" alt="" coords="190,5,363,32"/>
-<area shape="rect" id="node3" href="$d2/deb/class_d_i_r__buffer.html#a29acb60844994432a8c1aae9f02bda07" title="DIR_buffer::SetRunNumber" alt="" coords="187,56,367,83"/>
-<area shape="rect" id="node4" href="$d8/d68/class_h_e_a_d__buffer.html#a6e2bc688cc758a2035d757283a15f0ec" title="HEAD_buffer::SetRunNumber" alt="" coords="179,107,374,133"/>
-<area shape="rect" id="node5" href="$d0/dff/class_d_a_t_a__buffer.html#a86c59c224aa4a9b86dc8c06da3bf3997" title="Return the number of missing or dropped spill chunks. " alt="" coords="177,157,376,184"/>
-</map>

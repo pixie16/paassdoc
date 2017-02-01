@@ -1,0 +1,28 @@
+<map id="HighResTimingData.hpp" name="HighResTimingData.hpp">
+<area shape="rect" id="node2" href="$_bar_detector_8hpp.html" title="A class to handle bar style detectors (VANDLE, Betas, etc.) " alt="" coords="1015,80,1131,107"/>
+<area shape="rect" id="node3" href="$_bar_builder_8hpp.html" title="A class to build bar style detectors. " alt="" coords="855,155,962,181"/>
+<area shape="rect" id="node11" href="$_double_beta_processor_8hpp.html" title="A Template class to be used to build others. " alt="" coords="986,155,1159,181"/>
+<area shape="rect" id="node12" href="$_detector_driver_8cpp.html" title="Main driver for event processing. " alt="" coords="1585,229,1715,256"/>
+<area shape="rect" id="node13" href="$_vandle_processor_8hpp.html" title="A class to handle VANDLE bars. " alt="" coords="685,155,831,181"/>
+<area shape="rect" id="node17" href="$_liquid_scint_processor_8cpp.html" title="LiquidScintProcessor.cpp" alt="" coords="1183,155,1354,181"/>
+<area shape="rect" id="node18" href="$_timing_map_builder_8hpp.html" title="Class to build timing maps. " alt="" coords="1379,155,1529,181"/>
+<area shape="rect" id="node21" href="$_la_br3_test_processor_8cpp.html" title="A LaBr3Test processor class that can be used to build your own. " alt="" coords="1743,80,1909,107"/>
+<area shape="rect" id="node22" href="$_two_chan_timing_processor_8cpp.html" title="Analyzes data from a simple Two channel Timing setup. " alt="" coords="1933,80,2132,107"/>
+<area shape="rect" id="node23" href="$_liquid_processor_8hpp.html" title="LiquidProcessor.hpp" alt="" coords="2156,80,2296,107"/>
+<area shape="rect" id="node24" href="$_liquid_processor_8cpp.html" title="LiquidProcessor.cpp" alt="" coords="2209,155,2349,181"/>
+<area shape="rect" id="node25" href="$_teeny_vandle_processor_8hpp.html" title="A Template class to be used to build others. " alt="" coords="1484,80,1667,107"/>
+<area shape="rect" id="node27" href="$_scint_processor_8cpp.html" title="ScintProcessor.cpp" alt="" coords="2371,80,2507,107"/>
+<area shape="rect" id="node4" href="$_bar_builder_8cpp.html" title="A class that builds bar type detectors. " alt="" coords="1206,229,1313,256"/>
+<area shape="rect" id="node5" href="$_anl1471_processor_8cpp.html" title="A class to process data from ANL1471 experiment using VANDLE. " alt="" coords="641,229,795,256"/>
+<area shape="rect" id="node6" href="$_i_s600_processor_8cpp.html" title="A class to process data from ISOLDE 599 and 600 experiments using VANDLE. " alt="" coords="871,229,1011,256"/>
+<area shape="rect" id="node7" href="$_vandle_ornl2012_processor_8cpp.html" title="A class to process data from the LeRIBSS 2012 campaign. " alt="" coords="419,229,617,256"/>
+<area shape="rect" id="node8" href="$_walk_vandle_beta_processor_8cpp.html" title="A class to determine the walk between Vandle and the LeRIBSS betas. " alt="" coords="731,304,934,331"/>
+<area shape="rect" id="node9" href="$_double_beta_processor_8cpp.html" title="A DoubleBeta processor class that can be used to analyze double beta detectors. " alt="" coords="1337,229,1510,256"/>
+<area shape="rect" id="node10" href="$_vandle_processor_8cpp.html" title="Processes information for VANDLE. " alt="" coords="1035,229,1182,256"/>
+<area shape="rect" id="node14" href="$_crosstalk_processor_8hpp.html" title="A Crosstalk class to be used to build others. " alt="" coords="5,229,167,256"/>
+<area shape="rect" id="node16" href="$_walk_vandle_beta_processor_8hpp.html" title="A class to determine the walk between Vandle and the LeRIBSS betas. " alt="" coords="191,229,394,256"/>
+<area shape="rect" id="node15" href="$_crosstalk_processor_8cpp.html" title="A Template processor class that can be used to build your own. " alt="" coords="5,304,167,331"/>
+<area shape="rect" id="node19" href="$_timing_map_builder_8cpp.html" title="A Class to build TimingMaps. " alt="" coords="1740,229,1891,256"/>
+<area shape="rect" id="node20" href="$_template_exp_processor_8cpp.html" title="Example class for experiment specific setups. " alt="" coords="1915,229,2097,256"/>
+<area shape="rect" id="node26" href="$_teeny_vandle_processor_8cpp.html" title="A Template processor class that can be used to build your own. " alt="" coords="1605,155,1788,181"/>
+</map>

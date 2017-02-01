@@ -1,0 +1,31 @@
+<map id="BarDetector::GetCorTimeDiff" name="BarDetector::GetCorTimeDiff">
+<area shape="rect" id="node2" href="$class_high_res_timing_data.html#a2886e6e96843c5611de7eb51883959f2" title="HighResTimingData::\lGetCorrectedTime" alt="" coords="261,333,406,374"/>
+<area shape="rect" id="node28" href="$class_bar_detector.html#a7aaa590d04fd517a93084a4833737e4d" title="BarDetector::GetCalibration" alt="" coords="243,529,424,556"/>
+<area shape="rect" id="node30" href="$class_timing_calibration.html#a839a3eea0f575ad2cb985d6533234326" title="TimingCalibration::\lGetLeftRightTimeOffset" alt="" coords="253,581,413,622"/>
+<area shape="rect" id="node3" href="$class_chan_event.html#aaed14924c03f417ff42ffd35f5e77f09" title="ChanEvent::GetCorrectedTime" alt="" coords="472,183,672,209"/>
+<area shape="rect" id="node4" href="$class_high_res_timing_data.html#a0d792eaada47a38a231fd62cc107a5d0" title="HighResTimingData::\lGetHighResTime" alt="" coords="499,234,645,275"/>
+<area shape="rect" id="node6" href="$class_high_res_timing_data.html#a30b0cb4eca69a1d78e217494d0735508" title="HighResTimingData::\lGetAveBaseline" alt="" coords="499,299,645,341"/>
+<area shape="rect" id="node9" href="$class_high_res_timing_data.html#a4fd50d3ec1fe2fffe91dc08f48aeccc2" title="HighResTimingData::\lGetStdDevBaseline" alt="" coords="499,365,645,406"/>
+<area shape="rect" id="node10" href="$class_high_res_timing_data.html#a2769883910967c0648ba8c13a7f0dc1f" title="HighResTimingData::\lGetPhase" alt="" coords="499,561,645,602"/>
+<area shape="rect" id="node19" href="$class_high_res_timing_data.html#ab62e5122538f49ded74f45636de20409" title="HighResTimingData::\lGetSignalToNoiseRatio" alt="" coords="493,430,651,471"/>
+<area shape="rect" id="node20" href="$class_high_res_timing_data.html#a6e6051cc317a8d5fccb6b4f4ca1c7012" title="HighResTimingData::\lGetTraceQdc" alt="" coords="499,495,645,537"/>
+<area shape="rect" id="node21" href="$class_chan_event.html#a56a480fad4a8c6728e783db0cf659c9f" title="ChanEvent::GetChanID" alt="" coords="493,81,651,108"/>
+<area shape="rect" id="node27" href="$class_identifier.html#af01e5062be749992956d81ff35325de0" title="Identifier::GetLocation" alt="" coords="497,132,647,159"/>
+<area shape="rect" id="node5" href="$class_chan_event.html#a7186b4090500504a8a8de20317d6b901" title="ChanEvent::GetHighResTime" alt="" coords="720,241,913,268"/>
+<area shape="rect" id="node7" href="$class_chan_event.html#ad3af219effd863063c3d2f264af5783a" title="ChanEvent::GetTrace" alt="" coords="743,419,891,445"/>
+<area shape="rect" id="node8" href="$class_trace.html#a3575dde1f951a53f52a3d03482b7eaa3" title="Trace::GetValue" alt="" coords="758,469,875,496"/>
+<area shape="rect" id="node11" href="$class_globals.html#ae66fa0173342202c96b13d71a6522512" title="Globals::get" alt="" coords="771,535,863,561"/>
+<area shape="rect" id="node18" href="$class_globals.html#a856a76746b329f2ecd59f41e931b0ce1" title="Globals::adcClockInSeconds" alt="" coords="721,585,912,612"/>
+<area shape="rect" id="node12" href="$class_globals.html#ad6c9fda8d0018300ce2a7b7e481181c2" title="Globals::Globals" alt="" coords="987,535,1106,561"/>
+<area shape="rect" id="node13" href="$class_messenger.html#a24d0db0aece5830b3de62310f5753be8" title="Messenger::detail" alt="" coords="1645,535,1771,561"/>
+<area shape="rect" id="node14" href="$class_globals.html#a9dc8ebff5b3cb81999c90462abb4afca" title="Globals::WarnOfUnknownParameter" alt="" coords="1180,484,1411,511"/>
+<area shape="rect" id="node16" href="$class_globals.html#a3bedee64cc799d6f373d15308f600c63" title="Globals::SanityCheck" alt="" coords="1221,585,1369,612"/>
+<area shape="rect" id="node15" href="$class_messenger.html#a130e83285254c9149629842ca2aa6f20" title="Messenger::warning" alt="" coords="1459,484,1597,511"/>
+<area shape="rect" id="node17" href="$class_messenger.html#a40a7e53a9b6dc5ef161c2ffd5d6bbbfb" title="Messenger::done" alt="" coords="1467,585,1589,612"/>
+<area shape="rect" id="node22" href="$class_detector_library.html#a6ab3ff825daa8b607865086741bc9b2c" title="DetectorLibrary::get" alt="" coords="749,107,885,133"/>
+<area shape="rect" id="node23" href="$class_detector_library.html#ac55ae5398583a68ac2eb448b926f365f" title="DetectorLibrary::at" alt="" coords="752,157,881,184"/>
+<area shape="rect" id="node25" href="$class_xia_data.html#a041f6911911ef2a34f20b0df1698d508" title="XiaData::GetModuleNumber" alt="" coords="725,5,909,32"/>
+<area shape="rect" id="node26" href="$class_xia_data.html#a666be81f5c59ecd502e1f3cd09d5335a" title="XiaData::GetChannelNumber" alt="" coords="722,56,911,83"/>
+<area shape="rect" id="node24" href="$class_detector_library.html#a5b3be3cc7ba7a65f0dc5d446661c7bf7" title="DetectorLibrary::GetIndex" alt="" coords="961,157,1132,184"/>
+<area shape="rect" id="node29" href="$class_timing_calibrator.html#aef9d53667925c12fee1462de03a5c063" title="TimingCalibrator::get" alt="" coords="501,627,643,653"/>
+</map>

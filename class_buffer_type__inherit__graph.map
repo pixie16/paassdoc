@@ -1,0 +1,8 @@
+<map id="BufferType" name="BufferType">
+<area shape="rect" id="node2" href="$class_d_a_t_a__buffer.html" title="DATA_buffer" alt="" coords="5,80,103,107"/>
+<area shape="rect" id="node3" href="$class_d_i_r__buffer.html" title="DIR_buffer" alt="" coords="127,80,211,107"/>
+<area shape="rect" id="node4" href="$class_e_o_f__buffer.html" title="A single EOF buffer signals the end of a run (pacman .ldf format). A double EOF signals the end of th..." alt="" coords="235,80,324,107"/>
+<area shape="rect" id="node5" href="$class_h_e_a_d__buffer.html" title="HEAD_buffer" alt="" coords="349,80,447,107"/>
+<area shape="rect" id="node6" href="$class_p_l_d__data.html" title="The DATA buffer contains all physics data within the .pld file. " alt="" coords="472,80,551,107"/>
+<area shape="rect" id="node7" href="$class_p_l_d__header.html" title="The pld header contains information about the run including the date/time, the title, and the run number. " alt="" coords="575,80,669,107"/>
+</map>

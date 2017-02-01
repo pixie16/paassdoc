@@ -1,6 +1,0 @@
-<map id="PixieInterface::ToggleGood" name="PixieInterface::ToggleGood">
-<area shape="rect" id="node2" href="$d9/dc6/class_pixie_interface.html#a448ef741698cfdc9e48dc47bd4639070" title="PixieInterface::ToggleChannelBit" alt="" coords="233,35,445,61"/>
-<area shape="rect" id="node3" href="$d9/dc6/class_pixie_interface.html#ab9aa18adad4d33916a225e1ad2d7d177" title="PixieInterface::ReadSglChanPar" alt="" coords="493,5,703,32"/>
-<area shape="rect" id="node5" href="$d9/dc6/class_pixie_interface.html#a31af18177f95b6c8e23ad32e7e3bdae7" title="PixieInterface::WriteSgl\lChanPar" alt="" coords="519,57,677,98"/>
-<area shape="rect" id="node4" href="$da/d6a/namespace_display.html#a0ca7c8835e858cf0b1e0cce72a41ab9c" title="Display::WarningStr" alt="" coords="751,5,888,32"/>
-</map>

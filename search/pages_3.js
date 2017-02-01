@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['images',['Images',['../df/de0/images.html',1,'']]]
+  ['images',['Images',['../images.html',1,'']]]
 ];

@@ -1,8 +1,0 @@
-<map id="DetectorSummary::SetName" name="DetectorSummary::SetName">
-<area shape="rect" id="node2" href="$dc/d32/class_raw_event.html#a49bbee9c3105c226d9dd437a25680053" title="Raw event initialization and set the rawevent detector summary map with the passed argument..." alt="" coords="243,60,349,87"/>
-<area shape="rect" id="node3" href="$dc/dbe/class_detector_library.html#aba2abe6bab5438a3007c9a745d442fb0" title="DetectorLibrary::PrintUsed\lDetectors" alt="" coords="397,23,572,65"/>
-<area shape="rect" id="node7" href="$dc/d32/class_raw_event.html#a8b55157f8a61168555ded96d51949c1b" title="RawEvent::Size" alt="" coords="427,89,542,116"/>
-<area shape="rect" id="node4" href="$dc/dbe/class_detector_library.html#a86adb8dc4734c9f47e9d6dd649dd61a8" title="DetectorLibrary::GetModules" alt="" coords="620,5,808,32"/>
-<area shape="rect" id="node5" href="$d4/d48/class_utk_unpacker.html#afc492eee693ad62bea4c8bd9fb2eb659" title="Initializes the DetectorLibrary and DetectorDriver. " alt="" coords="621,56,807,83"/>
-<area shape="rect" id="node6" href="$d4/d48/class_utk_unpacker.html#a9bdcb58a08aa9b338085aa1a147214a5" title="Default constructor that does nothing in particular. " alt="" coords="856,56,1036,83"/>
-</map>

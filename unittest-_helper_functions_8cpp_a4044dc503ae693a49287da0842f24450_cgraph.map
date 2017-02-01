@@ -1,0 +1,5 @@
+<map id="TEST" name="TEST">
+<area shape="rect" id="node2" href="$namespace_trace_functions.html#ad54bbd454651cfea6863c4426f2a5539" title="This function uses a third order polynomial to calculate the true position of the maximum for the giv..." alt="" coords="109,5,296,47"/>
+<area shape="rect" id="node4" href="$namespaceunittest__trace__variables.html#a7109310e575b6b8d16d1c055e7c1d145" title="This is the pair made from the expected maximum information. " alt="" coords="123,71,283,112"/>
+<area shape="rect" id="node3" href="$namespace_polynomial.html#a480fefce80386dbd06b4b9682f958d63" title="Polynomial::CalculatePoly3" alt="" coords="344,13,525,39"/>
+</map>

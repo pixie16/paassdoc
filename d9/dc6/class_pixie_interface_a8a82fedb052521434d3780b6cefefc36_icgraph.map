@@ -1,5 +1,0 @@
-<map id="PixieInterface::CheckFIFOWords" name="PixieInterface::CheckFIFOWords">
-<area shape="rect" id="node2" href="$d9/dc6/class_pixie_interface.html#a56378c03d8fd7e559063a6519241d538" title="PixieInterface::CheckRun\lStatus" alt="" coords="289,5,460,47"/>
-<area shape="rect" id="node3" href="$d9/dc6/class_pixie_interface.html#a78ca1f0d92be311414e2615480a85eff" title="PixieInterface::GetStatisticsData" alt="" coords="268,71,481,98"/>
-<area shape="rect" id="node4" href="$d6/db0/class_poll.html#a7bc77d04169be53d1a3553e0a55932d6" title="Acquire raw traces from a pixie module. " alt="" coords="318,122,431,149"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="TreeCorrelator::createPlace" name="TreeCorrelator::createPlace">
-<area shape="rect" id="node2" href="$df/dcb/namespacestrings.html#affd78cceba4623b0c23a4fcfb6ab7bb0" title="strings::to_bool" alt="" coords="242,5,353,32"/>
-<area shape="rect" id="node3" href="$d6/dc9/class_messenger.html#a24d0db0aece5830b3de62310f5753be8" title="Messenger::detail" alt="" coords="235,56,360,83"/>
-<area shape="rect" id="node4" href="$dd/d21/class_place.html#a96fef01c13e97a21482ab8672c9b654a" title="Place::activate" alt="" coords="243,107,352,133"/>
-<area shape="rect" id="node5" href="$dd/d21/class_place.html#a46ca9e450b872465c3de5a72e3bbcda8" title="Place::add_info_" alt="" coords="408,81,527,108"/>
-<area shape="rect" id="node6" href="$dd/d21/class_place.html#a1e53541fda9d0ad92d00cfc58a51a465" title="Place::report_" alt="" coords="416,132,519,159"/>
-</map>

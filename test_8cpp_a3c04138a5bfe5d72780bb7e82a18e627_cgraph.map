@@ -1,0 +1,11 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$namespace_display.html#a453a33ac7289201accbbe65f4223f22e" title="Display::SetColorTerm" alt="" coords="108,5,261,32"/>
+<area shape="rect" id="node3" href="$class_pixie_interface.html#a39be2bf3b422678b8cc4346fcbbffd2b" title="PixieInterface::GetSlots" alt="" coords="104,56,265,83"/>
+<area shape="rect" id="node6" href="$class_pixie_interface.html#af8e3e7ef5e36b64b204eaae46f4d11a0" title="PixieInterface::Init" alt="" coords="121,107,249,133"/>
+<area shape="rect" id="node4" href="$namespace_display.html#a762315ce58efcb1203edfcb74158f59b" title="Display::ErrorStr" alt="" coords="724,31,843,57"/>
+<area shape="rect" id="node5" href="$namespace_display.html#a20a513965bcf1147a5e50247c7bfcd5a" title="Display::InfoStr" alt="" coords="345,56,457,83"/>
+<area shape="rect" id="node7" href="$namespace_display.html#ae1b6ae7834913dfdef71ad859e261c55" title="Display::LeaderPrint" alt="" coords="331,107,470,133"/>
+<area shape="rect" id="node8" href="$class_pixie_interface.html#a020c215db812631cc4f9bd977c1bfd87" title="PixieInterface::CheckError" alt="" coords="313,157,488,184"/>
+<area shape="rect" id="node9" href="$namespace_display.html#ad59fed09552cdea4f78fea07f06d7a4e" title="Display::StatusPrint" alt="" coords="536,132,675,159"/>
+<area shape="rect" id="node10" href="$namespace_display.html#a959223815cca12935461ff196af53168" title="Display::OkayStr" alt="" coords="723,132,844,159"/>
+</map>

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['readbuff',['readbuff',['../da/d7e/namespacereadbuff.html',1,'']]]
+  ['readbuff',['readbuff',['../namespacereadbuff.html',1,'']]]
 ];

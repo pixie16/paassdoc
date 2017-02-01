@@ -1,0 +1,12 @@
+<map id="TraceAnalyzer.cpp" name="TraceAnalyzer.cpp">
+<area shape="rect" id="node5" href="$_damm_plot_ids_8hpp.html" title="Lists Offsets and Ranges for various Processors. " alt="" coords="1582,229,1709,256"/>
+<area shape="rect" id="node6" href="$_trace_8hpp.html" title="A simple class to store the traces. " alt="" coords="1287,155,1367,181"/>
+<area shape="rect" id="node28" href="$_trace_analyzer_8hpp.html" title="Header file for the TraceAnalyzer class. " alt="" coords="1371,80,1501,107"/>
+<area shape="rect" id="node10" href="$_globals_8hpp.html" title="constant parameters used in pixie16 analysis " alt="" coords="924,304,1015,331"/>
+<area shape="rect" id="node24" href="$_plots_8hpp.html" title="A container to request a block of plots and plot respective spectra through the plots register..." alt="" coords="1480,229,1557,256"/>
+<area shape="rect" id="node27" href="$_plots_register_8hpp.html" title="PlotsRegister.hpp" alt="" coords="1465,304,1591,331"/>
+<area shape="rect" id="node17" href="$_exceptions_8hpp.html" title="Class to handle errors occurring during the execution of the code. " alt="" coords="852,453,964,480"/>
+<area shape="rect" id="node19" href="$_messenger_8hpp.html" title="A class to handle messages and output them prettily. " alt="" coords="1090,379,1201,405"/>
+<area shape="rect" id="node22" href="$_trap_filter_parameters_8hpp.html" title="TrapFilterParameters.hpp" alt="" coords="717,379,886,405"/>
+<area shape="rect" id="node26" href="$_his_file_8hpp.html" title="A class to output histograms in a format which HHIRF damm is able to read. " alt="" coords="1615,304,1702,331"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="TimingMapBuilder::GetMap" name="TimingMapBuilder::GetMap">
+<area shape="rect" id="node2" href="$class_timing_map_builder.html#a7b1bc2ea94745810f2b5e95406b6bc20" title="TimingMapBuilder::FillMaps" alt="" coords="233,31,416,57"/>
+<area shape="rect" id="node3" href="$class_high_res_timing_data.html#abe4cc90812b2fffda29ec8229b37103c" title="HighResTimingData::\lGetIsValid" alt="" coords="464,23,609,65"/>
+<area shape="rect" id="node4" href="$class_chan_event.html#ad3af219effd863063c3d2f264af5783a" title="ChanEvent::GetTrace" alt="" coords="657,5,805,32"/>
+<area shape="rect" id="node5" href="$class_trace.html#a3575dde1f951a53f52a3d03482b7eaa3" title="Trace::GetValue" alt="" coords="673,56,790,83"/>
+</map>

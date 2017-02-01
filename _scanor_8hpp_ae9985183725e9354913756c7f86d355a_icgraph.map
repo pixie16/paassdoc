@@ -1,0 +1,51 @@
+<map id="hd1d_" name="hd1d_">
+<area shape="rect" id="node2" href="$class_plots.html#a126b1dfe1d671776ee1caddc7cc249b9" title="Declares a 1D histogram calls the C++ wrapper for DAMM. " alt="" coords="111,840,289,867"/>
+<area shape="rect" id="node13" href="$scope_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1229,820,1280,847"/>
+<area shape="rect" id="node3" href="$class_correlator.html#a1fd07a20132308aedb587a4f64bd4023" title="Declares a 1D histogram calls the C++ wrapper for DAMM. " alt="" coords="356,688,561,715"/>
+<area shape="rect" id="node4" href="$class_detector_driver.html#a745e3089d76a4fa437e44a7e82b9424e" title="DetectorDriver::DeclareHistogram1D" alt="" coords="343,739,575,765"/>
+<area shape="rect" id="node14" href="$class_event_processor.html#aac0d7f24194df48f204ebb9c9b75e19d" title="Declares a 1D histogram calls the C++ wrapper for DAMM. " alt="" coords="337,789,580,816"/>
+<area shape="rect" id="node46" href="$class_plots.html#adc29f9a0571d3b623bed089d4f9daa7a" title="Plots::GetOffset" alt="" coords="400,840,517,867"/>
+<area shape="rect" id="node47" href="$class_position_processor.html#a950e50ae35027fa2a7595092c8738ba5" title="PositionProcessor::\lDeclarePlots" alt="" coords="391,891,527,933"/>
+<area shape="rect" id="node48" href="$class_trace.html#a08e965969f482e70c6ced4de92750095" title="Declares a 1D histogram calls the C++ wrapper for DAMM. " alt="" coords="367,1204,550,1231"/>
+<area shape="rect" id="node5" href="$class_detector_driver.html#a8810acdc149879688b81ec333531a28e" title="DetectorDriver::DeclarePlots" alt="" coords="635,113,822,140"/>
+<area shape="rect" id="node6" href="$class_detector_driver.html#a3a556ab94a878e057dea8a081d0df55a" title="Plots into histogram defined by dammId. " alt="" coords="926,63,1061,89"/>
+<area shape="rect" id="node11" href="$class_utk_scan_interface.html#a97f114b210931247250458851cead748" title="UtkScanInterface::Initialize" alt="" coords="904,113,1083,140"/>
+<area shape="rect" id="node12" href="$utkscanor_8cpp.html#a09d29445a46de775722e95fcbe9eb20b" title="Defines the main interface with the SCANOR library, the program essentially starts here..." alt="" coords="961,164,1026,191"/>
+<area shape="rect" id="node7" href="$class_detector_driver.html#a19c152206c95dfbc2a98ffd1d002165e" title="Control of the event processing. " alt="" coords="1400,37,1595,64"/>
+<area shape="rect" id="node8" href="$class_detector_driver.html#a2ae4e98c641d49183631eceb40dc19bb" title="Check threshold and calibrate each channel. Check the thresholds and calibrate the energy for each ch..." alt="" coords="1157,37,1352,64"/>
+<area shape="rect" id="node9" href="$class_detector_driver.html#a7f2a28ba2a756e034e38630a5e258309" title="DetectorDriver::PlotRaw" alt="" coords="1174,88,1335,115"/>
+<area shape="rect" id="node10" href="$class_detector_driver.html#ad966b8fe4330bb0cf117422b9bd08f40" title="DetectorDriver::PlotCal" alt="" coords="1177,139,1332,165"/>
+<area shape="rect" id="node15" href="$class_beta4_hen3_processor.html#a113815033762b9388796cdf850b85ce7" title="Beta4Hen3Processor\l::DeclarePlots" alt="" coords="921,215,1066,257"/>
+<area shape="rect" id="node16" href="$class_beta_processor.html#ade8f1c37ae66afbac1ec639962774209" title="BetaProcessor::DeclarePlots" alt="" coords="633,281,824,308"/>
+<area shape="rect" id="node18" href="$class_beta_scint_processor.html#a906c4fa539c4200a7cc4a143a01c8de5" title="BetaScintProcessor\l::DeclarePlots" alt="" coords="659,215,798,257"/>
+<area shape="rect" id="node19" href="$class_crosstalk_processor.html#a0b3f4f255e3d793dc178d5d5a8fb6bb9" title="CrosstalkProcessor\l::DeclarePlots" alt="" coords="661,333,797,374"/>
+<area shape="rect" id="node21" href="$class_dssd4_s_h_e_processor.html#a9da412065cc7d5d352afddbc5adfb99d" title="Dssd4SHEProcessor::\lDeclarePlots" alt="" coords="652,398,805,439"/>
+<area shape="rect" id="node22" href="$class_ge4_hen3_processor.html#a918c80547f182063df5070f2616457ef" title="Ge4Hen3Processor::Declare\lPlots" alt="" coords="900,511,1087,553"/>
+<area shape="rect" id="node23" href="$class_ge_calib_processor.html#a14f1541f72f75f1c64872e3ce557060d" title="GeCalibProcessor::Declare\lPlots" alt="" coords="639,515,818,557"/>
+<area shape="rect" id="node24" href="$class_ge_processor.html#a34a3e914ec6735a70ee2898fcd726747" title="GeProcessor::DeclarePlots" alt="" coords="639,581,819,608"/>
+<area shape="rect" id="node25" href="$class_hen3_processor.html#a5cf9c74ceb94a1989db9330ec33c1eae" title="Hen3Processor::DeclarePlots" alt="" coords="632,632,825,659"/>
+<area shape="rect" id="node27" href="$class_implant_ssd_processor.html#a0be1ce2d426608abbbdb8b3c68a505c1" title="ImplantSsdProcessor\l::DeclarePlots" alt="" coords="655,683,802,725"/>
+<area shape="rect" id="node29" href="$class_ion_chamber_processor.html#a0abe10984f9968577af6a834aaddf7af" title="IonChamberProcessor\l::DeclarePlots" alt="" coords="653,749,804,790"/>
+<area shape="rect" id="node31" href="$class_labr3_test_processor.html#a00b2431718d6e91598cb35bdd7023638" title="Labr3TestProcessor\l::DeclarePlots" alt="" coords="659,814,798,855"/>
+<area shape="rect" id="node33" href="$class_logic_processor.html#aa276735e622e69b5779b77654b5d5208" title="LogicProcessor::DeclarePlots" alt="" coords="631,880,826,907"/>
+<area shape="rect" id="node34" href="$class_mcp_processor.html#a5db4ddbc2d72998bd8db1cb920773857" title="McpProcessor::DeclarePlots" alt="" coords="635,931,823,957"/>
+<area shape="rect" id="node35" href="$class_neutron_processor.html#a9655ef26f97600b35c176895f1009fa2" title="NeutronProcessor::Declare\lPlots" alt="" coords="639,982,818,1023"/>
+<area shape="rect" id="node36" href="$class_neutron_scint_processor.html#ac9e8460717d9256e3f47dd28320bf617" title="NeutronScintProcessor\l::DeclarePlots" alt="" coords="651,1047,807,1089"/>
+<area shape="rect" id="node37" href="$class_pspmt_processor.html#a69f97cd8c80cd7de8ad8d66f2bf63752" title="PspmtProcessor::DeclarePlots" alt="" coords="628,1113,829,1140"/>
+<area shape="rect" id="node39" href="$class_scint_processor.html#aff5c4814231a2fa72f7aa15baaaa725c" title="ScintProcessor::DeclarePlots" alt="" coords="632,1164,825,1191"/>
+<area shape="rect" id="node40" href="$class_teeny_vandle_processor.html#a7328644e7f25254e60cc7f0f08bf76d7" title="TeenyVandleProcessor\l::DeclarePlots" alt="" coords="650,1215,807,1257"/>
+<area shape="rect" id="node42" href="$class_template_processor.html#ae447375c9e3eae31685252bf17e526ad" title="TemplateProcessor::\lDeclarePlots" alt="" coords="657,1281,800,1322"/>
+<area shape="rect" id="node44" href="$class_vandle_processor.html#a12172da2e51a26945d9241a4165734b0" title="VandleProcessor::Declare\lPlots" alt="" coords="642,1346,815,1387"/>
+<area shape="rect" id="node17" href="$class_beta_processor.html#a5fdeb139892ae9b2298e7360bd3a9576" title="BetaProcessor::~BetaProcessor" alt="" coords="888,281,1099,308"/>
+<area shape="rect" id="node20" href="$class_crosstalk_processor.html#a974ad94596916e6d24e863dcbec1058c" title="CrosstalkProcessor\l::~CrosstalkProcessor" alt="" coords="917,333,1069,374"/>
+<area shape="rect" id="node26" href="$class_hen3_processor.html#a8ed35806e6801f6c8f1eb402525e2834" title="Hen3Processor::~Hen3Processor" alt="" coords="885,632,1101,659"/>
+<area shape="rect" id="node28" href="$class_implant_ssd_processor.html#a057e44029967a209fc626811e2ba4412" title="ImplantSsdProcessor\l::~ImplantSsdProcessor" alt="" coords="912,683,1075,725"/>
+<area shape="rect" id="node30" href="$class_ion_chamber_processor.html#a04e1204b8f8efd09dac743a82b1d4312" title="IonChamberProcessor\l::~IonChamberProcessor" alt="" coords="910,749,1077,790"/>
+<area shape="rect" id="node32" href="$class_labr3_test_processor.html#a38f5f24725e52971220a4beef3bfc232" title="Labr3TestProcessor\l::~Labr3TestProcessor" alt="" coords="916,814,1071,855"/>
+<area shape="rect" id="node38" href="$class_pspmt_processor.html#a23ed80963dc7c683eba1b95aa12f37db" title="PspmtProcessor::~PspmtProcessor" alt="" coords="877,1113,1109,1140"/>
+<area shape="rect" id="node41" href="$class_teeny_vandle_processor.html#ace84b3cc48debac1892f4fa954adafbd" title="TeenyVandleProcessor\l::~TeenyVandleProcessor" alt="" coords="907,1215,1080,1257"/>
+<area shape="rect" id="node43" href="$class_template_processor.html#a93cedd7c190470f8fb23bcd6b62689ae" title="TemplateProcessor::\l~TemplateProcessor" alt="" coords="922,1281,1065,1322"/>
+<area shape="rect" id="node45" href="$class_vandle_processor.html#adeb801d12cbeb4a4426b7d2f5ee522cd" title="VandleProcessor::~Vandle\lProcessor" alt="" coords="905,1346,1082,1387"/>
+<area shape="rect" id="node49" href="$class_trace_filter_analyzer.html#ae5ac6f06108d2fec746da7312f2fdd00" title="TraceFilterAnalyzer\l::DeclarePlots" alt="" coords="661,1411,796,1453"/>
+<area shape="rect" id="node50" href="$class_trace_filter_analyzer.html#aaadf927cff2a0fe2ded1929ce14ea3d6" title="TraceFilterAnalyzer\l::~TraceFilterAnalyzer" alt="" coords="918,1411,1069,1453"/>
+</map>

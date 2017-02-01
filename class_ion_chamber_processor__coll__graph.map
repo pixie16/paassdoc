@@ -1,0 +1,13 @@
+<map id="IonChamberProcessor" name="IonChamberProcessor">
+<area shape="rect" id="node2" href="$class_event_processor.html" title="Class to handle event processing. " alt="" coords="2291,83,2406,109"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="213,189,293,216"/>
+<area shape="rect" id="node7" href="$class_detector_summary.html" title="Summary of all channels of one detector type. " alt="" coords="1755,235,1881,261"/>
+<area shape="rect" id="node15" href="$class_plots.html" title="Holds pointers to all Histograms. " alt="" coords="820,497,872,524"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="5,182,132,223"/>
+<area shape="rect" id="node9" href="$class_chan_event.html" title="A channel event. " alt="" coords="1233,321,1320,348"/>
+<area shape="rect" id="node10" href="$class_trace.html" title="Store the information for a trace. " alt="" coords="1087,323,1141,349"/>
+<area shape="rect" id="node11" title="STL class. " alt="" coords="772,390,920,431"/>
+<area shape="rect" id="node21" href="$class_xia_data.html" title="A pixie16 channel event. " alt="" coords="1080,416,1148,443"/>
+<area shape="rect" id="node16" href="$class_plots_register.html" title="Holds ranges and offsets of all plots. Singleton class. " alt="" coords="453,645,553,672"/>
+<area shape="rect" id="node22" href="$struct_ion_chamber_processor_1_1_data.html" title="A Data structure to handle all of the info for the chamber. " alt="" coords="2273,134,2424,175"/>
+</map>

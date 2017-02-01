@@ -1,8 +1,0 @@
-<map id="XiaListModeDataMask::GetCfdSize" name="XiaListModeDataMask::GetCfdSize">
-<area shape="rect" id="node2" href="$df/dea/class_xia_list_mode_data_decoder.html#ace12df0b1007b11d76042f527784a8cf" title="XiaListModeDataDecoder\l::CalculateTimeInSamples" alt="" coords="207,5,381,47"/>
-<area shape="rect" id="node4" href="$dc/d76/class_xia_list_mode_data_mask.html#ac1cbfaa5e37bb9dc62ead5b544ad86d2" title="XiaListModeDataMask\l::GetEventTimeHighMask" alt="" coords="208,71,380,112"/>
-<area shape="rect" id="node3" href="$df/dea/class_xia_list_mode_data_decoder.html#a31629a35b4ce7c55e85aec7d8119d281" title="Default destructor. " alt="" coords="647,35,832,76"/>
-<area shape="rect" id="node5" href="$df/dea/class_xia_list_mode_data_decoder.html#abdbdbd7e8fac0ef5926fdbb86ec94a17" title="XiaListModeDataDecoder\l::DecodeWordTwo" alt="" coords="429,64,599,105"/>
-<area shape="rect" id="node6" href="$df/d1a/class_xia_list_mode_data_encoder.html#af44e2798aca39627474cb444fd28cab4" title="XiaListModeDataEncoder\l::EncodeWordTwo" alt="" coords="429,129,599,171"/>
-<area shape="rect" id="node7" href="$df/d1a/class_xia_list_mode_data_encoder.html#a122e039afbbef6a4ed4258544ec46a18" title="Default destructor. " alt="" coords="647,129,832,171"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="Terminal::print" name="Terminal::print">
-<area shape="rect" id="node2" href="$dc/d46/class_terminal.html#a85f9f980658386e1b884d346aed32298" title="Set the command prompt. " alt="" coords="538,5,681,32"/>
-<area shape="rect" id="node4" href="$dc/d46/class_terminal.html#a908cdfa64167279ed565d43b45470c3d" title="Dump all text in the stream to the output screen. " alt="" coords="159,132,267,159"/>
-<area shape="rect" id="node7" href="$dc/d46/class_terminal.html#afef43bf766d6ea1e2b739d231c84f57d" title="Wait for the user to input a command. " alt="" coords="529,81,689,108"/>
-<area shape="rect" id="node3" href="$d0/dae/_c_terminal_test_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="769,56,819,83"/>
-<area shape="rect" id="node5" href="$dc/d46/class_terminal.html#add5a7d4dd45b68af9a0afb1cc845af2f" title="Terminal::~Terminal" alt="" coords="329,233,467,260"/>
-<area shape="rect" id="node6" href="$dc/d46/class_terminal.html#a8335c2e8edcd36b065b47c58a18b503d" title="Print a command to the terminal output. " alt="" coords="315,132,481,159"/>
-<area shape="rect" id="node8" href="$d6/db0/class_poll.html#a7bc77d04169be53d1a3553e0a55932d6" title="Acquire raw traces from a pixie module. " alt="" coords="737,132,851,159"/>
-</map>

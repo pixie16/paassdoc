@@ -1,0 +1,6 @@
+<map id="Trace::plot" name="Trace::plot">
+<area shape="rect" id="node2" href="$class_trace_filter_analyzer.html#ab32ab2844b97511e344f6e6f71b91d9d" title="TraceFilterAnalyzer\l::Analyze" alt="" coords="147,5,282,47"/>
+<area shape="rect" id="node4" href="$class_waa_analyzer.html#a80ace3f38dd866db28d726202f5304e8" title="WaaAnalyzer::Analyze" alt="" coords="137,71,292,98"/>
+<area shape="rect" id="node3" href="$class_trace_filter_analyzer.html#aaadf927cff2a0fe2ded1929ce14ea3d6" title="TraceFilterAnalyzer\l::~TraceFilterAnalyzer" alt="" coords="361,5,511,47"/>
+<area shape="rect" id="node5" href="$class_waa_analyzer.html#acf4c091fd816f6cac524499091094079" title="WaaAnalyzer::~WaaAnalyzer" alt="" coords="340,71,532,98"/>
+</map>

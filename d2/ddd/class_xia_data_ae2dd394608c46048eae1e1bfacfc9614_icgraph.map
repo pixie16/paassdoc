@@ -1,7 +1,0 @@
-<map id="XiaData::GetCfdForcedTriggerBit" name="XiaData::GetCfdForcedTriggerBit">
-<area shape="rect" id="node2" href="$d5/d91/class_chan_event.html#a7e7b1b1161136f76cca7682a5a150bd4" title="ChanEvent::CfdForceTrig" alt="" coords="269,5,439,32"/>
-<area shape="rect" id="node3" href="$df/dea/class_xia_list_mode_data_decoder.html#ace12df0b1007b11d76042f527784a8cf" title="XiaListModeDataDecoder\l::CalculateTimeInSamples" alt="" coords="267,57,441,98"/>
-<area shape="rect" id="node5" href="$df/d1a/class_xia_list_mode_data_encoder.html#af44e2798aca39627474cb444fd28cab4" title="XiaListModeDataEncoder\l::EncodeWordTwo" alt="" coords="269,122,439,163"/>
-<area shape="rect" id="node4" href="$df/dea/class_xia_list_mode_data_decoder.html#a31629a35b4ce7c55e85aec7d8119d281" title="Default destructor. " alt="" coords="489,57,675,98"/>
-<area shape="rect" id="node6" href="$df/d1a/class_xia_list_mode_data_encoder.html#a122e039afbbef6a4ed4258544ec46a18" title="Default destructor. " alt="" coords="489,122,675,163"/>
-</map>

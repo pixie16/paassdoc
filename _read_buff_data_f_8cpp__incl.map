@@ -1,0 +1,18 @@
+<map id="ReadBuffDataF.cpp" name="ReadBuffDataF.cpp">
+<area shape="rect" id="node7" href="$_detector_library_8hpp.html" title="This is an extension of the vector of the identifiers that was previously used. " alt="" coords="931,80,1066,107"/>
+<area shape="rect" id="node14" href="$_globals_8hpp.html" title="constant parameters used in pixie16 analysis " alt="" coords="1177,528,1268,555"/>
+<area shape="rect" id="node27" href="$_chan_event_8hpp.html" title="A Class to define what a channel event is. " alt="" coords="851,304,962,331"/>
+<area shape="rect" id="node28" href="$_trace_8hpp.html" title="A simple class to store the traces. " alt="" coords="1113,379,1193,405"/>
+<area shape="rect" id="node34" href="$_stats_data_8hpp.html" title="Stores statistics data from the data stream in its original format. " alt="" coords="2654,80,2759,107"/>
+<area shape="rect" id="node11" href="$_identifier_8hpp.html" title="Defines identifying information for channels. " alt="" coords="2098,453,2195,480"/>
+<area shape="rect" id="node13" href="$_raw_event_8hpp.html" title="Header file for the rawevent. " alt="" coords="1248,155,1355,181"/>
+<area shape="rect" id="node26" href="$_detector_summary_8hpp.html" title="The class that generates the summary of the detectors in the analysis. " alt="" coords="975,229,1127,256"/>
+<area shape="rect" id="node20" href="$_exceptions_8hpp.html" title="Class to handle errors occurring during the execution of the code. " alt="" coords="1492,677,1604,704"/>
+<area shape="rect" id="node22" href="$_messenger_8hpp.html" title="A class to handle messages and output them prettily. " alt="" coords="1637,603,1747,629"/>
+<area shape="rect" id="node24" href="$_trap_filter_parameters_8hpp.html" title="TrapFilterParameters.hpp" alt="" coords="1263,603,1433,629"/>
+<area shape="rect" id="node33" href="$_xia_data_8hpp.html" title="XiaData.hpp" alt="" coords="809,379,903,405"/>
+<area shape="rect" id="node29" href="$_damm_plot_ids_8hpp.html" title="Lists Offsets and Ranges for various Processors. " alt="" coords="1089,453,1215,480"/>
+<area shape="rect" id="node30" href="$_plots_8hpp.html" title="A container to request a block of plots and plot respective spectra through the plots register..." alt="" coords="1717,453,1795,480"/>
+<area shape="rect" id="node32" href="$_plots_register_8hpp.html" title="PlotsRegister.hpp" alt="" coords="549,528,675,555"/>
+<area shape="rect" id="node31" href="$_his_file_8hpp.html" title="A class to output histograms in a format which HHIRF damm is able to read. " alt="" coords="1631,528,1718,555"/>
+</map>

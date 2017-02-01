@@ -1,8 +1,0 @@
-<map id="Plots.hpp" name="Plots.hpp">
-<area shape="rect" id="node6" href="$d4/d9c/_globals_8hpp.html" title="constant parameters used in pixie16 analysis " alt="" coords="672,80,763,107"/>
-<area shape="rect" id="node22" href="$d3/d87/_his_file_8hpp.html" title="A class to output histograms in a format which HHIRF damm is able to read. " alt="" coords="107,80,194,107"/>
-<area shape="rect" id="node23" href="$da/d82/_plots_register_8hpp.html" title="PlotsRegister.hpp" alt="" coords="1389,80,1515,107"/>
-<area shape="rect" id="node15" href="$de/d24/_exceptions_8hpp.html" title="Class to handle errors occurring during the execution of the code. " alt="" coords="217,229,329,256"/>
-<area shape="rect" id="node17" href="$d0/db0/_messenger_8hpp.html" title="A class to handle messages and output them prettily. " alt="" coords="311,155,422,181"/>
-<area shape="rect" id="node20" href="$dd/d48/_trap_filter_parameters_8hpp.html" title="TrapFilterParameters.hpp" alt="" coords="890,155,1059,181"/>
-</map>

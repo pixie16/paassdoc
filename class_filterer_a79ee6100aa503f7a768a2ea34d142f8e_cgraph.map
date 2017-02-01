@@ -1,0 +1,5 @@
+<map id="Filterer::SyntaxStr" name="Filterer::SyntaxStr">
+<area shape="rect" id="node2" href="$class_filterer.html#ad0b08875704479c67dc666586dd11eed" title="Print a command line help dialogue for recognized command line arguments. " alt="" coords="185,5,301,32"/>
+<area shape="rect" id="node3" href="$class_filterer.html#a1a4108c75657c4a1de6ba1531dedd7d7" title="Print an in&#45;terminal help dialogue for recognized commands. " alt="" coords="181,56,304,83"/>
+<area shape="rect" id="node4" href="$class_filterer.html#adb2663485efa1507bf8551cc273122ad" title="Scan input arguments and set class variables. " alt="" coords="184,107,301,133"/>
+</map>
