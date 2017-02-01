@@ -1,6 +1,0 @@
-<map id="LogicProcessor::LogicStatus" name="LogicProcessor::LogicStatus">
-<area shape="rect" id="node2" href="$class_implant_ssd_processor.html#a4633fc3b34a8e8915713dd8e1ba5666a" title="ImplantSsdProcessor\l::Process" alt="" coords="457,5,604,47"/>
-<area shape="rect" id="node4" href="$class_logic_processor.html#a7beb770b2f0282c5a151d53a87615c5c" title="LogicProcessor::TimeOff" alt="" coords="243,38,409,65"/>
-<area shape="rect" id="node5" href="$class_logic_processor.html#ad68e01c27bc79c69b6a6881c008a11d0" title="LogicProcessor::TimeOn" alt="" coords="243,89,409,115"/>
-<area shape="rect" id="node3" href="$class_implant_ssd_processor.html#a057e44029967a209fc626811e2ba4412" title="ImplantSsdProcessor\l::~ImplantSsdProcessor" alt="" coords="652,5,815,47"/>
-</map>

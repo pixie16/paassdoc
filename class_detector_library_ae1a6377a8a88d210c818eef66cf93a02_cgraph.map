@@ -1,7 +1,0 @@
-<map id="DetectorLibrary::PrintMap" name="DetectorLibrary::PrintMap">
-<area shape="rect" id="node2" href="$class_identifier.html#acc71b49361a9aa2bafd0e0b56bc32e47" title="Identifier::PrintHeaders" alt="" coords="242,5,397,32"/>
-<area shape="rect" id="node3" href="$class_detector_library.html#afcffb2df6b40e54bb1fb63519da25050" title="DetectorLibrary::ModuleFrom\lIndex" alt="" coords="224,57,415,98"/>
-<area shape="rect" id="node4" href="$class_detector_library.html#a86cd389e53c69dbae436e907bf113f3c" title="DetectorLibrary::Channel\lFromIndex" alt="" coords="237,122,402,163"/>
-<area shape="rect" id="node5" href="$class_detector_library.html#ac55ae5398583a68ac2eb448b926f365f" title="DetectorLibrary::at" alt="" coords="255,188,384,215"/>
-<area shape="rect" id="node6" href="$class_detector_library.html#a5b3be3cc7ba7a65f0dc5d446661c7bf7" title="DetectorLibrary::GetIndex" alt="" coords="463,188,633,215"/>
-</map>

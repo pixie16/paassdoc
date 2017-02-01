@@ -1,0 +1,17 @@
+<map id="MCA_DAMM" name="MCA_DAMM">
+<area shape="rect" id="node2" href="$d4/def/class_m_c_a.html" title="Abstract MCA class. " alt="" coords="1484,168,1535,195"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_pixie_interface.html" title="PixieInterface" alt="" coords="1251,123,1354,149"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="385,72,465,99"/>
+<area shape="rect" id="node7" href="$db/d3b/class_lock.html" title="Lock" alt="" coords="995,71,1045,97"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="169,65,295,106"/>
+<area shape="rect" id="node11" href="$d7/d76/class_his_drr.html" title="HisDrr" alt="" coords="1480,233,1539,260"/>
+<area shape="rect" id="node13" href="$dc/dbc/struct_drr_his_record_extended.html" title="DrrHisRecordExtended" alt="" coords="943,235,1097,261"/>
+<area shape="rect" id="node14" href="$d3/d28/struct_drr_his_record.html" title="DrrHisRecord" alt="" coords="621,235,720,261"/>
+<area shape="rect" id="node15" title="STL class. " alt="" coords="1257,293,1349,320"/>
+<area shape="rect" id="node16" title="STL class. " alt="" coords="955,286,1085,327"/>
+<area shape="rect" id="node17" title="STL class. " alt="" coords="603,286,739,327"/>
+<area shape="rect" id="node18" title="STL class. " alt="" coords="361,261,490,302"/>
+<area shape="rect" id="node19" title="STL class. " alt="" coords="155,304,309,331"/>
+<area shape="rect" id="node21" title="STL class. " alt="" coords="359,326,492,367"/>
+<area shape="rect" id="node20" title="STL class. " alt="" coords="5,304,105,331"/>
+</map>

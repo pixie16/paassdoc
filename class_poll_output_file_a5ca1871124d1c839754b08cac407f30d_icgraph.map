@@ -1,4 +1,0 @@
-<map id="PollOutputFile::GetRunNumber" name="PollOutputFile::GetRunNumber">
-<area shape="rect" id="node2" href="$class_poll.html#a8ce334944617087aa36f87141848facc" title="Stop an active data recording run. " alt="" coords="255,5,357,32"/>
-<area shape="rect" id="node3" href="$class_poll.html#a7bc77d04169be53d1a3553e0a55932d6" title="Acquire raw traces from a pixie module. " alt="" coords="405,31,519,57"/>
-</map>

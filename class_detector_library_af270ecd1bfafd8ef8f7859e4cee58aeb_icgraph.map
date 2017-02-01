@@ -1,5 +1,0 @@
-<map id="DetectorLibrary::GetLocations" name="DetectorLibrary::GetLocations">
-<area shape="rect" id="node2" href="$class_ge_calib_processor.html#a14f1541f72f75f1c64872e3ce557060d" title="GeCalibProcessor::Declare\lPlots" alt="" coords="249,5,427,47"/>
-<area shape="rect" id="node3" href="$class_ge_processor.html#a34a3e914ec6735a70ee2898fcd726747" title="GeProcessor::DeclarePlots" alt="" coords="248,71,428,98"/>
-<area shape="rect" id="node4" href="$class_ge4_hen3_processor.html#a918c80547f182063df5070f2616457ef" title="Ge4Hen3Processor::Declare\lPlots" alt="" coords="476,64,663,105"/>
-</map>

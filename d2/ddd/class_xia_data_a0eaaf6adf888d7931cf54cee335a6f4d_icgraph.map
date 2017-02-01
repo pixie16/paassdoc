@@ -1,0 +1,22 @@
+<map id="XiaData::IsSaturated" name="XiaData::IsSaturated">
+<area shape="rect" id="node2" href="$d5/d91/class_chan_event.html#a0476de1862fe32feafc5c6008e2e04a6" title="ChanEvent::IsSaturated" alt="" coords="200,143,361,170"/>
+<area shape="rect" id="node9" href="$df/dea/class_xia_list_mode_data_decoder.html#a8aef1de2d68f3e04678c171650dbfc48" title="XiaListModeDataDecoder\l::DecodeBuffer" alt="" coords="196,289,365,331"/>
+<area shape="rect" id="node20" href="$df/d1a/class_xia_list_mode_data_encoder.html#af47f8f760f77ec4c94024a7681c25574" title="XiaListModeDataEncoder\l::EncodeWordThree" alt="" coords="196,355,365,396"/>
+<area shape="rect" id="node3" href="$db/da8/class_dssd4_s_h_e_processor.html#a069993b16eb9c18b547a279e9f5d1b28" title="Dssd4SHEProcessor::\lPreProcess" alt="" coords="429,5,583,47"/>
+<area shape="rect" id="node4" href="$df/df5/class_implant_ssd_processor.html#a4633fc3b34a8e8915713dd8e1ba5666a" title="ImplantSsdProcessor\l::Process" alt="" coords="433,71,579,112"/>
+<area shape="rect" id="node6" href="$d3/dab/class_lite_position_processor.html#a41e329779cb70710078ab066afd4f953" title="LitePositionProcessor\l::Process" alt="" coords="431,136,581,177"/>
+<area shape="rect" id="node8" href="$d3/df3/class_position_processor.html#a45a6ef172d9253956769b1ccd15a6e4a" title="Process the QDC data involved in top/bottom side for a strip. " alt="" coords="438,201,574,243"/>
+<area shape="rect" id="node5" href="$df/df5/class_implant_ssd_processor.html#a057e44029967a209fc626811e2ba4412" title="ImplantSsdProcessor\l::~ImplantSsdProcessor" alt="" coords="648,71,811,112"/>
+<area shape="rect" id="node7" href="$d3/dab/class_lite_position_processor.html#a602ce3c9355626b96649b08690d391ef" title="LitePositionProcessor\l::~LitePositionProcessor" alt="" coords="647,136,812,177"/>
+<area shape="rect" id="node10" href="$d2/de8/class_unpacker.html#a601bd02b823f2405a2270c9f9076ffc9" title="Unpacker::ReadBuffer" alt="" coords="431,267,581,294"/>
+<area shape="rect" id="node19" href="$df/dea/class_xia_list_mode_data_decoder.html#a31629a35b4ce7c55e85aec7d8119d281" title="Default destructor. " alt="" coords="413,319,599,360"/>
+<area shape="rect" id="node11" href="$d2/de8/class_unpacker.html#a0924b471bf4cb54b70118b314c39b70b" title="Unpacker::ReadSpill" alt="" coords="659,242,799,269"/>
+<area shape="rect" id="node18" href="$d2/de8/class_unpacker.html#ad80a9d51dcc6bd0e22085bdaa354edaf" title="Unpacker::RawStats" alt="" coords="659,293,800,319"/>
+<area shape="rect" id="node12" href="$de/dfa/class_scanor_interface.html#ae4507711417daa37e55f278b9c486a54" title="inserts a delimiter in between individual module data and at end of buffer. Data is then passed to hi..." alt="" coords="860,217,1083,243"/>
+<area shape="rect" id="node17" href="$d2/de8/class_unpacker.html#a7e2b69e2542bc959d88c8cb0914ae1fa" title="Set the address of the scan interface used for file operations. " alt="" coords="893,267,1049,294"/>
+<area shape="rect" id="node13" href="$de/dfa/class_scanor_interface.html#abc2883ce3cd0783d422bbd8251a7e644" title="ScanorInterface::Hissub" alt="" coords="1157,191,1319,218"/>
+<area shape="rect" id="node16" href="$de/dfa/class_scanor_interface.html#a0d14caf29f24f3e7255d144bb15d6bee" title="ScanorInterface::ScanorInterface" alt="" coords="1131,242,1345,269"/>
+<area shape="rect" id="node14" href="$d6/db4/_scanor_8cpp.html#a4c73088139b20f913c3f554cfaa1c6a5" title="interface between scan and C++ " alt="" coords="1445,162,1512,189"/>
+<area shape="rect" id="node15" href="$de/dfa/class_scanor_interface.html#afedd786e14ed9ad6d8567581439b7192" title="ScanorInterface::~Scanor\lInterface" alt="" coords="1393,213,1564,255"/>
+<area shape="rect" id="node21" href="$df/d1a/class_xia_list_mode_data_encoder.html#a122e039afbbef6a4ed4258544ec46a18" title="Default destructor. " alt="" coords="413,384,599,425"/>
+</map>

@@ -1,5 +1,0 @@
-<map id="NeutronProcessor::DeclarePlots" name="NeutronProcessor::DeclarePlots">
-<area shape="rect" id="node2" href="$class_event_processor.html#aac0d7f24194df48f204ebb9c9b75e19d" title="Declares a 1D histogram calls the C++ wrapper for DAMM. " alt="" coords="232,13,475,39"/>
-<area shape="rect" id="node3" href="$class_plots.html#a126b1dfe1d671776ee1caddc7cc249b9" title="Declares a 1D histogram calls the C++ wrapper for DAMM. " alt="" coords="523,13,701,39"/>
-<area shape="rect" id="node4" href="$_scanor_8hpp.html#ae9985183725e9354913756c7f86d355a" title="create a DAMM 1D histogram args are damm id, half&#45;words per channel, param length, hist length, low x&#45;range, high x&#45;range, and title " alt="" coords="749,13,807,39"/>
-</map>

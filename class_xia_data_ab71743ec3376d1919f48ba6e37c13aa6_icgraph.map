@@ -1,5 +1,0 @@
-<map id="XiaData::Clear" name="XiaData::Clear">
-<area shape="rect" id="node2" href="$unittest-_xia_data_8cpp.html#a3cc9d081f6d83b7bead7174bad9b6acc" title="This will test that the Time for the rhs is greater than the lhs. " alt="" coords="222,5,278,32"/>
-<area shape="rect" id="node3" href="$class_xia_data.html#a53a67b56e91c352f8e383a481b271d7e" title="Default constructor. " alt="" coords="189,56,311,83"/>
-<area shape="rect" id="node4" href="$class_xia_data.html#a5f5ae6e21db1f05e49b5daf64f014593" title="Sets the flag for channels generated on&#45;board. " alt="" coords="160,107,340,133"/>
-</map>

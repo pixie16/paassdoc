@@ -1,0 +1,43 @@
+<map id="PixieInterface.h" name="PixieInterface.h">
+<area shape="rect" id="node2" href="$d5/daf/_pixie_support_8h.html" title="PixieSupport.h" alt="" coords="797,80,903,107"/>
+<area shape="rect" id="node11" href="$db/d9f/param_scan_8cpp.html" title="paramScan.cpp" alt="" coords="5,304,119,331"/>
+<area shape="rect" id="node12" href="$d3/d1e/_m_c_a_8cpp.html" title="MCA.cpp" alt="" coords="255,229,331,256"/>
+<area shape="rect" id="node21" href="$dd/da7/_pixie_interface_8cpp.html" title="PixieInterface.cpp" alt="" coords="1764,80,1891,107"/>
+<area shape="rect" id="node22" href="$df/dac/test_8cpp.html" title="test.cpp" alt="" coords="1915,80,1985,107"/>
+<area shape="rect" id="node23" href="$d9/dc1/poll2__core_8h.html" title="Controls the poll2 command interpreter and data acquisition system. " alt="" coords="96,80,188,107"/>
+<area shape="rect" id="node25" href="$de/df0/utilities_8h.html" title="utilities.h" alt="" coords="2363,80,2438,107"/>
+<area shape="rect" id="node26" href="$dd/dc1/get__traces_8cpp.html" title="get_traces.cpp" alt="" coords="1475,155,1583,181"/>
+<area shape="rect" id="node27" href="$d8/d3e/mca__paw_8cpp.html" title="mca_paw.cpp" alt="" coords="1607,155,1709,181"/>
+<area shape="rect" id="node28" href="$d3/d78/rate_8cpp.html" title="rate.cpp" alt="" coords="1734,155,1803,181"/>
+<area shape="rect" id="node29" href="$da/d0b/set__hybrid_8cpp.html" title="set_hybrid.cpp" alt="" coords="1827,155,1934,181"/>
+<area shape="rect" id="node30" href="$d8/d66/set__pileups__only_8cpp.html" title="set_pileups_only.cpp" alt="" coords="1958,155,2102,181"/>
+<area shape="rect" id="node31" href="$d6/d03/set__pileups__reject_8cpp.html" title="set_pileups_reject.cpp" alt="" coords="2126,155,2278,181"/>
+<area shape="rect" id="node32" href="$d7/d1d/set__standard_8cpp.html" title="set_standard.cpp" alt="" coords="2302,155,2425,181"/>
+<area shape="rect" id="node33" href="$d9/d7a/toggle__catcher_8cpp.html" title="toggle_catcher.cpp" alt="" coords="2449,155,2581,181"/>
+<area shape="rect" id="node34" href="$de/d40/toggle__gain_8cpp.html" title="toggle_gain.cpp" alt="" coords="2605,155,2719,181"/>
+<area shape="rect" id="node35" href="$d6/d0a/toggle__good_8cpp.html" title="toggle_good.cpp" alt="" coords="2743,155,2861,181"/>
+<area shape="rect" id="node36" href="$d2/d00/toggle__pileup_8cpp.html" title="toggle_pileup.cpp" alt="" coords="2885,155,3007,181"/>
+<area shape="rect" id="node37" href="$df/d1b/toggle__polarity_8cpp.html" title="toggle_polarity.cpp" alt="" coords="3031,155,3162,181"/>
+<area shape="rect" id="node38" href="$d4/dc9/toggle__trace_8cpp.html" title="toggle_trace.cpp" alt="" coords="3187,155,3305,181"/>
+<area shape="rect" id="node39" href="$df/d2f/_acquisition_2_setup_2source_2trace_8cpp.html" title="trace.cpp" alt="" coords="3329,155,3405,181"/>
+<area shape="rect" id="node40" href="$d1/de6/trace__paw_8cpp.html" title="trace_paw.cpp" alt="" coords="3430,155,3537,181"/>
+<area shape="rect" id="node41" href="$d5/d08/boot_8cpp.html" title="boot.cpp" alt="" coords="2867,80,2939,107"/>
+<area shape="rect" id="node42" href="$d9/d6d/copy__params_8cpp.html" title="copy_params.cpp" alt="" coords="2963,80,3089,107"/>
+<area shape="rect" id="node3" href="$d7/d39/_pixie_support_8cpp.html" title="PixieSupport.cpp" alt="" coords="852,155,973,181"/>
+<area shape="rect" id="node4" href="$d7/d20/_m_c_a_8h.html" title="MCA.h" alt="" coords="1269,155,1332,181"/>
+<area shape="rect" id="node8" href="$d0/dd4/poll2__core_8cpp.html" title="Controls the poll2 command interpreter and data acquisition system. " alt="" coords="175,304,282,331"/>
+<area shape="rect" id="node13" href="$d9/d36/adjust__offsets_8cpp.html" title="adjust_offsets.cpp" alt="" coords="997,155,1127,181"/>
+<area shape="rect" id="node14" href="$df/d1d/csr__test_8cpp.html" title="csr_test.cpp" alt="" coords="1151,155,1245,181"/>
+<area shape="rect" id="node15" href="$d1/d71/find__tau_8cpp.html" title="find_tau.cpp" alt="" coords="1357,155,1450,181"/>
+<area shape="rect" id="node16" href="$da/d55/pmread_8cpp.html" title="pmread.cpp" alt="" coords="305,155,395,181"/>
+<area shape="rect" id="node17" href="$d6/df7/pmwrite_8cpp.html" title="pmwrite.cpp" alt="" coords="420,155,512,181"/>
+<area shape="rect" id="node18" href="$dc/d22/pread_8cpp.html" title="pread.cpp" alt="" coords="536,155,615,181"/>
+<area shape="rect" id="node19" href="$d5/d89/pwrite_8cpp.html" title="pwrite.cpp" alt="" coords="639,155,720,181"/>
+<area shape="rect" id="node20" href="$d6/d7d/toggle_8cpp.html" title="toggle.cpp" alt="" coords="745,155,827,181"/>
+<area shape="rect" id="node5" href="$dd/d02/_m_c_a___d_a_m_m_8h.html" title="MCA_DAMM.h" alt="" coords="550,229,659,256"/>
+<area shape="rect" id="node9" href="$d1/ddd/_m_c_a___r_o_o_t_8h.html" title="MCA_ROOT.h" alt="" coords="355,229,462,256"/>
+<area shape="rect" id="node6" href="$d2/d08/_m_c_a___d_a_m_m_8cpp.html" title="MCA_DAMM.cpp" alt="" coords="609,304,731,331"/>
+<area shape="rect" id="node7" href="$da/d35/_m_c_a__exec_8cpp.html" title="MCA_exec.cpp" alt="" coords="473,304,584,331"/>
+<area shape="rect" id="node10" href="$d5/dbb/_m_c_a___r_o_o_t_8cpp.html" title="MCA_ROOT.cpp" alt="" coords="329,304,449,331"/>
+<area shape="rect" id="node24" href="$d1/d50/poll2_8cpp.html" title="poll2.cpp" alt="" coords="105,155,179,181"/>
+</map>

@@ -1,8 +1,0 @@
-<map id="scopeUnpacker::ProcessRawEvent" name="scopeUnpacker::ProcessRawEvent">
-<area shape="rect" id="node2" href="$class_xia_data.html#a6c7eaea35ca73b6ea13b63f665031346" title="XiaData::GetTrace" alt="" coords="283,5,413,32"/>
-<area shape="rect" id="node3" href="$namespace_trace_functions.html#a1eb6d96a9adf7e29d4a64ada805e1be7" title="This function finds the maximum bin and the value of the maximum bin for the provided vector..." alt="" coords="247,56,449,83"/>
-<area shape="rect" id="node4" href="$class_xia_data.html#a041f6911911ef2a34f20b0df1698d508" title="XiaData::GetModuleNumber" alt="" coords="256,107,440,133"/>
-<area shape="rect" id="node5" href="$class_xia_data.html#a666be81f5c59ecd502e1f3cd09d5335a" title="XiaData::GetChannelNumber" alt="" coords="253,157,443,184"/>
-<area shape="rect" id="node6" href="$class_scan_interface.html#a60f627ef24dd2da74aff381ba0851b66" title="ScanInterface::AddEvent" alt="" coords="264,208,432,235"/>
-<area shape="rect" id="node7" href="$class_scan_interface.html#a561d81cb294005c32ba93243874748ae" title="ScanInterface::ProcessEvents" alt="" coords="248,259,448,285"/>
-</map>

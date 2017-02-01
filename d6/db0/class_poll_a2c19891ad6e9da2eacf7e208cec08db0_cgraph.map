@@ -1,0 +1,6 @@
+<map id="Poll::broadcast_data" name="Poll::broadcast_data">
+<area shape="rect" id="node2" href="$d6/db0/class_poll.html#abdd920d14ae9c7a1b00bb9869e964f79" title="Broadcast a data spill onto the network in the classic pacman format. " alt="" coords="201,74,371,101"/>
+<area shape="rect" id="node3" href="$d3/d7a/class_client.html#a1bbb757d713ad68ebbef801cde60f438" title="Client::SendMessage" alt="" coords="425,24,572,50"/>
+<area shape="rect" id="node5" href="$dd/dcd/class_poll_output_file.html#aed6504c551a8052d56b89ed60c175e65" title="PollOutputFile::SendPacket" alt="" coords="195,24,377,50"/>
+<area shape="rect" id="node4" href="$da/d6a/namespace_display.html#a0ca7c8835e858cf0b1e0cce72a41ab9c" title="Display::WarningStr" alt="" coords="430,74,567,101"/>
+</map>

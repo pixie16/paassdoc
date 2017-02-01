@@ -1,6 +1,0 @@
-<map id="EventProcessor::Init" name="EventProcessor::Init">
-<area shape="rect" id="node2" href="$class_event_processor.html#a0cffd98323d96a9ac048c72401e08197" title="EventProcessor::DidProcess" alt="" coords="195,5,385,32"/>
-<area shape="rect" id="node3" href="$class_lite_position_processor.html#a21187f3e55bb450c2dbcbc61e8b7cfd3" title="LitePositionProcessor\l::Init" alt="" coords="215,57,365,98"/>
-<area shape="rect" id="node5" href="$class_position_processor.html#a4c7bb0b65dbf1115f6a10f0f9b0da0a0" title="Reads in QDC parameters from an input file. " alt="" coords="213,123,367,149"/>
-<area shape="rect" id="node4" href="$class_lite_position_processor.html#a602ce3c9355626b96649b08690d391ef" title="LitePositionProcessor\l::~LitePositionProcessor" alt="" coords="433,57,599,98"/>
-</map>

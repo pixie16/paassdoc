@@ -1,7 +1,0 @@
-<map id="Trace::ScalePlot" name="Trace::ScalePlot">
-<area shape="rect" id="node2" href="$class_trace.html#a69a095c664ead0786523b4591d2a4df9" title="Implementation of the plot command to interface with the DAMM routines. " alt="" coords="172,42,256,69"/>
-<area shape="rect" id="node3" href="$class_trace_filter_analyzer.html#ab32ab2844b97511e344f6e6f71b91d9d" title="TraceFilterAnalyzer\l::Analyze" alt="" coords="314,5,449,47"/>
-<area shape="rect" id="node5" href="$class_waa_analyzer.html#a80ace3f38dd866db28d726202f5304e8" title="WaaAnalyzer::Analyze" alt="" coords="304,71,459,98"/>
-<area shape="rect" id="node4" href="$class_trace_filter_analyzer.html#aaadf927cff2a0fe2ded1929ce14ea3d6" title="TraceFilterAnalyzer\l::~TraceFilterAnalyzer" alt="" coords="527,5,678,47"/>
-<area shape="rect" id="node6" href="$class_waa_analyzer.html#acf4c091fd816f6cac524499091094079" title="WaaAnalyzer::~WaaAnalyzer" alt="" coords="507,71,699,98"/>
-</map>

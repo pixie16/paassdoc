@@ -1,0 +1,34 @@
+<map id="GeProcessor::Process" name="GeProcessor::Process">
+<area shape="rect" id="node2" href="$d6/d65/class_event_processor.html#ae2d41a947da0cb509fd0ca85f6caa0fc" title="EventProcessor::Process" alt="" coords="228,5,399,32"/>
+<area shape="rect" id="node3" href="$d6/d65/class_event_processor.html#a301eb8d69b3ceeeb4e69ce84a685f5a1" title="EventProcessor::EndProcess" alt="" coords="467,31,661,57"/>
+<area shape="rect" id="node4" href="$d3/daf/class_globals.html#ae66fa0173342202c96b13d71a6522512" title="Globals::get" alt="" coords="267,107,359,133"/>
+<area shape="rect" id="node11" href="$d3/daf/class_globals.html#a8a59aff7fd0bbad3e81b32a2151090df" title="Globals::clockInSeconds" alt="" coords="230,157,397,184"/>
+<area shape="rect" id="node12" href="$d3/d2c/class_tree_correlator.html#a4f70fdbb0d6dead4212d8e926ce1755f" title="TreeCorrelator::get" alt="" coords="499,237,629,264"/>
+<area shape="rect" id="node13" href="$d3/d2c/class_tree_correlator.html#aadf6cf8c8bedbbde03fb678667c7cb01" title="TreeCorrelator::place" alt="" coords="493,373,635,400"/>
+<area shape="rect" id="node14" href="$dd/d21/class_place.html#a25854d42e71e507da8c1a1805e663850" title="Place::last" alt="" coords="271,325,355,352"/>
+<area shape="rect" id="node15" href="$da/d6a/namespace_display.html#a762315ce58efcb1203edfcb74158f59b" title="Display::ErrorStr" alt="" coords="254,376,373,403"/>
+<area shape="rect" id="node16" href="$dd/d21/class_place.html#ab5208f2c86d717be2e217f5439318da0" title="Place::status" alt="" coords="264,427,363,453"/>
+<area shape="rect" id="node17" href="$d5/d91/class_chan_event.html#a0869d757db1936ae509ae36b00ee7b94" title="ChanEvent::GetCalEnergy" alt="" coords="226,477,401,504"/>
+<area shape="rect" id="node18" href="$d6/d65/class_event_processor.html#ad5201bb392726e409ba2a6ac44e764d8" title="Implementation of the plot command to interface with the DAMM routines. " alt="" coords="492,756,636,783"/>
+<area shape="rect" id="node22" href="$d5/d91/class_chan_event.html#aaed14924c03f417ff42ffd35f5e77f09" title="ChanEvent::GetCorrectedTime" alt="" coords="213,579,413,605"/>
+<area shape="rect" id="node23" href="$d5/d91/class_chan_event.html#a56a480fad4a8c6728e783db0cf659c9f" title="ChanEvent::GetChanID" alt="" coords="234,629,393,656"/>
+<area shape="rect" id="node29" href="$d7/de7/class_identifier.html#af01e5062be749992956d81ff35325de0" title="Identifier::GetLocation" alt="" coords="238,680,389,707"/>
+<area shape="rect" id="node30" href="$d2/d54/class_ge_processor.html#a7a0f6f952c59ea89c3792f83a0ab2d0a" title="GeProcessor::granploty" alt="" coords="234,781,393,808"/>
+<area shape="rect" id="node31" href="$d2/d54/class_ge_processor.html#a1663d5a345fd134b4bd6ed9b6e71834a" title="GeProcessor::BestBetaFor\lGamma" alt="" coords="224,259,403,301"/>
+<area shape="rect" id="node32" href="$d2/d54/class_ge_processor.html#a79542ba6cd05a9cf34e362264613d605" title="GeProcessor::GoodGammaBeta" alt="" coords="208,832,419,859"/>
+<area shape="rect" id="node33" href="$d2/d54/class_ge_processor.html#afa65209d30c7e2e0ea805f3052edc3da" title="GeProcessor::symplot" alt="" coords="237,883,389,909"/>
+<area shape="rect" id="node5" href="$d3/daf/class_globals.html#ad6c9fda8d0018300ce2a7b7e481181c2" title="Globals::Globals" alt="" coords="505,107,623,133"/>
+<area shape="rect" id="node6" href="$d6/dc9/class_messenger.html#a24d0db0aece5830b3de62310f5753be8" title="Messenger::detail" alt="" coords="1175,68,1300,95"/>
+<area shape="rect" id="node7" href="$d3/daf/class_globals.html#a9dc8ebff5b3cb81999c90462abb4afca" title="Globals::WarnOfUnknownParameter" alt="" coords="709,31,940,57"/>
+<area shape="rect" id="node9" href="$d3/daf/class_globals.html#a3bedee64cc799d6f373d15308f600c63" title="Globals::SanityCheck" alt="" coords="751,107,899,133"/>
+<area shape="rect" id="node8" href="$d6/dc9/class_messenger.html#a130e83285254c9149629842ca2aa6f20" title="Messenger::warning" alt="" coords="988,17,1127,44"/>
+<area shape="rect" id="node10" href="$d6/dc9/class_messenger.html#a40a7e53a9b6dc5ef161c2ffd5d6bbbfb" title="Messenger::done" alt="" coords="996,119,1119,145"/>
+<area shape="rect" id="node19" href="$d7/d8b/class_plots.html#a68849b82c8c7a5d57f972cbd8de83328" title="Plots into histogram defined by dammId. " alt="" coords="783,756,866,783"/>
+<area shape="rect" id="node20" href="$da/d57/_scanor_8hpp.html#a31aca3d0ff704e08f8f8968288ae7895" title="Defines the DAMM function to call for 1D hists */. " alt="" coords="1016,731,1099,757"/>
+<area shape="rect" id="node21" href="$da/d57/_scanor_8hpp.html#a8b0a662ebdb3f947ba8470bf89f11c3a" title="Defines the DAMM function to call for 2D hists */. " alt="" coords="1023,781,1091,808"/>
+<area shape="rect" id="node24" href="$dc/dbe/class_detector_library.html#a6ab3ff825daa8b607865086741bc9b2c" title="DetectorLibrary::get" alt="" coords="496,591,632,617"/>
+<area shape="rect" id="node25" href="$dc/dbe/class_detector_library.html#ac55ae5398583a68ac2eb448b926f365f" title="DetectorLibrary::at" alt="" coords="499,641,629,668"/>
+<area shape="rect" id="node27" href="$d2/ddd/class_xia_data.html#a041f6911911ef2a34f20b0df1698d508" title="XiaData::GetModuleNumber" alt="" coords="472,692,656,719"/>
+<area shape="rect" id="node28" href="$d2/ddd/class_xia_data.html#a666be81f5c59ecd502e1f3cd09d5335a" title="XiaData::GetChannelNumber" alt="" coords="469,540,659,567"/>
+<area shape="rect" id="node26" href="$dc/dbe/class_detector_library.html#a5b3be3cc7ba7a65f0dc5d446661c7bf7" title="DetectorLibrary::GetIndex" alt="" coords="739,641,910,668"/>
+</map>

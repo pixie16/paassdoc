@@ -1,6 +1,0 @@
-<map id="CommandHolder::Reset" name="CommandHolder::Reset">
-<area shape="rect" id="node2" href="$class_terminal.html#afef43bf766d6ea1e2b739d231c84f57d" title="Wait for the user to input a command. " alt="" coords="432,31,592,57"/>
-<area shape="rect" id="node5" href="$class_command_holder.html#a9263f7602119a4b47dfa5b6db90d8e20" title="Capture the current command line text and store it for later use. " alt="" coords="213,56,384,83"/>
-<area shape="rect" id="node3" href="$_c_terminal_test_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="671,5,722,32"/>
-<area shape="rect" id="node4" href="$class_poll.html#a7bc77d04169be53d1a3553e0a55932d6" title="Acquire raw traces from a pixie module. " alt="" coords="640,56,753,83"/>
-</map>

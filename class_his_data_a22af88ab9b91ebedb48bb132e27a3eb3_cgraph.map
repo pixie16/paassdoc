@@ -1,5 +1,0 @@
-<map id="HisData::IsInit" name="HisData::IsInit">
-<area shape="rect" id="node2" href="$class_his_data.html#a16a892df4f956c63d9c5350255b54721" title="Initialize the int or short array to a specified size_. " alt="" coords="159,5,283,32"/>
-<area shape="rect" id="node4" href="$class_his_data.html#a58586680ac5cfc87f5286a3442fb480c" title="Read histogram data from an input histogram file. " alt="" coords="167,56,274,83"/>
-<area shape="rect" id="node3" href="$class_his_data.html#a3b5241488d9daf839ec2435f89148b8b" title="Delete the data arrays and reset all variables. " alt="" coords="331,5,444,32"/>
-</map>

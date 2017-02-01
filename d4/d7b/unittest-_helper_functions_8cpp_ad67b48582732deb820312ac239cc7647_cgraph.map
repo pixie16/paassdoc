@@ -1,0 +1,5 @@
+<map id="TEST" name="TEST">
+<area shape="rect" id="node2" href="$d6/dd5/namespace_trace_functions.html#a6daab655efadf36d330e22d7848eb89f" title="TraceFunctions::CalculateQdc" alt="" coords="109,5,308,32"/>
+<area shape="rect" id="node4" href="$d4/d4a/namespaceunittest__helper__functions.html#a7b8690f970b08876e7c57f3572e7106e" title="unittest_helper_functions\l::qdc_pair" alt="" coords="125,57,292,98"/>
+<area shape="rect" id="node3" href="$d4/d06/namespace_statistics.html#a4aabbd7b3dd2f7463c51f1a74f0efe33" title="Do a quick and simple integration of the provided data using the trapezoidal rule. We will not be subtracting the baseline or anything like that to keep things general. " alt="" coords="356,5,539,32"/>
+</map>

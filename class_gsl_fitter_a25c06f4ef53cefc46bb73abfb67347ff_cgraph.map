@@ -1,8 +1,0 @@
-<map id="GslFitter::CalculatePhase" name="GslFitter::CalculatePhase">
-<area shape="rect" id="node2" href="$_gsl1_fitter_8cpp.html#adc5d69e74885dcb402a256340f45f0d4" title="PmtFunction" alt="" coords="459,5,555,32"/>
-<area shape="rect" id="node3" href="$_gsl1_fitter_8cpp.html#a8d234c610289e7da30b8c8016ceeb5be" title="CalcPmtJacobian" alt="" coords="445,68,569,95"/>
-<area shape="rect" id="node4" href="$_gsl1_fitter_8cpp.html#a34b7df3c59205f98dbc8e71731bb42b4" title="PmtFunctionDerivative" alt="" coords="230,43,385,69"/>
-<area shape="rect" id="node5" href="$_gsl1_fitter_8cpp.html#ae7df9a4cfe02b36c949363412c4c4b4f" title="SiPmtFunction" alt="" coords="453,156,561,183"/>
-<area shape="rect" id="node6" href="$_gsl1_fitter_8cpp.html#aa2dadfd3d096c9f4bca3b6a6e6e4a265" title="CalcSiPmtJacobian" alt="" coords="439,232,575,259"/>
-<area shape="rect" id="node7" href="$_gsl1_fitter_8cpp.html#aab8c829b4103b50a0106110effd006e5" title="SiPmtFunctionDerivative" alt="" coords="224,195,391,221"/>
-</map>

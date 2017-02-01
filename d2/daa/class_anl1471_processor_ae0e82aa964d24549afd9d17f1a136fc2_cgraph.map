@@ -1,0 +1,51 @@
+<map id="Anl1471Processor::Process" name="Anl1471Processor::Process">
+<area shape="rect" id="node2" href="$d6/d65/class_event_processor.html#ae2d41a947da0cb509fd0ca85f6caa0fc" title="EventProcessor::Process" alt="" coords="248,5,419,32"/>
+<area shape="rect" id="node3" href="$d6/d65/class_event_processor.html#a301eb8d69b3ceeeb4e69ce84a685f5a1" title="EventProcessor::EndProcess" alt="" coords="484,31,679,57"/>
+<area shape="rect" id="node4" href="$dc/d32/class_raw_event.html#a0405b96da430f69eb01fc8a7668420cc" title="Get a pointer to a specific detector summary. " alt="" coords="1223,228,1389,255"/>
+<area shape="rect" id="node6" href="$da/d8d/class_detector_summary.html#adcb2a931cbd22a6e5f0604fd27886c29" title="DetectorSummary::GetList" alt="" coords="245,1157,422,1184"/>
+<area shape="rect" id="node7" href="$de/d91/class_detector_driver.html#a374a759674faebb18f7a2b4fa06c7a70" title="DetectorDriver::get" alt="" coords="268,1208,399,1235"/>
+<area shape="rect" id="node8" href="$de/d12/class_bar_builder.html#a6122a4c2a7b4ba9527af65aa932194c3" title="BarBuilder::BuildBars" alt="" coords="260,1259,407,1285"/>
+<area shape="rect" id="node9" href="$de/d12/class_bar_builder.html#a4ab3d31816f265edd0a08d960fbba501" title="BarBuilder::GetBarMap" alt="" coords="255,1309,411,1336"/>
+<area shape="rect" id="node10" href="$d3/d2c/class_tree_correlator.html#a4f70fdbb0d6dead4212d8e926ce1755f" title="TreeCorrelator::get" alt="" coords="268,1360,399,1387"/>
+<area shape="rect" id="node11" href="$d3/d2c/class_tree_correlator.html#aadf6cf8c8bedbbde03fb678667c7cb01" title="TreeCorrelator::place" alt="" coords="262,1411,405,1437"/>
+<area shape="rect" id="node12" href="$dd/d21/class_place.html#ab5208f2c86d717be2e217f5439318da0" title="Place::status" alt="" coords="284,1461,383,1488"/>
+<area shape="rect" id="node13" href="$d6/d65/class_event_processor.html#ad5201bb392726e409ba2a6ac44e764d8" title="Implementation of the plot command to interface with the DAMM routines. " alt="" coords="261,1512,405,1539"/>
+<area shape="rect" id="node17" href="$d6/d15/class_bar_detector.html#a35674ef5d54abcf2366797d18eed5d27" title="BarDetector::GetHasEvent" alt="" coords="245,803,422,829"/>
+<area shape="rect" id="node18" href="$d6/d15/class_bar_detector.html#a735faf1d8e5a6e1f96929f5627466cfc" title="BarDetector::GetType" alt="" coords="507,904,656,931"/>
+<area shape="rect" id="node19" href="$d3/daf/class_globals.html#ae66fa0173342202c96b13d71a6522512" title="Globals::get" alt="" coords="1032,640,1124,667"/>
+<area shape="rect" id="node22" href="$d6/d15/class_bar_detector.html#a76ea690c2824c9f05cc2a99ee4011a73" title="BarDetector::GetTimeDifference" alt="" coords="477,1056,685,1083"/>
+<area shape="rect" id="node23" href="$d7/d61/class_high_res_timing_data.html#a0d792eaada47a38a231fd62cc107a5d0" title="HighResTimingData::\lGetHighResTime" alt="" coords="761,939,906,981"/>
+<area shape="rect" id="node25" href="$d6/d15/class_bar_detector.html#a7aaa590d04fd517a93084a4833737e4d" title="BarDetector::GetCalibration" alt="" coords="743,1123,924,1149"/>
+<area shape="rect" id="node28" href="$d6/d15/class_bar_detector.html#a660b8ab372d5420467bbca50c85f0083" title="BarDetector::GetRightSide" alt="" coords="493,600,669,627"/>
+<area shape="rect" id="node29" href="$d6/d15/class_bar_detector.html#a3946f36fe27481df6bad5c9258c84faa" title="BarDetector::GetLeftSide" alt="" coords="497,853,665,880"/>
+<area shape="rect" id="node32" href="$d2/d44/class_timing_calibration.html#a5489127e48d3a01839ef8bfbacb1bb4c" title="TimingCalibration::\lGetTofOffset" alt="" coords="268,1563,399,1605"/>
+<area shape="rect" id="node33" href="$d6/d15/class_bar_detector.html#a4952dcf06771339fc19e2aefa99b0403" title="BarDetector::GetCorTimeAve" alt="" coords="237,428,429,455"/>
+<area shape="rect" id="node41" href="$d7/d61/class_high_res_timing_data.html#ab62e5122538f49ded74f45636de20409" title="HighResTimingData::\lGetSignalToNoiseRatio" alt="" coords="755,509,912,550"/>
+<area shape="rect" id="node42" href="$d7/d61/class_high_res_timing_data.html#a6e6051cc317a8d5fccb6b4f4ca1c7012" title="HighResTimingData::\lGetTraceQdc" alt="" coords="761,158,906,199"/>
+<area shape="rect" id="node45" href="$d6/d15/class_bar_detector.html#ab0b8692f292231103a6dfed431eaf878" title="BarDetector::GetFlightPath" alt="" coords="244,1005,423,1032"/>
+<area shape="rect" id="node46" href="$d2/d44/class_timing_calibration.html#a7ee437e24a740b45641826f18ab6dac1" title="TimingCalibration::\lGetZ0" alt="" coords="268,1629,399,1670"/>
+<area shape="rect" id="node47" href="$d6/d15/class_bar_detector.html#a3f98751ad3df4c9b3246a22f235c4b98" title="BarDetector::GetQdc" alt="" coords="509,199,653,225"/>
+<area shape="rect" id="node48" href="$d6/d15/class_bar_detector.html#a1a1ea9e91c15894d411d1ebe0b08bb03" title="BarDetector::GetQdcPosition" alt="" coords="486,249,677,276"/>
+<area shape="rect" id="node49" href="$d3/daf/class_globals.html#a8a59aff7fd0bbad3e81b32a2151090df" title="Globals::clockInSeconds" alt="" coords="250,1695,417,1721"/>
+<area shape="rect" id="node50" href="$dd/d21/class_place.html#a25854d42e71e507da8c1a1805e663850" title="Place::last" alt="" coords="291,1745,375,1772"/>
+<area shape="rect" id="node5" href="$d6/dc9/class_messenger.html#a24d0db0aece5830b3de62310f5753be8" title="Messenger::detail" alt="" coords="1437,373,1563,400"/>
+<area shape="rect" id="node14" href="$d7/d8b/class_plots.html#a68849b82c8c7a5d57f972cbd8de83328" title="Plots into histogram defined by dammId. " alt="" coords="540,1512,623,1539"/>
+<area shape="rect" id="node15" href="$da/d57/_scanor_8hpp.html#a31aca3d0ff704e08f8f8968288ae7895" title="Defines the DAMM function to call for 1D hists */. " alt="" coords="792,1487,875,1513"/>
+<area shape="rect" id="node16" href="$da/d57/_scanor_8hpp.html#a8b0a662ebdb3f947ba8470bf89f11c3a" title="Defines the DAMM function to call for 2D hists */. " alt="" coords="799,1537,867,1564"/>
+<area shape="rect" id="node21" href="$d3/daf/class_globals.html#ae7fac76e35bed640cf43e7d62f74e431" title="Globals::smallLengthTime" alt="" coords="495,701,668,728"/>
+<area shape="rect" id="node30" href="$d3/daf/class_globals.html#a3b503b4919a686d3a284f42b3f1b0e6b" title="Globals::bigLengthTime" alt="" coords="502,752,661,779"/>
+<area shape="rect" id="node31" href="$d3/daf/class_globals.html#aef6b130c6c7d93fca6c7c73ad7bd5880" title="Globals::mediumLengthTime" alt="" coords="487,803,675,829"/>
+<area shape="rect" id="node20" href="$d3/daf/class_globals.html#ad6c9fda8d0018300ce2a7b7e481181c2" title="Globals::Globals" alt="" coords="1247,399,1365,425"/>
+<area shape="rect" id="node27" href="$d2/d44/class_timing_calibration.html#a839a3eea0f575ad2cb985d6533234326" title="TimingCalibration::\lGetLeftRightTimeOffset" alt="" coords="753,1057,913,1098"/>
+<area shape="rect" id="node24" href="$d5/d91/class_chan_event.html#a7186b4090500504a8a8de20317d6b901" title="ChanEvent::GetHighResTime" alt="" coords="981,947,1175,973"/>
+<area shape="rect" id="node26" href="$dd/d02/class_timing_calibrator.html#aef9d53667925c12fee1462de03a5c063" title="TimingCalibrator::get" alt="" coords="1007,1123,1149,1149"/>
+<area shape="rect" id="node34" href="$d7/d61/class_high_res_timing_data.html#a2886e6e96843c5611de7eb51883959f2" title="HighResTimingData::\lGetCorrectedTime" alt="" coords="509,401,654,442"/>
+<area shape="rect" id="node35" href="$d5/d91/class_chan_event.html#aaed14924c03f417ff42ffd35f5e77f09" title="ChanEvent::GetCorrectedTime" alt="" coords="733,275,933,301"/>
+<area shape="rect" id="node36" href="$d7/d61/class_high_res_timing_data.html#a30b0cb4eca69a1d78e217494d0735508" title="HighResTimingData::\lGetAveBaseline" alt="" coords="761,326,906,367"/>
+<area shape="rect" id="node39" href="$d7/d61/class_high_res_timing_data.html#a4fd50d3ec1fe2fffe91dc08f48aeccc2" title="HighResTimingData::\lGetStdDevBaseline" alt="" coords="761,443,906,485"/>
+<area shape="rect" id="node40" href="$d7/d61/class_high_res_timing_data.html#a2769883910967c0648ba8c13a7f0dc1f" title="HighResTimingData::\lGetPhase" alt="" coords="761,574,906,615"/>
+<area shape="rect" id="node43" href="$d5/d91/class_chan_event.html#a56a480fad4a8c6728e783db0cf659c9f" title="ChanEvent::GetChanID" alt="" coords="754,392,913,419"/>
+<area shape="rect" id="node44" href="$d7/de7/class_identifier.html#af01e5062be749992956d81ff35325de0" title="Identifier::GetLocation" alt="" coords="758,224,909,251"/>
+<area shape="rect" id="node37" href="$d5/d91/class_chan_event.html#ad3af219effd863063c3d2f264af5783a" title="ChanEvent::GetTrace" alt="" coords="1004,476,1152,503"/>
+<area shape="rect" id="node38" href="$dd/db7/class_trace.html#a3575dde1f951a53f52a3d03482b7eaa3" title="Trace::GetValue" alt="" coords="1019,425,1137,452"/>
+</map>

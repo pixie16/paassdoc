@@ -1,0 +1,5 @@
+<map id="PixieInterface::ToggleTraceCapture" name="PixieInterface::ToggleTraceCapture">
+<area shape="rect" id="node2" href="$d9/dc6/class_pixie_interface.html#aeeb829ac5910cc009fbd47972d691739" title="PixieInterface::TogglePolarity" alt="" coords="236,5,429,32"/>
+<area shape="rect" id="node4" href="$d9/d11/class_trace_toggler.html#a92b3af3424ebf4f404beb862eeed53b3" title="TraceToggler::operator()" alt="" coords="252,56,413,83"/>
+<area shape="rect" id="node3" href="$d3/dc6/class_polarity_toggler.html#a6705a25308576912ce1c8d5b0fa73d58" title="PolarityToggler::operator()" alt="" coords="477,5,649,32"/>
+</map>

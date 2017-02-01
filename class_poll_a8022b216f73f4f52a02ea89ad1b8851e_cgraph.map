@@ -1,7 +1,0 @@
-<map id="Poll::synch_mods" name="Poll::synch_mods">
-<area shape="rect" id="node2" href="$namespace_display.html#ae1b6ae7834913dfdef71ad859e261c55" title="Display::LeaderPrint" alt="" coords="199,5,337,32"/>
-<area shape="rect" id="node3" href="$class_pixie_interface.html#a3804dfd96274f4938bdba15cf9e6fe09" title="PixieInterface::WriteSgl\lModPar" alt="" coords="189,57,347,98"/>
-<area shape="rect" id="node4" href="$class_pixie_interface.html#a7f5ef8062e7ea784938521306dc25b20" title="PixieInterface::GetNumber\lCards" alt="" coords="180,122,356,163"/>
-<area shape="rect" id="node5" href="$namespace_display.html#a959223815cca12935461ff196af53168" title="Display::OkayStr" alt="" coords="207,188,329,215"/>
-<area shape="rect" id="node6" href="$namespace_display.html#a762315ce58efcb1203edfcb74158f59b" title="Display::ErrorStr" alt="" coords="209,239,327,265"/>
-</map>

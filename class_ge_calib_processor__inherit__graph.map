@@ -1,4 +1,0 @@
-<map id="GeCalibProcessor" name="GeCalibProcessor">
-<area shape="rect" id="node2" href="$class_ge_processor.html" title="Processor to handle Ge (read as clover) events. " alt="" coords="19,80,118,107"/>
-<area shape="rect" id="node3" href="$class_event_processor.html" title="Class to handle event processing. " alt="" coords="11,5,126,32"/>
-</map>

@@ -1,0 +1,7 @@
+<map id="BarDetector::GetTimeDifference" name="BarDetector::GetTimeDifference">
+<area shape="rect" id="node2" href="$d7/d61/class_high_res_timing_data.html#a0d792eaada47a38a231fd62cc107a5d0" title="HighResTimingData::\lGetHighResTime" alt="" coords="279,5,425,47"/>
+<area shape="rect" id="node4" href="$d6/d15/class_bar_detector.html#a7aaa590d04fd517a93084a4833737e4d" title="BarDetector::GetCalibration" alt="" coords="261,71,443,98"/>
+<area shape="rect" id="node6" href="$d2/d44/class_timing_calibration.html#a839a3eea0f575ad2cb985d6533234326" title="TimingCalibration::\lGetLeftRightTimeOffset" alt="" coords="272,123,432,164"/>
+<area shape="rect" id="node3" href="$d5/d91/class_chan_event.html#a7186b4090500504a8a8de20317d6b901" title="ChanEvent::GetHighResTime" alt="" coords="491,13,684,39"/>
+<area shape="rect" id="node5" href="$dd/d02/class_timing_calibrator.html#aef9d53667925c12fee1462de03a5c063" title="TimingCalibrator::get" alt="" coords="516,71,659,98"/>
+</map>

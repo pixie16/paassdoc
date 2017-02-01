@@ -1,9 +1,0 @@
-<map id="TreeCorrelator.hpp" name="TreeCorrelator.hpp">
-<area shape="rect" id="node7" href="$_places_8hpp.html" title="Defines the various places for the TreeCorrelator. " alt="" coords="342,155,429,181"/>
-<area shape="rect" id="node16" href="$_exceptions_8hpp.html" title="Class to handle errors occurring during the execution of the code. " alt="" coords="1457,453,1569,480"/>
-<area shape="rect" id="node24" href="$_place_builder_8hpp.html" title="Defines the various places for the TreeCorrelator. " alt="" coords="1316,80,1436,107"/>
-<area shape="rect" id="node12" href="$_globals_8hpp.html" title="constant parameters used in pixie16 analysis " alt="" coords="717,304,808,331"/>
-<area shape="rect" id="node23" href="$_event_data_8hpp.html" title="Structure holding event data. " alt="" coords="709,229,817,256"/>
-<area shape="rect" id="node18" href="$_messenger_8hpp.html" title="A class to handle messages and output them prettily. " alt="" coords="951,379,1062,405"/>
-<area shape="rect" id="node21" href="$_trap_filter_parameters_8hpp.html" title="TrapFilterParameters.hpp" alt="" coords="409,379,578,405"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="PollOutputFile::OpenNewFile" name="PollOutputFile::OpenNewFile">
-<area shape="rect" id="node2" href="$class_poll.html#adee13ef275973679b5524868be3cdc9c" title="Opens a new file if no file is currently open. " alt="" coords="243,31,385,57"/>
-<area shape="rect" id="node3" href="$class_poll.html#aa11d7496ff1d7eb58f6833822236bcac" title="Write a data spill to disk. " alt="" coords="433,5,544,32"/>
-<area shape="rect" id="node4" href="$class_poll.html#a7bc77d04169be53d1a3553e0a55932d6" title="Acquire raw traces from a pixie module. " alt="" coords="592,31,705,57"/>
-</map>

@@ -1,0 +1,34 @@
+<map id="ChanEvent::GetCalEnergy" name="ChanEvent::GetCalEnergy">
+<area shape="rect" id="node2" href="$de/d91/class_detector_driver.html#ad966b8fe4330bb0cf117422b9bd08f40" title="DetectorDriver::PlotCal" alt="" coords="248,112,403,139"/>
+<area shape="rect" id="node10" href="$da/d8d/class_detector_summary.html#a5bd322c5c62b0d89d2eca33550e27907" title="DetectorSummary::AddEvent" alt="" coords="229,183,421,209"/>
+<area shape="rect" id="node12" href="$db/da8/class_dssd4_s_h_e_processor.html#a069993b16eb9c18b547a279e9f5d1b28" title="Dssd4SHEProcessor::\lPreProcess" alt="" coords="249,234,402,275"/>
+<area shape="rect" id="node13" href="$db/da8/class_dssd4_s_h_e_processor.html#a1ab9aeab8c52a1479718a58da74af3df" title="Dssd4SHEProcessor::\lProcess" alt="" coords="249,299,402,341"/>
+<area shape="rect" id="node14" href="$d4/d67/class_dssd_processor.html#a0e32fc233a84ef03dc994b83899e1388" title="DssdProcessor::Process" alt="" coords="242,365,409,392"/>
+<area shape="rect" id="node15" href="$d5/df2/class_ge4_hen3_processor.html#a98d4e5d0efd24adbdb6c8911e0d993f2" title="Ge4Hen3Processor::Process" alt="" coords="491,441,682,468"/>
+<area shape="rect" id="node16" href="$d0/d8c/class_ge_calib_processor.html#abf009af1ca466bc235bf0000ae19e819" title="GeCalibProcessor::Process" alt="" coords="234,517,417,544"/>
+<area shape="rect" id="node17" href="$d2/d54/class_ge_processor.html#a8e6eb1cc39e1a48d223be9f4d69460c4" title="GeProcessor::PreProcess" alt="" coords="238,568,413,595"/>
+<area shape="rect" id="node18" href="$d2/d54/class_ge_processor.html#a60303a0ad9ccca416584cc54f027bbce" title="GeProcessor::Process" alt="" coords="248,416,403,443"/>
+<area shape="rect" id="node19" href="$df/df5/class_implant_ssd_processor.html#a4633fc3b34a8e8915713dd8e1ba5666a" title="ImplantSsdProcessor\l::Process" alt="" coords="252,619,399,661"/>
+<area shape="rect" id="node21" href="$de/d81/class_i_s600_processor.html#a92f29e9c021fffb08f02bf48d12aff42" title="IS600Processor::Process" alt="" coords="240,685,411,712"/>
+<area shape="rect" id="node22" href="$d3/dab/class_lite_position_processor.html#a41e329779cb70710078ab066afd4f953" title="LitePositionProcessor\l::Process" alt="" coords="251,737,400,778"/>
+<area shape="rect" id="node24" href="$dd/dcb/class_mcp_processor.html#a6b5d260bc4c805176a415f78a73c29aa" title="McpProcessor::Process" alt="" coords="244,803,407,829"/>
+<area shape="rect" id="node25" href="$da/d0f/class_neutron_processor.html#ac53b9fbdbc82911bd49ae8f167dc9735" title="NeutronProcessor::Process" alt="" coords="234,853,417,880"/>
+<area shape="rect" id="node26" href="$d9/dfc/class_neutron_scint_processor.html#a72ba8607b6df372e4b76d396140f765d" title="NeutronScintProcessor\l::Process" alt="" coords="247,905,403,946"/>
+<area shape="rect" id="node27" href="$d3/df3/class_position_processor.html#a45a6ef172d9253956769b1ccd15a6e4a" title="Process the QDC data involved in top/bottom side for a strip. " alt="" coords="257,970,393,1011"/>
+<area shape="rect" id="node28" href="$dd/d2c/class_pspmt_processor.html#afd615887b035057293dc86455155c3c7" title="PspmtProcessor::PreProcess" alt="" coords="228,1036,423,1063"/>
+<area shape="rect" id="node30" href="$de/dba/class_scint_processor.html#adf41c1345e0db936ec7e8f0d5f25a548" title="ScintProcessor::Process" alt="" coords="242,1087,409,1113"/>
+<area shape="rect" id="node31" href="$db/de0/class_ssd_processor.html#a6d61b7d3f47ff3d3155c2d382c62918e" title="SsdProcessor::Process" alt="" coords="245,1137,405,1164"/>
+<area shape="rect" id="node32" href="$db/de0/class_ssd_processor.html#a595ebfa5ae241ee357b48c4686511b9f" title="SsdProcessor::DeclarePlots" alt="" coords="493,1163,680,1189"/>
+<area shape="rect" id="node33" href="$d9/ddc/class_template_exp_processor.html#a06fae87a5826408aec8db9fadf000dd3" title="Main processing of data of interest. " alt="" coords="246,1239,405,1281"/>
+<area shape="rect" id="node3" href="$de/d91/class_detector_driver.html#a19c152206c95dfbc2a98ffd1d002165e" title="Control of the event processing. " alt="" coords="489,49,684,76"/>
+<area shape="rect" id="node4" href="$de/d91/class_detector_driver.html#a3a556ab94a878e057dea8a081d0df55a" title="Plots into histogram defined by dammId. " alt="" coords="751,107,885,133"/>
+<area shape="rect" id="node7" href="$d4/d48/class_utk_unpacker.html#ae5b939ec62e20df3004047ce4f3370f0" title="Process all events in the event list. " alt="" coords="933,5,1145,32"/>
+<area shape="rect" id="node5" href="$de/d91/class_detector_driver.html#a2ae4e98c641d49183631eceb40dc19bb" title="Check threshold and calibrate each channel. Check the thresholds and calibrate the energy for each ch..." alt="" coords="942,157,1137,184"/>
+<area shape="rect" id="node6" href="$de/d91/class_detector_driver.html#a7f2a28ba2a756e034e38630a5e258309" title="DetectorDriver::PlotRaw" alt="" coords="959,56,1120,83"/>
+<area shape="rect" id="node9" href="$d4/d48/class_utk_unpacker.html#ad82e3bffaf0c59a8ef4c7e98b57ce29b" title="Add an event to generic statistics output. " alt="" coords="959,107,1120,133"/>
+<area shape="rect" id="node8" href="$d4/d48/class_utk_unpacker.html#a9bdcb58a08aa9b338085aa1a147214a5" title="Default constructor that does nothing in particular. " alt="" coords="1193,56,1373,83"/>
+<area shape="rect" id="node11" href="$da/d8d/class_detector_summary.html#a836294a3b27d591066d2dda70940a673" title="DetectorSummary::Detector\lSummary" alt="" coords="495,175,679,217"/>
+<area shape="rect" id="node20" href="$df/df5/class_implant_ssd_processor.html#a057e44029967a209fc626811e2ba4412" title="ImplantSsdProcessor\l::~ImplantSsdProcessor" alt="" coords="505,619,668,661"/>
+<area shape="rect" id="node23" href="$d3/dab/class_lite_position_processor.html#a602ce3c9355626b96649b08690d391ef" title="LitePositionProcessor\l::~LitePositionProcessor" alt="" coords="504,737,669,778"/>
+<area shape="rect" id="node29" href="$dd/d2c/class_pspmt_processor.html#a23ed80963dc7c683eba1b95aa12f37db" title="PspmtProcessor::~PspmtProcessor" alt="" coords="471,1036,703,1063"/>
+</map>

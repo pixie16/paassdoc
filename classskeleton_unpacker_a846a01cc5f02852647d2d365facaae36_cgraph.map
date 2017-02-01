@@ -1,7 +1,0 @@
-<map id="skeletonUnpacker::ProcessRawEvent" name="skeletonUnpacker::ProcessRawEvent">
-<area shape="rect" id="node2" href="$_scanor_8hpp.html#a31aca3d0ff704e08f8f8968288ae7895" title="Defines the DAMM function to call for 1D hists */. " alt="" coords="295,5,377,32"/>
-<area shape="rect" id="node3" href="$class_xia_data.html#a2b017a78b2f9f70a0ec1ebbcb23c9e3c" title="XiaData::GetId" alt="" coords="282,56,390,83"/>
-<area shape="rect" id="node5" href="$class_scan_interface.html#a60f627ef24dd2da74aff381ba0851b66" title="ScanInterface::AddEvent" alt="" coords="252,107,420,133"/>
-<area shape="rect" id="node6" href="$class_scan_interface.html#a561d81cb294005c32ba93243874748ae" title="ScanInterface::ProcessEvents" alt="" coords="236,157,436,184"/>
-<area shape="rect" id="node4" href="$class_xia_data.html#a041f6911911ef2a34f20b0df1698d508" title="XiaData::GetModuleNumber" alt="" coords="484,56,668,83"/>
-</map>

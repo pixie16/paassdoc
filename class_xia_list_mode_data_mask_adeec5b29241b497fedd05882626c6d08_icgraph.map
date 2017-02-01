@@ -1,7 +1,0 @@
-<map id="XiaListModeDataMask::GetCfdTriggerSourceMask" name="XiaListModeDataMask::GetCfdTriggerSourceMask">
-<area shape="rect" id="node2" href="$class_xia_list_mode_data_decoder.html#abdbdbd7e8fac0ef5926fdbb86ec94a17" title="XiaListModeDataDecoder\l::DecodeWordTwo" alt="" coords="457,5,627,47"/>
-<area shape="rect" id="node4" href="$class_xia_list_mode_data_encoder.html#af44e2798aca39627474cb444fd28cab4" title="XiaListModeDataEncoder\l::EncodeWordTwo" alt="" coords="457,84,627,125"/>
-<area shape="rect" id="node6" href="$class_xia_list_mode_data_mask.html#ac1cbfaa5e37bb9dc62ead5b544ad86d2" title="XiaListModeDataMask\l::GetEventTimeHighMask" alt="" coords="237,51,409,92"/>
-<area shape="rect" id="node3" href="$class_xia_list_mode_data_decoder.html#a31629a35b4ce7c55e85aec7d8119d281" title="Default destructor. " alt="" coords="675,5,860,47"/>
-<area shape="rect" id="node5" href="$class_xia_list_mode_data_encoder.html#a122e039afbbef6a4ed4258544ec46a18" title="Default destructor. " alt="" coords="675,84,860,125"/>
-</map>

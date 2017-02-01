@@ -1,8 +1,0 @@
-<map id="PositionProcessor::Init" name="PositionProcessor::Init">
-<area shape="rect" id="node2" href="$class_event_processor.html#aebda4c898e4e7fb6115d17366802a16d" title="EventProcessor::Init" alt="" coords="221,64,362,91"/>
-<area shape="rect" id="node3" href="$class_detector_library.html#a6ab3ff825daa8b607865086741bc9b2c" title="DetectorLibrary::get" alt="" coords="439,5,575,32"/>
-<area shape="rect" id="node7" href="$class_detector_library.html#a9ef5b6ba10285eed090c42f7a1dcda59" title="DetectorLibrary::GetNext\lLocation" alt="" coords="208,115,375,157"/>
-<area shape="rect" id="node4" href="$class_detector_library.html#a295a2b074272f9c2cc7205e52e11afea" title="DetectorLibrary::GetUsed\lDetectors" alt="" coords="423,57,592,98"/>
-<area shape="rect" id="node5" href="$class_raw_event.html#a0405b96da430f69eb01fc8a7668420cc" title="Get a pointer to a specific detector summary. " alt="" coords="424,123,591,149"/>
-<area shape="rect" id="node6" href="$class_messenger.html#a24d0db0aece5830b3de62310f5753be8" title="Messenger::detail" alt="" coords="640,148,765,175"/>
-</map>

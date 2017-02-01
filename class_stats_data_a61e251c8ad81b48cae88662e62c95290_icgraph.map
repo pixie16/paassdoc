@@ -1,6 +1,0 @@
-<map id="StatsData::GetRealTime" name="StatsData::GetRealTime">
-<area shape="rect" id="node2" href="$class_stats_data.html#a4303ccc0eaac5bb3836f6e8b3bb74d4f" title="StatsData::DoStatisticsBlock" alt="" coords="217,56,409,83"/>
-<area shape="rect" id="node5" href="$class_stats_data.html#a72cbc9cdd095b14cf8e611efaeca6c4c" title="StatsData::~StatsData" alt="" coords="457,107,612,133"/>
-<area shape="rect" id="node3" href="$_read_buff_data_d_8cpp.html#a3e58aeec45982500035c9bd265176ae1" title="extract channel information from raw data " alt="" coords="479,5,591,32"/>
-<area shape="rect" id="node4" href="$_read_buff_data_f_8cpp.html#a99384f7bd7855b6a2bf58eb6b9065cab" title="extract channel information from raw data " alt="" coords="479,56,590,83"/>
-</map>

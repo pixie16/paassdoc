@@ -1,6 +1,0 @@
-<map id="XiaListModeDataMask::GetEventTimeHighMask" name="XiaListModeDataMask::GetEventTimeHighMask">
-<area shape="rect" id="node2" href="$class_xia_list_mode_data_decoder.html#abdbdbd7e8fac0ef5926fdbb86ec94a17" title="XiaListModeDataDecoder\l::DecodeWordTwo" alt="" coords="225,5,395,47"/>
-<area shape="rect" id="node4" href="$class_xia_list_mode_data_encoder.html#af44e2798aca39627474cb444fd28cab4" title="XiaListModeDataEncoder\l::EncodeWordTwo" alt="" coords="225,71,395,112"/>
-<area shape="rect" id="node3" href="$class_xia_list_mode_data_decoder.html#a31629a35b4ce7c55e85aec7d8119d281" title="Default destructor. " alt="" coords="443,5,628,47"/>
-<area shape="rect" id="node5" href="$class_xia_list_mode_data_encoder.html#a122e039afbbef6a4ed4258544ec46a18" title="Default destructor. " alt="" coords="443,71,628,112"/>
-</map>

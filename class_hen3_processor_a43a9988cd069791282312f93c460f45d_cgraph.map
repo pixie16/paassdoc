@@ -1,6 +1,0 @@
-<map id="Hen3Processor::PreProcess" name="Hen3Processor::PreProcess">
-<area shape="rect" id="node2" href="$class_event_processor.html#a472c9d8c540b273ad1ca9a7f380344b6" title="EventProcessor::PreProcess" alt="" coords="240,5,431,32"/>
-<area shape="rect" id="node3" href="$class_detector_summary.html#adcb2a931cbd22a6e5f0604fd27886c29" title="DetectorSummary::GetList" alt="" coords="247,56,424,83"/>
-<area shape="rect" id="node4" href="$class_tree_correlator.html#a4f70fdbb0d6dead4212d8e926ce1755f" title="TreeCorrelator::get" alt="" coords="270,107,401,133"/>
-<area shape="rect" id="node5" href="$class_tree_correlator.html#aadf6cf8c8bedbbde03fb678667c7cb01" title="TreeCorrelator::place" alt="" coords="264,157,407,184"/>
-</map>

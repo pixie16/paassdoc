@@ -1,0 +1,5 @@
+<map id="ChannelEvent::FindQDC" name="ChannelEvent::FindQDC">
+<area shape="rect" id="node2" href="$db/dc2/class_channel_event.html#a932dd9b09c334ab4114c695f8961f67e" title="Integrate the baseline corrected trace in the range [start_, stop_] and return the result..." alt="" coords="217,5,412,32"/>
+<area shape="rect" id="node3" href="$db/dc2/class_channel_event.html#a14f9329407a62c3f46c5a4c252f65a71" title="ChannelEvent::CorrectBaseline" alt="" coords="460,5,663,32"/>
+<area shape="rect" id="node4" href="$d2/ddd/class_xia_data.html#a6c7eaea35ca73b6ea13b63f665031346" title="XiaData::GetTrace" alt="" coords="711,5,841,32"/>
+</map>

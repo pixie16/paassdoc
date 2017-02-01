@@ -1,5 +1,0 @@
-<map id="LogicProcessor.hpp" name="LogicProcessor.hpp">
-<area shape="rect" id="node2" href="$_correlator_8cpp.html" title="Correlates events. " alt="" coords="5,80,108,107"/>
-<area shape="rect" id="node3" href="$_detector_driver_8cpp.html" title="Main driver for event processing. " alt="" coords="133,80,263,107"/>
-<area shape="rect" id="node4" href="$_logic_processor_8cpp.html" title="handling of logic events, derived from MtcProcessor.cpp " alt="" coords="288,80,425,107"/>
-</map>

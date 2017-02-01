@@ -1,6 +1,0 @@
-<map id="MCA::~MCA" name="MCA::~MCA">
-<area shape="rect" id="node2" href="$class_m_c_a.html#a86ec2de5b49c9e24fc8c612ef42cff4a" title="Return the length of time the MCA has been running. " alt="" coords="149,5,281,32"/>
-<area shape="rect" id="node3" href="$class_m_c_a.html#a782e532d393383d277b77c757e8367e1" title="Abstract method describing how the MCA data is stored. " alt="" coords="157,56,274,83"/>
-<area shape="rect" id="node4" href="$class_m_c_a.html#adb7bbd734c44a1b1f9cf9f2ea6261e30" title="Abstract method to open a storage file. " alt="" coords="160,107,271,133"/>
-<area shape="rect" id="node5" href="$class_m_c_a.html#a2d6d957bea6f6d5678e5ccc65f6d2507" title="Flush the current memory to disk. " alt="" coords="170,157,261,184"/>
-</map>

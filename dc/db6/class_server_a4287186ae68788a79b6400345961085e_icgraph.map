@@ -1,0 +1,5 @@
+<map id="Server::SendMessage" name="Server::SendMessage">
+<area shape="rect" id="node2" href="$d6/db0/class_poll.html#a7bc77d04169be53d1a3553e0a55932d6" title="Acquire raw traces from a pixie module. " alt="" coords="204,5,317,32"/>
+<area shape="rect" id="node3" href="$dc/db6/class_server.html#a5de021f3be9993d7e050c58f64cd083a" title="Server::Get" alt="" coords="216,56,305,83"/>
+<area shape="rect" id="node4" href="$d3/d7a/class_client.html#a7af74af1015f21528f63d6d9274b4b99" title="Client::Get" alt="" coords="219,107,303,133"/>
+</map>

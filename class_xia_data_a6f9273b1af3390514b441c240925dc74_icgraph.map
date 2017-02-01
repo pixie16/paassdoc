@@ -1,6 +1,0 @@
-<map id="XiaData::GetEnergySums" name="XiaData::GetEnergySums">
-<area shape="rect" id="node2" href="$class_xia_list_mode_data_encoder.html#a2eb5b701fd08593c428fc7aae0b8b4e7" title="XiaListModeDataEncoder\l::EncodeXiaData" alt="" coords="225,5,395,47"/>
-<area shape="rect" id="node4" href="$class_xia_list_mode_data_encoder.html#a350fa2d6e02e1f5ac42e4c96a948a56e" title="XiaListModeDataEncoder\l::EncodeWordZero" alt="" coords="225,71,395,112"/>
-<area shape="rect" id="node5" href="$class_xia_list_mode_data_encoder.html#a5b696575d5093cff2819b6f351b35dc5" title="XiaListModeDataEncoder\l::EncodeEsums" alt="" coords="225,136,395,177"/>
-<area shape="rect" id="node3" href="$class_xia_list_mode_data_encoder.html#a122e039afbbef6a4ed4258544ec46a18" title="Default destructor. " alt="" coords="443,71,628,112"/>
-</map>

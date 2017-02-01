@@ -1,7 +1,0 @@
-<map id="Terminal::SaveCommandHistory" name="Terminal::SaveCommandHistory">
-<area shape="rect" id="node2" href="$class_terminal.html#a3040f79ff155d9084507e2404dd3a056" title="Close the window and restore control to the terminal. " alt="" coords="264,56,377,83"/>
-<area shape="rect" id="node3" href="$class_terminal.html#add5a7d4dd45b68af9a0afb1cc845af2f" title="Terminal::~Terminal" alt="" coords="436,5,575,32"/>
-<area shape="rect" id="node4" href="$class_terminal.html#afef43bf766d6ea1e2b739d231c84f57d" title="Wait for the user to input a command. " alt="" coords="425,107,585,133"/>
-<area shape="rect" id="node5" href="$_c_terminal_test_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="665,56,715,83"/>
-<area shape="rect" id="node6" href="$class_poll.html#a7bc77d04169be53d1a3553e0a55932d6" title="Acquire raw traces from a pixie module. " alt="" coords="633,107,747,133"/>
-</map>

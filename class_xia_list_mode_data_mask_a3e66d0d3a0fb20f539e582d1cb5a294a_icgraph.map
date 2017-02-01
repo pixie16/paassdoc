@@ -1,6 +1,0 @@
-<map id="XiaListModeDataMask::GetCrateIdMask" name="XiaListModeDataMask::GetCrateIdMask">
-<area shape="rect" id="node2" href="$class_xia_list_mode_data_decoder.html#aa6c0d7de33caf645342499f68ecce4a6" title="XiaListModeDataDecoder\l::DecodeWordZero" alt="" coords="207,5,376,47"/>
-<area shape="rect" id="node4" href="$class_xia_list_mode_data_encoder.html#a350fa2d6e02e1f5ac42e4c96a948a56e" title="XiaListModeDataEncoder\l::EncodeWordZero" alt="" coords="207,71,376,112"/>
-<area shape="rect" id="node3" href="$class_xia_list_mode_data_decoder.html#a31629a35b4ce7c55e85aec7d8119d281" title="Default destructor. " alt="" coords="424,5,609,47"/>
-<area shape="rect" id="node5" href="$class_xia_list_mode_data_encoder.html#a122e039afbbef6a4ed4258544ec46a18" title="Default destructor. " alt="" coords="424,71,609,112"/>
-</map>

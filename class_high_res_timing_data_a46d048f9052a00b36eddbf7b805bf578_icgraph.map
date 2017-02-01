@@ -1,5 +1,0 @@
-<map id="HighResTimingData::GetTrace" name="HighResTimingData::GetTrace">
-<area shape="rect" id="node2" href="$class_liquid_scint_processor.html#a6e1f7662a1362e5c14275c9a13388231" title="LiquidScintProcessor\l::Process" alt="" coords="213,5,359,47"/>
-<area shape="rect" id="node4" href="$class_two_chan_timing_processor.html#a82918c06d018d83020afc1bdd3486e6a" title="TwoChanTimingProcessor\l::Process" alt="" coords="199,71,373,112"/>
-<area shape="rect" id="node3" href="$class_liquid_scint_processor.html#a4d89e8c3779a6903973b8313b063ceb1" title="LiquidScintProcessor\l::~LiquidScintProcessor" alt="" coords="421,5,583,47"/>
-</map>

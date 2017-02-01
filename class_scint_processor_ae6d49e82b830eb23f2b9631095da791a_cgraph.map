@@ -1,6 +1,0 @@
-<map id="ScintProcessor::LiquidAnalysis" name="ScintProcessor::LiquidAnalysis">
-<area shape="rect" id="node2" href="$class_event_processor.html#ad5201bb392726e409ba2a6ac44e764d8" title="Implementation of the plot command to interface with the DAMM routines. " alt="" coords="256,31,400,57"/>
-<area shape="rect" id="node3" href="$class_plots.html#a68849b82c8c7a5d57f972cbd8de83328" title="Plots into histogram defined by dammId. " alt="" coords="448,31,531,57"/>
-<area shape="rect" id="node4" href="$_scanor_8hpp.html#a31aca3d0ff704e08f8f8968288ae7895" title="Defines the DAMM function to call for 1D hists */. " alt="" coords="579,5,661,32"/>
-<area shape="rect" id="node5" href="$_scanor_8hpp.html#a8b0a662ebdb3f947ba8470bf89f11c3a" title="Defines the DAMM function to call for 2D hists */. " alt="" coords="586,56,654,83"/>
-</map>

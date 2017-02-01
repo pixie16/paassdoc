@@ -1,0 +1,5 @@
+<map id="start_run_control" name="start_run_control">
+<area shape="rect" id="node2" href="$d7/dfc/class_scan_interface.html#a749b46ea2b9eef6afc5dde98d7fcd660" title="Main scan control method. " alt="" coords="172,5,347,32"/>
+<area shape="rect" id="node3" href="$d4/d57/class_buffer_type.html#a965e66fde54356d4ebdc77042439be90" title="BufferType::SetDebugMode" alt="" coords="395,5,577,32"/>
+<area shape="rect" id="node4" href="$d4/d57/class_buffer_type.html#a13bdce94ebfef9dc1ae90fca6cd66616" title="Return true if the first word of the current buffer is equal to this buffer type. ..." alt="" coords="625,5,791,32"/>
+</map>

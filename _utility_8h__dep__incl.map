@@ -1,7 +1,0 @@
-<map id="Utility.h" name="Utility.h">
-<area shape="rect" id="node2" href="$_utility_8cpp.html" title="Utility.cpp" alt="" coords="5,80,85,107"/>
-<area shape="rect" id="node3" href="$_m_c_a_8cpp.html" title="MCA.cpp" alt="" coords="110,80,186,107"/>
-<area shape="rect" id="node4" href="$poll2__core_8cpp.html" title="Controls the poll2 command interpreter and data acquisition system. " alt="" coords="211,80,317,107"/>
-<area shape="rect" id="node5" href="$get__traces_8cpp.html" title="get_traces.cpp" alt="" coords="342,80,450,107"/>
-<area shape="rect" id="node6" href="$mca__paw_8cpp.html" title="mca_paw.cpp" alt="" coords="474,80,577,107"/>
-</map>

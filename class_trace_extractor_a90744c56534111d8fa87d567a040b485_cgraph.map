@@ -1,5 +1,0 @@
-<map id="TraceExtractor::Analyze" name="TraceExtractor::Analyze">
-<area shape="rect" id="node2" href="$class_trace_analyzer.html#a0faa9d7b638021ece0ef4feb795f6ccb" title="TraceAnalyzer::Analyze" alt="" coords="216,5,377,32"/>
-<area shape="rect" id="node3" href="$class_trace_analyzer.html#ae7ac212d764d0e394fcb323f68d23c66" title="TraceAnalyzer::EndAnalyze" alt="" coords="425,31,609,57"/>
-<area shape="rect" id="node4" href="$class_trace.html#a43400cfd594a54bae433e990f7a0f639" title="Trace::OffsetPlot" alt="" coords="235,107,358,133"/>
-</map>

@@ -1,0 +1,35 @@
+<map id="TeenyVandleProcessor::PreProcess" name="TeenyVandleProcessor::PreProcess">
+<area shape="rect" id="node2" href="$d6/d65/class_event_processor.html#a472c9d8c540b273ad1ca9a7f380344b6" title="EventProcessor::PreProcess" alt="" coords="211,195,401,221"/>
+<area shape="rect" id="node3" href="$d7/d61/class_high_res_timing_data.html#a0d792eaada47a38a231fd62cc107a5d0" title="HighResTimingData::\lGetHighResTime" alt="" coords="477,41,622,82"/>
+<area shape="rect" id="node5" href="$d7/d61/class_high_res_timing_data.html#a2886e6e96843c5611de7eb51883959f2" title="HighResTimingData::\lGetCorrectedTime" alt="" coords="233,297,379,338"/>
+<area shape="rect" id="node10" href="$d7/d61/class_high_res_timing_data.html#a4fd50d3ec1fe2fffe91dc08f48aeccc2" title="HighResTimingData::\lGetStdDevBaseline" alt="" coords="477,457,622,498"/>
+<area shape="rect" id="node11" href="$d7/d61/class_high_res_timing_data.html#a2769883910967c0648ba8c13a7f0dc1f" title="HighResTimingData::\lGetPhase" alt="" coords="477,653,622,694"/>
+<area shape="rect" id="node20" href="$d7/d61/class_high_res_timing_data.html#ab62e5122538f49ded74f45636de20409" title="HighResTimingData::\lGetSignalToNoiseRatio" alt="" coords="471,326,628,367"/>
+<area shape="rect" id="node21" href="$d7/d61/class_high_res_timing_data.html#a6e6051cc317a8d5fccb6b4f4ca1c7012" title="HighResTimingData::\lGetTraceQdc" alt="" coords="477,391,622,433"/>
+<area shape="rect" id="node29" href="$d6/d65/class_event_processor.html#ad5201bb392726e409ba2a6ac44e764d8" title="Implementation of the plot command to interface with the DAMM routines. " alt="" coords="234,705,378,732"/>
+<area shape="rect" id="node33" href="$d7/d61/class_high_res_timing_data.html#a92d90a30637960940f194a4520a751ce" title="HighResTimingData::\lGetMaximumValue" alt="" coords="477,587,622,629"/>
+<area shape="rect" id="node34" href="$d7/d61/class_high_res_timing_data.html#abe4cc90812b2fffda29ec8229b37103c" title="HighResTimingData::\lGetIsValid" alt="" coords="477,522,622,563"/>
+<area shape="rect" id="node4" href="$d5/d91/class_chan_event.html#a7186b4090500504a8a8de20317d6b901" title="ChanEvent::GetHighResTime" alt="" coords="697,5,891,32"/>
+<area shape="rect" id="node6" href="$d5/d91/class_chan_event.html#aaed14924c03f417ff42ffd35f5e77f09" title="ChanEvent::GetCorrectedTime" alt="" coords="449,275,649,301"/>
+<area shape="rect" id="node7" href="$d7/d61/class_high_res_timing_data.html#a30b0cb4eca69a1d78e217494d0735508" title="HighResTimingData::\lGetAveBaseline" alt="" coords="477,158,622,199"/>
+<area shape="rect" id="node22" href="$d5/d91/class_chan_event.html#a56a480fad4a8c6728e783db0cf659c9f" title="ChanEvent::GetChanID" alt="" coords="470,107,629,133"/>
+<area shape="rect" id="node28" href="$d7/de7/class_identifier.html#af01e5062be749992956d81ff35325de0" title="Identifier::GetLocation" alt="" coords="474,224,625,251"/>
+<area shape="rect" id="node8" href="$d5/d91/class_chan_event.html#ad3af219effd863063c3d2f264af5783a" title="ChanEvent::GetTrace" alt="" coords="720,489,868,516"/>
+<area shape="rect" id="node9" href="$dd/db7/class_trace.html#a3575dde1f951a53f52a3d03482b7eaa3" title="Trace::GetValue" alt="" coords="735,439,853,465"/>
+<area shape="rect" id="node12" href="$d3/daf/class_globals.html#ae66fa0173342202c96b13d71a6522512" title="Globals::get" alt="" coords="748,661,840,688"/>
+<area shape="rect" id="node19" href="$d3/daf/class_globals.html#a856a76746b329f2ecd59f41e931b0ce1" title="Globals::adcClockInSeconds" alt="" coords="699,611,889,637"/>
+<area shape="rect" id="node13" href="$d3/daf/class_globals.html#ad6c9fda8d0018300ce2a7b7e481181c2" title="Globals::Globals" alt="" coords="965,661,1083,688"/>
+<area shape="rect" id="node14" href="$d6/dc9/class_messenger.html#a24d0db0aece5830b3de62310f5753be8" title="Messenger::detail" alt="" coords="1623,661,1748,688"/>
+<area shape="rect" id="node15" href="$d3/daf/class_globals.html#a9dc8ebff5b3cb81999c90462abb4afca" title="Globals::WarnOfUnknownParameter" alt="" coords="1157,611,1388,637"/>
+<area shape="rect" id="node17" href="$d3/daf/class_globals.html#a3bedee64cc799d6f373d15308f600c63" title="Globals::SanityCheck" alt="" coords="1199,712,1347,739"/>
+<area shape="rect" id="node16" href="$d6/dc9/class_messenger.html#a130e83285254c9149629842ca2aa6f20" title="Messenger::warning" alt="" coords="1436,611,1575,637"/>
+<area shape="rect" id="node18" href="$d6/dc9/class_messenger.html#a40a7e53a9b6dc5ef161c2ffd5d6bbbfb" title="Messenger::done" alt="" coords="1444,712,1567,739"/>
+<area shape="rect" id="node23" href="$dc/dbe/class_detector_library.html#a6ab3ff825daa8b607865086741bc9b2c" title="DetectorLibrary::get" alt="" coords="726,208,862,235"/>
+<area shape="rect" id="node24" href="$dc/dbe/class_detector_library.html#ac55ae5398583a68ac2eb448b926f365f" title="DetectorLibrary::at" alt="" coords="729,56,859,83"/>
+<area shape="rect" id="node26" href="$d2/ddd/class_xia_data.html#a041f6911911ef2a34f20b0df1698d508" title="XiaData::GetModuleNumber" alt="" coords="702,107,886,133"/>
+<area shape="rect" id="node27" href="$d2/ddd/class_xia_data.html#a666be81f5c59ecd502e1f3cd09d5335a" title="XiaData::GetChannelNumber" alt="" coords="699,157,889,184"/>
+<area shape="rect" id="node25" href="$dc/dbe/class_detector_library.html#a5b3be3cc7ba7a65f0dc5d446661c7bf7" title="DetectorLibrary::GetIndex" alt="" coords="939,56,1109,83"/>
+<area shape="rect" id="node30" href="$d7/d8b/class_plots.html#a68849b82c8c7a5d57f972cbd8de83328" title="Plots into histogram defined by dammId. " alt="" coords="508,719,591,745"/>
+<area shape="rect" id="node31" href="$da/d57/_scanor_8hpp.html#a31aca3d0ff704e08f8f8968288ae7895" title="Defines the DAMM function to call for 1D hists */. " alt="" coords="753,767,835,793"/>
+<area shape="rect" id="node32" href="$da/d57/_scanor_8hpp.html#a8b0a662ebdb3f947ba8470bf89f11c3a" title="Defines the DAMM function to call for 2D hists */. " alt="" coords="760,716,828,743"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ScanInterface" name="ScanInterface">
+<area shape="rect" id="node2" href="$df/d33/class_root_scanner.html" title="RootScanner" alt="" coords="9,80,107,107"/>
+<area shape="rect" id="node4" href="$d4/dc2/classskeleton_scanner.html" title="skeletonScanner" alt="" coords="131,80,249,107"/>
+<area shape="rect" id="node5" href="$db/d6c/class_utk_scan_interface.html" title="Class derived from ScanInterface to handle UI for the scan. " alt="" coords="274,80,397,107"/>
+<area shape="rect" id="node3" href="$d5/de1/classscope_scanner.html" title="scopeScanner" alt="" coords="5,155,111,181"/>
+</map>

@@ -1,6 +1,0 @@
-<map id="Statistics::CalculateAverage" name="Statistics::CalculateAverage">
-<area shape="rect" id="node2" href="$namespace_trace_functions.html#a4e6a98c2348a06c85f67b17940bee370" title="Compute the trace baseline and its standard deviation. This function takes a data range in the event ..." alt="" coords="240,23,415,65"/>
-<area shape="rect" id="node3" href="$unittest-_helper_functions_8cpp.html#a5f37ef60403184c782c8113090bd2e14" title="TEST" alt="" coords="528,5,584,32"/>
-<area shape="rect" id="node4" href="$class_waveform_analyzer.html#ad5d69130a33ded33122a463782b33ae1" title="WaveformAnalyzer::Analyze" alt="" coords="463,56,649,83"/>
-<area shape="rect" id="node5" href="$class_waveform_analyzer.html#a9dcd589f6fe73c740801cb035d0232c6" title="WaveformAnalyzer::Declare\lPlots" alt="" coords="697,49,881,90"/>
-</map>

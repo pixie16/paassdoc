@@ -1,5 +1,0 @@
-<map id="DetectorDriver::GetUsedDetectors" name="DetectorDriver::GetUsedDetectors">
-<area shape="rect" id="node2" href="$class_detector_driver.html#a5714ef715175fa1c2b1f6b361e1ddd99" title="DetectorDriver::GetProcessors" alt="" coords="273,13,473,39"/>
-<area shape="rect" id="node3" href="$class_implant_ssd_processor.html#a4633fc3b34a8e8915713dd8e1ba5666a" title="ImplantSsdProcessor\l::Process" alt="" coords="521,5,668,47"/>
-<area shape="rect" id="node4" href="$class_implant_ssd_processor.html#a057e44029967a209fc626811e2ba4412" title="ImplantSsdProcessor\l::~ImplantSsdProcessor" alt="" coords="716,5,879,47"/>
-</map>

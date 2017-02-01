@@ -1,5 +1,0 @@
-<map id="Terminal::SetPrompt" name="Terminal::SetPrompt">
-<area shape="rect" id="node2" href="$class_terminal.html#ac5568eb9dee6317534da0cc87688a2d8" title="Force a character string to the output screen. " alt="" coords="228,5,333,32"/>
-<area shape="rect" id="node3" href="$class_terminal.html#a9e674b8f0c4974752a2c72da2e51281e" title="Refresh the terminal. " alt="" coords="413,31,540,57"/>
-<area shape="rect" id="node4" href="$class_terminal.html#abd5d806cfba1fbe2a13bc131cd3edb3f" title="Update the positions of the physical and logical cursors. " alt="" coords="196,107,365,133"/>
-</map>

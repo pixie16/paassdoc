@@ -1,8 +1,0 @@
-<map id="XiaData::GetEventTimeLow" name="XiaData::GetEventTimeLow">
-<area shape="rect" id="node2" href="$class_chan_event.html#a3392f7fafec9f45c83c008d6bf5d8c94" title="ChanEvent::GetEventTimeLo" alt="" coords="236,5,428,32"/>
-<area shape="rect" id="node3" href="$unittest-_xia_list_mode_data_decoder_8cpp.html#a5dcb5a646f8b14ed9eb1fb70e145ccf4" title="TEST_FIXTURE" alt="" coords="273,56,391,83"/>
-<area shape="rect" id="node4" href="$class_xia_list_mode_data_decoder.html#ace12df0b1007b11d76042f527784a8cf" title="XiaListModeDataDecoder\l::CalculateTimeInSamples" alt="" coords="245,107,419,149"/>
-<area shape="rect" id="node6" href="$class_xia_list_mode_data_encoder.html#ad4c16299076a8490f7cffc686bb57e1e" title="XiaListModeDataEncoder\l::EncodeWordOne" alt="" coords="247,173,417,214"/>
-<area shape="rect" id="node5" href="$class_xia_list_mode_data_decoder.html#a31629a35b4ce7c55e85aec7d8119d281" title="Default destructor. " alt="" coords="476,107,661,149"/>
-<area shape="rect" id="node7" href="$class_xia_list_mode_data_encoder.html#a122e039afbbef6a4ed4258544ec46a18" title="Default destructor. " alt="" coords="476,173,661,214"/>
-</map>

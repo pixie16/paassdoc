@@ -1,6 +1,0 @@
-<map id="Unpacker" name="Unpacker">
-<area shape="rect" id="node2" href="$class_filterer.html" title="Filterer" alt="" coords="5,80,68,107"/>
-<area shape="rect" id="node3" href="$classscope_unpacker.html" title="scopeUnpacker" alt="" coords="93,80,205,107"/>
-<area shape="rect" id="node4" href="$classskeleton_unpacker.html" title="skeletonUnpacker" alt="" coords="229,80,356,107"/>
-<area shape="rect" id="node5" href="$class_utk_unpacker.html" title="UtkUnpacker" alt="" coords="380,80,477,107"/>
-</map>

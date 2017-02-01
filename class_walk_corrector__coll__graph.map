@@ -1,6 +1,0 @@
-<map id="WalkCorrector" name="WalkCorrector">
-<area shape="rect" id="node3" href="$class_identifier.html" title="Channel identification. " alt="" coords="134,289,206,316"/>
-<area shape="rect" id="node5" title="STL class. " alt="" coords="29,96,109,123"/>
-<area shape="rect" id="node6" title="STL class. " alt="" coords="5,5,132,47"/>
-<area shape="rect" id="node8" href="$struct_correction_params.html" title="This structure holds walk calibration model identfier and vector of parameters needed for the functio..." alt="" coords="272,193,399,219"/>
-</map>

@@ -1,0 +1,4 @@
+<map id="WalkVandleBetaProcessor" name="WalkVandleBetaProcessor">
+<area shape="rect" id="node2" href="$db/d21/class_vandle_processor.html" title="Class to process VANDLE related events. " alt="" coords="33,80,155,107"/>
+<area shape="rect" id="node3" href="$d6/d65/class_event_processor.html" title="Class to handle event processing. " alt="" coords="37,5,151,32"/>
+</map>

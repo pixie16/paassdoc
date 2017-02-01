@@ -1,0 +1,4 @@
+<map id="drr_entry::get_bin" name="drr_entry::get_bin">
+<area shape="rect" id="node2" href="$d9/d7d/class_output_his_file.html#a650df1fb9464e5e54476b545a768b996" title="Increment a histogram at bin (x, y) by weight_. " alt="" coords="176,5,321,32"/>
+<area shape="rect" id="node3" href="$d9/d7d/class_output_his_file.html#a8e5872a99fec75f5cf03e13eb4f89afb" title="Set the number of fills to wait between file Flushes. " alt="" coords="369,5,556,32"/>
+</map>

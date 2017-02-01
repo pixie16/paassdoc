@@ -1,6 +1,0 @@
-<map id="setup_signal_handlers" name="setup_signal_handlers">
-<area shape="rect" id="node2" href="$_c_terminal_8cpp.html#af5d162754e9b9fed55454e7d15367df0" title="sig_segv_handler" alt="" coords="204,5,327,32"/>
-<area shape="rect" id="node3" href="$_c_terminal_8cpp.html#a0d91bd46bb80d46b5b62856ee05c748d" title="sig_int_handler" alt="" coords="211,56,320,83"/>
-<area shape="rect" id="node4" href="$_c_terminal_8cpp.html#aa276bffc9cff077547e08c758d6c55b5" title="sig_tstp_handler" alt="" coords="207,107,324,133"/>
-<area shape="rect" id="node5" href="$_c_terminal_8cpp.html#a7c5ca71ebcc4b6781a02e37a8e09f712" title="signalResize" alt="" coords="217,157,313,184"/>
-</map>

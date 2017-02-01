@@ -1,0 +1,9 @@
+<map id="ChanEvent" name="ChanEvent">
+<area shape="rect" id="node2" href="$dd/db7/class_trace.html" title="Store the information for a trace. " alt="" coords="1085,144,1140,171"/>
+<area shape="rect" id="node3" title="STL class. " alt="" coords="771,26,919,67"/>
+<area shape="rect" id="node15" href="$d2/ddd/class_xia_data.html" title="A pixie16 channel event. " alt="" coords="1079,53,1147,80"/>
+<area shape="rect" id="node9" href="$d7/d8b/class_plots.html" title="Holds pointers to all Histograms. " alt="" coords="819,329,871,356"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="213,247,293,273"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="5,239,132,281"/>
+<area shape="rect" id="node10" href="$d7/d6e/class_plots_register.html" title="Holds ranges and offsets of all plots. Singleton class. " alt="" coords="453,512,553,539"/>
+</map>

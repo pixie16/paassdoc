@@ -1,0 +1,51 @@
+<map id="Plots::Plot" name="Plots::Plot">
+<area shape="rect" id="node2" href="$df/d86/class_correlator.html#a3581405ad5a68e25f1998648a2a66b0a" title="plots data into a histogram with provided DAMM ID " alt="" coords="155,79,261,106"/>
+<area shape="rect" id="node3" href="$de/d91/class_detector_driver.html#a3a556ab94a878e057dea8a081d0df55a" title="Plots into histogram defined by dammId. " alt="" coords="141,130,275,156"/>
+<area shape="rect" id="node10" href="$d6/d65/class_event_processor.html#ad5201bb392726e409ba2a6ac44e764d8" title="Implementation of the plot command to interface with the DAMM routines. " alt="" coords="136,1314,280,1340"/>
+<area shape="rect" id="node49" href="$d7/d8b/class_plots.html#adc29f9a0571d3b623bed089d4f9daa7a" title="Plots::GetOffset" alt="" coords="149,1364,267,1391"/>
+<area shape="rect" id="node50" href="$dd/db7/class_trace.html#a69a095c664ead0786523b4591d2a4df9" title="Implementation of the plot command to interface with the DAMM routines. " alt="" coords="166,1415,250,1442"/>
+<area shape="rect" id="node4" href="$de/d91/class_detector_driver.html#a19c152206c95dfbc2a98ffd1d002165e" title="Control of the event processing. " alt="" coords="579,79,773,106"/>
+<area shape="rect" id="node5" href="$d4/d48/class_utk_unpacker.html#ae5b939ec62e20df3004047ce4f3370f0" title="Process all events in the event list. " alt="" coords="821,155,1033,182"/>
+<area shape="rect" id="node6" href="$de/d91/class_detector_driver.html#a2ae4e98c641d49183631eceb40dc19bb" title="Check threshold and calibrate each channel. Check the thresholds and calibrate the energy for each ch..." alt="" coords="332,54,527,80"/>
+<area shape="rect" id="node7" href="$de/d91/class_detector_driver.html#a7f2a28ba2a756e034e38630a5e258309" title="DetectorDriver::PlotRaw" alt="" coords="349,104,510,131"/>
+<area shape="rect" id="node8" href="$de/d91/class_detector_driver.html#ad966b8fe4330bb0cf117422b9bd08f40" title="DetectorDriver::PlotCal" alt="" coords="352,155,507,182"/>
+<area shape="rect" id="node9" href="$d4/d48/class_utk_unpacker.html#ad82e3bffaf0c59a8ef4c7e98b57ce29b" title="Add an event to generic statistics output. " alt="" coords="349,256,510,283"/>
+<area shape="rect" id="node11" href="$d2/daa/class_anl1471_processor.html#ae0e82aa964d24549afd9d17f1a136fc2" title="Anl1471Processor::Process" alt="" coords="337,307,521,334"/>
+<area shape="rect" id="node12" href="$db/d92/class_beta4_hen3_processor.html#aec8154b59d510e76fb0831ee2118d6bb" title="Beta4Hen3Processor\l::Process" alt="" coords="603,438,749,480"/>
+<area shape="rect" id="node13" href="$d8/da8/class_beta_processor.html#a2a0a691bfe3379f78bcd2fbd69cc9464" title="PreProcessing for the class. " alt="" coords="337,408,521,435"/>
+<area shape="rect" id="node14" href="$d4/de4/class_beta_scint_processor.html#a3e694e6d125d2197e0cda6725625f47b" title="PreProcessing for the class. " alt="" coords="360,460,499,501"/>
+<area shape="rect" id="node15" href="$d4/de4/class_beta_scint_processor.html#abcf10cc79083ab549abdca2e9209d37d" title="Main Processing for the class. " alt="" coords="360,525,499,566"/>
+<area shape="rect" id="node16" href="$de/d3c/class_crosstalk_processor.html#ae17181ea6e41e906bd9c65438b4d1d20" title="CrosstalkProcessor\l::PreProcess" alt="" coords="361,590,497,632"/>
+<area shape="rect" id="node17" href="$de/d3c/class_crosstalk_processor.html#a641e3912de9f8d9f2a9bf4e902429723" title="CrosstalkProcessor\l::Process" alt="" coords="361,656,497,697"/>
+<area shape="rect" id="node18" href="$de/d4f/class_double_beta_processor.html#af0db739a0cd9d8f4e231b8cc99ed31ab" title="DoubleBetaProcessor\l::PreProcess" alt="" coords="355,721,503,762"/>
+<area shape="rect" id="node19" href="$db/da8/class_dssd4_s_h_e_processor.html#a069993b16eb9c18b547a279e9f5d1b28" title="Dssd4SHEProcessor::\lPreProcess" alt="" coords="353,786,506,828"/>
+<area shape="rect" id="node20" href="$db/da8/class_dssd4_s_h_e_processor.html#a1ab9aeab8c52a1479718a58da74af3df" title="Dssd4SHEProcessor::\lProcess" alt="" coords="353,852,506,893"/>
+<area shape="rect" id="node21" href="$d4/d67/class_dssd_processor.html#a0e32fc233a84ef03dc994b83899e1388" title="DssdProcessor::Process" alt="" coords="346,918,513,944"/>
+<area shape="rect" id="node22" href="$d5/df2/class_ge4_hen3_processor.html#a98d4e5d0efd24adbdb6c8911e0d993f2" title="Ge4Hen3Processor::Process" alt="" coords="832,1120,1023,1147"/>
+<area shape="rect" id="node23" href="$d0/d8c/class_ge_calib_processor.html#a2dbeaca183d0ad566b676fc6d0e85cb6" title="GeCalibProcessor::PreProcess" alt="" coords="328,1019,531,1046"/>
+<area shape="rect" id="node24" href="$d0/d8c/class_ge_calib_processor.html#abf009af1ca466bc235bf0000ae19e819" title="GeCalibProcessor::Process" alt="" coords="338,1070,521,1096"/>
+<area shape="rect" id="node25" href="$d2/d54/class_ge_processor.html#a60303a0ad9ccca416584cc54f027bbce" title="GeProcessor::Process" alt="" coords="599,1120,753,1147"/>
+<area shape="rect" id="node26" href="$d2/d54/class_ge_processor.html#a7a0f6f952c59ea89c3792f83a0ab2d0a" title="GeProcessor::granploty" alt="" coords="350,1171,509,1198"/>
+<area shape="rect" id="node27" href="$d6/d4e/class_hen3_processor.html#a12510344f12aa28fb4de00c28569995f" title="Hen3Processor::Process" alt="" coords="346,1222,513,1248"/>
+<area shape="rect" id="node28" href="$df/df5/class_implant_ssd_processor.html#a4633fc3b34a8e8915713dd8e1ba5666a" title="ImplantSsdProcessor\l::Process" alt="" coords="356,1273,503,1314"/>
+<area shape="rect" id="node29" href="$df/df5/class_implant_ssd_processor.html#abf58bf472ce25c6003903cd66751d981" title="ImplantSsdProcessor\l::PlotType" alt="" coords="356,1338,503,1380"/>
+<area shape="rect" id="node30" href="$dd/df2/class_ion_chamber_processor.html#a6d1891dc55fb66434793c8594f3b7616" title="IonChamberProcessor\l::Process" alt="" coords="354,1404,505,1445"/>
+<area shape="rect" id="node31" href="$de/d81/class_i_s600_processor.html#a92f29e9c021fffb08f02bf48d12aff42" title="IS600Processor::Process" alt="" coords="344,1470,515,1496"/>
+<area shape="rect" id="node32" href="$dd/d2c/class_labr3_test_processor.html#aacf32b1382a264f443f7e24029323ac4" title="Labr3TestProcessor\l::Process" alt="" coords="360,1521,499,1562"/>
+<area shape="rect" id="node33" href="$d0/da0/class_liquid_processor.html#a20de83dadf4cdcd1981e69a7c9241ef0" title="LiquidProcessor::Process" alt="" coords="344,1587,515,1614"/>
+<area shape="rect" id="node34" href="$d7/d6b/class_liquid_scint_processor.html#a6e1f7662a1362e5c14275c9a13388231" title="LiquidScintProcessor\l::Process" alt="" coords="357,1638,502,1680"/>
+<area shape="rect" id="node35" href="$da/d2f/class_logic_processor.html#a91ad87eb1649cebfa5a90de4943455ae" title="LogicProcessor::PreProcess" alt="" coords="335,1704,523,1731"/>
+<area shape="rect" id="node36" href="$dd/dcb/class_mcp_processor.html#a6b5d260bc4c805176a415f78a73c29aa" title="McpProcessor::Process" alt="" coords="348,1755,511,1782"/>
+<area shape="rect" id="node37" href="$da/d0f/class_neutron_processor.html#ac53b9fbdbc82911bd49ae8f167dc9735" title="NeutronProcessor::Process" alt="" coords="338,1806,521,1832"/>
+<area shape="rect" id="node38" href="$d9/dfc/class_neutron_scint_processor.html#a72ba8607b6df372e4b76d396140f765d" title="NeutronScintProcessor\l::Process" alt="" coords="351,1857,507,1898"/>
+<area shape="rect" id="node39" href="$d3/df3/class_position_processor.html#a45a6ef172d9253956769b1ccd15a6e4a" title="Process the QDC data involved in top/bottom side for a strip. " alt="" coords="361,1922,497,1964"/>
+<area shape="rect" id="node40" href="$dd/d2c/class_pspmt_processor.html#afd615887b035057293dc86455155c3c7" title="PspmtProcessor::PreProcess" alt="" coords="332,1988,527,2015"/>
+<area shape="rect" id="node41" href="$de/dba/class_scint_processor.html#adf41c1345e0db936ec7e8f0d5f25a548" title="ScintProcessor::Process" alt="" coords="593,2064,759,2091"/>
+<area shape="rect" id="node42" href="$de/dba/class_scint_processor.html#ae6d49e82b830eb23f2b9631095da791a" title="ScintProcessor::LiquidAnalysis" alt="" coords="328,2090,531,2116"/>
+<area shape="rect" id="node43" href="$db/de0/class_ssd_processor.html#a6d61b7d3f47ff3d3155c2d382c62918e" title="SsdProcessor::Process" alt="" coords="349,2140,509,2167"/>
+<area shape="rect" id="node44" href="$d3/d5e/class_teeny_vandle_processor.html#a01b193b7a00b5bbc2d0b35ccc0f34d82" title="TeenyVandleProcessor\l::PreProcess" alt="" coords="351,2192,508,2233"/>
+<area shape="rect" id="node45" href="$d9/ddc/class_template_exp_processor.html#a06fae87a5826408aec8db9fadf000dd3" title="Main processing of data of interest. " alt="" coords="350,2257,509,2298"/>
+<area shape="rect" id="node46" href="$da/dfe/class_template_processor.html#a554450b2ad914835e6b1b8d13a31b409" title="TemplateProcessor::\lPreProcess" alt="" coords="358,2322,501,2364"/>
+<area shape="rect" id="node47" href="$da/dfe/class_template_processor.html#a75039958a15712e6d1f83b3654ce6e88" title="TemplateProcessor::\lProcess" alt="" coords="358,2388,501,2429"/>
+<area shape="rect" id="node48" href="$d1/dd7/class_vandle_ornl2012_processor.html#a05b7477fad0d6614e01ca86cb9cff0bf" title="VandleOrnl2012Processor\l::Process" alt="" coords="343,2453,516,2494"/>
+</map>

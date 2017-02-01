@@ -1,0 +1,12 @@
+<map id="HighResTimingData::GetPhase" name="HighResTimingData::GetPhase">
+<area shape="rect" id="node2" href="$d5/d91/class_chan_event.html#ad3af219effd863063c3d2f264af5783a" title="ChanEvent::GetTrace" alt="" coords="220,5,368,32"/>
+<area shape="rect" id="node3" href="$dd/db7/class_trace.html#a3575dde1f951a53f52a3d03482b7eaa3" title="Trace::GetValue" alt="" coords="235,56,353,83"/>
+<area shape="rect" id="node4" href="$d3/daf/class_globals.html#ae66fa0173342202c96b13d71a6522512" title="Globals::get" alt="" coords="248,107,340,133"/>
+<area shape="rect" id="node11" href="$d3/daf/class_globals.html#a856a76746b329f2ecd59f41e931b0ce1" title="Globals::adcClockInSeconds" alt="" coords="199,157,389,184"/>
+<area shape="rect" id="node5" href="$d3/daf/class_globals.html#ad6c9fda8d0018300ce2a7b7e481181c2" title="Globals::Globals" alt="" coords="437,107,556,133"/>
+<area shape="rect" id="node6" href="$d6/dc9/class_messenger.html#a24d0db0aece5830b3de62310f5753be8" title="Messenger::detail" alt="" coords="1069,107,1195,133"/>
+<area shape="rect" id="node7" href="$d3/daf/class_globals.html#a9dc8ebff5b3cb81999c90462abb4afca" title="Globals::WarnOfUnknownParameter" alt="" coords="604,107,835,133"/>
+<area shape="rect" id="node9" href="$d3/daf/class_globals.html#a3bedee64cc799d6f373d15308f600c63" title="Globals::SanityCheck" alt="" coords="645,157,793,184"/>
+<area shape="rect" id="node8" href="$d6/dc9/class_messenger.html#a130e83285254c9149629842ca2aa6f20" title="Messenger::warning" alt="" coords="883,107,1021,133"/>
+<area shape="rect" id="node10" href="$d6/dc9/class_messenger.html#a40a7e53a9b6dc5ef161c2ffd5d6bbbfb" title="Messenger::done" alt="" coords="891,208,1013,235"/>
+</map>

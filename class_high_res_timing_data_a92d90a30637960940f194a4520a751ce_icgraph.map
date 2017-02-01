@@ -1,9 +1,0 @@
-<map id="HighResTimingData::GetMaximumValue" name="HighResTimingData::GetMaximumValue">
-<area shape="rect" id="node2" href="$class_liquid_scint_processor.html#a6e1f7662a1362e5c14275c9a13388231" title="LiquidScintProcessor\l::Process" alt="" coords="219,5,365,47"/>
-<area shape="rect" id="node4" href="$class_teeny_vandle_processor.html#a01b193b7a00b5bbc2d0b35ccc0f34d82" title="TeenyVandleProcessor\l::PreProcess" alt="" coords="213,71,371,112"/>
-<area shape="rect" id="node6" href="$class_vandle_processor.html#af8dc787e29f0440b02b6a84f3e80829b" title="VandleProcessor::FillVandle\lOnlyHists" alt="" coords="199,136,385,177"/>
-<area shape="rect" id="node3" href="$class_liquid_scint_processor.html#a4d89e8c3779a6903973b8313b063ceb1" title="LiquidScintProcessor\l::~LiquidScintProcessor" alt="" coords="451,5,613,47"/>
-<area shape="rect" id="node5" href="$class_teeny_vandle_processor.html#ace84b3cc48debac1892f4fa954adafbd" title="TeenyVandleProcessor\l::~TeenyVandleProcessor" alt="" coords="445,71,619,112"/>
-<area shape="rect" id="node7" href="$class_vandle_processor.html#a849786aade322f53dbd153d3a0913532" title="VandleProcessor::PreProcess" alt="" coords="433,143,631,170"/>
-<area shape="rect" id="node8" href="$class_vandle_processor.html#adeb801d12cbeb4a4426b7d2f5ee522cd" title="VandleProcessor::~Vandle\lProcessor" alt="" coords="679,136,856,177"/>
-</map>

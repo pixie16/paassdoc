@@ -1,0 +1,6 @@
+<map id="DoubleBetaProcessor.hpp" name="DoubleBetaProcessor.hpp">
+<area shape="rect" id="node2" href="$d4/df5/_detector_driver_8cpp.html" title="Main driver for event processing. " alt="" coords="5,80,136,107"/>
+<area shape="rect" id="node3" href="$d6/df5/_anl1471_processor_8cpp.html" title="A class to process data from ANL1471 experiment using VANDLE. " alt="" coords="161,80,314,107"/>
+<area shape="rect" id="node4" href="$d4/dbf/_i_s600_processor_8cpp.html" title="A class to process data from ISOLDE 599 and 600 experiments using VANDLE. " alt="" coords="338,80,478,107"/>
+<area shape="rect" id="node5" href="$d6/d1f/_double_beta_processor_8cpp.html" title="A DoubleBeta processor class that can be used to analyze double beta detectors. " alt="" coords="503,80,676,107"/>
+</map>

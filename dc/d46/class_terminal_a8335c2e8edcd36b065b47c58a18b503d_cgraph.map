@@ -1,0 +1,6 @@
+<map id="Terminal::PrintCommand" name="Terminal::PrintCommand">
+<area shape="rect" id="node2" href="$dc/d46/class_terminal.html#a908cdfa64167279ed565d43b45470c3d" title="Dump all text in the stream to the output screen. " alt="" coords="223,5,331,32"/>
+<area shape="rect" id="node5" href="$dc/d46/class_terminal.html#a152f43dea83e1c6f4342836ded93952a" title="Clear the command prompt output. " alt="" coords="220,56,335,83"/>
+<area shape="rect" id="node3" href="$dc/d46/class_terminal.html#ac5568eb9dee6317534da0cc87688a2d8" title="Force a character string to the output screen. " alt="" coords="383,5,488,32"/>
+<area shape="rect" id="node4" href="$dc/d46/class_terminal.html#a9e674b8f0c4974752a2c72da2e51281e" title="Refresh the terminal. " alt="" coords="536,5,663,32"/>
+</map>

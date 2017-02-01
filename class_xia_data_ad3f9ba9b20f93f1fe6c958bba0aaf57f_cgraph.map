@@ -1,6 +1,0 @@
-<map id="XiaData::operator!=" name="XiaData::operator!=">
-<area shape="rect" id="node2" href="$class_xia_data.html#aa55717f1075138b14d12b100f1a5cd72" title="Equality operator that compares checks if we have the same channel (i.e. the ID and Time are identica..." alt="" coords="188,31,327,57"/>
-<area shape="rect" id="node3" href="$class_xia_data.html#a2b017a78b2f9f70a0ec1ebbcb23c9e3c" title="XiaData::GetId" alt="" coords="384,5,492,32"/>
-<area shape="rect" id="node5" href="$class_xia_data.html#a36f4c2263068268968b790786d4b61da" title="Method that will return the time for the channel. The actual time is a 48&#45;bit number. We multiply 2^32 by the eventTimeHigh_ so that we account for the missing upper 16 bits of the number. The cfdTime_ contains all of the fractional time information, and so we divide by 2^16 here. &#160;Verify that this method works properly for all of the different module types and firmwares. It doesn&#39;t and this value simply needs to be set explicitly by the Decoder. " alt="" coords="375,56,501,83"/>
-<area shape="rect" id="node4" href="$class_xia_data.html#a041f6911911ef2a34f20b0df1698d508" title="XiaData::GetModuleNumber" alt="" coords="549,5,733,32"/>
-</map>

@@ -1,10 +1,10 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$class_place.html" title="A pure abstract class to define a &quot;place&quot; for correlator. " alt="" coords="5,132,60,159"/>
-<area shape="rect" id="node2" href="$class_place_a_n_d.html" title="Similar to PlaceOR but uses AND relation. " alt="" coords="123,5,205,32"/>
-<area shape="rect" id="node3" href="$class_place_counter.html" title="Counts number of activations coming from directly or from children. " alt="" coords="114,56,214,83"/>
-<area shape="rect" id="node4" href="$class_place_detector.html" title="The basic detector which does not depend on children status. Will use info_ map to store additional i..." alt="" coords="112,107,216,133"/>
-<area shape="rect" id="node5" href="$class_place_lazy.html" title="&quot;Lazy&quot; Place does not store multiple activation or deactivation events. Abstract class. " alt="" coords="123,157,205,184"/>
-<area shape="rect" id="node6" href="$class_place_o_r.html" title="An abstract place using OR logic to set the activation of places. " alt="" coords="127,208,201,235"/>
-<area shape="rect" id="node7" href="$class_place_threshold.html" title="Each activation must be within the set thresholds. " alt="" coords="108,259,220,285"/>
-<area shape="rect" id="node8" href="$class_place_threshold_o_r.html" title="Each activation must be within the set thresholds. " alt="" coords="268,259,399,285"/>
+<area shape="rect" id="node1" href="$dd/d21/class_place.html" title="A pure abstract class to define a &quot;place&quot; for correlator. " alt="" coords="5,132,60,159"/>
+<area shape="rect" id="node2" href="$d4/df9/class_place_a_n_d.html" title="Similar to PlaceOR but uses AND relation. " alt="" coords="123,5,205,32"/>
+<area shape="rect" id="node3" href="$d5/dd7/class_place_counter.html" title="Counts number of activations coming from directly or from children. " alt="" coords="114,56,214,83"/>
+<area shape="rect" id="node4" href="$d5/df0/class_place_detector.html" title="The basic detector which does not depend on children status. Will use info_ map to store additional i..." alt="" coords="112,107,216,133"/>
+<area shape="rect" id="node5" href="$d7/d48/class_place_lazy.html" title="&quot;Lazy&quot; Place does not store multiple activation or deactivation events. Abstract class. " alt="" coords="123,157,205,184"/>
+<area shape="rect" id="node6" href="$d0/d60/class_place_o_r.html" title="An abstract place using OR logic to set the activation of places. " alt="" coords="127,208,201,235"/>
+<area shape="rect" id="node7" href="$d0/dd5/class_place_threshold.html" title="Each activation must be within the set thresholds. " alt="" coords="108,259,220,285"/>
+<area shape="rect" id="node8" href="$d8/d96/class_place_threshold_o_r.html" title="Each activation must be within the set thresholds. " alt="" coords="268,259,399,285"/>
 </map>

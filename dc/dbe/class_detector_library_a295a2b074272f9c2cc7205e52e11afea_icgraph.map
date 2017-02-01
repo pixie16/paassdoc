@@ -1,0 +1,8 @@
+<map id="DetectorLibrary::GetUsedDetectors" name="DetectorLibrary::GetUsedDetectors">
+<area shape="rect" id="node2" href="$dc/dbe/class_detector_library.html#a86adb8dc4734c9f47e9d6dd649dd61a8" title="DetectorLibrary::GetModules" alt="" coords="223,13,411,40"/>
+<area shape="rect" id="node3" href="$d6/d65/class_event_processor.html#aebda4c898e4e7fb6115d17366802a16d" title="EventProcessor::Init" alt="" coords="246,64,387,91"/>
+<area shape="rect" id="node4" href="$d6/d65/class_event_processor.html#a0cffd98323d96a9ac048c72401e08197" title="EventProcessor::DidProcess" alt="" coords="459,5,649,32"/>
+<area shape="rect" id="node5" href="$d3/dab/class_lite_position_processor.html#a21187f3e55bb450c2dbcbc61e8b7cfd3" title="LitePositionProcessor\l::Init" alt="" coords="479,57,629,98"/>
+<area shape="rect" id="node7" href="$d3/df3/class_position_processor.html#a4c7bb0b65dbf1115f6a10f0f9b0da0a0" title="Reads in QDC parameters from an input file. " alt="" coords="477,123,631,149"/>
+<area shape="rect" id="node6" href="$d3/dab/class_lite_position_processor.html#a602ce3c9355626b96649b08690d391ef" title="LitePositionProcessor\l::~LitePositionProcessor" alt="" coords="697,57,863,98"/>
+</map>

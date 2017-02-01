@@ -1,9 +1,0 @@
-<map id="Statistics::CalculateIntegral" name="Statistics::CalculateIntegral">
-<area shape="rect" id="node2" href="$namespace_trace_functions.html#a6daab655efadf36d330e22d7848eb89f" title="TraceFunctions::CalculateQdc" alt="" coords="236,52,435,79"/>
-<area shape="rect" id="node6" href="$namespace_trace_functions.html#acee8c229e254ec0739a8535e71217fbe" title="TraceFunctions::Calculate\lTailRatio" alt="" coords="248,103,423,145"/>
-<area shape="rect" id="node8" href="$unittest-_helper_functions_8cpp.html#ab856f8174f5bf3574f957457db756aee" title="TEST" alt="" coords="307,169,363,196"/>
-<area shape="rect" id="node3" href="$unittest-_helper_functions_8cpp.html#ad67b48582732deb820312ac239cc7647" title="TEST" alt="" coords="548,5,604,32"/>
-<area shape="rect" id="node4" href="$class_waveform_analyzer.html#ad5d69130a33ded33122a463782b33ae1" title="WaveformAnalyzer::Analyze" alt="" coords="483,56,669,83"/>
-<area shape="rect" id="node5" href="$class_waveform_analyzer.html#a9dcd589f6fe73c740801cb035d0232c6" title="WaveformAnalyzer::Declare\lPlots" alt="" coords="717,49,901,90"/>
-<area shape="rect" id="node7" href="$unittest-_helper_functions_8cpp.html#aa60a9b41c328352ce795c8b09f845530" title="TEST" alt="" coords="548,111,604,137"/>
-</map>

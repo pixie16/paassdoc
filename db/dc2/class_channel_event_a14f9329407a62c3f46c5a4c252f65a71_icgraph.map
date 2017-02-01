@@ -1,0 +1,7 @@
+<map id="ChannelEvent::CorrectBaseline" name="ChannelEvent::CorrectBaseline">
+<area shape="rect" id="node2" href="$db/dc2/class_channel_event.html#a7fd37dc524df4b943966f644b6399aee" title="Find the leading edge of the pulse at a given percentage of pulse maximum. " alt="" coords="499,5,709,32"/>
+<area shape="rect" id="node3" href="$d3/d4d/class_filterer.html#af040e1a77b4e653efbc3484c426e108e" title="Process all events in the event list. " alt="" coords="757,56,935,83"/>
+<area shape="rect" id="node4" href="$db/dc2/class_channel_event.html#a932dd9b09c334ab4114c695f8961f67e" title="Integrate the baseline corrected trace in the range [start_, stop_] and return the result..." alt="" coords="256,107,451,133"/>
+<area shape="rect" id="node6" href="$db/dc2/class_channel_event.html#ae12ba86d64c1472241c65620fd086bae" title="Perform CFD analysis on the waveform. " alt="" coords="261,157,445,184"/>
+<area shape="rect" id="node5" href="$db/dc2/class_channel_event.html#a9fe04baaf3ad0ed8e71266b09c3c5dff" title="Integrate the baseline corrected trace in the range [start_, stop_] and return the result..." alt="" coords="522,107,686,133"/>
+</map>

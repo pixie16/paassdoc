@@ -1,6 +1,0 @@
-<map id="skeletonScanner::InitRootOutput" name="skeletonScanner::InitRootOutput">
-<area shape="rect" id="node2" href="$filterer_8hpp.html#a2e10dc2aa90535daf6935a2929c57e86" title="Return a pointer to a new Filterer object. " alt="" coords="261,5,332,32"/>
-<area shape="rect" id="node4" href="$class_unpacker.html#a73aa13070de679d80a3cc5f327f3f606" title="Unpacker::AddEvent" alt="" coords="225,56,368,83"/>
-<area shape="rect" id="node3" href="$class_filterer.html#a7eb8fc24a70d9c23594d57aea60db6ab" title="Filterer::Filterer" alt="" coords="453,5,563,32"/>
-<area shape="rect" id="node5" href="$class_xia_data.html#a041f6911911ef2a34f20b0df1698d508" title="XiaData::GetModuleNumber" alt="" coords="416,56,600,83"/>
-</map>

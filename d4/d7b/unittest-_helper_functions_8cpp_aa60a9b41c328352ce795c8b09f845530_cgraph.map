@@ -1,0 +1,5 @@
+<map id="TEST" name="TEST">
+<area shape="rect" id="node2" href="$d6/dd5/namespace_trace_functions.html#acee8c229e254ec0739a8535e71217fbe" title="TraceFunctions::Calculate\lTailRatio" alt="" coords="121,5,296,47"/>
+<area shape="rect" id="node4" href="$d6/dd5/namespace_trace_functions.html#a6daab655efadf36d330e22d7848eb89f" title="TraceFunctions::CalculateQdc" alt="" coords="109,71,308,98"/>
+<area shape="rect" id="node3" href="$d4/d06/namespace_statistics.html#a4aabbd7b3dd2f7463c51f1a74f0efe33" title="Do a quick and simple integration of the provided data using the trapezoidal rule. We will not be subtracting the baseline or anything like that to keep things general. " alt="" coords="356,42,539,69"/>
+</map>

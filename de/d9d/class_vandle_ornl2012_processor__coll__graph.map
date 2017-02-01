@@ -1,0 +1,12 @@
+<map id="VandleOrnl2012Processor" name="VandleOrnl2012Processor">
+<area shape="rect" id="node2" href="$d6/d65/class_event_processor.html" title="Class to handle event processing. " alt="" coords="2340,189,2455,216"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="213,373,293,400"/>
+<area shape="rect" id="node7" href="$da/d8d/class_detector_summary.html" title="Summary of all channels of one detector type. " alt="" coords="1821,301,1948,328"/>
+<area shape="rect" id="node15" href="$d7/d8b/class_plots.html" title="Holds pointers to all Histograms. " alt="" coords="820,580,872,607"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="5,366,132,407"/>
+<area shape="rect" id="node9" href="$d5/d91/class_chan_event.html" title="A channel event. " alt="" coords="1288,316,1375,343"/>
+<area shape="rect" id="node10" href="$dd/db7/class_trace.html" title="Store the information for a trace. " alt="" coords="1141,455,1196,481"/>
+<area shape="rect" id="node11" title="STL class. " alt="" coords="772,283,920,325"/>
+<area shape="rect" id="node21" href="$d2/ddd/class_xia_data.html" title="A pixie16 channel event. " alt="" coords="1135,291,1203,317"/>
+<area shape="rect" id="node16" href="$d7/d6e/class_plots_register.html" title="Holds ranges and offsets of all plots. Singleton class. " alt="" coords="453,787,553,813"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Unpacker::ReadSpill" name="Unpacker::ReadSpill">
+<area shape="rect" id="node2" href="$de/dfa/class_scanor_interface.html#ae4507711417daa37e55f278b9c486a54" title="inserts a delimiter in between individual module data and at end of buffer. Data is then passed to hi..." alt="" coords="193,60,416,87"/>
+<area shape="rect" id="node7" href="$d2/de8/class_unpacker.html#a7e2b69e2542bc959d88c8cb0914ae1fa" title="Set the address of the scan interface used for file operations. " alt="" coords="227,111,383,137"/>
+<area shape="rect" id="node3" href="$de/dfa/class_scanor_interface.html#abc2883ce3cd0783d422bbd8251a7e644" title="ScanorInterface::Hissub" alt="" coords="490,35,653,61"/>
+<area shape="rect" id="node6" href="$de/dfa/class_scanor_interface.html#a0d14caf29f24f3e7255d144bb15d6bee" title="ScanorInterface::ScanorInterface" alt="" coords="464,85,679,112"/>
+<area shape="rect" id="node4" href="$d6/db4/_scanor_8cpp.html#a4c73088139b20f913c3f554cfaa1c6a5" title="interface between scan and C++ " alt="" coords="779,5,845,32"/>
+<area shape="rect" id="node5" href="$de/dfa/class_scanor_interface.html#afedd786e14ed9ad6d8567581439b7192" title="ScanorInterface::~Scanor\lInterface" alt="" coords="727,57,897,98"/>
+</map>

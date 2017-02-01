@@ -1,0 +1,6 @@
+<map id="StatsHandler::SetXiaRates" name="StatsHandler::SetXiaRates">
+<area shape="rect" id="node2" href="$d6/db0/class_poll.html#a7bc77d04169be53d1a3553e0a55932d6" title="Acquire raw traces from a pixie module. " alt="" coords="277,5,390,32"/>
+<area shape="rect" id="node3" href="$d2/d58/class_stats_handler.html#a5893029be44d424c334f3bb0dbd5e7d9" title="Set the amount of time between scalers dumps in seconds. " alt="" coords="232,56,435,83"/>
+<area shape="rect" id="node4" href="$d6/db0/class_poll.html#a1353049de2d032ee6aabd8f1f714941d" title="Initialize the poll object. " alt="" coords="483,56,583,83"/>
+<area shape="rect" id="node5" href="$d1/d50/poll2_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="631,56,681,83"/>
+</map>

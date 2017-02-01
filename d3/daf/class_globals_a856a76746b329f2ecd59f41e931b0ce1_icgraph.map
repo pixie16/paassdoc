@@ -1,0 +1,32 @@
+<map id="Globals::adcClockInSeconds" name="Globals::adcClockInSeconds">
+<area shape="rect" id="node2" href="$de/d91/class_detector_driver.html#a2ae4e98c641d49183631eceb40dc19bb" title="Check threshold and calibrate each channel. Check the thresholds and calibrate the energy for each ch..." alt="" coords="244,83,439,109"/>
+<area shape="rect" id="node10" href="$d7/d61/class_high_res_timing_data.html#a2769883910967c0648ba8c13a7f0dc1f" title="HighResTimingData::\lGetPhase" alt="" coords="269,429,414,470"/>
+<area shape="rect" id="node30" href="$da/d8c/class_waveform_analyzer.html#ad5d69130a33ded33122a463782b33ae1" title="WaveformAnalyzer::Analyze" alt="" coords="248,527,435,553"/>
+<area shape="rect" id="node3" href="$de/d91/class_detector_driver.html#a19c152206c95dfbc2a98ffd1d002165e" title="Control of the event processing. " alt="" coords="487,113,681,140"/>
+<area shape="rect" id="node4" href="$de/d91/class_detector_driver.html#a3a556ab94a878e057dea8a081d0df55a" title="Plots into histogram defined by dammId. " alt="" coords="758,56,893,83"/>
+<area shape="rect" id="node7" href="$d4/d48/class_utk_unpacker.html#ae5b939ec62e20df3004047ce4f3370f0" title="Process all events in the event list. " alt="" coords="969,157,1181,184"/>
+<area shape="rect" id="node5" href="$de/d91/class_detector_driver.html#a7f2a28ba2a756e034e38630a5e258309" title="DetectorDriver::PlotRaw" alt="" coords="995,5,1156,32"/>
+<area shape="rect" id="node6" href="$de/d91/class_detector_driver.html#ad966b8fe4330bb0cf117422b9bd08f40" title="DetectorDriver::PlotCal" alt="" coords="998,107,1153,133"/>
+<area shape="rect" id="node9" href="$d4/d48/class_utk_unpacker.html#ad82e3bffaf0c59a8ef4c7e98b57ce29b" title="Add an event to generic statistics output. " alt="" coords="995,56,1156,83"/>
+<area shape="rect" id="node8" href="$d4/d48/class_utk_unpacker.html#a9bdcb58a08aa9b338085aa1a147214a5" title="Default constructor that does nothing in particular. " alt="" coords="1234,107,1414,133"/>
+<area shape="rect" id="node11" href="$d7/d61/class_high_res_timing_data.html#a2886e6e96843c5611de7eb51883959f2" title="HighResTimingData::\lGetCorrectedTime" alt="" coords="511,345,657,386"/>
+<area shape="rect" id="node26" href="$d3/d5e/class_teeny_vandle_processor.html#a01b193b7a00b5bbc2d0b35ccc0f34d82" title="TeenyVandleProcessor\l::PreProcess" alt="" coords="747,442,904,483"/>
+<area shape="rect" id="node28" href="$dd/d2c/class_labr3_test_processor.html#aacf32b1382a264f443f7e24029323ac4" title="Labr3TestProcessor\l::Process" alt="" coords="515,487,653,529"/>
+<area shape="rect" id="node12" href="$d6/d15/class_bar_detector.html#a4952dcf06771339fc19e2aefa99b0403" title="BarDetector::GetCorTimeAve" alt="" coords="729,340,921,367"/>
+<area shape="rect" id="node15" href="$d1/dd7/class_vandle_ornl2012_processor.html#a05b7477fad0d6614e01ca86cb9cff0bf" title="VandleOrnl2012Processor\l::Process" alt="" coords="989,209,1162,250"/>
+<area shape="rect" id="node24" href="$db/d21/class_vandle_processor.html#a19fce3b4adc29d62a9b74b07308f1a84" title="VandleProcessor::Analyze\lStarts" alt="" coords="987,442,1163,483"/>
+<area shape="rect" id="node25" href="$d6/d15/class_bar_detector.html#af7038c96609f839aab72f84053577c53" title="BarDetector::GetCorTimeDiff" alt="" coords="731,289,920,316"/>
+<area shape="rect" id="node13" href="$d2/daa/class_anl1471_processor.html#ae0e82aa964d24549afd9d17f1a136fc2" title="Anl1471Processor::Process" alt="" coords="983,340,1167,367"/>
+<area shape="rect" id="node14" href="$de/d81/class_i_s600_processor.html#a92f29e9c021fffb08f02bf48d12aff42" title="IS600Processor::Process" alt="" coords="990,391,1161,417"/>
+<area shape="rect" id="node17" href="$db/d21/class_vandle_processor.html#a518daed7d7e2431a907b871b182681df" title="VandleProcessor::Analyze\lBarStarts" alt="" coords="987,274,1163,315"/>
+<area shape="rect" id="node16" href="$d1/dd7/class_vandle_ornl2012_processor.html#a394c47ec126f1be6ca5ef7dc5ce305d1" title="VandleOrnl2012Processor\l::~VandleOrnl2012Processor" alt="" coords="1229,209,1419,250"/>
+<area shape="rect" id="node18" href="$db/d21/class_vandle_processor.html#ac50169b4e140313d1a5a2ce6032dc6af" title="VandleProcessor::Process" alt="" coords="1235,365,1413,392"/>
+<area shape="rect" id="node19" href="$de/d3c/class_crosstalk_processor.html#a641e3912de9f8d9f2a9bf4e902429723" title="CrosstalkProcessor\l::Process" alt="" coords="1487,293,1623,334"/>
+<area shape="rect" id="node21" href="$db/d21/class_vandle_processor.html#adeb801d12cbeb4a4426b7d2f5ee522cd" title="VandleProcessor::~Vandle\lProcessor" alt="" coords="1467,358,1644,399"/>
+<area shape="rect" id="node22" href="$d0/d80/class_walk_vandle_beta_processor.html#a191e1076d68a81dde827459dd3374124" title="WalkVandleBetaProcessor\l::Process" alt="" coords="1467,423,1644,465"/>
+<area shape="rect" id="node20" href="$de/d3c/class_crosstalk_processor.html#a974ad94596916e6d24e863dcbec1058c" title="CrosstalkProcessor\l::~CrosstalkProcessor" alt="" coords="1713,293,1865,334"/>
+<area shape="rect" id="node23" href="$d0/d80/class_walk_vandle_beta_processor.html#a4b72d8b893fa03ac656780d152640428" title="WalkVandleBetaProcessor\l::~WalkVandleBetaProcessor" alt="" coords="1692,423,1885,465"/>
+<area shape="rect" id="node27" href="$d3/d5e/class_teeny_vandle_processor.html#ace84b3cc48debac1892f4fa954adafbd" title="TeenyVandleProcessor\l::~TeenyVandleProcessor" alt="" coords="989,507,1162,549"/>
+<area shape="rect" id="node29" href="$dd/d2c/class_labr3_test_processor.html#a38f5f24725e52971220a4beef3bfc232" title="Labr3TestProcessor\l::~Labr3TestProcessor" alt="" coords="748,507,903,549"/>
+<area shape="rect" id="node31" href="$da/d8c/class_waveform_analyzer.html#a9dcd589f6fe73c740801cb035d0232c6" title="WaveformAnalyzer::Declare\lPlots" alt="" coords="492,553,676,594"/>
+</map>

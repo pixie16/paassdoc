@@ -1,6 +1,0 @@
-<map id="ScanorInterface::ScanorInterface" name="ScanorInterface::ScanorInterface">
-<area shape="rect" id="node2" href="$class_scanor_interface.html#a115408b9cb23e2152edcc81f8b236113" title="ScanorInterface::get" alt="" coords="268,56,408,83"/>
-<area shape="rect" id="node3" href="$_scanor_8cpp.html#a4c73088139b20f913c3f554cfaa1c6a5" title="interface between scan and C++ " alt="" coords="457,5,524,32"/>
-<area shape="rect" id="node4" href="$scope_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="573,81,624,108"/>
-<area shape="rect" id="node5" href="$utkscanor_8cpp.html#a8dbf7975e3e8cf9404086d6f85c6f308" title="Begins setups the interface between SCANOR and the C++ and the Unpacker. It also handles the processi..." alt="" coords="456,107,525,133"/>
-</map>

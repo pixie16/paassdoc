@@ -1,6 +1,0 @@
-<map id="DetectorLibrary::PrintUsedDetectors" name="DetectorLibrary::PrintUsedDetectors">
-<area shape="rect" id="node2" href="$class_messenger.html#a24d0db0aece5830b3de62310f5753be8" title="Messenger::detail" alt="" coords="228,5,353,32"/>
-<area shape="rect" id="node3" href="$class_raw_event.html#a49bbee9c3105c226d9dd437a25680053" title="Raw event initialization and set the rawevent detector summary map with the passed argument..." alt="" coords="237,56,344,83"/>
-<area shape="rect" id="node4" href="$class_detector_summary.html#af283b74fe698aaff140011a2e10c44f9" title="DetectorSummary::Zero" alt="" coords="415,31,577,57"/>
-<area shape="rect" id="node5" href="$class_detector_summary.html#ad788a2920e4b32039e62e4e9e0f80e6f" title="DetectorSummary::SetName" alt="" coords="401,81,591,108"/>
-</map>

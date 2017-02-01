@@ -2,42 +2,42 @@ var NAVTREE =
 [
   [ "PAASS", "index.html", [
     [ "Pixie Acquisition and Analysis Software Suite (PAASS)", "index.html", null ],
-    [ "Contributors", "contributorpage.html", null ],
-    [ "Images", "images.html", null ],
-    [ "Event Processing - DetectorDriver", "_detector_driver.html", [
-      [ "Initialization", "_detector_driver.html#dd-init", [
-        [ "ReadCal", "_detector_driver.html#ReadCal", null ]
+    [ "Contributors", "d1/d48/contributorpage.html", null ],
+    [ "Images", "df/de0/images.html", null ],
+    [ "Event Processing - DetectorDriver", "d5/d31/_detector_driver.html", [
+      [ "Initialization", "d5/d31/_detector_driver.html#dd-init", [
+        [ "ReadCal", "d5/d31/_detector_driver.html#ReadCal", null ]
       ] ],
-      [ "ProcessEvent", "_detector_driver.html#ProcessEvent", [
-        [ "ThreshAndCal", "_detector_driver.html#ThreshAndCal", [
-          [ "Trace", "_detector_driver.html#Trace", null ]
+      [ "ProcessEvent", "d5/d31/_detector_driver.html#ProcessEvent", [
+        [ "ThreshAndCal", "d5/d31/_detector_driver.html#ThreshAndCal", [
+          [ "Trace", "d5/d31/_detector_driver.html#Trace", null ]
         ] ],
-        [ "PlotRaw", "_detector_driver.html#PlotRaw", null ],
-        [ "PlotCal", "_detector_driver.html#PlotCal", null ]
+        [ "PlotRaw", "d5/d31/_detector_driver.html#PlotRaw", null ],
+        [ "PlotCal", "d5/d31/_detector_driver.html#PlotCal", null ]
       ] ]
     ] ],
-    [ "Detector Types", "dettype.html", [
-      [ "3hen", "dettype.html#dt-hen", null ],
-      [ "beta_scint", "dettype.html#beta_scint", null ],
-      [ "dssd_front", "dettype.html#dssd_front", null ],
-      [ "dssd_back", "dettype.html#dssd_back", null ],
-      [ "ge", "dettype.html#ge", null ],
-      [ "generic", "dettype.html#generic", null ],
-      [ "idssd_front", "dettype.html#idssd_front", null ],
-      [ "ignore", "dettype.html#ignore", null ],
-      [ "ion_chamber", "dettype.html#ion_chamber", null ],
-      [ "liquid_scint", "dettype.html#liquid_scint", null ],
-      [ "logic", "dettype.html#logic", null ],
-      [ "mcp", "dettype.html#mcp", null ],
-      [ "mtc", "dettype.html#mtc", null ],
-      [ "neutron_scint", "dettype.html#neutron_scint", null ],
-      [ "position", "dettype.html#position", null ],
-      [ "pulser", "dettype.html#pulser", null ],
-      [ "si", "dettype.html#si", null ],
-      [ "ssd", "dettype.html#ssd", null ],
-      [ "timeclass", "dettype.html#timeclass", null ],
-      [ "tvandle", "dettype.html#tvandle", null ],
-      [ "vandle", "dettype.html#vandle", null ]
+    [ "Detector Types", "d9/d6d/dettype.html", [
+      [ "3hen", "d9/d6d/dettype.html#dt-hen", null ],
+      [ "beta_scint", "d9/d6d/dettype.html#beta_scint", null ],
+      [ "dssd_front", "d9/d6d/dettype.html#dssd_front", null ],
+      [ "dssd_back", "d9/d6d/dettype.html#dssd_back", null ],
+      [ "ge", "d9/d6d/dettype.html#ge", null ],
+      [ "generic", "d9/d6d/dettype.html#generic", null ],
+      [ "idssd_front", "d9/d6d/dettype.html#idssd_front", null ],
+      [ "ignore", "d9/d6d/dettype.html#ignore", null ],
+      [ "ion_chamber", "d9/d6d/dettype.html#ion_chamber", null ],
+      [ "liquid_scint", "d9/d6d/dettype.html#liquid_scint", null ],
+      [ "logic", "d9/d6d/dettype.html#logic", null ],
+      [ "mcp", "d9/d6d/dettype.html#mcp", null ],
+      [ "mtc", "d9/d6d/dettype.html#mtc", null ],
+      [ "neutron_scint", "d9/d6d/dettype.html#neutron_scint", null ],
+      [ "position", "d9/d6d/dettype.html#position", null ],
+      [ "pulser", "d9/d6d/dettype.html#pulser", null ],
+      [ "si", "d9/d6d/dettype.html#si", null ],
+      [ "ssd", "d9/d6d/dettype.html#ssd", null ],
+      [ "timeclass", "d9/d6d/dettype.html#timeclass", null ],
+      [ "tvandle", "d9/d6d/dettype.html#tvandle", null ],
+      [ "vandle", "d9/d6d/dettype.html#vandle", null ]
     ] ],
     [ "Namespaces", null, [
       [ "Namespace List", "namespaces.html", "namespaces" ],
@@ -80,26 +80,26 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"_acquisition_2_setup_2source_2trace_8cpp.html",
-"_damm_plot_ids_8hpp.html#af0334baaa1b866f2f40c631caeec5eb4",
-"_globals_8hpp.html#a0d055a021c4a1edb56c01e1b259a5b13",
-"_logic_processor_8cpp.html#ae68d6e8d90294d0d2671fc38d6ae7ae0",
-"_ssd_beta_processor_8cpp.html",
-"_waa_analyzer_8cpp_source.html",
-"class_channel_data.html#a7fe75b4d5c6a1dfe3410150704bf87b7",
-"class_detector_summary.html#ab004b668f9a69706d4a7f7a87a676260",
-"class_globals.html#aa324b3af03b8a143e701d259f3d480b9",
-"class_labr3_test_processor.html#a27fb111f74c096b2b051186378faec9b",
-"class_p_l_d__header.html#aa327ea391fb45a8ff0c1bdbb59b16170",
-"class_poll.html#a2bc0e5ed89f574d21ee06e6358dccb32",
-"class_scan_interface.html#a60f627ef24dd2da74aff381ba0851b66",
-"class_terminal.html#aa448509b5aa1ece53c3d86385655be0e",
-"class_tree_correlator.html#aadf6cf8c8bedbbde03fb678667c7cb01",
-"class_xia_list_mode_data_encoder.html#af44e2798aca39627474cb444fd28cab4",
-"functions_func_x.html",
-"namespacedamm_ids_1_1scint_1_1neutron.html",
-"struct_event_info.html#aa8a8042b70334bab220566ff3ad92346a120d5e187cff7f48ac66fb3b58b890e6",
-"unittest-_xia_data_8cpp.html#abf2de62392ec942570893f53801e0fc8"
+"annotated.html",
+"d1/d97/class_trap_filter_parameters.html#a43bca9e5f5cd7f618fb1da34818300f8",
+"d2/d61/_liquid_scint_processor_8cpp.html#ab2308679d54addf06efef90b934c9a62",
+"d3/d2b/_xia_data_8hpp.html",
+"d3/d8f/_xia_list_mode_data_encoder_8hpp.html",
+"d4/d7b/unittest-_helper_functions_8cpp.html#a6ba7b40d59535e663f475d6855b9b9e9",
+"d5/d18/_ge_processor_8hpp.html#ac2fe9ec64483602620b3463521cfa4f2",
+"d6/d15/class_bar_detector.html#a1a1ea9e91c15894d411d1ebe0b08bb03",
+"d6/dc9/class_messenger.html#a6e49006efdfa500349b30bdc492ba2ab",
+"d7/d8b/class_plots.html#a2cfcb7bc77f4f0be60ae290696a45406",
+"d8/d1f/_c_terminal_8h.html#aa4b44378712bbe93456cf7c9194ebde7",
+"d9/d7d/class_output_his_file.html#a32990505a02cb17dca544e2ef909a017",
+"da/d18/_walk_corrector_8hpp.html#a0abc7fc62a6de162ab1b8e025eb1b5ada1bd8c9ae37f76b772eab0a5c91e26fb5",
+"db/d2a/_utility_8h.html#aa255d5a4c37811e54b3403f96fbd3599",
+"dc/d46/class_terminal.html#a8335c2e8edcd36b065b47c58a18b503d",
+"dc/dd2/struct_vandle_root.html#acbd01072ad98c996446d38d5bbac9939",
+"dd/dcb/class_mcp_processor.html#a18ba07973598112e7c9a514e75f939f4",
+"de/d91/class_detector_driver.html#aa75c588496641c8a0f66152235f93fd6",
+"df/d91/_unit_test_sample_data_8hpp.html#a6b9f28707034130b4bc0b4cd2da7160a",
+"namespacemembers.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

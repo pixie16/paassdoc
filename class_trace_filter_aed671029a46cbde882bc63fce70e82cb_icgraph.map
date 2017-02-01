@@ -1,5 +1,0 @@
-<map id="TraceFilter::CalcFilters" name="TraceFilter::CalcFilters">
-<area shape="rect" id="node2" href="$class_trace_filter.html#a4b2d3a89fcfc8385d08399ea535c20f1" title="TraceFilter::GetEnergy" alt="" coords="208,5,363,32"/>
-<area shape="rect" id="node3" href="$class_trace_filter_analyzer.html#ab32ab2844b97511e344f6e6f71b91d9d" title="TraceFilterAnalyzer\l::Analyze" alt="" coords="218,57,353,98"/>
-<area shape="rect" id="node4" href="$class_trace_filter_analyzer.html#aaadf927cff2a0fe2ded1929ce14ea3d6" title="TraceFilterAnalyzer\l::~TraceFilterAnalyzer" alt="" coords="411,57,561,98"/>
-</map>

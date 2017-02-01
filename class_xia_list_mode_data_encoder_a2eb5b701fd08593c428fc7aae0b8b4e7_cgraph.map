@@ -1,8 +1,0 @@
-<map id="XiaListModeDataEncoder::EncodeXiaData" name="XiaListModeDataEncoder::EncodeXiaData">
-<area shape="rect" id="node2" href="$class_xia_data.html#a6f9273b1af3390514b441c240925dc74" title="XiaData::GetEnergySums" alt="" coords="237,5,409,32"/>
-<area shape="rect" id="node3" href="$class_xia_data.html#a7df743215a654bd3a5305358b0b29be6" title="XiaData::GetQdc" alt="" coords="262,56,383,83"/>
-<area shape="rect" id="node4" href="$class_xia_data.html#abe86e2538b559016d8b90b3d032af26b" title="XiaData::GetExternalTimeLow" alt="" coords="224,107,421,133"/>
-<area shape="rect" id="node5" href="$class_xia_data.html#a2d67c4fea150ce9c7be585ceaee30a28" title="XiaData::GetExternalTimeHigh" alt="" coords="223,157,423,184"/>
-<area shape="rect" id="node6" href="$class_xia_data.html#a6c7eaea35ca73b6ea13b63f665031346" title="XiaData::GetTrace" alt="" coords="257,208,388,235"/>
-<area shape="rect" id="node7" href="$class_xia_list_mode_data_mask.html#a486d9cdabaa34d055e77ee61b0586c78" title="XiaListModeDataMask\l::GetTraceMask" alt="" coords="246,259,399,301"/>
-</map>

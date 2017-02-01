@@ -1,0 +1,4 @@
+<map id="DetectorDriver::DeclareHistogram1D" name="DetectorDriver::DeclareHistogram1D">
+<area shape="rect" id="node2" href="$d7/d8b/class_plots.html#a126b1dfe1d671776ee1caddc7cc249b9" title="Declares a 1D histogram calls the C++ wrapper for DAMM. " alt="" coords="285,5,464,32"/>
+<area shape="rect" id="node3" href="$da/d57/_scanor_8hpp.html#ae9985183725e9354913756c7f86d355a" title="create a DAMM 1D histogram args are damm id, half&#45;words per channel, param length, hist length, low x&#45;range, high x&#45;range, and title " alt="" coords="512,5,569,32"/>
+</map>

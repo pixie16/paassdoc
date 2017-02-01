@@ -1,0 +1,4 @@
+<map id="TEST_FIXTURE" name="TEST_FIXTURE">
+<area shape="rect" id="node2" href="$d2/ddd/class_xia_data.html#ae76425edc6570411564fe604c10e9b0f" title="XiaData::GetCfdFractionalTime" alt="" coords="172,5,375,32"/>
+<area shape="rect" id="node3" href="$d2/ddd/class_xia_data.html#a36f4c2263068268968b790786d4b61da" title="Method that will return the time for the channel. The actual time is a 48&#45;bit number. We multiply 2^32 by the eventTimeHigh_ so that we account for the missing upper 16 bits of the number. The cfdTime_ contains all of the fractional time information, and so we divide by 2^16 here. &#160;Verify that this method works properly for all of the different module types and firmwares. It doesn&#39;t and this value simply needs to be set explicitly by the Decoder. " alt="" coords="210,56,337,83"/>
+</map>

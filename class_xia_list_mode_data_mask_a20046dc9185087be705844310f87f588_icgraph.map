@@ -1,6 +1,0 @@
-<map id="XiaListModeDataMask::ConvertStringToFirmware" name="XiaListModeDataMask::ConvertStringToFirmware">
-<area shape="rect" id="node2" href="$class_xia_list_mode_data_mask.html#a9a74691e4e86b8990b05ecbbb13054ca" title="XiaListModeDataMask\l::XiaListModeDataMask" alt="" coords="231,5,392,47"/>
-<area shape="rect" id="node3" href="$class_xia_list_mode_data_mask.html#aa781e79e590523c52b7e8c4d33d758eb" title="XiaListModeDataMask\l::SetFirmware" alt="" coords="235,71,388,112"/>
-<area shape="rect" id="node4" href="$class_xia_list_mode_data_mask.html#a33b7f5435e8d9a2fa9fee6ccc4dc0dd2" title="XiaListModeDataMask\l::SetFrequency" alt="" coords="235,136,388,177"/>
-<area shape="rect" id="node5" href="$class_unpacker.html#a74df3b53296985faa17679699ef25da4" title="Unpacker::InitializeDataMask" alt="" coords="440,143,632,170"/>
-</map>

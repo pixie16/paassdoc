@@ -1,9 +1,0 @@
-<map id="GETARG__GETARGS" name="GETARG__GETARGS">
-<area shape="rect" id="node2" href="$_get_arguments_8cpp.html#a9955f1e182080c08495c29d947d11f9b" title="C++ Wrapper to get a particular argument from the command line. " alt="" coords="208,46,307,73"/>
-<area shape="rect" id="node3" href="$_get_arguments_8cpp.html#a6548defa977d908011f5192a59873366" title="Returns an argv style array that can be used to pass to getopt and other similar functions. " alt="" coords="393,21,500,48"/>
-<area shape="rect" id="node6" href="$class_valid_processor.html#acf61c680ef64ca7835e5d22de2c9ec32" title="ValidProcessor::OutputData" alt="" coords="355,72,539,98"/>
-<area shape="rect" id="node4" href="$scope_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="883,9,934,36"/>
-<area shape="rect" id="node5" href="$utkscanor_8cpp.html#a8dbf7975e3e8cf9404086d6f85c6f308" title="Begins setups the interface between SCANOR and the C++ and the Unpacker. It also handles the processi..." alt="" coords="635,21,705,48"/>
-<area shape="rect" id="node7" href="$class_valid_processor.html#a6a1a17223b39cd75da0205019dcbe700" title="ValidProcessor::Process" alt="" coords="587,72,753,98"/>
-<area shape="rect" id="node8" href="$class_valid_processor.html#a78fd9a072129677181d1a44c49523949" title="ValidProcessor::~ValidProcessor" alt="" coords="801,85,1016,112"/>
-</map>

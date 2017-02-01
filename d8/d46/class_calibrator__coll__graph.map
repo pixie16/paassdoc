@@ -1,0 +1,6 @@
+<map id="Calibrator" name="Calibrator">
+<area shape="rect" id="node3" href="$d7/de7/class_identifier.html" title="Channel identification. " alt="" coords="137,297,209,323"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="29,96,109,123"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="5,5,132,47"/>
+<area shape="rect" id="node8" href="$d9/d1c/struct_calibration_params.html" title="This structure holds walk calibration model identfier, range of calibration and vector of parameters ..." alt="" coords="270,193,398,219"/>
+</map>

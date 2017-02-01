@@ -1,6 +1,0 @@
-<map id="SheEvent::get_type" name="SheEvent::get_type">
-<area shape="rect" id="node2" href="$class_she_correlator.html#a4e30fdc282c78b9ba5db918f09f36460" title="SheCorrelator::add\l_event" alt="" coords="199,5,330,47"/>
-<area shape="rect" id="node4" href="$class_she_correlator.html#a919d59639a36e99b3dc6623d06014c9b" title="SheCorrelator::flush\l_chain" alt="" coords="196,71,333,112"/>
-<area shape="rect" id="node5" href="$class_she_correlator.html#ab80369f6d573a18644c9e22f6ef58639" title="SheCorrelator::human\l_event_info" alt="" coords="191,136,339,177"/>
-<area shape="rect" id="node3" href="$class_dssd4_s_h_e_processor.html#a1ab9aeab8c52a1479718a58da74af3df" title="Dssd4SHEProcessor::\lProcess" alt="" coords="387,5,540,47"/>
-</map>

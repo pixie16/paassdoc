@@ -1,7 +1,0 @@
-<map id="Globals::outputPath" name="Globals::outputPath">
-<area shape="rect" id="node2" href="$class_anl1471_processor.html#afc486be98fca0f787fe683ab6d2ea6aa" title="Anl1471Processor::Anl1471\lProcessor" alt="" coords="207,5,390,47"/>
-<area shape="rect" id="node3" href="$class_i_s600_processor.html#a6d81ec42cf9105860f1b228c33e94ee1" title="IS600Processor::IS600Processor" alt="" coords="191,71,407,98"/>
-<area shape="rect" id="node4" href="$class_template_exp_processor.html#a23af04115512392351843e3ce84d9bbc" title="Sets up the name of the output ascii data file. " alt="" coords="219,123,378,164"/>
-<area shape="rect" id="node6" href="$class_vandle_ornl2012_processor.html#aff77073e3b34be6c71b37472572dada6" title="VandleOrnl2012Processor\l::VandleOrnl2012Processor" alt="" coords="208,188,389,229"/>
-<area shape="rect" id="node5" href="$class_template_exp_processor.html#a365a42bf12191de537409013bde5c39c" title="TemplateExpProcessor\l::TemplateExpProcessor" alt="" coords="455,123,621,164"/>
-</map>

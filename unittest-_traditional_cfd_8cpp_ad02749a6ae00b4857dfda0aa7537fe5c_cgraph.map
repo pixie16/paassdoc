@@ -1,6 +1,0 @@
-<map id="TEST_FIXTURE" name="TEST_FIXTURE">
-<area shape="rect" id="node2" href="$namespaceunittest__cfd__variables.html#abbcc009d3d7b826249947f205d199d22" title="unittest_cfd_variables\l::cfd_test_pars" alt="" coords="194,5,343,47"/>
-<area shape="rect" id="node3" href="$namespaceunittest__trace__variables.html#a7109310e575b6b8d16d1c055e7c1d145" title="This is the pair made from the expected maximum information. " alt="" coords="189,71,349,112"/>
-<area shape="rect" id="node4" href="$namespaceunittest__trace__variables.html#a8d692ab01b1e139d146ddb1c0a3eb363" title="unittest_trace_variables\l::baseline_pair" alt="" coords="189,136,349,177"/>
-<area shape="rect" id="node5" href="$namespaceunittest__trace__variables.html#a9837cbc86fec36545a1bfa0e728735bf" title="unittest_trace_variables\l::extrapolated_maximum_pair" alt="" coords="172,201,365,243"/>
-</map>

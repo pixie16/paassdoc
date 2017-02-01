@@ -1,6 +1,0 @@
-<map id="HisData::Delete" name="HisData::Delete">
-<area shape="rect" id="node2" href="$class_his_data.html#a22d7a65882f2e77d78d1501efef43ad3" title="Destructor. " alt="" coords="167,5,297,32"/>
-<area shape="rect" id="node3" href="$class_his_data.html#a16a892df4f956c63d9c5350255b54721" title="Initialize the int or short array to a specified size_. " alt="" coords="170,56,294,83"/>
-<area shape="rect" id="node5" href="$class_his_data.html#adf0b4f7e42fe1f40bb3d6a89639fe5d9" title="Return a pointer to the raw data array. " alt="" coords="170,107,294,133"/>
-<area shape="rect" id="node4" href="$class_his_data.html#a22af88ab9b91ebedb48bb132e27a3eb3" title="Return true if the array is initialized and ready to read data. " alt="" coords="345,56,451,83"/>
-</map>

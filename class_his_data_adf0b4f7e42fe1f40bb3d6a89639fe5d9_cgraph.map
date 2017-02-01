@@ -1,6 +1,0 @@
-<map id="HisData::GetData" name="HisData::GetData">
-<area shape="rect" id="node2" href="$class_his_data.html#a69d1c50363a5f9c44ef8538530599f40" title="Return an element of the array. " alt="" coords="194,5,291,32"/>
-<area shape="rect" id="node3" href="$class_his_data.html#a939752c8da98b0953ab3d5bc578d391b" title="Set an element of the array at a given index. " alt="" coords="195,56,291,83"/>
-<area shape="rect" id="node4" href="$class_his_data.html#a3b5241488d9daf839ec2435f89148b8b" title="Delete the data arrays and reset all variables. " alt="" coords="186,107,299,133"/>
-<area shape="rect" id="node5" href="$class_his_data.html#aa0651d4a9a02a13b6e1df22bb6a7b6cd" title="Array subscript overload. No array range checking! " alt="" coords="177,157,308,184"/>
-</map>

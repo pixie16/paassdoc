@@ -1,4 +1,0 @@
-<map id="ChannelEvent::IntegratePulse" name="ChannelEvent::IntegratePulse">
-<area shape="rect" id="node2" href="$class_channel_event.html#a9fe04baaf3ad0ed8e71266b09c3c5dff" title="Integrate the baseline corrected trace in the range [start_, stop_] and return the result..." alt="" coords="248,5,412,32"/>
-<area shape="rect" id="node3" href="$class_filterer.html#af040e1a77b4e653efbc3484c426e108e" title="Process all events in the event list. " alt="" coords="460,5,637,32"/>
-</map>
